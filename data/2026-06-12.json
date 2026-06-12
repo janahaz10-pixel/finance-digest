@@ -1,576 +1,658 @@
 {
  "date": "2026-06-12",
  "date_label": "Friday, 12 June 2026",
- "generated_at": "2026-06-12T21:02:42.584271+05:30",
+ "generated_at": "2026-06-12T23:52:37.024167+05:30",
  "articles": {
   "indian-markets": [
    {
-    "id": "im1",
-    "source": "tradingeconomics.com",
-    "title": "Sensex ends lower amid Middle East tensions",
-    "link": "https://tradingeconomics.com/india/stock-market",
-    "published": "Thu, 11 Jun 2026",
-    "quick_take": "The Sensex slipped 0.2% to 73,832, snapping a two-day winning streak as global tensions kept buyers cautious.",
-    "simplified_article": "India's main stock index, the Sensex, fell slightly after rising for two days. Investors are nervous about the ongoing Middle East conflict and the fact that foreign funds keep pulling money out of Indian stocks. IT companies like Infosys and HCL Tech fell the most, while carmaker Mahindra & Mahindra and banks like ICICI and Kotak actually gained.",
-    "investor_impact": "Small daily dips like this are normal. The bigger trend to watch is foreign money leaving India - if that continues, markets may stay under pressure even when company results are good.",
+    "title": "Space stocks slump as blistering rally cools after SpaceX market debut",
+    "summary": "Space stocks saw a significant drop on Friday. Investors took profits after a strong rally. This occurred on the day of SpaceX's highly anticipated market debut. The Elon Musk-led company achieved a valuation exceeding two trillion dollars. This event has drawn attention to the entire space sector. Other space companies also experienced declines in their stock prices.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/space-stocks-slump-as-blistering-rally-cools-after-spacex-market-debut/articleshow/131691044.cms",
+    "published": "Fri, 12 Jun 2026 23:26:29 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "28b9f79561",
+    "quick_take": "Space stocks went down after a big increase.",
+    "simplified_article": "Space stocks dropped in price on Friday. This happened because investors decided to take their profits after a strong run-up in stock prices. The decrease occurred after SpaceX, led by Elon Musk, joined the market with a value of over two trillion dollars. Many other space companies saw their stock prices fall as well.",
+    "investor_impact": "For ordinary investors, this means that some of the shares they may have looked at in the space sector are now worth less than before. It's a reminder that stock prices can go up and down quickly, especially after big news events.",
+    "key_terms": []
+   },
+   {
+    "title": "Revised common application form for FPIs notified",
+    "summary": "The government has notified a revised common application form for foreign portfolio investors (FPIs) to streamline registration and account opening processes. This move, along with recent tax exemptions on government securities, aims to attract foreign capital and stabilize the rupee. The updated form simplifies declaration requirements and introduces a new category for investors exclusively in government securities.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/revised-common-application-form-for-fpis-notified/articleshow/131689292.cms",
+    "published": "Fri, 12 Jun 2026 22:05:47 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "2c0befa127",
+    "quick_take": "The government has updated the application process for foreign investors.",
+    "simplified_article": "The government has made it easier for foreign investors to apply to invest in India. They created a new form that helps speed up the registration and account opening process. This change, along with some tax breaks for certain investments, is meant to bring more money into the country and help keep the value of the rupee stable.",
+    "investor_impact": "For regular investors, this means there might be more foreign money coming into Indian markets, which can help improve market conditions. A more stable rupee can also lead to better investment opportunities.",
     "key_terms": [
      {
-      "term": "Sensex",
-      "meaning": "An index tracking 30 of the biggest companies on the Bombay Stock Exchange - a quick health check for Indian markets."
+      "term": "foreign portfolio investors (FPIs)",
+      "meaning": "Investors from other countries who buy stocks and bonds in another country."
      },
      {
-      "term": "Winning streak",
-      "meaning": "Several days in a row where the market closed higher."
+      "term": "registration",
+      "meaning": "The process of signing up to be allowed to invest."
+     },
+     {
+      "term": "government securities",
+      "meaning": "Investments issued by the government, considered to be low-risk."
      }
     ]
    },
    {
-    "id": "im2",
-    "source": "tradingeconomics.com",
-    "title": "Foreign investor outflows hit record $30.6 billion this year",
-    "link": "https://tradingeconomics.com/india/stock-market",
-    "published": "Thu, 11 Jun 2026",
-    "quick_take": "Foreign investors have pulled a record $30.6 billion out of Indian stocks so far this year.",
-    "simplified_article": "Foreign portfolio investors - big overseas funds that buy Indian shares - sold another $207 million worth of stocks on Thursday. That takes their total selling this year to $30.6 billion, the highest ever. When this much money leaves, share prices struggle to rise even if Indian companies are doing well, because there are simply fewer big buyers.",
-    "investor_impact": "Domestic investors (people like you investing via SIPs) have been the main force holding the market up. If foreign money returns, it could fuel a strong rally; until then, expect choppiness.",
+    "title": "World's first trillionaire: SpaceX premium debut briefly hands Elon Musk historic status",
+    "summary": "Elon Musk briefly touched a trillion-dollar net worth as SpaceX shares surged on its Wall Street debut, though his wealth later settled below that mark. The rocket company's IPO positions it among the largest US-listed firms, with Musk reiterating his ambition to take humanity to Mars and beyond.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/worlds-first-trillionaire-spacex-premium-debut-briefly-hands-elon-musk-historic-status/articleshow/131688981.cms",
+    "published": "Fri, 12 Jun 2026 21:50:04 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "a302eddf39",
+    "quick_take": "Elon Musk's wealth briefly reached a trillion dollars after SpaceX's shares went up during its stock market debut.",
+    "simplified_article": "Elon Musk became very rich when SpaceX's stock price jumped as it started selling shares to the public for the first time. Although his wealth went below a trillion dollars later, this event was important because it made SpaceX one of the biggest companies traded in the United States. Musk continues to dream about exploring Mars and making space travel possible for everyone.",
+    "investor_impact": "For regular investors, the rise of SpaceX's shares shows how a new company can greatly increase in value quickly. This can create opportunities for investment in innovative businesses that have big plans for the future, like space exploration.",
+    "key_terms": []
+   },
+   {
+    "title": "SpaceX shares rise 11% in strong Nasdaq debut after $75 billion IPO",
+    "summary": "SpaceX began trading on Nasdaq following a record-breaking IPO that valued the company at $1.75 trillion. Investors are closely watching its market debut, growth prospects in space, satellite communications and AI, and potential inclusion in the Nasdaq-100 index.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-could-make-robust-nasdaq-debut-at-25-premium-after-75-billion-ipo/articleshow/131688323.cms",
+    "published": "Fri, 12 Jun 2026 21:02:00 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "ca861c12e3",
+    "quick_take": "SpaceX shares went up 11% after its first day of trading on Nasdaq.",
+    "simplified_article": "SpaceX started selling its shares on the stock market called Nasdaq. The company is very valuable, worth $1.75 trillion after it sold shares for $75 billion. Many people are interested in how well SpaceX will do in the future, especially in areas like space travel and satellite communication. Investors are also curious if SpaceX will be included in a special group of top companies called the Nasdaq-100.",
+    "investor_impact": "For regular investors, this means they can now buy shares in SpaceX, a major player in space technology. Watching how its shares perform can give insights into trends in the tech and space industries.",
     "key_terms": [
      {
-      "term": "FPI / FII",
-      "meaning": "Foreign Portfolio/Institutional Investors - large overseas funds investing in Indian markets."
+      "term": "IPO",
+      "meaning": "The process when a private company offers its shares to the public for the first time."
      },
      {
-      "term": "Outflow",
-      "meaning": "Money being withdrawn from a market or fund."
+      "term": "Nasdaq",
+      "meaning": "A stock market where many technology companies are traded."
+     },
+     {
+      "term": "shares",
+      "meaning": "Parts of a company that you can buy to own a small piece of it."
+     },
+     {
+      "term": "market debut",
+      "meaning": "The first time a company's shares are sold on the stock market."
      }
     ]
    },
    {
-    "id": "im3",
-    "source": "bloomberg.com",
-    "title": "TCS, Infosys plunge as AI fears return to rattle IT stocks",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-04/tcs-infosys-plunge-as-ai-fears-return-to-rattle-it-stocks",
-    "published": "Thu, 04 Jun 2026",
-    "quick_take": "India's biggest IT companies fell sharply as investors worry AI could eat into their core business.",
-    "simplified_article": "Shares of TCS, Infosys and other IT giants dropped as fears returned that artificial intelligence will disrupt their business model. These companies earn money by providing software services with large teams of engineers. If AI tools can do that work with far fewer people, clients may pay less. The sector has been swinging wildly - rallying when good AI news comes out, falling when worries return.",
-    "investor_impact": "IT stocks were long seen as 'safe' large-caps for beginners. The AI transition makes their future earnings less predictable - expect continued volatility in IT mutual funds too.",
+    "title": "Sebi to review delisting framework to ease exits",
+    "summary": "India's market regulator, SEBI, plans to review its delisting rules. This move aims to simplify capital market processes for businesses. SEBI has introduced several reforms recently to boost investor attraction. These include faster trade settlements and easier registration for foreign investors. The regulator is also working to simplify KYC rules for non-resident Indians.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-delisting-framework-to-ease-exits/articleshow/131687129.cms",
+    "published": "Fri, 12 Jun 2026 19:46:12 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "71e32440b4",
+    "quick_take": "Sebi is planning to change its rules about delisting to help companies leave the stock market more easily.",
+    "simplified_article": "India's market regulator, SEBI, is looking to make its rules for delisting simpler. This means it will be easier for companies to exit the stock market when needed. Recently, SEBI has also made other changes to attract more investors, like speeding up trade settlements and making it easier for foreign investors to register. They are also trying to simplify rules for non-resident Indians.",
+    "investor_impact": "For regular investors, these changes could lead to a smoother process for buying and selling shares. If more companies can easily exit the market, it may create a more stable environment overall.",
     "key_terms": [
      {
-      "term": "IT services",
-      "meaning": "Companies that build and maintain software for other businesses, usually charging for engineer time."
+      "term": "delisting",
+      "meaning": "When a company stops being listed on the stock market."
      },
      {
-      "term": "Disruption",
-      "meaning": "When a new technology makes an existing business model less profitable or obsolete."
+      "term": "SEBI",
+      "meaning": "The government body that regulates the stock market in India."
+     },
+     {
+      "term": "KYC",
+      "meaning": "Know Your Customer, a process to verify the identity of investors."
      }
     ]
    },
    {
-    "id": "im4",
-    "source": "sahi.com",
-    "title": "Why IT stocks rallied 6% earlier this month",
-    "link": "https://www.sahi.com/blogs/tcs-infosys-share-price-rally-it-stocks",
-    "published": "Tue, 02 Jun 2026",
-    "quick_take": "TCS and Infosys jumped nearly 6% in a day - four forces drove the rally.",
-    "simplified_article": "Earlier this month the same IT stocks that have been falling suddenly surged 6% in one session. Four things came together: a US software company (Snowflake) reported strong AI-related spending, hopes grew that the US will cut interest rates, the weak rupee means IT firms earn more when converting dollar revenue, and the stocks had become cheap after months of decline. This tug-of-war between AI fear and AI hope is why the sector keeps swinging.",
-    "investor_impact": "When a stock can move 6% on sentiment alone, it tells you the market hasn't made up its mind. Averaging in slowly beats trying to time these swings.",
+    "title": "US Stocks: SpaceX leveraged fund providers hit by day-one launch setback, sources say",
+    "summary": "In light of recent developments, asset managers are now facing a delay on the introduction of leveraged SpaceX exchange-traded funds. The Securities and Exchange Commission has intervened to safeguard the much-anticipated IPO from any potential distractions. Major ETF firms like Direxion and ProShares had ambitious plans to debut 2x leveraged funds next Monday.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-leveraged-fund-providers-hit-by-day-one-launch-setback-sources-say/articleshow/131686931.cms",
+    "published": "Fri, 12 Jun 2026 19:33:16 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "f7f963b2da",
+    "quick_take": "SpaceX's new investment funds are delayed.",
+    "simplified_article": "Some investment companies wanted to start special funds focusing on SpaceX. These funds will allow investors to double their money on certain trades. However, a government agency is making sure the launch happens smoothly, so they postponed it. This delay will push back the launch date from next Monday.",
+    "investor_impact": "For everyday investors, this means they will have to wait longer to invest in these new SpaceX funds. It's important to stay informed, as the delays could affect when and how these funds become available.",
+    "key_terms": []
+   },
+   {
+    "title": "Global stocks: Shell pauses $3 billion share buyback",
+    "summary": "Shell has decided to put its $3 billion share repurchase program on hold from June 12 to July 14, as it navigates the implications of its acquisition of ARC Resources. During this period, shares that are not bought back will be earmarked for upcoming repurchase efforts.",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-shell-pauses-3-billion-share-buyback/articleshow/131686751.cms",
+    "published": "Fri, 12 Jun 2026 19:29:40 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "4204c4ca2a",
+    "quick_take": "Shell is stopping its $3 billion plan to buy back its own shares.",
+    "simplified_article": "Shell, a large oil company, has paused its plan to buy back $3 billion worth of its own stock from June 12 to July 14. This decision is related to Shell's recent purchase of another company, ARC Resources. While they are not buying back shares during this time, they plan to use the shares for future buyback actions.",
+    "investor_impact": "For everyday investors, this pause means that Shell will not be reducing the number of shares available on the market for about a month. This could affect the stock's price as fewer shares are being bought back during this period.",
     "key_terms": [
      {
-      "term": "Rally",
-      "meaning": "A quick, strong rise in prices."
+      "term": "share buyback",
+      "meaning": "When a company buys its own shares to reduce the number available on the market."
      },
      {
-      "term": "Valuation",
-      "meaning": "What a stock costs relative to its earnings - 'cheap' means you pay less per rupee of profit."
+      "term": "stock",
+      "meaning": "A share in the ownership of a company."
+     },
+     {
+      "term": "acquisition",
+      "meaning": "When one company buys another company."
      }
     ]
    },
    {
-    "id": "im5",
-    "source": "tradingeconomics.com",
-    "title": "May inflation data expected to show prices rising faster",
-    "link": "https://tradingeconomics.com/india/stock-market",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "India's May inflation report is due, with prices expected to have risen 4.0% versus 3.48% in April.",
-    "simplified_article": "Investors are waiting for India's monthly inflation number. Economists expect prices rose 4.0% compared to a year ago, up from 3.48% the previous month. Inflation matters because the RBI uses it to decide interest rates: if prices rise too fast, the central bank keeps rates high, which makes loans costly and can slow the stock market.",
-    "investor_impact": "A higher-than-expected number could push rate cuts further away - usually negative for stocks and good for fixed deposits. A lower number would do the opposite.",
+    "title": "Sebi weighs introducing long-term futures and options contracts: Tuhin Kanta Pandey",
+    "summary": "Sebi is evaluating longer-term futures and options contracts, broader commodity derivatives and bond index derivatives to deepen markets. The regulator highlighted resilient capital markets, strong domestic investor participation and a robust IPO pipeline despite global uncertainties and volatility.",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-introducing-long-term-futures-and-options-contracts-tuhin-kanta-pandey/articleshow/131686672.cms",
+    "published": "Fri, 12 Jun 2026 19:25:03 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "713ed4761d",
+    "quick_take": "Sebi is thinking about creating longer-term contracts for trading.",
+    "simplified_article": "Sebi, which regulates financial markets in India, is looking at ways to offer longer-term contracts for futures and options. They want to expand the types of trading available, especially in commodities and bonds. This is because they see that investors in India are doing well despite some global uncertainties.",
+    "investor_impact": "For ordinary investors, this means there could be more ways to trade in the future, which might help them manage their investments better. If longer-term contracts are available, it could give investors more choices for planning their financial goals.",
     "key_terms": [
      {
-      "term": "Inflation",
-      "meaning": "The rate at which everyday prices rise. 4% means something that cost Rs 100 last year costs Rs 104 now."
+      "term": "futures",
+      "meaning": "Contracts to buy or sell something at a set price on a future date."
      },
      {
-      "term": "CPI",
-      "meaning": "Consumer Price Index - the official basket of goods used to measure inflation."
+      "term": "options",
+      "meaning": "Contracts that give the right, but not the obligation, to buy or sell something at a set price."
+     },
+     {
+      "term": "commodities",
+      "meaning": "Basic goods used in commerce, like gold or oil."
+     },
+     {
+      "term": "derivatives",
+      "meaning": "Financial contracts whose value is based on an underlying asset, like stocks or bonds."
      }
     ]
    }
   ],
   "us-global": [
    {
-    "id": "us1",
-    "source": "schwab.com",
-    "title": "Stocks on track for positive week amid peace hopes",
-    "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "US stocks are heading for a winning week as hopes rise for an Iran peace deal that would reopen key oil routes.",
-    "simplified_article": "American markets extended their gains on news that a peace deal with Iran might be close. Such a deal would lift sanctions on Iranian oil and reopen the Strait of Hormuz, a narrow sea passage that much of the world's oil travels through. With supply worries easing, crude oil fell 2% to around $85 a barrel. Cheaper oil lowers costs for companies and consumers, which is why stocks like it.",
-    "investor_impact": "Oil prices ripple everywhere - including India, which imports most of its oil. Falling crude is good news for Indian inflation, the rupee, and sectors like airlines and paints.",
+    "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+    "summary": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.",
+    "link": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+    "published": "Fri, 12 Jun 2026 18:15:31 GMT",
+    "source": "cnbc.com",
+    "id": "b708a02830",
+    "quick_take": "Elon Musk became the world's first trillionaire because SpaceX started trading on the stock market.",
+    "simplified_article": "Elon Musk owns a lot of SpaceX shares, which are now worth over $766 billion. When you add his shares in Tesla, his total wealth is about $1.05 trillion. This means he's the first person to reach a trillion dollars in wealth.",
+    "investor_impact": "For regular investors, this news shows how much money can be made from successful companies. It might inspire people to learn about investing and how public companies work.",
     "key_terms": [
      {
-      "term": "Strait of Hormuz",
-      "meaning": "A narrow waterway near Iran through which about a fifth of the world's oil passes."
+      "term": "trillionaire",
+      "meaning": "A person who has over one trillion dollars."
      },
      {
-      "term": "Sanctions",
-      "meaning": "Government restrictions that block trade with a country - lifting them increases supply of whatever it exports."
+      "term": "shares",
+      "meaning": "Parts of a company that people can buy to become owners."
+     },
+     {
+      "term": "stock market",
+      "meaning": "A place where people buy and sell shares of companies."
      }
     ]
    },
    {
-    "id": "us2",
-    "source": "thestreet.com",
-    "title": "SpaceX makes blockbuster stock market debut",
-    "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-12-2026",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "Elon Musk's SpaceX began trading on the Nasdaq, set to open around $175 - 30% above its IPO price.",
-    "simplified_article": "SpaceX, the rocket and satellite company, sold shares to the public for the first time through an IPO priced at $135 per share. Demand was so strong that the stock was indicated to start trading near $175 - a 30% instant jump. Company executives rang the opening bell in New York while Musk joined remotely. A big-name IPO like this often signals that investor appetite for risk is healthy.",
-    "investor_impact": "Hot IPOs are exciting but risky - early 'pops' can fade once the hype settles. Watching how SpaceX trades over months, not days, tells you more than the debut.",
+    "title": "Trump admin: Iran deal signing likely in coming days, but not '100%' certain",
+    "summary": "A deal to end the Iran war could be signed soon, a senior Trump administration official said, following conflicting statements in recent days from the warring nations.",
+    "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
+    "published": "Fri, 12 Jun 2026 18:21:54 GMT",
+    "source": "cnbc.com",
+    "id": "f20a1ddefe",
+    "quick_take": "A deal to stop the fighting in Iran might be signed soon.",
+    "simplified_article": "A senior official from the Trump administration has said that a peace agreement to end the war in Iran could happen in the next few days. However, there have been mixed messages from both sides about this deal. So, while it's possible, nothing is certain yet.",
+    "investor_impact": "If the peace deal goes through, it could lead to more stability in the region. This might affect oil prices and other investments, as peace often leads to better business conditions. Investors should pay attention to these developments as they can influence market movements.",
+    "key_terms": []
+   },
+   {
+    "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 28% on debut",
+    "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+    "link": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+    "published": "Fri, 12 Jun 2026 18:13:52 GMT",
+    "source": "cnbc.com",
+    "id": "11478968ca",
+    "quick_take": "SpaceX's market value reached over $2 trillion after its shares jumped during their first day of trading.",
+    "simplified_article": "SpaceX started selling its shares on the Nasdaq stock market. On the first day, the price of these shares went up by 28%. Because of this, the total value of the company became more than $2 trillion. This big increase shows that many people believe in SpaceX's future.",
+    "investor_impact": "For everyday investors, this news highlights how starting stock prices can change quickly. It might encourage them to learn more about investing in companies that are growing fast.",
+    "key_terms": [
+     {
+      "term": "market cap",
+      "meaning": "The total value of all the company's shares combined."
+     },
+     {
+      "term": "shares",
+      "meaning": "Pieces of ownership in a company that people can buy."
+     },
+     {
+      "term": "Nasdaq",
+      "meaning": "A stock market where many tech companies are listed."
+     }
+    ]
+   },
+   {
+    "title": "As investors flock to SpaceX, one trader eyes a sleepy 'stealth' play",
+    "summary": "If you're looking for something a little more terrestrial, there's one stock that investors are overlooking.",
+    "link": "https://www.cnbc.com/2026/06/12/as-investors-flock-to-spacex-one-trader-eyes-a-sleepy-stealth-play.html",
+    "published": "Fri, 12 Jun 2026 17:33:56 GMT",
+    "source": "cnbc.com",
+    "id": "23b150c452",
+    "quick_take": "Investors are interested in SpaceX, but one trader sees potential in a lesser-known stock.",
+    "simplified_article": "Many people are putting their money into SpaceX because it's popular. However, there is another stock that is not getting much attention but could be a good opportunity. This stock is being called a 'stealth' play because it’s quiet and often overlooked. The idea is that it might surprise investors in the future.",
+    "investor_impact": "For an ordinary investor, this means that while everyone is focused on big names like SpaceX, there might be chances to find value in smaller or less popular stocks. It's important to keep an eye on these options because they could grow and provide returns later on.",
+    "key_terms": []
+   },
+   {
+    "title": "Trump name still must come down from Kennedy Center, judge says",
+    "summary": "President Donald Trump has asked a federal appeals court to stay a lower-court order that his name before removed from the performing arts center.",
+    "link": "https://www.cnbc.com/2026/06/12/trump-loses-kennedy-center-name.html",
+    "published": "Fri, 12 Jun 2026 18:13:21 GMT",
+    "source": "cnbc.com",
+    "id": "d8f232a786",
+    "quick_take": "A judge says Donald Trump's name must be removed from the Kennedy Center.",
+    "simplified_article": "A judge has decided that the name of Donald Trump should be taken down from the Kennedy Center, a place for performing arts. Trump has asked a higher court to stop this order for now. This means the name removal is currently paused until the higher court makes a decision.",
+    "investor_impact": "This news doesn't directly affect the stock market or investments. However, it shows how legal issues can take time to resolve and can influence public perception of a person or brand.",
+    "key_terms": []
+   },
+   {
+    "title": "SpaceX 'proxies' plunge as real deal arrives: Here's where traders are buying the dip",
+    "summary": "SpaceX \"proxy stocks,\" whose options volumes were booming ahead of Friday's historic initial public offering, are unwinding gains.",
+    "link": "https://www.cnbc.com/2026/06/12/spacex-proxies-crash-as-real-deal-arrives-heres-where-traders-are-buying-the-dip.html",
+    "published": "Fri, 12 Jun 2026 16:58:37 GMT",
+    "source": "cnbc.com",
+    "id": "de3351c2d4",
+    "quick_take": "Stocks related to SpaceX are falling as the real SpaceX shares are about to be available.",
+    "simplified_article": "Before SpaceX's big stock market launch, many people were buying stocks that acted like SpaceX's shares. But now that the actual SpaceX shares are about to be available, those related stocks are losing value. This happens because traders are shifting their focus to the real thing.",
+    "investor_impact": "For everyday investors, this means that some stocks they might have bought thinking they were like SpaceX are now losing value. It's important to pay attention to real opportunities and understand what drives stock prices.",
     "key_terms": [
      {
       "term": "IPO",
-      "meaning": "Initial Public Offering - the first time a private company sells its shares to the public."
+      "meaning": "A way for a company to sell its shares to the public for the first time."
      },
      {
-      "term": "Listing pop",
-      "meaning": "When a stock starts trading well above its IPO price on day one."
+      "term": "proxy stocks",
+      "meaning": "Stocks that are similar to another company's shares but not the real thing."
      }
     ]
    },
    {
-    "id": "us3",
-    "source": "247wallst.com",
-    "title": "Chipmakers surge while Adobe sinks 7%",
-    "link": "https://247wallst.com/investing/2026/06/12/stock-market-live-june-12-2026-sp-500-spy-green-on-end-of-war-hopes/",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "Chip stocks AMD, Qualcomm and Sandisk jumped about 5%, while software maker Adobe dropped 7%.",
-    "simplified_article": "Within the same market, fortunes diverged sharply. Companies that make computer chips rallied around 5% - they sell the hardware that powers AI, so AI growth is good for them. Adobe, which sells creative software, fell 7% as investors worry AI tools could replace some of what its products do. One technology trend, two opposite outcomes.",
-    "investor_impact": "AI isn't lifting all tech stocks equally - it's creating winners (chips, infrastructure) and potential losers (some software). 'Tech' is no longer one single bet.",
-    "key_terms": [
-     {
-      "term": "Semiconductor",
-      "meaning": "A computer chip - the hardware brains inside phones, computers and AI data centres."
-     }
-    ]
+    "title": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
+    "summary": "A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward.",
+    "link": "https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html",
+    "published": "Fri, 12 Jun 2026 17:01:13 GMT",
+    "source": "cnbc.com",
+    "id": "09c3410c13",
+    "quick_take": "A judge has stopped a government fund from moving forward until they confirm it's canceled.",
+    "simplified_article": "A judge is making government officials prove that a specific fund related to the Department of Justice is not going to happen. He has given them a week to provide a statement. This is important because it shows the judge wants to ensure the project is really over.",
+    "investor_impact": "For everyday investors, this situation shows how government decisions and legal rulings can affect funding for programs and projects. If the fund was intended to impact certain sectors, its cancellation could change how those sectors perform financially.",
+    "key_terms": []
    },
    {
-    "id": "us4",
-    "source": "schwab.com",
-    "title": "Fed and Bank of Japan meetings loom next week",
-    "link": "https://www.schwab.com/learn/story/stock-market-update-open",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "Two of the world's most powerful central banks decide on interest rates next week.",
-    "simplified_article": "Next week brings rate-setting meetings at the US Federal Reserve and the Bank of Japan. Central banks set the 'price of money' - the base interest rate everyone else borrows at. Markets worldwide tend to pause before these meetings because the outcome shapes everything: loan costs, currency values, and how attractive stocks look versus safer options like bonds.",
-    "investor_impact": "US rate decisions affect Indian markets too - higher US rates pull foreign money out of emerging markets like India; cuts tend to bring it back.",
-    "key_terms": [
-     {
-      "term": "Federal Reserve (Fed)",
-      "meaning": "The US central bank - its rate decisions move markets worldwide."
-     },
-     {
-      "term": "Central bank",
-      "meaning": "A country's money authority - it sets base interest rates and manages the currency."
-     }
-    ]
-   },
-   {
-    "id": "us5",
-    "source": "bbc.com",
-    "title": "Musk loses OpenAI court battle",
-    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o",
-    "published": "Mon, 18 May 2026",
-    "quick_take": "A jury ruled against Elon Musk in his high-profile lawsuit against OpenAI.",
-    "simplified_article": "Elon Musk sued OpenAI, the company behind ChatGPT, claiming its leaders had effectively 'stolen a charity' by turning a non-profit into a money-making business. After weeks of testimony, the jury found Musk had waited too long to bring the case and ruled against him. The verdict removes a legal cloud that had been hanging over one of the world's most valuable AI companies.",
-    "investor_impact": "Legal battles between tech giants matter to investors because they can stall products and partnerships. This outcome reduces uncertainty around the AI sector's biggest player.",
-    "key_terms": [
-     {
-      "term": "Non-profit",
-      "meaning": "An organisation meant to serve a mission rather than make money for owners."
-     }
-    ]
-   },
-   {
-    "id": "us6",
-    "source": "bbc.com",
-    "title": "IMF upgrades UK growth forecast",
-    "link": "https://www.bbc.com/news/articles/cm2p72mmddyo",
-    "published": "Mon, 18 May 2026",
-    "quick_take": "The IMF now expects the UK economy to grow 1% in 2026, up from its earlier 0.8% estimate.",
-    "simplified_article": "The International Monetary Fund, a global body that monitors economies, raised its growth forecast for the UK. An upgrade means the economy is doing a bit better than experts previously thought, though the IMF warned risks remain. Growth forecasts shape government budgets, business investment plans, and market confidence.",
-    "investor_impact": "Forecast upgrades anywhere in the global economy are mildly positive for world markets - they suggest demand is holding up despite high interest rates and conflict-related disruption.",
-    "key_terms": [
-     {
-      "term": "IMF",
-      "meaning": "International Monetary Fund - a global institution that tracks economies and lends to countries in trouble."
-     },
-     {
-      "term": "GDP growth",
-      "meaning": "How much bigger a country's total economic output gets in a year."
-     }
-    ]
+    "title": "For Warsh as Fed chair, silence may be the point",
+    "summary": "Kevin Warsh will hold his first Fed meeting, giving markets the first public look at how he'll communicate as chair of the Federal Reserve.",
+    "link": "https://www.cnbc.com/2026/06/12/warsh-fed-chair-interest-rates.html",
+    "published": "Fri, 12 Jun 2026 10:00:01 GMT",
+    "source": "cnbc.com",
+    "id": "696eb7b2ee",
+    "quick_take": "Kevin Warsh is leading his first meeting as the new chair of the Federal Reserve.",
+    "simplified_article": "Kevin Warsh is now in charge of the Federal Reserve, which helps control the economy. At his first meeting, people will see how he talks about important financial matters. His way of communicating might affect how people feel about the economy and markets.",
+    "investor_impact": "For average investors, the way Warsh communicates could change how confident they feel about the economy. If he is clear and positive, people might feel better about investing. If he is quiet or unclear, it could make investors nervous.",
+    "key_terms": []
    }
   ],
   "banking-economy": [
    {
-    "id": "be1",
-    "source": "tradingeconomics.com",
-    "title": "RBI holds repo rate at 5.25% for third straight meeting",
-    "link": "https://tradingeconomics.com/india/interest-rate",
-    "published": "Fri, 05 Jun 2026",
-    "quick_take": "India's central bank kept its key lending rate unchanged at 5.25% but cut its growth forecast.",
-    "simplified_article": "The Reserve Bank of India left the repo rate - the rate at which it lends to banks - at 5.25% for the third meeting in a row. It also turned more cautious about the economy: it now expects growth of 6.6% next year instead of 6.9%, and inflation of 5.1% instead of 4.6%, blaming costlier LPG, metals, plastic and rubber. Higher expected inflation makes rate cuts less likely soon.",
-    "investor_impact": "Your loan EMIs stay where they are for now. With inflation forecasts rising, don't count on cheaper loans this year - and fixed deposit rates should stay attractive a while longer.",
+    "title": "RBI imposes restrictions on Mogaveera Co-operative Bank for 6 months",
+    "summary": "The restrictions are effective from the closure of business hours on Friday for a period of six months and are subject to review, the Reserve Bank of India (RBI) said in a statement.",
+    "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-imposes-restrictions-on-mogaveera-co-operative-bank-for-6-months/articleshow/131688421.cms",
+    "published": "Fri, 12 Jun 2026 21:12:52 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "7e6b007400",
+    "quick_take": "The RBI has placed restrictions on Mogaveera Co-operative Bank for six months.",
+    "simplified_article": "The Reserve Bank of India (RBI) has decided to limit what Mogaveera Co-operative Bank can do for the next six months. This decision starts after the bank closes on Friday. The RBI will review the situation after this six-month period.",
+    "investor_impact": "For ordinary investors, this means that if you have money in Mogaveera Co-operative Bank, there may be limits on how you can withdraw or use your funds. It’s important to stay informed about any updates from the bank during this time.",
+    "key_terms": []
+   },
+   {
+    "title": "GIC's common empanelment of hospitals win-win for all stakeholders: IFFCO-TOKIO MD",
+    "summary": "The General Insurance Council is introducing a common hospital empanelment platform. This initiative aims to streamline processes for over 10,000 hospitals and 32 insurance companies. Policyholders will experience reduced friction and improved services. IFFCO-TOKIO General Insurance is also upgrading its IT system for faster claims and efficient operations. This move is expected to create a win-win situation for everyone involved.",
+    "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/gics-common-empanelment-of-hospitals-win-win-for-all-stakeholders-iffco-tokio-md/articleshow/131684244.cms",
+    "published": "Fri, 12 Jun 2026 17:35:56 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "5d8c94318a",
+    "quick_take": "A new platform will help hospitals and insurance companies work better together.",
+    "simplified_article": "The General Insurance Council is starting a shared system for hospitals and insurance companies. This will help more than 10,000 hospitals and 32 insurance companies to work more smoothly. Patients with insurance will find it easier to get care and make claims. IFFCO-TOKIO is also improving its technology to process claims faster. Overall, this is good news for everyone involved.",
+    "investor_impact": "For regular investors, this means that health insurance companies may become more efficient, leading to better customer experiences. Improved technology could also reduce costs for these companies, which might affect their financial health in the long run.",
+    "key_terms": []
+   },
+   {
+    "title": "ESAF Small Finance Bank's total business crosses Rs 50,000 cr",
+    "summary": "ESAF Small Finance Bank has achieved a significant milestone. Its total business has now surpassed Rs 50,000 crore. Deposits reached Rs 26,197 crore and advances stood at Rs 23,832 crore. The bank also reported a net profit of Rs 24 crore for the fourth quarter ended March 2026. Asset quality improved with lower NPAs.",
+    "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/esaf-small-finance-banks-total-business-crosses-rs-50000-cr/articleshow/131680604.cms",
+    "published": "Fri, 12 Jun 2026 15:26:28 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "0851ca89e8",
+    "quick_take": "ESAF Small Finance Bank's business has now gone over Rs 50,000 crore.",
+    "simplified_article": "ESAF Small Finance Bank has reached an important milestone where the total amount of money they handle has crossed Rs 50,000 crore. This includes Rs 26,197 crore in money they have received from customers and Rs 23,832 crore that they have lent out. They also made a profit of Rs 24 crore in the last three months ending in March 2026. Plus, the quality of their loans is better now, with fewer bad loans.",
+    "investor_impact": "For someone thinking about where to save or invest money, this means that ESAF Small Finance Bank is doing well and handling a lot of money. A bank that is growing and making profits can be seen as a stable place for savings.",
     "key_terms": [
      {
-      "term": "Repo rate",
-      "meaning": "The interest rate at which the RBI lends to banks - it influences every other interest rate in the economy."
+      "term": "net profit",
+      "meaning": "The money a bank makes after paying all its costs."
      },
      {
-      "term": "Neutral stance",
-      "meaning": "The central bank signalling it could move rates either way depending on data."
+      "term": "NPAs",
+      "meaning": "Loans that people have not paid back."
      }
     ]
    },
    {
-    "id": "be2",
-    "source": "mufgresearch.com",
-    "title": "RBI rolls out measures to support the weakening rupee",
-    "link": "https://www.mufgresearch.com/fx/india-shoring-up-the-indian-rupee-rbi-june-2026-measures-8-june-2026/",
-    "published": "Mon, 08 Jun 2026",
-    "quick_take": "The RBI announced special schemes to attract dollars into India and steady the falling rupee.",
-    "simplified_article": "With the rupee under pressure, the RBI introduced measures to pull foreign currency into the country. It will fully subsidise the hedging costs of banks that raise fresh 3-5 year foreign-currency deposits from NRIs, and offer a cheaper currency-swap facility to encourage state-owned companies to borrow abroad. More dollars flowing in increases demand for rupees, which supports its value.",
-    "investor_impact": "A weak rupee makes imports (like oil and electronics) costlier, feeding inflation. If these measures work, that pressure eases - good for prices and for foreign investors' confidence in India.",
+    "title": "RHFL, RCFL bank fraud money laundering case: ED files charge sheet against Jhunjhunwala, Bapna, 52 others",
+    "summary": "The Enforcement Directorate has filed a charge sheet against former Reliance executives Amitabh Jhunjhunwala and Amit Bapna. They were arrested in April 2026 in a bank loan fraud and money laundering case. The charge sheet names 55 accused individuals. The document will be presented to a judge on July 1. The accused were remanded to judicial custody after interrogation.",
+    "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rhfl-rcfl-bank-fraud-money-laundering-case-ed-files-charge-sheet-against-jhunjhunwala-bapna-52-others/articleshow/131679740.cms",
+    "published": "Fri, 12 Jun 2026 14:38:51 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "748614f82d",
+    "quick_take": "Two former Reliance executives have been charged in a fraud case.",
+    "simplified_article": "The Enforcement Directorate, a government agency, has charged Amitabh Jhunjhunwala and Amit Bapna, who used to work for Reliance, with committing fraud and money laundering. They were arrested in April 2026. The charge sheet lists 55 people who are involved in this case. The information will be reviewed by a judge on July 1.",
+    "investor_impact": "For ordinary investors, this news highlights that big companies can face serious legal issues related to financial misconduct. Such cases can affect stock prices and the reputation of the companies involved. It's a reminder to stay aware of the integrity of companies before investing.",
     "key_terms": [
      {
-      "term": "FCNR(B) deposit",
-      "meaning": "A bank deposit NRIs hold in foreign currency in India - the bank, not the depositor, carries the currency risk."
+      "term": "charge sheet",
+      "meaning": "A legal document that lists people accused of committing a crime."
      },
      {
-      "term": "Hedging",
-      "meaning": "Paying a small cost to protect against currency values moving against you."
+      "term": "money laundering",
+      "meaning": "The process of making illegally obtained money look like it comes from a legal source."
      }
     ]
    },
    {
-    "id": "be3",
-    "source": "bankingfinance.in",
-    "title": "RBI cancels Paytm Payments Bank's licence",
-    "link": "https://www.bankingfinance.in/rbi-news-for-june-2026.html",
-    "published": "Jun 2026",
-    "quick_take": "The RBI revoked Paytm Payments Bank's banking licence over rule violations.",
-    "simplified_article": "The central bank cancelled the licence of Paytm Payments Bank, saying it failed to comply with banking regulations. A payments bank is a limited type of bank that can take deposits and process payments but cannot lend much. The decision creates uncertainty for roughly 66,000 business correspondents and over 700 employees who worked with the bank.",
-    "investor_impact": "A reminder that regulation is a real risk in fintech investing. Companies that move fast but fall short on compliance can lose their core business overnight.",
+    "title": "Yes Bank sees Indians tip-toeing back to deposits",
+    "summary": "Indian households are reportedly shifting savings back to bank deposits due to weak stock markets and geopolitical concerns. This trend could benefit lenders facing intense competition for credit demand, as bank credit growth outpaces deposit increases. The move signals a potential return to traditional fixed deposits amid equity market volatility.",
+    "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/yes-bank-sees-indians-tip-toeing-back-to-deposits/articleshow/131678784.cms",
+    "published": "Fri, 12 Jun 2026 14:08:28 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "9018e8d2cd",
+    "quick_take": "People in India are putting their money back into bank accounts.",
+    "simplified_article": "Many households in India are moving their savings from the stock market back to bank deposits. This is happening because the stock market is not doing well and there are worries about global issues. As more people choose to use bank accounts instead of investing in stocks, banks may feel more pressure to offer better deals for savings. This change shows that people may prefer safe options like fixed deposits when markets are unstable.",
+    "investor_impact": "For someone who invests, this trend means that traditional savings accounts might become more appealing as people seek safer ways to manage their money. If more people stop investing in stocks, this could lead to lower prices in the stock market. Understanding this shift can help you decide where to place your savings.",
+    "key_terms": []
+   },
+   {
+    "title": "Syndicate Finance bridges the execution gap for India's export-ready textile manufacturers",
+    "summary": "As India cements its position in global apparel supply chains, structured lending is emerging as the critical enabler and Syndicate Finance's ₹75 Crore facility to Clever Hunt Private Limited illustrates why.",
+    "link": "https://economictimes.indiatimes.com/industry/banking/finance/syndicate-finance-bridges-the-execution-gap-for-indias-export-ready-textile-manufacturers/articleshow/131677627.cms",
+    "published": "Fri, 12 Jun 2026 13:21:26 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "efe75abd87",
+    "quick_take": "Syndicate Finance is lending money to help India's textile companies export better.",
+    "simplified_article": "India is becoming an important player in the global clothing market. To support this growth, companies like Syndicate Finance are providing loans to help businesses like Clever Hunt Private Limited. This type of financial help allows manufacturers to improve and expand their operations, making it easier for them to sell their products abroad.",
+    "investor_impact": "For ordinary investors, this news highlights the importance of financing in growing industries. When companies get support through loans, they can manage their business better and potentially increase their profits, which may affect the overall economy.",
     "key_terms": [
      {
-      "term": "Payments bank",
-      "meaning": "A small-scale bank allowed to accept deposits and handle payments, but with strict limits on lending."
+      "term": "structured lending",
+      "meaning": "A way of providing loans that is organized to meet specific business needs."
      },
      {
-      "term": "Compliance",
-      "meaning": "Following the rules set by regulators - banks face severe penalties for failing this."
+      "term": "export",
+      "meaning": "To sell goods to another country."
      }
     ]
    },
    {
-    "id": "be4",
-    "source": "bankingfinance.in",
-    "title": "New RBI rules give you more control over auto-debits",
-    "link": "https://www.bankingfinance.in/rbi-news-for-june-2026.html",
-    "published": "Jun 2026",
-    "quick_take": "RBI's new e-mandate framework requires 24-hour notice before money is auto-debited, and lets you pause or cancel mandates.",
-    "simplified_article": "The RBI introduced the Digital Payments E-Mandate Framework 2026 for recurring payments like subscriptions, SIPs and EMIs. Banks must now notify you at least 24 hours before any auto-debit, and you get the right to modify, pause or cancel mandates and set your own limits. The goal is fewer surprise deductions and more customer control.",
-    "investor_impact": "Practical money win: check your bank app for the new mandate controls. You can now cap or pause subscriptions you forgot about instead of discovering them on your statement.",
+    "title": "Higher crude prices fuel bank lending boom; credit growth hits 17.7%, fastest since June 2024",
+    "summary": "Bank lending saw its fastest growth in almost two years by May 31, 2026. Credit expanded significantly, reaching Rs 215.2 lakh crore. This surge occurred as bank deposits decreased by Rs 2.3 lakh crore. The gap between loans and deposits widened. Oil marketing companies and government schemes contributed to higher credit demand. Deposit growth lagged behind credit expansion.",
+    "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-loans-grow-at-fastest-pace-in-nearly-two-years-rising-17-7-by-end-may/articleshow/131677424.cms",
+    "published": "Fri, 12 Jun 2026 12:56:22 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "31c166e885",
+    "quick_take": "Bank loans are growing quickly as oil prices rise.",
+    "simplified_article": "By the end of May 2026, banks were lending more money than they have in almost two years. They lent out a total of Rs 215.2 lakh crore, even while people were putting less money into their savings. This happened because oil companies needed more money, and government programs increased the demand for loans. As a result, there are more loans compared to the money in bank deposits.",
+    "investor_impact": "For everyday investors, this means that banks are making more money from loans, which could indicate more economic activity. However, the decrease in deposits might also suggest that people are saving less, which can affect future lending and spending.",
     "key_terms": [
      {
-      "term": "E-mandate",
-      "meaning": "A standing instruction letting a company automatically pull money from your account on schedule."
-     }
-    ]
-   },
-   {
-    "id": "be5",
-    "source": "bbc.com",
-    "title": "Standard Chartered to cut thousands of roles as AI use increases",
-    "link": "https://www.bbc.com/news/articles/crep3v8vzglo",
-    "published": "Tue, 19 May 2026",
-    "quick_take": "The global bank plans thousands of job cuts as AI takes over more work, though some staff will be moved to new roles.",
-    "simplified_article": "Standard Chartered, a UK-headquartered bank operating widely across Asia, said it will cut thousands of positions as it increases its use of artificial intelligence. The bank says it aims to move some affected workers into other roles. Banks worldwide are using AI for tasks like document processing, customer queries and compliance checks that once needed large teams.",
-    "investor_impact": "For bank shareholders, AI-driven cost cuts can boost profits. For the economy, it signals white-collar job disruption is arriving in finance - a trend worth watching across the sector.",
-    "key_terms": [
-     {
-      "term": "Headcount reduction",
-      "meaning": "Corporate language for job cuts."
-     }
-    ]
-   },
-   {
-    "id": "be6",
-    "source": "bankingfinance.in",
-    "title": "Bank of Maharashtra's profit jumps 35%",
-    "link": "https://www.bankingfinance.in/banking-news-for-june-2026.html",
-    "published": "Jun 2026",
-    "quick_take": "The public-sector bank posted a 35% rise in quarterly profit to Rs 2,014 crore on strong loan growth.",
-    "simplified_article": "Bank of Maharashtra reported net profit of Rs 2,014 crore for the January-March quarter, 35% higher than a year earlier. Two things drove it: the bank gave out more loans (which earn interest), and it set aside less money for loans that might go bad. When banks need smaller 'just in case' buffers, it usually means borrowers are repaying well.",
-    "investor_impact": "Strong public-sector bank results suggest the lending environment is healthy. PSU banks have been a notable market theme - results like this explain why.",
-    "key_terms": [
-     {
-      "term": "Provisions",
-      "meaning": "Money a bank sets aside to cover loans that may not be repaid - lower provisions mean healthier borrowers."
+      "term": "credit growth",
+      "meaning": "The increase in the amount of money banks are lending."
      },
      {
-      "term": "PSU bank",
-      "meaning": "A bank majority-owned by the government, like SBI or Bank of Maharashtra."
+      "term": "bank deposits",
+      "meaning": "The money that people save in banks."
      }
     ]
+   },
+   {
+    "title": "RBI move sparks race among banks to raise FCNR(B) deposit rates; smaller lenders offer over 7% on USD deposits",
+    "summary": "Banks are aggressively increasing interest rates on NRI dollar deposits. This move follows a special RBI dispensation to boost foreign currency inflows. Several lenders are now offering over 7 percent on US dollar FCNR(B) deposits. This initiative is expected to attract significant foreign currency into India. The competition among banks is intensifying to secure these valuable overseas funds.",
+    "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-move-sparks-race-among-banks-to-raise-fcnrb-deposit-rates-smaller-lenders-offer-over-7-on-usd-deposits/articleshow/131677010.cms",
+    "published": "Fri, 12 Jun 2026 12:29:10 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "3f11b159b7",
+    "quick_take": "Banks are raising interest rates on dollar deposits to attract more foreign money.",
+    "simplified_article": "The Reserve Bank of India (RBI) has allowed banks to offer higher interest rates on dollar deposits to encourage more money from abroad. As a result, many banks are now offering over 7% interest on these deposits. This competition is aimed at bringing more foreign currency into India.",
+    "investor_impact": "For an ordinary investor, this means that if you have money in a foreign currency like US dollars, you might find better interest rates at some banks in India. This could be a good opportunity to earn more on your savings if you are considering where to deposit your money.",
+    "key_terms": []
    }
   ],
   "sectors": [
    {
-    "id": "se1",
-    "source": "upstox.com",
-    "title": "Maruti posts highest monthly sales in its history",
-    "link": "https://upstox.com/news/market-news/stocks/may-auto-sales-2026-live-updates-maruti-suzuki-tata-motors-hyundai-india-mahindra-and-mahindra-bajaj-auto-ola-electric-eicher-motors-share-price/liveblog-194549/",
-    "published": "Jun 2026",
-    "quick_take": "Maruti Suzuki sold 242,688 vehicles in May - its best month ever, up nearly 35% from last year.",
-    "simplified_article": "India's largest carmaker had a record month. Maruti sold over 2.4 lakh vehicles in May, with SUVs contributing about 79,000 units and small cars like the Alto and Wagon R around 81,500. A 35% jump for the market leader suggests demand for cars in India is running hot, helped by new launches and easing supply issues.",
-    "investor_impact": "Auto sales are a classic economy health-check: people buy cars when they feel financially confident. Record numbers are a positive signal for the broader consumption story.",
+    "title": "India clears way for self-driving, safety car tech to reduce road deaths",
+    "summary": "India has removed the licence requirement for automotive radar sensors operating in the 77-81 GHz frequency band, paving the way for wider adoption of advanced driver-assistance and autonomous driving technologies.",
+    "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/india-clears-way-for-self-driving-safety-car-tech-to-reduce-road-deaths/articleshow/131679125.cms",
+    "published": "Fri, 12 Jun 2026 14:06:52 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "bf43384b9e",
+    "quick_take": "India has made it easier for companies to use radar technology for self-driving cars.",
+    "simplified_article": "India has decided that car makers no longer need a special license to use radar sensors that help cars understand their surroundings. These sensors work in a specific radio frequency range. Removing the licensing requirement should encourage more companies to develop advanced safety features and self-driving cars. As a result, this could help reduce road deaths in the country.",
+    "investor_impact": "For everyday investors, this change could lead to more advancements in car safety and technology, which might create new business opportunities. Companies that make or use these technologies could see growth as self-driving cars become more common.",
     "key_terms": [
      {
-      "term": "OEM",
-      "meaning": "Original Equipment Manufacturer - industry term for a vehicle maker."
+      "term": "radar sensors",
+      "meaning": "Devices that help cars detect objects around them using radio waves."
      },
      {
-      "term": "YoY",
-      "meaning": "Year-on-Year - comparing this month with the same month last year."
+      "term": "advanced driver-assistance",
+      "meaning": "Technology that helps drivers avoid accidents and makes driving easier."
+     },
+     {
+      "term": "autonomous driving",
+      "meaning": "Cars that can drive themselves without human input."
      }
     ]
    },
    {
-    "id": "se2",
-    "source": "goodcarbadcar.net",
-    "title": "Tata becomes first carmaker to sell 10,000+ EVs in a month",
-    "link": "https://www.goodcarbadcar.net/india-may-2026-maruti-record-tata-ev-85/",
-    "published": "Jun 2026",
-    "quick_take": "Tata Motors' EV sales jumped 85% to a record 10,517 units - the first time any Indian carmaker crossed five figures in a month.",
-    "simplified_article": "Tata Motors hit a milestone: more than 10,000 electric vehicles sold in a single month, up 85% from last year. Its overall passenger vehicle sales also rose 42%. India's total EV sales grew about 80% in May, setting a record. Cheaper models like the updated Tiago EV at Rs 6.99 lakh are bringing electric cars within reach of more buyers.",
-    "investor_impact": "The EV shift is accelerating faster than many expected. Beyond carmakers, this lifts the whole chain - battery makers, charging networks, and component suppliers.",
-    "key_terms": [
-     {
-      "term": "EV",
-      "meaning": "Electric Vehicle - runs on batteries instead of petrol or diesel."
-     },
-     {
-      "term": "Five-figure mark",
-      "meaning": "Crossing 10,000 units - a symbolic scale milestone."
-     }
-    ]
+    "title": "Tata Motors to increase prices of its cars & SUVs from July 1",
+    "summary": "Tata Motors Passenger Vehicles will raise prices of its entire passenger vehicle range, including ICE and electric models, by up to 1.5% from July 1, 2026. The company said the increase is aimed at partially offsetting rising input costs and persistent inflationary pressures.",
+    "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-to-increase-prices-of-its-cars-suvs-from-july-1/articleshow/131675846.cms",
+    "published": "Fri, 12 Jun 2026 11:41:07 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "c514899d1f",
+    "quick_take": "Tata Motors is raising car and SUV prices starting July 1, 2026.",
+    "simplified_article": "Tata Motors will increase the prices of all its cars and SUVs by up to 1.5%. This change is happening because the costs to make cars are rising, and prices are generally going up everywhere. The company needs to raise prices to help cover these extra costs.",
+    "investor_impact": "For an ordinary investor, this price increase might mean that the cars become more expensive for buyers, potentially affecting sales. If customers buy fewer cars because of the higher prices, it could influence the company's profits over time.",
+    "key_terms": []
    },
    {
-    "id": "se3",
-    "source": "carlelo.com",
-    "title": "Mahindra closes the gap on Tata in the EV race",
-    "link": "https://www.carlelo.com/news/ev-sales-may-2026-mahindra-closes-the-gap-on-tata",
-    "published": "Jun 2026",
-    "quick_take": "Mahindra's EV sales nearly doubled, grabbing 24% market share versus leader Tata's 39.9%.",
-    "simplified_article": "Tata has long dominated India's electric car market, but Mahindra is catching up fast. Driven by demand for its electric SUV lineup, Mahindra registered 6,210 EVs in May - 98% growth - taking a 24% share of the market while Tata holds about 40%. Competition like this typically means better cars and lower prices for buyers.",
-    "investor_impact": "Market-share battles compress profits short-term but grow the overall market. For investors, the question shifts from 'will EVs succeed?' to 'which brand wins?'",
-    "key_terms": [
-     {
-      "term": "Market share",
-      "meaning": "A company's slice of total sales in its industry."
-     }
-    ]
+    "title": "Bajaj auto foundation commits ₹400 crore for women in engineering, unveils ₹1,500-crore skilling plan",
+    "summary": "In a bold step towards gender equality in engineering, Bajaj Auto Foundation is initiating a robust scholarship program for women in core engineering, allocating an impressive ₹400 crore over the next ten years. This endeavor seeks to empower more women to explore technical careers.",
+    "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/bajaj-auto-foundation-commits-400-crore-for-women-in-engineering-unveils-1500-crore-skilling-plan/articleshow/131656898.cms",
+    "published": "Thu, 11 Jun 2026 16:24:56 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "6f27c37583",
+    "quick_take": "Bajaj Auto Foundation is giving ₹400 crore to support women in engineering.",
+    "simplified_article": "Bajaj Auto Foundation is starting a scholarship program for women who want to study engineering. They are investing ₹400 crore over the next ten years to encourage more women to pursue careers in this field. This program aims to promote gender equality in engineering jobs.",
+    "investor_impact": "This initiative shows that companies are taking steps to support diversity in their industries. Investing in education and skills can lead to more qualified workers in the future, which can benefit the economy.",
+    "key_terms": []
    },
    {
-    "id": "se4",
-    "source": "businesstoday.in",
-    "title": "Brokerage downgrades entire IT pack to 'Sell'",
-    "link": "https://www.businesstoday.in/markets/stocks/story/infosys-tcs-hcl-tech-wipro-coforge-tech-m-downgrade-on-it-stocks-check-new-targets-536227-2026-06-11",
-    "published": "Thu, 11 Jun 2026",
-    "quick_take": "Nirmal Bang cut TCS, Infosys, HCL Tech, Wipro, Tech Mahindra and LTIMindtree to 'Sell', citing AI pressure.",
-    "simplified_article": "A brokerage downgraded India's six biggest IT companies all at once. Its argument: generative AI squeezes IT firms from both sides. If clients adopt AI quickly, they need fewer traditional IT services; if AI adoption stalls, technology budgets shrink anyway. The brokerage believes pressure on revenue and profit margins is arriving sooner than the market expects.",
-    "investor_impact": "Analyst calls aren't gospel - but a whole-sector downgrade explains why IT funds have underperformed. If you hold IT-heavy funds, understand this is the debate driving them.",
-    "key_terms": [
-     {
-      "term": "Downgrade",
-      "meaning": "An analyst lowering their rating on a stock, e.g. from 'Hold' to 'Sell'."
-     },
-     {
-      "term": "Margin",
-      "meaning": "Profit as a percentage of revenue - shrinking margins mean less profit per rupee of sales."
-     }
-    ]
+    "title": "PM Modi-led govt's 12 years in power are 'transformational for industry': Maruti Suzuki chairman",
+    "summary": "Maruti Suzuki Chairman R C Bhargava lauded Prime Minister Narendra Modi's economic policies. He stated these policies have transformed Indian industry over the past 12 years. Vehicle exports and car manufacturing have seen significant growth. Rural sales also increased substantially. Infrastructure development reduced logistics costs. India is becoming a preferred global supply chain destination.",
+    "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/pm-modi-led-govts-12-years-in-power-are-transformational-for-industry-maruti-suzuki-chairman/articleshow/131655623.cms",
+    "published": "Thu, 11 Jun 2026 15:31:22 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "d623c597fe",
+    "quick_take": "Maruti Suzuki's chairman praised the government's work over the last 12 years.",
+    "simplified_article": "The chairman of Maruti Suzuki, R C Bhargava, said that the Indian government's economic actions have been good for businesses. This led to more cars being built and sold, especially in rural areas. Better roads and infrastructure have made it cheaper to move goods. As a result, India is becoming a popular place for global businesses to set up supply chains.",
+    "investor_impact": "For regular investors, this news suggests that the growth in the car industry and improvements in infrastructure may lead to more jobs and economic activity. Increased vehicle exports might benefit companies involved in manufacturing and transportation.",
+    "key_terms": []
    },
    {
-    "id": "se5",
-    "source": "ipa-india.org",
-    "title": "Sun Pharma to build Rs 3,000 crore plant in Madhya Pradesh",
-    "link": "https://www.ipa-india.org/news-releases",
-    "published": "Jun 2026",
-    "quick_take": "Sun Pharma approved a Rs 3,000 crore investment in a new greenfield medicine factory.",
-    "simplified_article": "Sun Pharma, India's largest drugmaker, will spend Rs 3,000 crore building a brand-new formulations facility in Madhya Pradesh. 'Greenfield' means built from scratch rather than expanding an existing site. Big capacity investments like this signal confidence in long-term demand for Indian-made medicines, both at home and in export markets.",
-    "investor_impact": "Pharma capex today becomes revenue years later. India's role as the 'pharmacy of the world' - generics, vaccines, contract manufacturing - continues to attract serious money.",
-    "key_terms": [
-     {
-      "term": "Greenfield project",
-      "meaning": "A facility built from scratch on new ground, versus expanding something existing."
-     },
-     {
-      "term": "Formulations",
-      "meaning": "Finished medicines (tablets, syrups) as opposed to raw pharmaceutical ingredients."
-     }
-    ]
+    "title": "Revenue of auto ancillary firms grew at 11% CAGR during 2016-26: Report",
+    "summary": "Auto ancillary companies saw revenue grow at 11 percent annually from FY16 to FY26. Exports and increased vehicle content fueled this expansion. The sector enters FY27 with its strongest balance sheet in a decade. Companies are expected to achieve a 21 percent profit after tax CAGR from FY26 to FY28. Body and glass segments show strong potential.",
+    "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/revenue-of-auto-ancillary-firms-grew-at-11-cagr-during-2016-26-report/articleshow/131652569.cms",
+    "published": "Thu, 11 Jun 2026 12:57:43 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "589af7e520",
+    "quick_take": "Revenue for companies making car parts has been growing steadily.",
+    "simplified_article": "From 2016 to 2026, companies that make parts for cars are making 11% more money every year. This growth is happening because they are selling more to other countries and because more parts are being used in each vehicle. As they enter 2027, these companies are in a strong financial position. Additionally, they expect to see their profits grow even faster, by 21% each year from 2026 to 2028. The parts related to windows and body structure show especially good growth opportunities.",
+    "investor_impact": "For everyday investors, this growth in car parts companies may indicate a healthy sector for future investment. Understanding which areas of this market are doing well can help in making informed decisions about where to put money.",
+    "key_terms": []
    },
    {
-    "id": "se6",
-    "source": "rushlane.com",
-    "title": "Maruti launches India's first flex-fuel production car",
-    "link": "https://www.rushlane.com/electric-car-sales-cy-2026-tata-mahindra-mg-vinfast-maruti-hyundai-12545538.html",
-    "published": "Jun 2026",
-    "quick_take": "The new Wagon R Flex Fuel can run on petrol-ethanol blends - a first for a production car in India.",
-    "simplified_article": "Maruti launched a version of the Wagon R that can run on flexible blends of petrol and ethanol, a fuel made from crops like sugarcane. India pushes ethanol because it is produced domestically, cutting expensive oil imports. Flex-fuel gives buyers an alternative path to lower running costs without going fully electric.",
-    "investor_impact": "Energy transition isn't only EVs - ethanol, CNG and hybrids all compete. Sugar and ethanol producers are an often-overlooked corner of this theme.",
-    "key_terms": [
-     {
-      "term": "Flex-fuel",
-      "meaning": "An engine that can run on varying mixes of petrol and ethanol."
-     },
-     {
-      "term": "Ethanol blending",
-      "meaning": "Mixing crop-based alcohol into petrol to cut oil imports and emissions."
-     }
-    ]
+    "title": "Mahindra's SUV output dips up to 15% in June amid supply chain worker crunch; XUV 7XO, Thar production hit",
+    "summary": "Mahindra & Mahindra is experiencing a significant drop in SUV production. A shortage of contract workers is affecting key parts suppliers. This issue is impacting factory operations for popular models. The automotive industry across India faces similar labor challenges. Companies are adapting through automation and worker retention strategies. Demand for new vehicles remains strong, compounding these production pressures.",
+    "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindras-suv-output-dips-up-to-15-amid-supply-chain-worker-crunch-xuv-7xo-thar-production-hit/articleshow/131643662.cms",
+    "published": "Thu, 11 Jun 2026 06:00:00 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "09c6e0d2d7",
+    "quick_take": "Mahindra is making fewer SUVs due to not having enough workers.",
+    "simplified_article": "Mahindra & Mahindra is producing up to 15% less SUVs because they don't have enough workers to make the parts. This shortage is affecting popular models like the XUV 7XO and Thar. The automotive industry in India is facing similar worker problems. Companies are trying to solve this by using more machines and keeping workers longer. Even with these issues, many people still want to buy new vehicles.",
+    "investor_impact": "For someone interested in investing in car companies, this news shows that Mahindra is struggling with production, which could affect their sales. If car companies are not making enough vehicles, it might impact their profits in the future. Understanding labor issues can help investors gauge how well a company is doing.",
+    "key_terms": []
+   },
+   {
+    "title": "Hyundai's Chennai plant resumes operations after fire, targets full recovery by June 22",
+    "summary": "Hyundai Motor India's Chennai plant is recovering after a fire at a supplier's facility. Production at Chennai Plant 1 was affected, but other facilities continued operations. The company sourced parts from alternative locations. Chennai Plant 1 is expected to return to normal production by June 15. Full manufacturing operations should be restored by June 22.",
+    "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundais-chennai-plant-resumes-operations-after-fire-targets-full-recovery-by-june-22/articleshow/131624866.cms",
+    "published": "Wed, 10 Jun 2026 10:06:15 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "6cd3915b06",
+    "quick_take": "Hyundai's plant in Chennai is starting production again after a fire.",
+    "simplified_article": "A fire at a supplier's facility affected Hyundai's Chennai plant operations. Production was halted, but other plants kept working to help out. Hyundai found parts from other places to keep things running. The Chennai plant is expected to return to normal by June 15 and be fully operational by June 22.",
+    "investor_impact": "For ordinary investors, this means Hyundai is working hard to get back on track after the fire, which can help maintain its production levels. A quick recovery can positively affect the company’s performance and overall market confidence.",
+    "key_terms": []
+   },
+   {
+    "title": "Maruti Suzuki announces price protection for small cars booked till June 14",
+    "summary": "Maruti Suzuki India is offering price protection on its small car range until June 14, 2026. This initiative aims to shield entry-level buyers from upcoming price hikes. Additionally, the company has launched 'Suhana Safar', a recurring deposit auto loan product. This scheme helps customers save for down payments on select models, addressing affordability concerns.",
+    "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/maruti-suzuki-announces-price-protection-for-small-cars-booked-till-june-14-wagonr-alto-celerio/articleshow/131612437.cms",
+    "published": "Tue, 09 Jun 2026 18:58:56 +0530",
+    "source": "economictimes.indiatimes.com",
+    "id": "6d9dc280e5",
+    "quick_take": "Maruti Suzuki is keeping car prices stable for buyers who order small cars before June 14, 2026.",
+    "simplified_article": "Maruti Suzuki, a car company, has promised that the prices of its small cars will not increase for people who book them until June 14, 2026. This helps new car buyers avoid paying higher prices later. The company also introduced a saving plan called 'Suhana Safar' to help customers save money for down payments on certain car models, making it easier to buy a car.",
+    "investor_impact": "For regular investors, this news shows that companies like Maruti Suzuki are trying to support new customers in tough economic times. By keeping prices steady and offering savings options, they aim to attract more buyers, which could help the company's sales and profits in the long run.",
+    "key_terms": []
    }
   ],
   "crypto": [
    {
-    "id": "cr1",
-    "source": "fortune.com",
-    "title": "Bitcoin steadies near $63,400 as market recovers",
-    "link": "https://fortune.com/article/price-of-bitcoin-06-12-2026/",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "Bitcoin rose about $500 to $63,359 as the overall crypto market recovered 1.7% to $2.25 trillion.",
-    "simplified_article": "After weeks of selling, crypto caught its breath. Bitcoin climbed to around $63,400 and the total value of all cryptocurrencies rose 1.7% to $2.25 trillion. But sentiment remains grim: the 'Fear & Greed' index sits at 12 - deep in 'extreme fear' territory, down sharply from 42 a month ago. Fearful markets can stay fearful for a while, even during small bounces.",
-    "investor_impact": "Extreme fear readings often mark periods of heavy selling pressure. Crypto remains the most volatile mainstream asset - position sizes should reflect that.",
-    "key_terms": [
-     {
-      "term": "Fear & Greed Index",
-      "meaning": "A 0-100 gauge of crypto market mood; below 25 means 'extreme fear', above 75 'extreme greed'."
-     },
-     {
-      "term": "Market cap",
-      "meaning": "Total value of all coins combined - price times number of coins."
-     }
-    ]
-   },
-   {
-    "id": "cr2",
-    "source": "intellectia.ai",
-    "title": "BlackRock files Bitcoin income ETF, debut expected next week",
-    "link": "https://intellectia.ai/news/crypto/cryptocurrency-market-update-for-june-12-2026",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "The world's largest asset manager filed to list a new Bitcoin income ETF.",
-    "simplified_article": "BlackRock, which manages more money than any firm on earth, filed paperwork to launch a Bitcoin 'income' ETF, expected to start trading next week. Unlike a plain Bitcoin fund that just tracks the price, an income ETF aims to generate regular payouts, typically by selling options on its holdings. Big institutions keep building crypto products even while prices struggle.",
-    "investor_impact": "More regulated products make crypto easier to access through normal brokerage accounts. 'Income' strategies cap your upside in exchange for payouts - read the fine print.",
-    "key_terms": [
-     {
-      "term": "ETF",
-      "meaning": "Exchange-Traded Fund - a fund you buy like a stock."
-     },
-     {
-      "term": "Covered call",
-      "meaning": "Selling someone the right to buy your asset at a set price, earning income but capping your gains."
-     }
-    ]
-   },
-   {
-    "id": "cr3",
-    "source": "intellectia.ai",
-    "title": "Bitcoin ETFs bleed $5.75 billion since mid-May",
-    "link": "https://intellectia.ai/blog/bitcoin-price-recovery-june-2026",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "Investors have pulled over $5.75 billion from spot Bitcoin ETFs in under a month.",
-    "simplified_article": "The same ETFs that brought waves of money into Bitcoin are now seeing money leave - more than $5.75 billion of outflows since mid-May. ETF flows matter because they show what large, mainstream investors are doing. Sustained outflows add selling pressure to Bitcoin's price; when flows turn positive again, they often support recoveries.",
-    "investor_impact": "ETF flow data is one of the clearest crypto signals a beginner can track - it's published daily and shows whether institutions are buying or running.",
-    "key_terms": [
-     {
-      "term": "Spot ETF",
-      "meaning": "A fund that holds actual Bitcoin, not contracts betting on its price."
-     },
-     {
-      "term": "Outflows",
-      "meaning": "Money being withdrawn from a fund."
-     }
-    ]
-   },
-   {
-    "id": "cr4",
-    "source": "theblock.co",
-    "title": "NFT lending pioneer NFTfi to shut down",
-    "link": "https://www.theblock.co/",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "NFTfi, which processed $737 million in NFT-backed loans, is closing after six years.",
-    "simplified_article": "NFTfi, a platform that let people borrow money using their NFTs (digital collectibles) as collateral, announced it will fully shut down by August 31. Over six years it processed $737 million in loans. Its closure reflects how far the NFT market has fallen from its 2021-22 peak, when digital artworks sold for millions.",
-    "investor_impact": "A cautionary tale about hype cycles: entire business models built on hot assets can vanish when the hype fades. Useful memory for whatever the next mania is.",
-    "key_terms": [
-     {
-      "term": "NFT",
-      "meaning": "Non-Fungible Token - a blockchain certificate of ownership for a digital item."
-     },
-     {
-      "term": "Collateral",
-      "meaning": "An asset you pledge to get a loan - the lender takes it if you don't repay."
-     }
-    ]
-   },
-   {
-    "id": "cr5",
+    "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
+    "summary": "Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto selloff.",
+    "link": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
+    "published": "Fri, 12 Jun 2026 18:09:06 +0000",
     "source": "coindesk.com",
-    "title": "Monero spikes to $438 amid $120M laundering case",
-    "link": "https://www.coindesk.com/",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "Privacy coin Monero surged amid a major laundering investigation; Tether froze $72 million linked to it.",
-    "simplified_article": "Monero, a cryptocurrency designed to hide transaction details, rocketed to $438 as a $120 million on-chain laundering case unfolded. Stablecoin issuer Tether froze $72 million in USDT connected to the activity. The episode shows both sides of crypto: privacy coins attract illicit use, while centralised players like Tether increasingly act as enforcement chokepoints.",
-    "investor_impact": "Privacy coins face constant delisting and regulatory risk precisely because of stories like this. Price spikes driven by criminal demand are not an investment thesis.",
+    "id": "d053cb2002",
+    "quick_take": "Bitcoin's price has dropped to $59,000, signaling the end of a tough period for cryptocurrencies.",
+    "simplified_article": "A financial expert named Geoffrey Kendrick said that Bitcoin's price hit a low point at $59,000. This is seen as a sign that the difficult time for cryptocurrencies is over. He believes two events, a SpaceX stock offering and a possible peace deal between the U.S. and Iran, are helping to improve the market situation.",
+    "investor_impact": "For everyday investors, this news might mean that it could be a better time to look into cryptocurrencies again, as the market seems to be recovering. However, it's important to stay informed and understand the risks involved.",
     "key_terms": [
      {
-      "term": "Privacy coin",
-      "meaning": "A cryptocurrency that hides sender, receiver and amount - unlike Bitcoin, where all transactions are public."
-     },
-     {
-      "term": "Stablecoin",
-      "meaning": "A crypto token designed to stay worth exactly $1, like USDT."
+      "term": "crypto winter",
+      "meaning": "A long period when cryptocurrency prices drop significantly."
      }
     ]
    },
    {
-    "id": "cr6",
+    "title": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
+    "summary": "VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.",
+    "link": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market",
+    "published": "Fri, 12 Jun 2026 16:05:31 +0000",
     "source": "coindesk.com",
-    "title": "Bitcoin Core privacy feature found leaking IP addresses",
-    "link": "https://www.coindesk.com/",
-    "published": "Fri, 12 Jun 2026",
-    "quick_take": "A privacy feature in Bitcoin's main software leaks users' IP addresses; a fix is coming in the next version.",
-    "simplified_article": "Bitcoin Core, the main software that runs the Bitcoin network, shipped a feature called 'private broadcast' meant to hide where transactions come from. Researchers found it can actually leak users' IP addresses under certain network conditions - the opposite of its purpose. A fix arrives in version 31.1.",
-    "investor_impact": "No direct price impact, but a reminder that crypto's infrastructure is software - bugs happen. If you run a Bitcoin node, update when the patch lands.",
-    "key_terms": [
-     {
-      "term": "Bitcoin Core",
-      "meaning": "The reference software that most computers in the Bitcoin network run."
-     },
-     {
-      "term": "IP address",
-      "meaning": "Your device's network address - exposing it can reveal your location and identity."
-     }
-    ]
+    "id": "c28751acaf",
+    "quick_take": "VanEck is focusing on BNB as a strong investment in the crypto market.",
+    "simplified_article": "VanEck believes that BNB, a type of cryptocurrency, is a good choice for long-term investment. They think BNB does better than many other blockchain projects because it is used more actively and makes money. This means people are actually using BNB instead of just talking about what it could do in the future.",
+    "investor_impact": "For regular investors, this suggests that BNB might be a more reliable option compared to other cryptocurrencies that haven't proven their usefulness yet. Understanding which cryptocurrencies have real-world applications can help you make informed decisions.",
+    "key_terms": []
+   },
+   {
+    "title": "Elon Musk's SpaceX soars 20% in blockbuster Nasdaq debut",
+    "summary": "The stock was trading above $160 in volatile action after last night's IPO at $135.",
+    "link": "https://www.coindesk.com/markets/2026/06/12/spacex-opens-at-usdtk-in-blockbuster-nasdaq-debut",
+    "published": "Fri, 12 Jun 2026 15:55:42 +0000",
+    "source": "coindesk.com",
+    "id": "4c464d9747",
+    "quick_take": "SpaceX's stock price increased significantly after its first day of trading.",
+    "simplified_article": "SpaceX, the company founded by Elon Musk, started selling its stock on the Nasdaq stock market. It offered shares at $135 each. After the first day, the price went up to over $160. This means many people were excited about buying SpaceX stock, showing strong interest in the company.",
+    "investor_impact": "For an ordinary investor, this increase in stock price means people believe SpaceX could be a successful company. If you had shares, they may now be worth more than when you bought them. However, individual stock prices can go up and down, so it's important to stay informed.",
+    "key_terms": []
+   },
+   {
+    "title": "Bloomberg Analyst: Most Bitcoin ETF Investors Have Stayed Put Despite Outflows",
+    "summary": "Bitcoin ETF investors have pulled billions this year, but the broader crypto ETF market remains more resilient than recent headlines suggest.",
+    "link": "https://www.coindesk.com/markets/2026/06/08/bloomberg-analyst-most-bitcoin-etf-investors-have-stayed-put-despite-outflows",
+    "published": "Fri, 12 Jun 2026 15:49:36 +0000",
+    "source": "coindesk.com",
+    "id": "176fe41b45",
+    "quick_take": "Many investors are taking money out of Bitcoin ETFs, but most are still holding onto their investments.",
+    "simplified_article": "This year, investors have withdrawn a lot of money from Bitcoin ETFs, which are investment funds that hold Bitcoin. However, the overall market for crypto ETFs, which includes different types of cryptocurrencies, is still doing well. The negative news stories might not reflect the entire picture of the market.",
+    "investor_impact": "For everyday investors, this means that even though some are taking their money out, many people still believe in the long-term value of these investments. It might be a good idea to stay informed and think about the bigger market trends instead of just the latest news.",
+    "key_terms": []
+   },
+   {
+    "title": "Kalshi’s crypto perpetuals spark debate over whether they’re futures or swaps",
+    "summary": "A clash between derivatives veterans is exposing a deeper discussion over how U.S. regulators should classify crypto perpetual contracts.",
+    "link": "https://www.coindesk.com/policy/2026/06/12/kalshi-s-crypto-perpetuals-spark-debate-over-whether-they-re-futures-or-swaps",
+    "published": "Fri, 12 Jun 2026 15:37:08 +0000",
+    "source": "coindesk.com",
+    "id": "9faa67150a",
+    "quick_take": "A debate is happening about how to classify a new type of crypto contract.",
+    "simplified_article": "Kalshi, a company dealing with financial contracts, has introduced a type of crypto contract called perpetuals. This has led to a disagreement among experts about whether these contracts should be seen as futures or swaps. This confusion has made people think more about how U.S. laws will treat these crypto products.",
+    "investor_impact": "For regular investors, this debate may affect how easily they can trade these crypto contracts in the future. Understanding how these contracts are classified could influence the rules that protect investors.",
+    "key_terms": []
+   },
+   {
+    "title": "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
+    "summary": "Pruden argues that to defend against a quantum computer capable of cryptographically relevant operations, we need post-quantum cryptography and regulatory coordination that the industry has been deferring for years.",
+    "link": "https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up",
+    "published": "Fri, 12 Jun 2026 15:31:00 +0000",
+    "source": "coindesk.com",
+    "id": "f1e4d657c2",
+    "quick_take": "The U.S. government is investing $2 billion in quantum computing research.",
+    "simplified_article": "The U.S. government is spending a lot of money to advance quantum computing technology. This technology could be a threat to current security systems that protect our information. Experts say we need new security measures to keep our information safe from these powerful computers. The industry has not been moving fast enough to make these changes.",
+    "investor_impact": "This investment shows that the government believes quantum computing will be important in the future. For everyday investors, this could mean changes in technology companies and increased attention on cybersecurity measures.",
+    "key_terms": []
+   },
+   {
+    "title": "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
+    "summary": "The onetime FTX CEO did not persuade a panel of judges that his trial was unfair, the appeals court panel ruled Friday.",
+    "link": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges",
+    "published": "Fri, 12 Jun 2026 14:13:40 +0000",
+    "source": "coindesk.com",
+    "id": "f47106d053",
+    "quick_take": "Sam Bankman-Fried lost his appeal against his fraud conviction.",
+    "simplified_article": "Sam Bankman-Fried was the CEO of FTX, a major cryptocurrency exchange. He was found guilty of fraud and conspiracy in an earlier trial. He tried to argue that his trial was unfair, but a panel of judges rejected his claims. This means he will stay convicted of the crimes for which he was charged.",
+    "investor_impact": "This news shows that even leaders in big companies can face serious legal consequences for their actions. For everyday investors, it highlights the importance of being cautious and informed when dealing with investments, especially in the volatile cryptocurrency market.",
+    "key_terms": []
+   },
+   {
+    "title": "XRP sentiment falls to 8-month low, and that has been a buy signal before",
+    "summary": "Santiment's weighted sentiment gauge for XRP just hit its weakest reading since October 2025. The firm notes the token's strongest rebounds have tended to start when the crowd was this checked out.",
+    "link": "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
+    "published": "Fri, 12 Jun 2026 14:08:03 +0000",
+    "source": "coindesk.com",
+    "id": "3274f0118c",
+    "quick_take": "XRP's popularity has dropped to its lowest level in eight months.",
+    "simplified_article": "A measure of how people feel about XRP has fallen to a low not seen since October 2025. When people's interest in XRP is this low, it often means a big price increase can happen soon. This has happened before, showing that strong increases can follow times of low enthusiasm.",
+    "investor_impact": "For someone thinking about investing in XRP, it's important to know that low interest could suggest a good opportunity for growth. However, it's always important to research and understand any investment before deciding.",
+    "key_terms": []
    }
   ]
  }

@@ -10,6 +10,7 @@ permissions:
   contents: write   # to commit the data/ archive back
   pages: write
   id-token: write
+  models: read      # free AI inference via GitHub Models (no API key needed)
 
 concurrency:
   group: pages
@@ -31,6 +32,7 @@ jobs:
       - name: Generate digest
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m digest.run
 
       - name: Commit archive data

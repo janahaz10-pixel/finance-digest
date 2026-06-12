@@ -1,0 +1,51 @@
+name: Daily Digest
+
+on:
+  schedule:
+    # 12:45 UTC = 6:15 PM IST, after Indian markets close. Adjust as you like.
+    - cron: "45 12 * * *"
+  workflow_dispatch: {}   # lets you trigger manually from the Actions tab
+
+permissions:
+  contents: write   # to commit the data/ archive back
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m digest.run
+
+      - name: Commit archive data
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "digest: $(date -u +%F)"
+          git push
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

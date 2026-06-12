@@ -1,0 +1,577 @@
+{
+ "date": "2026-06-12",
+ "date_label": "Friday, 12 June 2026",
+ "generated_at": "2026-06-12T21:02:42.584271+05:30",
+ "articles": {
+  "indian-markets": [
+   {
+    "id": "im1",
+    "source": "tradingeconomics.com",
+    "title": "Sensex ends lower amid Middle East tensions",
+    "link": "https://tradingeconomics.com/india/stock-market",
+    "published": "Thu, 11 Jun 2026",
+    "quick_take": "The Sensex slipped 0.2% to 73,832, snapping a two-day winning streak as global tensions kept buyers cautious.",
+    "simplified_article": "India's main stock index, the Sensex, fell slightly after rising for two days. Investors are nervous about the ongoing Middle East conflict and the fact that foreign funds keep pulling money out of Indian stocks. IT companies like Infosys and HCL Tech fell the most, while carmaker Mahindra & Mahindra and banks like ICICI and Kotak actually gained.",
+    "investor_impact": "Small daily dips like this are normal. The bigger trend to watch is foreign money leaving India - if that continues, markets may stay under pressure even when company results are good.",
+    "key_terms": [
+     {
+      "term": "Sensex",
+      "meaning": "An index tracking 30 of the biggest companies on the Bombay Stock Exchange - a quick health check for Indian markets."
+     },
+     {
+      "term": "Winning streak",
+      "meaning": "Several days in a row where the market closed higher."
+     }
+    ]
+   },
+   {
+    "id": "im2",
+    "source": "tradingeconomics.com",
+    "title": "Foreign investor outflows hit record $30.6 billion this year",
+    "link": "https://tradingeconomics.com/india/stock-market",
+    "published": "Thu, 11 Jun 2026",
+    "quick_take": "Foreign investors have pulled a record $30.6 billion out of Indian stocks so far this year.",
+    "simplified_article": "Foreign portfolio investors - big overseas funds that buy Indian shares - sold another $207 million worth of stocks on Thursday. That takes their total selling this year to $30.6 billion, the highest ever. When this much money leaves, share prices struggle to rise even if Indian companies are doing well, because there are simply fewer big buyers.",
+    "investor_impact": "Domestic investors (people like you investing via SIPs) have been the main force holding the market up. If foreign money returns, it could fuel a strong rally; until then, expect choppiness.",
+    "key_terms": [
+     {
+      "term": "FPI / FII",
+      "meaning": "Foreign Portfolio/Institutional Investors - large overseas funds investing in Indian markets."
+     },
+     {
+      "term": "Outflow",
+      "meaning": "Money being withdrawn from a market or fund."
+     }
+    ]
+   },
+   {
+    "id": "im3",
+    "source": "bloomberg.com",
+    "title": "TCS, Infosys plunge as AI fears return to rattle IT stocks",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-04/tcs-infosys-plunge-as-ai-fears-return-to-rattle-it-stocks",
+    "published": "Thu, 04 Jun 2026",
+    "quick_take": "India's biggest IT companies fell sharply as investors worry AI could eat into their core business.",
+    "simplified_article": "Shares of TCS, Infosys and other IT giants dropped as fears returned that artificial intelligence will disrupt their business model. These companies earn money by providing software services with large teams of engineers. If AI tools can do that work with far fewer people, clients may pay less. The sector has been swinging wildly - rallying when good AI news comes out, falling when worries return.",
+    "investor_impact": "IT stocks were long seen as 'safe' large-caps for beginners. The AI transition makes their future earnings less predictable - expect continued volatility in IT mutual funds too.",
+    "key_terms": [
+     {
+      "term": "IT services",
+      "meaning": "Companies that build and maintain software for other businesses, usually charging for engineer time."
+     },
+     {
+      "term": "Disruption",
+      "meaning": "When a new technology makes an existing business model less profitable or obsolete."
+     }
+    ]
+   },
+   {
+    "id": "im4",
+    "source": "sahi.com",
+    "title": "Why IT stocks rallied 6% earlier this month",
+    "link": "https://www.sahi.com/blogs/tcs-infosys-share-price-rally-it-stocks",
+    "published": "Tue, 02 Jun 2026",
+    "quick_take": "TCS and Infosys jumped nearly 6% in a day - four forces drove the rally.",
+    "simplified_article": "Earlier this month the same IT stocks that have been falling suddenly surged 6% in one session. Four things came together: a US software company (Snowflake) reported strong AI-related spending, hopes grew that the US will cut interest rates, the weak rupee means IT firms earn more when converting dollar revenue, and the stocks had become cheap after months of decline. This tug-of-war between AI fear and AI hope is why the sector keeps swinging.",
+    "investor_impact": "When a stock can move 6% on sentiment alone, it tells you the market hasn't made up its mind. Averaging in slowly beats trying to time these swings.",
+    "key_terms": [
+     {
+      "term": "Rally",
+      "meaning": "A quick, strong rise in prices."
+     },
+     {
+      "term": "Valuation",
+      "meaning": "What a stock costs relative to its earnings - 'cheap' means you pay less per rupee of profit."
+     }
+    ]
+   },
+   {
+    "id": "im5",
+    "source": "tradingeconomics.com",
+    "title": "May inflation data expected to show prices rising faster",
+    "link": "https://tradingeconomics.com/india/stock-market",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "India's May inflation report is due, with prices expected to have risen 4.0% versus 3.48% in April.",
+    "simplified_article": "Investors are waiting for India's monthly inflation number. Economists expect prices rose 4.0% compared to a year ago, up from 3.48% the previous month. Inflation matters because the RBI uses it to decide interest rates: if prices rise too fast, the central bank keeps rates high, which makes loans costly and can slow the stock market.",
+    "investor_impact": "A higher-than-expected number could push rate cuts further away - usually negative for stocks and good for fixed deposits. A lower number would do the opposite.",
+    "key_terms": [
+     {
+      "term": "Inflation",
+      "meaning": "The rate at which everyday prices rise. 4% means something that cost Rs 100 last year costs Rs 104 now."
+     },
+     {
+      "term": "CPI",
+      "meaning": "Consumer Price Index - the official basket of goods used to measure inflation."
+     }
+    ]
+   }
+  ],
+  "us-global": [
+   {
+    "id": "us1",
+    "source": "schwab.com",
+    "title": "Stocks on track for positive week amid peace hopes",
+    "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "US stocks are heading for a winning week as hopes rise for an Iran peace deal that would reopen key oil routes.",
+    "simplified_article": "American markets extended their gains on news that a peace deal with Iran might be close. Such a deal would lift sanctions on Iranian oil and reopen the Strait of Hormuz, a narrow sea passage that much of the world's oil travels through. With supply worries easing, crude oil fell 2% to around $85 a barrel. Cheaper oil lowers costs for companies and consumers, which is why stocks like it.",
+    "investor_impact": "Oil prices ripple everywhere - including India, which imports most of its oil. Falling crude is good news for Indian inflation, the rupee, and sectors like airlines and paints.",
+    "key_terms": [
+     {
+      "term": "Strait of Hormuz",
+      "meaning": "A narrow waterway near Iran through which about a fifth of the world's oil passes."
+     },
+     {
+      "term": "Sanctions",
+      "meaning": "Government restrictions that block trade with a country - lifting them increases supply of whatever it exports."
+     }
+    ]
+   },
+   {
+    "id": "us2",
+    "source": "thestreet.com",
+    "title": "SpaceX makes blockbuster stock market debut",
+    "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-12-2026",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "Elon Musk's SpaceX began trading on the Nasdaq, set to open around $175 - 30% above its IPO price.",
+    "simplified_article": "SpaceX, the rocket and satellite company, sold shares to the public for the first time through an IPO priced at $135 per share. Demand was so strong that the stock was indicated to start trading near $175 - a 30% instant jump. Company executives rang the opening bell in New York while Musk joined remotely. A big-name IPO like this often signals that investor appetite for risk is healthy.",
+    "investor_impact": "Hot IPOs are exciting but risky - early 'pops' can fade once the hype settles. Watching how SpaceX trades over months, not days, tells you more than the debut.",
+    "key_terms": [
+     {
+      "term": "IPO",
+      "meaning": "Initial Public Offering - the first time a private company sells its shares to the public."
+     },
+     {
+      "term": "Listing pop",
+      "meaning": "When a stock starts trading well above its IPO price on day one."
+     }
+    ]
+   },
+   {
+    "id": "us3",
+    "source": "247wallst.com",
+    "title": "Chipmakers surge while Adobe sinks 7%",
+    "link": "https://247wallst.com/investing/2026/06/12/stock-market-live-june-12-2026-sp-500-spy-green-on-end-of-war-hopes/",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "Chip stocks AMD, Qualcomm and Sandisk jumped about 5%, while software maker Adobe dropped 7%.",
+    "simplified_article": "Within the same market, fortunes diverged sharply. Companies that make computer chips rallied around 5% - they sell the hardware that powers AI, so AI growth is good for them. Adobe, which sells creative software, fell 7% as investors worry AI tools could replace some of what its products do. One technology trend, two opposite outcomes.",
+    "investor_impact": "AI isn't lifting all tech stocks equally - it's creating winners (chips, infrastructure) and potential losers (some software). 'Tech' is no longer one single bet.",
+    "key_terms": [
+     {
+      "term": "Semiconductor",
+      "meaning": "A computer chip - the hardware brains inside phones, computers and AI data centres."
+     }
+    ]
+   },
+   {
+    "id": "us4",
+    "source": "schwab.com",
+    "title": "Fed and Bank of Japan meetings loom next week",
+    "link": "https://www.schwab.com/learn/story/stock-market-update-open",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "Two of the world's most powerful central banks decide on interest rates next week.",
+    "simplified_article": "Next week brings rate-setting meetings at the US Federal Reserve and the Bank of Japan. Central banks set the 'price of money' - the base interest rate everyone else borrows at. Markets worldwide tend to pause before these meetings because the outcome shapes everything: loan costs, currency values, and how attractive stocks look versus safer options like bonds.",
+    "investor_impact": "US rate decisions affect Indian markets too - higher US rates pull foreign money out of emerging markets like India; cuts tend to bring it back.",
+    "key_terms": [
+     {
+      "term": "Federal Reserve (Fed)",
+      "meaning": "The US central bank - its rate decisions move markets worldwide."
+     },
+     {
+      "term": "Central bank",
+      "meaning": "A country's money authority - it sets base interest rates and manages the currency."
+     }
+    ]
+   },
+   {
+    "id": "us5",
+    "source": "bbc.com",
+    "title": "Musk loses OpenAI court battle",
+    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o",
+    "published": "Mon, 18 May 2026",
+    "quick_take": "A jury ruled against Elon Musk in his high-profile lawsuit against OpenAI.",
+    "simplified_article": "Elon Musk sued OpenAI, the company behind ChatGPT, claiming its leaders had effectively 'stolen a charity' by turning a non-profit into a money-making business. After weeks of testimony, the jury found Musk had waited too long to bring the case and ruled against him. The verdict removes a legal cloud that had been hanging over one of the world's most valuable AI companies.",
+    "investor_impact": "Legal battles between tech giants matter to investors because they can stall products and partnerships. This outcome reduces uncertainty around the AI sector's biggest player.",
+    "key_terms": [
+     {
+      "term": "Non-profit",
+      "meaning": "An organisation meant to serve a mission rather than make money for owners."
+     }
+    ]
+   },
+   {
+    "id": "us6",
+    "source": "bbc.com",
+    "title": "IMF upgrades UK growth forecast",
+    "link": "https://www.bbc.com/news/articles/cm2p72mmddyo",
+    "published": "Mon, 18 May 2026",
+    "quick_take": "The IMF now expects the UK economy to grow 1% in 2026, up from its earlier 0.8% estimate.",
+    "simplified_article": "The International Monetary Fund, a global body that monitors economies, raised its growth forecast for the UK. An upgrade means the economy is doing a bit better than experts previously thought, though the IMF warned risks remain. Growth forecasts shape government budgets, business investment plans, and market confidence.",
+    "investor_impact": "Forecast upgrades anywhere in the global economy are mildly positive for world markets - they suggest demand is holding up despite high interest rates and conflict-related disruption.",
+    "key_terms": [
+     {
+      "term": "IMF",
+      "meaning": "International Monetary Fund - a global institution that tracks economies and lends to countries in trouble."
+     },
+     {
+      "term": "GDP growth",
+      "meaning": "How much bigger a country's total economic output gets in a year."
+     }
+    ]
+   }
+  ],
+  "banking-economy": [
+   {
+    "id": "be1",
+    "source": "tradingeconomics.com",
+    "title": "RBI holds repo rate at 5.25% for third straight meeting",
+    "link": "https://tradingeconomics.com/india/interest-rate",
+    "published": "Fri, 05 Jun 2026",
+    "quick_take": "India's central bank kept its key lending rate unchanged at 5.25% but cut its growth forecast.",
+    "simplified_article": "The Reserve Bank of India left the repo rate - the rate at which it lends to banks - at 5.25% for the third meeting in a row. It also turned more cautious about the economy: it now expects growth of 6.6% next year instead of 6.9%, and inflation of 5.1% instead of 4.6%, blaming costlier LPG, metals, plastic and rubber. Higher expected inflation makes rate cuts less likely soon.",
+    "investor_impact": "Your loan EMIs stay where they are for now. With inflation forecasts rising, don't count on cheaper loans this year - and fixed deposit rates should stay attractive a while longer.",
+    "key_terms": [
+     {
+      "term": "Repo rate",
+      "meaning": "The interest rate at which the RBI lends to banks - it influences every other interest rate in the economy."
+     },
+     {
+      "term": "Neutral stance",
+      "meaning": "The central bank signalling it could move rates either way depending on data."
+     }
+    ]
+   },
+   {
+    "id": "be2",
+    "source": "mufgresearch.com",
+    "title": "RBI rolls out measures to support the weakening rupee",
+    "link": "https://www.mufgresearch.com/fx/india-shoring-up-the-indian-rupee-rbi-june-2026-measures-8-june-2026/",
+    "published": "Mon, 08 Jun 2026",
+    "quick_take": "The RBI announced special schemes to attract dollars into India and steady the falling rupee.",
+    "simplified_article": "With the rupee under pressure, the RBI introduced measures to pull foreign currency into the country. It will fully subsidise the hedging costs of banks that raise fresh 3-5 year foreign-currency deposits from NRIs, and offer a cheaper currency-swap facility to encourage state-owned companies to borrow abroad. More dollars flowing in increases demand for rupees, which supports its value.",
+    "investor_impact": "A weak rupee makes imports (like oil and electronics) costlier, feeding inflation. If these measures work, that pressure eases - good for prices and for foreign investors' confidence in India.",
+    "key_terms": [
+     {
+      "term": "FCNR(B) deposit",
+      "meaning": "A bank deposit NRIs hold in foreign currency in India - the bank, not the depositor, carries the currency risk."
+     },
+     {
+      "term": "Hedging",
+      "meaning": "Paying a small cost to protect against currency values moving against you."
+     }
+    ]
+   },
+   {
+    "id": "be3",
+    "source": "bankingfinance.in",
+    "title": "RBI cancels Paytm Payments Bank's licence",
+    "link": "https://www.bankingfinance.in/rbi-news-for-june-2026.html",
+    "published": "Jun 2026",
+    "quick_take": "The RBI revoked Paytm Payments Bank's banking licence over rule violations.",
+    "simplified_article": "The central bank cancelled the licence of Paytm Payments Bank, saying it failed to comply with banking regulations. A payments bank is a limited type of bank that can take deposits and process payments but cannot lend much. The decision creates uncertainty for roughly 66,000 business correspondents and over 700 employees who worked with the bank.",
+    "investor_impact": "A reminder that regulation is a real risk in fintech investing. Companies that move fast but fall short on compliance can lose their core business overnight.",
+    "key_terms": [
+     {
+      "term": "Payments bank",
+      "meaning": "A small-scale bank allowed to accept deposits and handle payments, but with strict limits on lending."
+     },
+     {
+      "term": "Compliance",
+      "meaning": "Following the rules set by regulators - banks face severe penalties for failing this."
+     }
+    ]
+   },
+   {
+    "id": "be4",
+    "source": "bankingfinance.in",
+    "title": "New RBI rules give you more control over auto-debits",
+    "link": "https://www.bankingfinance.in/rbi-news-for-june-2026.html",
+    "published": "Jun 2026",
+    "quick_take": "RBI's new e-mandate framework requires 24-hour notice before money is auto-debited, and lets you pause or cancel mandates.",
+    "simplified_article": "The RBI introduced the Digital Payments E-Mandate Framework 2026 for recurring payments like subscriptions, SIPs and EMIs. Banks must now notify you at least 24 hours before any auto-debit, and you get the right to modify, pause or cancel mandates and set your own limits. The goal is fewer surprise deductions and more customer control.",
+    "investor_impact": "Practical money win: check your bank app for the new mandate controls. You can now cap or pause subscriptions you forgot about instead of discovering them on your statement.",
+    "key_terms": [
+     {
+      "term": "E-mandate",
+      "meaning": "A standing instruction letting a company automatically pull money from your account on schedule."
+     }
+    ]
+   },
+   {
+    "id": "be5",
+    "source": "bbc.com",
+    "title": "Standard Chartered to cut thousands of roles as AI use increases",
+    "link": "https://www.bbc.com/news/articles/crep3v8vzglo",
+    "published": "Tue, 19 May 2026",
+    "quick_take": "The global bank plans thousands of job cuts as AI takes over more work, though some staff will be moved to new roles.",
+    "simplified_article": "Standard Chartered, a UK-headquartered bank operating widely across Asia, said it will cut thousands of positions as it increases its use of artificial intelligence. The bank says it aims to move some affected workers into other roles. Banks worldwide are using AI for tasks like document processing, customer queries and compliance checks that once needed large teams.",
+    "investor_impact": "For bank shareholders, AI-driven cost cuts can boost profits. For the economy, it signals white-collar job disruption is arriving in finance - a trend worth watching across the sector.",
+    "key_terms": [
+     {
+      "term": "Headcount reduction",
+      "meaning": "Corporate language for job cuts."
+     }
+    ]
+   },
+   {
+    "id": "be6",
+    "source": "bankingfinance.in",
+    "title": "Bank of Maharashtra's profit jumps 35%",
+    "link": "https://www.bankingfinance.in/banking-news-for-june-2026.html",
+    "published": "Jun 2026",
+    "quick_take": "The public-sector bank posted a 35% rise in quarterly profit to Rs 2,014 crore on strong loan growth.",
+    "simplified_article": "Bank of Maharashtra reported net profit of Rs 2,014 crore for the January-March quarter, 35% higher than a year earlier. Two things drove it: the bank gave out more loans (which earn interest), and it set aside less money for loans that might go bad. When banks need smaller 'just in case' buffers, it usually means borrowers are repaying well.",
+    "investor_impact": "Strong public-sector bank results suggest the lending environment is healthy. PSU banks have been a notable market theme - results like this explain why.",
+    "key_terms": [
+     {
+      "term": "Provisions",
+      "meaning": "Money a bank sets aside to cover loans that may not be repaid - lower provisions mean healthier borrowers."
+     },
+     {
+      "term": "PSU bank",
+      "meaning": "A bank majority-owned by the government, like SBI or Bank of Maharashtra."
+     }
+    ]
+   }
+  ],
+  "sectors": [
+   {
+    "id": "se1",
+    "source": "upstox.com",
+    "title": "Maruti posts highest monthly sales in its history",
+    "link": "https://upstox.com/news/market-news/stocks/may-auto-sales-2026-live-updates-maruti-suzuki-tata-motors-hyundai-india-mahindra-and-mahindra-bajaj-auto-ola-electric-eicher-motors-share-price/liveblog-194549/",
+    "published": "Jun 2026",
+    "quick_take": "Maruti Suzuki sold 242,688 vehicles in May - its best month ever, up nearly 35% from last year.",
+    "simplified_article": "India's largest carmaker had a record month. Maruti sold over 2.4 lakh vehicles in May, with SUVs contributing about 79,000 units and small cars like the Alto and Wagon R around 81,500. A 35% jump for the market leader suggests demand for cars in India is running hot, helped by new launches and easing supply issues.",
+    "investor_impact": "Auto sales are a classic economy health-check: people buy cars when they feel financially confident. Record numbers are a positive signal for the broader consumption story.",
+    "key_terms": [
+     {
+      "term": "OEM",
+      "meaning": "Original Equipment Manufacturer - industry term for a vehicle maker."
+     },
+     {
+      "term": "YoY",
+      "meaning": "Year-on-Year - comparing this month with the same month last year."
+     }
+    ]
+   },
+   {
+    "id": "se2",
+    "source": "goodcarbadcar.net",
+    "title": "Tata becomes first carmaker to sell 10,000+ EVs in a month",
+    "link": "https://www.goodcarbadcar.net/india-may-2026-maruti-record-tata-ev-85/",
+    "published": "Jun 2026",
+    "quick_take": "Tata Motors' EV sales jumped 85% to a record 10,517 units - the first time any Indian carmaker crossed five figures in a month.",
+    "simplified_article": "Tata Motors hit a milestone: more than 10,000 electric vehicles sold in a single month, up 85% from last year. Its overall passenger vehicle sales also rose 42%. India's total EV sales grew about 80% in May, setting a record. Cheaper models like the updated Tiago EV at Rs 6.99 lakh are bringing electric cars within reach of more buyers.",
+    "investor_impact": "The EV shift is accelerating faster than many expected. Beyond carmakers, this lifts the whole chain - battery makers, charging networks, and component suppliers.",
+    "key_terms": [
+     {
+      "term": "EV",
+      "meaning": "Electric Vehicle - runs on batteries instead of petrol or diesel."
+     },
+     {
+      "term": "Five-figure mark",
+      "meaning": "Crossing 10,000 units - a symbolic scale milestone."
+     }
+    ]
+   },
+   {
+    "id": "se3",
+    "source": "carlelo.com",
+    "title": "Mahindra closes the gap on Tata in the EV race",
+    "link": "https://www.carlelo.com/news/ev-sales-may-2026-mahindra-closes-the-gap-on-tata",
+    "published": "Jun 2026",
+    "quick_take": "Mahindra's EV sales nearly doubled, grabbing 24% market share versus leader Tata's 39.9%.",
+    "simplified_article": "Tata has long dominated India's electric car market, but Mahindra is catching up fast. Driven by demand for its electric SUV lineup, Mahindra registered 6,210 EVs in May - 98% growth - taking a 24% share of the market while Tata holds about 40%. Competition like this typically means better cars and lower prices for buyers.",
+    "investor_impact": "Market-share battles compress profits short-term but grow the overall market. For investors, the question shifts from 'will EVs succeed?' to 'which brand wins?'",
+    "key_terms": [
+     {
+      "term": "Market share",
+      "meaning": "A company's slice of total sales in its industry."
+     }
+    ]
+   },
+   {
+    "id": "se4",
+    "source": "businesstoday.in",
+    "title": "Brokerage downgrades entire IT pack to 'Sell'",
+    "link": "https://www.businesstoday.in/markets/stocks/story/infosys-tcs-hcl-tech-wipro-coforge-tech-m-downgrade-on-it-stocks-check-new-targets-536227-2026-06-11",
+    "published": "Thu, 11 Jun 2026",
+    "quick_take": "Nirmal Bang cut TCS, Infosys, HCL Tech, Wipro, Tech Mahindra and LTIMindtree to 'Sell', citing AI pressure.",
+    "simplified_article": "A brokerage downgraded India's six biggest IT companies all at once. Its argument: generative AI squeezes IT firms from both sides. If clients adopt AI quickly, they need fewer traditional IT services; if AI adoption stalls, technology budgets shrink anyway. The brokerage believes pressure on revenue and profit margins is arriving sooner than the market expects.",
+    "investor_impact": "Analyst calls aren't gospel - but a whole-sector downgrade explains why IT funds have underperformed. If you hold IT-heavy funds, understand this is the debate driving them.",
+    "key_terms": [
+     {
+      "term": "Downgrade",
+      "meaning": "An analyst lowering their rating on a stock, e.g. from 'Hold' to 'Sell'."
+     },
+     {
+      "term": "Margin",
+      "meaning": "Profit as a percentage of revenue - shrinking margins mean less profit per rupee of sales."
+     }
+    ]
+   },
+   {
+    "id": "se5",
+    "source": "ipa-india.org",
+    "title": "Sun Pharma to build Rs 3,000 crore plant in Madhya Pradesh",
+    "link": "https://www.ipa-india.org/news-releases",
+    "published": "Jun 2026",
+    "quick_take": "Sun Pharma approved a Rs 3,000 crore investment in a new greenfield medicine factory.",
+    "simplified_article": "Sun Pharma, India's largest drugmaker, will spend Rs 3,000 crore building a brand-new formulations facility in Madhya Pradesh. 'Greenfield' means built from scratch rather than expanding an existing site. Big capacity investments like this signal confidence in long-term demand for Indian-made medicines, both at home and in export markets.",
+    "investor_impact": "Pharma capex today becomes revenue years later. India's role as the 'pharmacy of the world' - generics, vaccines, contract manufacturing - continues to attract serious money.",
+    "key_terms": [
+     {
+      "term": "Greenfield project",
+      "meaning": "A facility built from scratch on new ground, versus expanding something existing."
+     },
+     {
+      "term": "Formulations",
+      "meaning": "Finished medicines (tablets, syrups) as opposed to raw pharmaceutical ingredients."
+     }
+    ]
+   },
+   {
+    "id": "se6",
+    "source": "rushlane.com",
+    "title": "Maruti launches India's first flex-fuel production car",
+    "link": "https://www.rushlane.com/electric-car-sales-cy-2026-tata-mahindra-mg-vinfast-maruti-hyundai-12545538.html",
+    "published": "Jun 2026",
+    "quick_take": "The new Wagon R Flex Fuel can run on petrol-ethanol blends - a first for a production car in India.",
+    "simplified_article": "Maruti launched a version of the Wagon R that can run on flexible blends of petrol and ethanol, a fuel made from crops like sugarcane. India pushes ethanol because it is produced domestically, cutting expensive oil imports. Flex-fuel gives buyers an alternative path to lower running costs without going fully electric.",
+    "investor_impact": "Energy transition isn't only EVs - ethanol, CNG and hybrids all compete. Sugar and ethanol producers are an often-overlooked corner of this theme.",
+    "key_terms": [
+     {
+      "term": "Flex-fuel",
+      "meaning": "An engine that can run on varying mixes of petrol and ethanol."
+     },
+     {
+      "term": "Ethanol blending",
+      "meaning": "Mixing crop-based alcohol into petrol to cut oil imports and emissions."
+     }
+    ]
+   }
+  ],
+  "crypto": [
+   {
+    "id": "cr1",
+    "source": "fortune.com",
+    "title": "Bitcoin steadies near $63,400 as market recovers",
+    "link": "https://fortune.com/article/price-of-bitcoin-06-12-2026/",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "Bitcoin rose about $500 to $63,359 as the overall crypto market recovered 1.7% to $2.25 trillion.",
+    "simplified_article": "After weeks of selling, crypto caught its breath. Bitcoin climbed to around $63,400 and the total value of all cryptocurrencies rose 1.7% to $2.25 trillion. But sentiment remains grim: the 'Fear & Greed' index sits at 12 - deep in 'extreme fear' territory, down sharply from 42 a month ago. Fearful markets can stay fearful for a while, even during small bounces.",
+    "investor_impact": "Extreme fear readings often mark periods of heavy selling pressure. Crypto remains the most volatile mainstream asset - position sizes should reflect that.",
+    "key_terms": [
+     {
+      "term": "Fear & Greed Index",
+      "meaning": "A 0-100 gauge of crypto market mood; below 25 means 'extreme fear', above 75 'extreme greed'."
+     },
+     {
+      "term": "Market cap",
+      "meaning": "Total value of all coins combined - price times number of coins."
+     }
+    ]
+   },
+   {
+    "id": "cr2",
+    "source": "intellectia.ai",
+    "title": "BlackRock files Bitcoin income ETF, debut expected next week",
+    "link": "https://intellectia.ai/news/crypto/cryptocurrency-market-update-for-june-12-2026",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "The world's largest asset manager filed to list a new Bitcoin income ETF.",
+    "simplified_article": "BlackRock, which manages more money than any firm on earth, filed paperwork to launch a Bitcoin 'income' ETF, expected to start trading next week. Unlike a plain Bitcoin fund that just tracks the price, an income ETF aims to generate regular payouts, typically by selling options on its holdings. Big institutions keep building crypto products even while prices struggle.",
+    "investor_impact": "More regulated products make crypto easier to access through normal brokerage accounts. 'Income' strategies cap your upside in exchange for payouts - read the fine print.",
+    "key_terms": [
+     {
+      "term": "ETF",
+      "meaning": "Exchange-Traded Fund - a fund you buy like a stock."
+     },
+     {
+      "term": "Covered call",
+      "meaning": "Selling someone the right to buy your asset at a set price, earning income but capping your gains."
+     }
+    ]
+   },
+   {
+    "id": "cr3",
+    "source": "intellectia.ai",
+    "title": "Bitcoin ETFs bleed $5.75 billion since mid-May",
+    "link": "https://intellectia.ai/blog/bitcoin-price-recovery-june-2026",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "Investors have pulled over $5.75 billion from spot Bitcoin ETFs in under a month.",
+    "simplified_article": "The same ETFs that brought waves of money into Bitcoin are now seeing money leave - more than $5.75 billion of outflows since mid-May. ETF flows matter because they show what large, mainstream investors are doing. Sustained outflows add selling pressure to Bitcoin's price; when flows turn positive again, they often support recoveries.",
+    "investor_impact": "ETF flow data is one of the clearest crypto signals a beginner can track - it's published daily and shows whether institutions are buying or running.",
+    "key_terms": [
+     {
+      "term": "Spot ETF",
+      "meaning": "A fund that holds actual Bitcoin, not contracts betting on its price."
+     },
+     {
+      "term": "Outflows",
+      "meaning": "Money being withdrawn from a fund."
+     }
+    ]
+   },
+   {
+    "id": "cr4",
+    "source": "theblock.co",
+    "title": "NFT lending pioneer NFTfi to shut down",
+    "link": "https://www.theblock.co/",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "NFTfi, which processed $737 million in NFT-backed loans, is closing after six years.",
+    "simplified_article": "NFTfi, a platform that let people borrow money using their NFTs (digital collectibles) as collateral, announced it will fully shut down by August 31. Over six years it processed $737 million in loans. Its closure reflects how far the NFT market has fallen from its 2021-22 peak, when digital artworks sold for millions.",
+    "investor_impact": "A cautionary tale about hype cycles: entire business models built on hot assets can vanish when the hype fades. Useful memory for whatever the next mania is.",
+    "key_terms": [
+     {
+      "term": "NFT",
+      "meaning": "Non-Fungible Token - a blockchain certificate of ownership for a digital item."
+     },
+     {
+      "term": "Collateral",
+      "meaning": "An asset you pledge to get a loan - the lender takes it if you don't repay."
+     }
+    ]
+   },
+   {
+    "id": "cr5",
+    "source": "coindesk.com",
+    "title": "Monero spikes to $438 amid $120M laundering case",
+    "link": "https://www.coindesk.com/",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "Privacy coin Monero surged amid a major laundering investigation; Tether froze $72 million linked to it.",
+    "simplified_article": "Monero, a cryptocurrency designed to hide transaction details, rocketed to $438 as a $120 million on-chain laundering case unfolded. Stablecoin issuer Tether froze $72 million in USDT connected to the activity. The episode shows both sides of crypto: privacy coins attract illicit use, while centralised players like Tether increasingly act as enforcement chokepoints.",
+    "investor_impact": "Privacy coins face constant delisting and regulatory risk precisely because of stories like this. Price spikes driven by criminal demand are not an investment thesis.",
+    "key_terms": [
+     {
+      "term": "Privacy coin",
+      "meaning": "A cryptocurrency that hides sender, receiver and amount - unlike Bitcoin, where all transactions are public."
+     },
+     {
+      "term": "Stablecoin",
+      "meaning": "A crypto token designed to stay worth exactly $1, like USDT."
+     }
+    ]
+   },
+   {
+    "id": "cr6",
+    "source": "coindesk.com",
+    "title": "Bitcoin Core privacy feature found leaking IP addresses",
+    "link": "https://www.coindesk.com/",
+    "published": "Fri, 12 Jun 2026",
+    "quick_take": "A privacy feature in Bitcoin's main software leaks users' IP addresses; a fix is coming in the next version.",
+    "simplified_article": "Bitcoin Core, the main software that runs the Bitcoin network, shipped a feature called 'private broadcast' meant to hide where transactions come from. Researchers found it can actually leak users' IP addresses under certain network conditions - the opposite of its purpose. A fix arrives in version 31.1.",
+    "investor_impact": "No direct price impact, but a reminder that crypto's infrastructure is software - bugs happen. If you run a Bitcoin node, update when the patch lands.",
+    "key_terms": [
+     {
+      "term": "Bitcoin Core",
+      "meaning": "The reference software that most computers in the Bitcoin network run."
+     },
+     {
+      "term": "IP address",
+      "meaning": "Your device's network address - exposing it can reveal your location and identity."
+     }
+    ]
+   }
+  ]
+ }
+}

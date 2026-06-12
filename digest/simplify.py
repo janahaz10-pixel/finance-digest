@@ -1,12 +1,21 @@
-"""Turn raw articles into the 4-point beginner-friendly format via the Claude API."""
+"""Turn raw articles into the 4-point beginner format.
+
+Engine priority:
+  1. Claude API        - if ANTHROPIC_API_KEY is set (best quality)
+  2. GitHub Models     - free, uses the GITHUB_TOKEN automatically present
+                         in GitHub Actions (rate-limited but no cost)
+  3. Plain fallback    - article passes through un-simplified (site still publishes)
+"""
 import json
 import os
 import re
 import time
 import urllib.request
 
-API_URL = "https://api.anthropic.com/v1/messages"
-MODEL = os.environ.get("DIGEST_MODEL", "claude-haiku-4-5-20251001")
+CLAUDE_URL = "https://api.anthropic.com/v1/messages"
+CLAUDE_MODEL = os.environ.get("DIGEST_MODEL", "claude-haiku-4-5-20251001")
+GH_URL = "https://models.github.ai/inference/chat/completions"
+GH_MODEL = os.environ.get("GITHUB_MODEL", "openai/gpt-4o-mini")
 
 PROMPT = """You write for absolute beginners learning about financial markets.
 
@@ -30,32 +39,48 @@ Rules:
 - investor_impact must be educational context, never a recommendation."""
 
 
-def _call_claude(prompt, api_key, max_retries=3):
-    body = json.dumps({
-        "model": MODEL,
-        "max_tokens": 1024,
+def _post_json(url, body, headers, timeout=60):
+    req = urllib.request.Request(url, data=json.dumps(body).encode(), headers=headers)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read())
+
+
+def _call_claude(prompt, api_key):
+    resp = _post_json(CLAUDE_URL, {
+        "model": CLAUDE_MODEL, "max_tokens": 1024,
         "messages": [{"role": "user", "content": prompt}],
-    }).encode()
-    headers = {
-        "x-api-key": api_key,
-        "anthropic-version": "2023-06-01",
+    }, {
+        "x-api-key": api_key, "anthropic-version": "2023-06-01",
         "content-type": "application/json",
-    }
+    })
+    return resp["content"][0]["text"]
+
+
+def _call_github_models(prompt, token):
+    resp = _post_json(GH_URL, {
+        "model": GH_MODEL, "max_tokens": 1024,
+        "messages": [{"role": "user", "content": prompt}],
+    }, {
+        "Authorization": f"Bearer {token}", "Content-Type": "application/json",
+        "Accept": "application/vnd.github+json",
+    })
+    return resp["choices"][0]["message"]["content"]
+
+
+def _call_llm(prompt, engine, cred, max_retries=3):
     for attempt in range(max_retries):
         try:
-            req = urllib.request.Request(API_URL, data=body, headers=headers)
-            with urllib.request.urlopen(req, timeout=60) as r:
-                resp = json.loads(r.read())
-            return resp["content"][0]["text"]
+            if engine == "claude":
+                return _call_claude(prompt, cred)
+            return _call_github_models(prompt, cred)
         except Exception as e:
-            wait = 2 ** (attempt + 1)
+            wait = 5 * 2 ** attempt  # 5s, 10s, 20s - handles per-minute rate limits
             print(f"  [retry {attempt+1}] {type(e).__name__}: {e} (waiting {wait}s)")
             time.sleep(wait)
     return None
 
 
 def _parse_json(text):
-    """Tolerant JSON extraction."""
     if not text:
         return None
     m = re.search(r"\{.*\}", text, re.DOTALL)
@@ -67,17 +92,29 @@ def _parse_json(text):
         return None
 
 
-def simplify_article(article, api_key):
-    """Returns article dict enriched with the 4 points, or None on failure."""
+def _plain_fallback(article):
+    """No AI available - publish the story un-simplified rather than not at all."""
+    article.update({
+        "quick_take": article["title"],
+        "simplified_article": article["summary"] or article["title"],
+        "investor_impact": "AI simplification wasn't available for this story - "
+                           "the original article below has the full picture.",
+        "key_terms": [],
+    })
+    return article
+
+
+def simplify_article(article, engine, cred):
+    if engine == "none":
+        return _plain_fallback(article)
     prompt = PROMPT.format(
-        title=article["title"],
-        source=article["source"],
+        title=article["title"], source=article["source"],
         summary=article["summary"] or "(no summary available - work from the title)",
     )
-    parsed = _parse_json(_call_claude(prompt, api_key))
+    parsed = _parse_json(_call_llm(prompt, engine, cred))
     if not parsed or "quick_take" not in parsed:
-        print(f"  [fail] {article['title'][:50]}")
-        return None
+        print(f"  [fallback to plain] {article['title'][:50]}")
+        return _plain_fallback(article)
     article.update({
         "quick_take": str(parsed.get("quick_take", "")).strip(),
         "simplified_article": str(parsed.get("simplified_article", "")).strip(),
@@ -90,18 +127,26 @@ def simplify_article(article, api_key):
     return article
 
 
+def pick_engine():
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        return "claude", os.environ["ANTHROPIC_API_KEY"], 0.3
+    if os.environ.get("GITHUB_TOKEN"):
+        # free tier is rate-limited per minute - pace calls ~6s apart
+        return "github", os.environ["GITHUB_TOKEN"], 6.0
+    print("[warn] no ANTHROPIC_API_KEY or GITHUB_TOKEN - publishing plain summaries")
+    return "none", None, 0
+
+
 def simplify_all(articles_by_cat):
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key:
-        raise SystemExit("ANTHROPIC_API_KEY is not set")
+    engine, cred, pace = pick_engine()
+    print(f"[simplify] engine: {engine}")
     out = {}
     for cat, articles in articles_by_cat.items():
         print(f"[simplify] {cat} ({len(articles)} articles)")
         done = []
         for a in articles:
-            result = simplify_article(a, api_key)
-            if result:
-                done.append(result)
-            time.sleep(0.3)
+            done.append(simplify_article(a, engine, cred))
+            if pace:
+                time.sleep(pace)
         out[cat] = done
     return out

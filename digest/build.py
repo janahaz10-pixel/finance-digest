@@ -4,13 +4,13 @@ import json
 import os
 
 CAT_COLORS = {
-    "indian-markets": "#ff7a45",
-    "us-global": "#2f9bff",
-    "banking-economy": "#9d6bff",
-    "sectors": "#00b88a",
-    "crypto": "#f4b400",
+    "indian-markets": "#FF6B35",
+    "us-global":      "#3B82F6",
+    "banking-economy":"#8B5CF6",
+    "sectors":        "#10B981",
+    "crypto":         "#F59E0B",
 }
-DEFAULT_COLOR = "#2f9bff"
+DEFAULT_COLOR = "#3B82F6"
 
 
 def esc(s):
@@ -26,7 +26,6 @@ def _read_time(article):
 
 
 def _render_ticker(market_data):
-    """Render scrolling market ticker. Returns '' if no data."""
     if not market_data:
         return ""
     labels  = {"nifty": "NIFTY 50", "sensex": "SENSEX", "usdinr": "USD/INR", "btcusd": "BTC/USD"}
@@ -36,26 +35,25 @@ def _render_ticker(market_data):
         d = market_data.get(key)
         if not d:
             continue
-        price   = d["price"]
-        chg     = d["change_pct"]
-        p_str   = formats[key].format(price)
+        price = d["price"]
+        chg   = d["change_pct"]
+        p_str = formats[key].format(price)
         if chg > 0.05:
-            chg_html = f'<span class="tick-up">▲ {chg:.2f}%</span>'
+            arrow = f'<span class="up">▲ {chg:.2f}%</span>'
         elif chg < -0.05:
-            chg_html = f'<span class="tick-down">▼ {abs(chg):.2f}%</span>'
+            arrow = f'<span class="dn">▼ {abs(chg):.2f}%</span>'
         else:
-            chg_html = f'<span class="tick-flat">— {abs(chg):.2f}%</span>'
+            arrow = f'<span class="fl">— {abs(chg):.2f}%</span>'
         items.append(
-            f'<span class="tick-item"><span class="tick-name">{label}</span>'
-            f'<span class="tick-price">{p_str}</span>{chg_html}</span>'
+            f'<span class="ti"><span class="tn">{label}</span>'
+            f'<span class="tp">{p_str}</span>{arrow}</span>'
         )
     if not items:
         return ""
     inner = "".join(items)
-    # Duplicate for seamless CSS loop
     return (
-        f'<div class="ticker-wrap" aria-hidden="true">'
-        f'<div class="ticker-move">{inner}{inner}</div>'
+        f'<div class="tkr" aria-hidden="true">'
+        f'<div class="tkr-inner">{inner}{inner}</div>'
         f'</div>'
     )
 
@@ -64,43 +62,47 @@ def _render_day_summary(summary):
     if not summary or not summary.strip():
         return ""
     return (
-        f'<div class="day-summary">'
-        f'<div class="ds-label">📊 Today at a glance</div>'
-        f'<p>{esc(summary.strip())}</p>'
+        f'<div class="day-sum">'
+        f'<div class="ds-badge">📊 Today at a glance</div>'
+        f'<p class="ds-text">{esc(summary.strip())}</p>'
         f'</div>'
     )
 
 
-def render_card(a, color):
+def render_card(a, color, hero=False):
     terms_html = "".join(
         f'<div class="term"><b>{esc(t["term"])}</b> — {esc(t["meaning"])}</div>'
         for t in a.get("key_terms", [])
     )
     terms_block = (
-        f'<div class="block"><h4>🔑 Key terms</h4><div class="terms">{terms_html}</div></div>'
+        f'<div class="exp-block"><h4>🔑 Key terms</h4><div class="terms">{terms_html}</div></div>'
         if terms_html else ""
     )
     link      = esc(a["link"])
     read_time = _read_time(a)
     pub       = esc(a.get("published", ""))[:17]
-    return f"""<details class="card" style="--cat:{color}">
+    hero_cls  = " hero" if hero else ""
+    return f"""<details class="card{hero_cls}" style="--c:{color}">
   <summary>
-    <div class="qt">{esc(a["quick_take"])}</div>
-    <div class="meta">
-      <span class="src">{esc(a["source"])}</span>
+    <div class="card-top">
+      <div class="qt">{esc(a["quick_take"])}</div>
+      <div class="take">{esc(a.get("simplified_article",""))}</div>
+    </div>
+    <div class="card-meta">
+      <span class="src-pill">{esc(a["source"])}</span>
       <span class="rtime">{read_time}</span>
       {f'<span class="pub">{pub}</span>' if pub else ''}
-      <a class="origlink" href="{link}" target="_blank" rel="noopener">Original ↗</a>
-      <span class="hint"><span class="closed-txt">Read simply ▾</span><span class="open-txt">Close ▴</span></span>
+      <a class="orig" href="{link}" target="_blank" rel="noopener">Original ↗</a>
+      <span class="toggler"><span class="cls-txt">Read simply ▾</span><span class="opn-txt">Close ▴</span></span>
     </div>
   </summary>
-  <div class="body">
-    <div class="block"><h4>📖 The story, simply</h4><p>{esc(a["simplified_article"])}</p></div>
-    <div class="block impact"><h4>💡 What this means for investors</h4><p>{esc(a["investor_impact"])}</p></div>
+  <div class="exp">
+    <div class="exp-block"><h4>📖 The story, simply</h4><p>{esc(a["simplified_article"])}</p></div>
+    <div class="exp-block impact"><h4>💡 What this means for investors</h4><p>{esc(a["investor_impact"])}</p></div>
     {terms_block}
-    <div class="card-actions">
-      <a class="readorig" href="{link}" target="_blank" rel="noopener">Read the original ↗</a>
-      <button class="sharebtn" type="button">⎘ Share</button>
+    <div class="exp-actions">
+      <a class="read-orig" href="{link}" target="_blank" rel="noopener">Read the original ↗</a>
+      <button class="share-btn" type="button">⎘ Share</button>
     </div>
   </div>
 </details>"""
@@ -112,337 +114,273 @@ PAGE = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{site_name} — {date_label}</title>
-<meta name="description" content="Daily financial news, simplified for beginners. No jargon, no finance degree needed.">
+<meta name="description" content="Daily financial news, simplified for everyday investors.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <style>
-  :root {{
-    --bg:#f4f6fb; --bg2:#edf0f7; --card:#ffffff; --ink:#131a2a;
-    --muted:#5d6778; --border:#e4e8f0; --accent:#4f6df5; --accent2:#18b2c8;
-    --chip-bg:#ffffff; --impact-bg:#ecf8f2; --impact-ink:#0c6e48;
-    --term-bg:#fdf4dd; --term-ink:#7a5b00;
-    --shadow:0 1px 3px rgba(16,24,40,.07);
-    --shadow-hover:0 8px 28px rgba(16,24,40,.12);
-  }}
-  [data-theme="dark"] {{
-    --bg:#0c111d; --bg2:#101727; --card:#161e31; --ink:#eef2fa;
-    --muted:#97a3b8; --border:#232d45; --accent:#7b93ff; --accent2:#2dd4bf;
-    --chip-bg:#161e31; --impact-bg:#0e2b21; --impact-ink:#5fd6a2;
-    --term-bg:#2b2410; --term-ink:#e8c35c;
-    --shadow:0 1px 3px rgba(0,0,0,.4);
-    --shadow-hover:0 8px 28px rgba(0,0,0,.55);
-  }}
-  *{{box-sizing:border-box;margin:0;padding:0}}
-  html{{scroll-behavior:smooth}}
-  body{{
-    font-family:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-    background:var(--bg);color:var(--ink);line-height:1.65;
-    transition:background .25s,color .25s;
-  }}
+:root {{
+  --bg:#F7F8FA;--surface:#FFFFFF;--surface2:#F0F2F7;
+  --ink:#111827;--ink2:#374151;--muted:#6B7280;--border:#E5E7EB;
+  --accent:#5C6BC0;--accent2:#26C6DA;
+  --grad:linear-gradient(135deg,#667EEA 0%,#764BA2 100%);
+  --grad2:linear-gradient(135deg,#5C6BC0,#26C6DA);
+  --sh0:0 1px 3px rgba(0,0,0,.06),0 1px 2px rgba(0,0,0,.04);
+  --sh1:0 4px 16px rgba(0,0,0,.08);
+  --sh2:0 12px 40px rgba(0,0,0,.13);
+  --r:16px;
+}}
+[data-theme="dark"] {{
+  --bg:#0B0F1A;--surface:#131929;--surface2:#1C2438;
+  --ink:#F1F5F9;--ink2:#CBD5E1;--muted:#94A3B8;--border:#1E2D45;
+  --accent:#818CF8;--accent2:#34D399;
+  --sh0:0 1px 3px rgba(0,0,0,.3);
+  --sh1:0 4px 16px rgba(0,0,0,.4);
+  --sh2:0 12px 40px rgba(0,0,0,.6);
+}}
+*{{box-sizing:border-box;margin:0;padding:0}}
+html{{scroll-behavior:smooth}}
+body{{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;
+  background:var(--bg);color:var(--ink);line-height:1.6;
+  transition:background .3s,color .3s;-webkit-font-smoothing:antialiased;}}
 
-  /* ── Reading progress bar ── */
-  #progress{{
-    position:fixed;top:0;left:0;height:3px;width:0%;
-    background:linear-gradient(90deg,var(--accent),var(--accent2));
-    z-index:200;transition:width .08s linear;pointer-events:none;
-  }}
+#prog{{position:fixed;top:0;left:0;height:3px;width:0;
+  background:var(--grad2);z-index:999;transition:width .1s linear;pointer-events:none}}
 
-  /* ── Ticker strip ── */
-  .ticker-wrap{{
-    background:var(--bg2);border-bottom:1px solid var(--border);
-    overflow:hidden;padding:7px 0;font-size:.76rem;font-weight:600;
-    letter-spacing:.01em;color:var(--muted);user-select:none;
-  }}
-  .ticker-move{{
-    display:inline-flex;white-space:nowrap;
-    animation:ticker-scroll 36s linear infinite;
-  }}
-  .ticker-move:hover{{animation-play-state:paused}}
-  .tick-item{{padding:0 28px;border-right:1px solid var(--border)}}
-  .tick-name{{color:var(--ink);font-weight:800;margin-right:6px}}
-  .tick-price{{margin-right:4px}}
-  .tick-up{{color:#22c55e}}
-  .tick-down{{color:#ef4444}}
-  .tick-flat{{color:var(--muted)}}
-  @keyframes ticker-scroll{{0%{{transform:translateX(0)}}100%{{transform:translateX(-50%)}}}}
+.tkr{{background:var(--surface);border-bottom:1px solid var(--border);
+  overflow:hidden;padding:8px 0;white-space:nowrap;user-select:none;}}
+.tkr-inner{{display:inline-flex;animation:ticker 40s linear infinite}}
+.tkr-inner:hover{{animation-play-state:paused}}
+.ti{{display:inline-flex;align-items:center;gap:8px;padding:0 24px;
+  border-right:1px solid var(--border);font-size:.76rem;font-weight:600;letter-spacing:.01em;}}
+.tn{{color:var(--ink);font-weight:800}}.tp{{color:var(--muted)}}
+.up{{color:#10B981}}.dn{{color:#EF4444}}.fl{{color:var(--muted)}}
+@keyframes ticker{{from{{transform:translateX(0)}}to{{transform:translateX(-50%)}}}}
 
-  /* ── Header ── */
-  header{{
-    background:var(--card);border-bottom:1px solid var(--border);
-    position:sticky;top:0;z-index:20;box-shadow:var(--shadow);
-  }}
-  .hwrap{{max-width:960px;margin:0 auto;padding:14px 18px 0}}
-  .hrow{{display:flex;align-items:center;justify-content:space-between;gap:12px}}
-  .brand{{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}}
-  h1{{font-size:1.45rem;letter-spacing:-.03em;font-weight:800}}
-  h1 em{{
-    font-style:normal;
-    background:linear-gradient(120deg,var(--accent),var(--accent2));
-    -webkit-background-clip:text;background-clip:text;color:transparent;
-  }}
-  .tagline{{color:var(--muted);font-size:.82rem;font-weight:500}}
-  .hbtns{{display:flex;gap:8px;align-items:center}}
-  .btn{{
-    border:1px solid var(--border);background:var(--chip-bg);color:var(--ink);
-    border-radius:10px;padding:6px 12px;font-size:.82rem;font-weight:600;
-    cursor:pointer;text-decoration:none;font-family:inherit;
-    transition:border-color .15s,color .15s;
-  }}
-  .btn:hover{{border-color:var(--accent);color:var(--accent)}}
+header{{background:rgba(247,248,250,.88);backdrop-filter:blur(14px);
+  -webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--border);
+  position:sticky;top:0;z-index:100;}}
+[data-theme="dark"] header{{background:rgba(11,15,26,.88)}}
+.h-inner{{max-width:1160px;margin:0 auto;padding:14px 20px}}
+.h-row1{{display:flex;align-items:center;justify-content:space-between;gap:16px}}
+.brand-name{{font-size:1.5rem;font-weight:900;letter-spacing:-.04em;
+  background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;}}
+.brand-tag{{font-size:.74rem;color:var(--muted);font-weight:500;margin-top:2px}}
+.h-controls{{display:flex;gap:8px}}
+.icon-btn{{width:38px;height:38px;border-radius:12px;border:1px solid var(--border);
+  background:var(--surface);color:var(--ink);font-size:1rem;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;transition:border-color .15s;}}
+.icon-btn:hover{{border-color:var(--accent)}}
+.h-search{{padding:10px 0 0;position:relative}}
+.s-ic{{position:absolute;left:14px;top:50%;transform:translateY(-50%);
+  color:var(--muted);font-size:.9rem;pointer-events:none}}
+#search{{width:100%;max-width:500px;background:var(--surface2);border:1px solid var(--border);
+  color:var(--ink);border-radius:12px;padding:10px 14px 10px 40px;
+  font-size:.875rem;font-family:inherit;outline:none;transition:border-color .15s,background .15s;}}
+#search:focus{{border-color:var(--accent);background:var(--surface)}}
+#search::placeholder{{color:var(--muted)}}
 
-  /* ── Search bar ── */
-  .search-wrap{{padding:10px 0 0}}
-  .search-rel{{position:relative;display:inline-block;width:100%;max-width:420px}}
-  .search-icon{{
-    position:absolute;left:13px;top:50%;transform:translateY(-50%);
-    color:var(--muted);font-size:.88rem;pointer-events:none;
-  }}
-  #search{{
-    width:100%;background:var(--bg2);border:1px solid var(--border);color:var(--ink);
-    border-radius:12px;padding:9px 14px 9px 36px;font-size:.88rem;font-family:inherit;
-    outline:none;transition:border-color .15s;
-  }}
-  #search::placeholder{{color:var(--muted)}}
-  #search:focus{{border-color:var(--accent);background:var(--card)}}
+.cat-nav{{display:flex;gap:8px;overflow-x:auto;padding:12px 0 2px;scrollbar-width:none}}
+.cat-nav::-webkit-scrollbar{{display:none}}
+.cat-pill{{display:inline-flex;align-items:center;gap:6px;padding:7px 16px;
+  border-radius:999px;color:var(--muted);font-size:.83rem;font-weight:600;
+  border:1.5px solid var(--border);background:var(--surface);white-space:nowrap;
+  transition:all .15s;cursor:pointer;text-decoration:none;}}
+.cat-pill:hover{{color:var(--ink);border-color:var(--accent)}}
+.cat-pill.active{{background:var(--grad);border-color:transparent;color:#fff}}
+.cat-dot{{width:7px;height:7px;border-radius:50%;flex-shrink:0}}
+.cat-count{{font-size:.7rem;font-weight:700;padding:1px 6px;border-radius:999px;
+  background:var(--surface2);color:var(--muted);}}
+.cat-pill.active .cat-count{{background:rgba(255,255,255,.25);color:#fff}}
 
-  /* ── Category nav ── */
-  nav{{display:flex;gap:8px;overflow-x:auto;padding:12px 0;scrollbar-width:none}}
-  nav::-webkit-scrollbar{{display:none}}
-  nav a{{
-    white-space:nowrap;padding:6px 14px;border-radius:999px;text-decoration:none;
-    color:var(--muted);font-size:.85rem;font-weight:600;border:1px solid var(--border);
-    background:var(--chip-bg);display:flex;align-items:center;gap:7px;
-    transition:color .15s,border-color .15s,background .15s;
-  }}
-  nav a .dot{{width:8px;height:8px;border-radius:50%;display:inline-block;flex-shrink:0}}
-  nav a .nbadge{{
-    background:var(--bg2);color:var(--muted);font-size:.7rem;font-weight:700;
-    padding:1px 6px;border-radius:999px;
-  }}
-  nav a:hover{{color:var(--ink);border-color:var(--accent)}}
+.main-wrap{{max-width:1160px;margin:0 auto;padding:28px 20px 100px}}
+.date-bar{{display:flex;align-items:center;gap:8px;margin-bottom:24px;
+  font-size:.88rem;font-weight:600;color:var(--muted);}}
+.live-dot{{width:8px;height:8px;border-radius:50%;background:#10B981;flex-shrink:0;
+  box-shadow:0 0 0 4px rgba(16,185,129,.15);}}
 
-  /* ── Main ── */
-  main{{max-width:960px;margin:0 auto;padding:28px 18px 90px}}
-  .datebar{{
-    display:flex;align-items:center;gap:10px;margin-bottom:20px;
-    color:var(--muted);font-size:.9rem;font-weight:500;
-  }}
-  .datebar .live{{
-    width:8px;height:8px;border-radius:50%;background:#22c55e;
-    box-shadow:0 0 0 4px rgba(34,197,94,.18);flex-shrink:0;
-  }}
-  .datebar b{{color:var(--ink);font-weight:700}}
+.day-sum{{border-radius:var(--r);padding:22px 26px;margin-bottom:32px;
+  background:var(--grad);color:#fff;position:relative;overflow:hidden;}}
+.day-sum::before{{content:'';position:absolute;inset:0;opacity:.06;
+  background-image:radial-gradient(circle at 80% 50%,#fff 0%,transparent 60%);}}
+.ds-badge{{font-size:.68rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;
+  opacity:.8;margin-bottom:10px;}}
+.ds-text{{font-size:1rem;line-height:1.72;position:relative;z-index:1}}
 
-  /* ── Day summary ── */
-  .day-summary{{
-    background:var(--card);border:1px solid var(--border);border-radius:16px;
-    padding:18px 20px;margin-bottom:30px;box-shadow:var(--shadow);
-    border-left:4px solid var(--accent);
-  }}
-  .ds-label{{
-    font-size:.68rem;font-weight:800;letter-spacing:.1em;
-    text-transform:uppercase;color:var(--accent);margin-bottom:9px;
-  }}
-  .day-summary p{{font-size:.97rem;line-height:1.72;color:var(--ink)}}
+section{{margin-bottom:52px}}
+.sec-header{{display:flex;align-items:center;gap:12px;margin-bottom:20px;
+  padding-bottom:14px;border-bottom:2px solid var(--border);}}
+.sec-emoji{{font-size:1.35rem;line-height:1}}
+.sec-title{{font-size:1.15rem;font-weight:800;letter-spacing:-.02em}}
+.sec-count{{font-size:.72rem;font-weight:700;color:var(--muted);
+  background:var(--surface2);border:1px solid var(--border);
+  padding:2px 10px;border-radius:999px;margin-left:auto;}}
 
-  /* ── Sections & cards ── */
-  section{{margin-bottom:46px}}
-  .sechead{{display:flex;align-items:center;gap:10px;margin-bottom:16px}}
-  .sechead .bar{{width:5px;height:22px;border-radius:3px;flex-shrink:0}}
-  .sechead h2{{font-size:1.15rem;letter-spacing:-.01em;font-weight:800}}
-  .count{{
-    color:var(--muted);font-size:.78rem;font-weight:700;
-    border:1px solid var(--border);padding:2px 10px;border-radius:999px;
-  }}
+.card-grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}}
 
-  @keyframes fadeSlideUp{{
-    from{{opacity:0;transform:translateY(14px)}}
-    to{{opacity:1;transform:translateY(0)}}
-  }}
-  .card{{
-    background:var(--card);border:1px solid var(--border);border-radius:16px;
-    margin-bottom:14px;overflow:hidden;box-shadow:var(--shadow);
-    transition:box-shadow .2s,transform .2s;
-    border-left:4px solid var(--cat,var(--accent));
-    animation:fadeSlideUp .42s ease both;
-  }}
-  .card:hover{{box-shadow:var(--shadow-hover);transform:translateY(-2px)}}
-  .card.hidden{{display:none!important}}
+.card{{background:var(--surface);border-radius:var(--r);border:1px solid var(--border);
+  box-shadow:var(--sh0);overflow:hidden;transition:box-shadow .2s,transform .2s;
+  animation:rise .4s ease both;border-top:3px solid var(--c,var(--accent));
+  display:flex;flex-direction:column;}}
+.card:hover{{box-shadow:var(--sh1);transform:translateY(-3px)}}
+.card.hidden{{display:none!important}}
+.card.hero{{grid-column:span 2}}
+@keyframes rise{{from{{opacity:0;transform:translateY(12px)}}to{{opacity:1;transform:translateY(0)}}}}
 
-  .card summary{{list-style:none;cursor:pointer;padding:16px 18px 14px}}
-  .card summary::-webkit-details-marker{{display:none}}
-  .qt{{font-size:1.02rem;font-weight:700;margin-bottom:10px;letter-spacing:-.01em;line-height:1.42}}
-  .meta{{
-    font-size:.76rem;color:var(--muted);
-    display:flex;gap:10px;align-items:center;flex-wrap:wrap;
-  }}
-  .src{{
-    border:1px solid var(--border);padding:2px 9px;border-radius:999px;
-    font-weight:700;color:var(--ink);
-  }}
-  .rtime{{color:var(--muted)}}
-  .pub{{color:var(--muted)}}
-  .origlink{{color:var(--accent);text-decoration:none;font-weight:700}}
-  .origlink:hover{{text-decoration:underline}}
-  .hint{{margin-left:auto;color:var(--muted);font-weight:600;white-space:nowrap}}
-  details[open] .hint .closed-txt{{display:none}}
-  details:not([open]) .hint .open-txt{{display:none}}
+.card summary{{list-style:none;cursor:pointer;padding:18px 18px 14px;
+  flex:1;display:flex;flex-direction:column;}}
+.card summary::-webkit-details-marker{{display:none}}
+.card-top{{flex:1;margin-bottom:12px}}
+.qt{{font-size:.97rem;font-weight:700;line-height:1.45;margin-bottom:8px;
+  color:var(--ink);letter-spacing:-.01em;}}
+.card.hero .qt{{font-size:1.1rem}}
+.take{{font-size:.82rem;color:var(--muted);line-height:1.6;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}}
+.card.hero .take{{-webkit-line-clamp:3}}
+.card-meta{{display:flex;flex-wrap:wrap;align-items:center;gap:7px;font-size:.74rem;
+  padding-top:12px;border-top:1px solid var(--border);margin-top:auto;}}
+.src-pill{{background:var(--surface2);color:var(--ink2);border-radius:6px;
+  padding:2px 8px;font-weight:700;font-size:.72rem;}}
+.rtime,.pub{{color:var(--muted)}}
+.orig{{color:var(--accent);text-decoration:none;font-weight:600;margin-left:auto;}}
+.orig:hover{{text-decoration:underline}}
+.toggler{{color:var(--muted);font-weight:600;font-size:.74rem;padding:3px 10px;
+  border-radius:8px;background:var(--surface2);border:1px solid var(--border);
+  cursor:pointer;transition:background .15s,color .15s,border-color .15s;}}
+.toggler:hover{{background:var(--accent);color:#fff;border-color:var(--accent)}}
+details[open] .toggler .cls-txt{{display:none}}
+details:not([open]) .toggler .opn-txt{{display:none}}
 
-  .body{{padding:4px 18px 18px}}
-  .block{{margin-top:16px}}
-  .block h4{{
-    font-size:.67rem;font-weight:800;letter-spacing:.1em;
-    text-transform:uppercase;color:var(--muted);margin-bottom:8px;
-  }}
-  .block p{{font-size:.95rem;line-height:1.72}}
-  .impact{{background:var(--impact-bg);border-radius:12px;padding:14px 16px}}
-  .impact h4,.impact p{{color:var(--impact-ink)}}
-  .terms{{display:flex;flex-direction:column;gap:8px}}
-  .term{{
-    background:var(--term-bg);border-radius:10px;
-    padding:10px 14px;font-size:.88rem;color:var(--ink);
-  }}
-  .term b{{color:var(--term-ink)}}
+.exp{{padding:4px 18px 18px;border-top:1px dashed var(--border);background:var(--surface)}}
+.exp-block{{margin-top:16px}}
+.exp-block h4{{font-size:.65rem;font-weight:800;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--muted);margin-bottom:8px;}}
+.exp-block p{{font-size:.9rem;line-height:1.75;color:var(--ink2)}}
+.exp-block.impact{{background:linear-gradient(135deg,rgba(16,185,129,.07),rgba(16,185,129,.02));
+  border-radius:12px;padding:14px 16px;border-left:3px solid #10B981;}}
+.exp-block.impact h4{{color:#059669}}.exp-block.impact p{{color:var(--ink)}}
+.terms{{display:flex;flex-direction:column;gap:8px;margin-top:4px}}
+.term{{background:var(--surface2);border-radius:10px;padding:10px 14px;
+  font-size:.86rem;color:var(--ink);border-left:3px solid var(--accent);}}
+.term b{{color:var(--accent)}}
+.exp-actions{{display:flex;align-items:center;gap:10px;margin-top:18px;flex-wrap:wrap}}
+.read-orig{{display:inline-flex;align-items:center;gap:6px;font-size:.85rem;color:#fff;
+  background:var(--grad);text-decoration:none;font-weight:700;padding:9px 18px;
+  border-radius:10px;transition:opacity .15s;}}
+.read-orig:hover{{opacity:.88}}
+.share-btn{{font-size:.8rem;color:var(--muted);background:var(--surface2);
+  border:1px solid var(--border);padding:8px 14px;border-radius:10px;
+  cursor:pointer;font-weight:600;font-family:inherit;transition:color .15s,border-color .15s;}}
+.share-btn:hover{{color:var(--accent);border-color:var(--accent)}}
 
-  /* ── Card action row ── */
-  .card-actions{{display:flex;align-items:center;gap:10px;margin-top:18px;flex-wrap:wrap}}
-  .readorig{{
-    display:inline-flex;align-items:center;gap:6px;font-size:.88rem;
-    color:#fff;background:linear-gradient(120deg,var(--accent),var(--accent2));
-    text-decoration:none;font-weight:700;padding:9px 18px;border-radius:10px;
-    transition:opacity .15s;
-  }}
-  .readorig:hover{{opacity:.88}}
-  .sharebtn{{
-    display:inline-flex;align-items:center;gap:5px;font-size:.82rem;
-    color:var(--muted);background:var(--bg2);border:1px solid var(--border);
-    padding:8px 14px;border-radius:10px;cursor:pointer;font-weight:600;
-    font-family:inherit;transition:color .15s,border-color .15s;
-  }}
-  .sharebtn:hover{{color:var(--accent);border-color:var(--accent)}}
+.no-match{{color:var(--muted);font-size:.9rem;text-align:center;padding:40px 0;display:none}}
+.disclaimer{{color:var(--muted);font-size:.74rem;text-align:center;
+  padding:20px 0 10px;border-top:1px solid var(--border);margin-top:30px;}}
+footer{{text-align:center;padding:20px;font-size:.78rem;color:var(--muted);
+  border-top:1px solid var(--border);background:var(--surface);}}
+footer a{{color:var(--accent);text-decoration:none}}
+footer a:hover{{text-decoration:underline}}
+#btt{{position:fixed;bottom:28px;right:22px;background:var(--grad);color:#fff;
+  border:none;width:44px;height:44px;border-radius:14px;font-size:1.1rem;
+  cursor:pointer;display:none;align-items:center;justify-content:center;
+  box-shadow:0 4px 16px rgba(92,107,192,.35);transition:opacity .2s,transform .2s;z-index:50;}}
+#btt.show{{display:flex}}
+#btt:hover{{opacity:.88;transform:translateY(-2px)}}
 
-  /* ── Footer & misc ── */
-  .empty{{color:var(--muted);font-size:.9rem;padding:12px 0}}
-  .no-match{{color:var(--muted);font-size:.9rem;padding:24px 0;text-align:center;display:none}}
-  .disclaimer{{
-       color:var(--muted);font-size:.75rem;text-align:center;
-    padding:20px 0 10px;border-top:1px solid var(--border);margin-top:30px;
-  }}
-  footer{{
-    text-align:center;padding:18px;font-size:.78rem;color:var(--muted);
-    border-top:1px solid var(--border);background:var(--card);
-  }}
-  #backtop{{
-    position:fixed;bottom:28px;right:22px;
-    background:var(--accent);color:#fff;border:none;
-    width:42px;height:42px;border-radius:50%;font-size:1.1rem;
-    cursor:pointer;display:none;align-items:center;justify-content:center;
-    box-shadow:0 4px 16px rgba(79,109,245,.35);transition:opacity .2s,transform .2s;
-    z-index:50;
-  }}
-  #backtop.show{{display:flex}}
-  #backtop:hover{{opacity:.88;transform:translateY(-2px)}}
-  @media(max-width:600px){{
-    h1{{font-size:1.2rem}}
-    .tagline{{display:none}}
-    main{{padding:18px 14px 80px}}
-    .hwrap{{padding:12px 14px 0}}
-  }}
+@media(max-width:900px){{
+  .card-grid{{grid-template-columns:repeat(2,1fr)}}
+  .card.hero{{grid-column:span 2}}
+}}
+@media(max-width:600px){{
+  .card-grid{{grid-template-columns:1fr}}
+  .card.hero{{grid-column:span 1}}
+  .brand-name{{font-size:1.25rem}}
+  .main-wrap{{padding:20px 14px 80px}}
+  .h-inner{{padding:12px 14px}}
+}}
 </style>
 </head>
 <body>
-<div id="progress"></div>
+<div id="prog"></div>
 {ticker}
 <header>
-  <div class="hwrap">
-    <div class="hrow">
-      <div class="brand">
-        <h1><em>{site_name}</em></h1>
-        <span class="tagline">Finance, simplified.</span>
+  <div class="h-inner">
+    <div class="h-row1">
+      <div>
+        <div class="brand-name">{site_name}</div>
+        <div class="brand-tag">Finance news, simplified for everyday investors</div>
       </div>
-      <div class="hbtns">
-        <button class="btn" id="themetoggle" title="Toggle dark mode">🌙</button>
-      </div>
-    </div>
-    <div class="search-wrap">
-      <div class="search-rel">
-        <span class="search-icon">🔍</span>
-        <input id="search" type="search" placeholder="Search stories…" autocomplete="off">
+      <div class="h-controls">
+        <button class="icon-btn" id="theme-btn" title="Toggle dark mode">🌙</button>
       </div>
     </div>
-    <nav>{nav_links}</nav>
+    <div class="h-search">
+      <span class="s-ic">🔍</span>
+      <input id="search" type="search" placeholder="Search stories…" autocomplete="off">
+    </div>
+    <nav class="cat-nav">{nav_links}</nav>
   </div>
 </header>
-<main>
-  <div class="datebar">
-    <span class="live"></span>
-    <span>Updated <b>{date_label}</b></span>
+<div class="main-wrap">
+  <div class="date-bar">
+    <span class="live-dot"></span>
+    <span>Updated <strong>{date_label}</strong></span>
   </div>
   {day_summary}
   <div class="no-match" id="no-match">No stories match your search.</div>
   {sections}
-  <p class="disclaimer">For informational purposes only. Not financial advice.</p>
-</main>
-<footer>Built with ❤ using Python &amp; GitHub Actions · <a href="{data_url}" style="color:var(--accent)">Raw JSON</a></footer>
-<button id="backtop" aria-label="Back to top" title="Back to top">↑</button>
+  <p class="disclaimer">For informational &amp; educational purposes only. Not financial advice.</p>
+</div>
+<footer>Built with ❤ using Python &amp; GitHub Actions &nbsp;·&nbsp; <a href="{data_url}">Raw JSON</a></footer>
+<button id="btt" aria-label="Back to top">↑</button>
 <script>
 (function(){{
-  const s=localStorage.getItem('theme')||'light';
-  document.documentElement.setAttribute('data-theme',s);
-  document.getElementById('themetoggle').textContent=s==='dark'?'☀':'🌙';
+  var t=localStorage.getItem('theme')||'light';
+  document.documentElement.setAttribute('data-theme',t);
+  document.getElementById('theme-btn').textContent=t==='dark'?'☀':'🌙';
 }})();
-document.getElementById('themetoggle').addEventListener('click',function(){{
-  const d=document.documentElement;
-  const t=d.getAttribute('data-theme')==='dark'?'light':'dark';
-  d.setAttribute('data-theme',t);
-  localStorage.setItem('theme',t);
+document.getElementById('theme-btn').addEventListener('click',function(){{
+  var d=document.documentElement;
+  var t=d.getAttribute('data-theme')==='dark'?'light':'dark';
+  d.setAttribute('data-theme',t);localStorage.setItem('theme',t);
   this.textContent=t==='dark'?'☀':'🌙';
 }});
-const prog=document.getElementById('progress');
+var prog=document.getElementById('prog');
 window.addEventListener('scroll',function(){{
-  const h=document.body.scrollHeight-window.innerHeight;
+  var h=document.body.scrollHeight-window.innerHeight;
   prog.style.width=(h>0?window.scrollY/h*100:0)+'%';
 }},{{passive:true}});
-const bt=document.getElementById('backtop');
-window.addEventListener('scroll',function(){{
-  bt.classList.toggle('show',window.scrollY>400);
-}},{{passive:true}});
-bt.addEventListener('click',function(){{window.scrollTo({{top:0,behavior:'smooth'}});}});
-document.querySelectorAll('.card').forEach(function(c,i){{
-  c.style.animationDelay=(i*0.06)+'s';
-}});
-const inp=document.getElementById('search');
-const noMatch=document.getElementById('no-match');
+var btt=document.getElementById('btt');
+window.addEventListener('scroll',function(){{btt.classList.toggle('show',window.scrollY>400);}},{{passive:true}});
+btt.addEventListener('click',function(){{window.scrollTo({{top:0,behavior:'smooth'}});}});
+document.querySelectorAll('.card').forEach(function(c,i){{c.style.animationDelay=(i*.04)+'s';}});
+var inp=document.getElementById('search');
+var nm=document.getElementById('no-match');
 inp.addEventListener('input',function(){{
-  const q=this.value.toLowerCase().trim();
-  let visible=0;
+  var q=this.value.toLowerCase().trim();var v=0;
   document.querySelectorAll('.card').forEach(function(c){{
-    const match=!q||c.textContent.toLowerCase().includes(q);
-    c.classList.toggle('hidden',!match);
-    if(match)visible++;
+    var m=!q||c.textContent.toLowerCase().includes(q);
+    c.classList.toggle('hidden',!m);if(m)v++;
   }});
-  noMatch.style.display=visible===0&&q?'block':'none';
+  nm.style.display=v===0&&q?'block':'none';
 }});
-document.querySelectorAll('nav a').forEach(function(a){{
-  a.addEventListener('click',function(e){{
-    e.preventDefault();
-    const id=this.getAttribute('href').slice(1);
-    const el=document.getElementById(id);
+document.querySelectorAll('.cat-pill').forEach(function(a){{
+  a.addEventListener('click',function(){{
+    document.querySelectorAll('.cat-pill').forEach(function(p){{p.classList.remove('active');}});
+    this.classList.add('active');
+    var id=this.getAttribute('data-target');
+    if(id==='all'){{window.scrollTo({{top:0,behavior:'smooth'}});return;}}
+    var el=document.getElementById(id);
     if(el)el.scrollIntoView({{behavior:'smooth',block:'start'}});
   }});
 }});
-document.querySelectorAll('.sharebtn').forEach(function(btn){{
+document.querySelectorAll('.share-btn').forEach(function(btn){{
   btn.addEventListener('click',function(){{
-    const card=this.closest('.card');
-    const qt=card?card.querySelector('.qt')?.textContent:'';
-    const txt=(qt||document.title)+' '+window.location.href;
-    if(navigator.share){{navigator.share({{title:qt,url:window.location.href}});}}
-    else if(navigator.clipboard){{
-      navigator.clipboard.writeText(txt).then(function(){{
-        btn.textContent='✓ Copied!';setTimeout(function(){{btn.textContent='⎘ Share';}},2000);
-      }});
-    }}
+    var qt=this.closest('.card')?.querySelector('.qt')?.textContent||'';
+    if(navigator.share)navigator.share({{title:qt,url:window.location.href}});
+    else if(navigator.clipboard)navigator.clipboard.writeText(qt+' '+window.location.href).then(function(){{
+      btn.textContent='✓ Copied!';setTimeout(function(){{btn.textContent='⎘ Share';}},2000);
+    }});
   }});
 }});
 </script>
@@ -451,40 +389,44 @@ document.querySelectorAll('.sharebtn').forEach(function(btn){{
 
 
 def render_page(data, categories, site_name, data_url):
-    articles     = data["articles"]
-    market_data  = data.get("market_data", {})
-    day_summary  = data.get("day_summary", "")
+    articles    = data["articles"]
+    market_data = data.get("market_data", {})
+    day_summary = data.get("day_summary", "")
 
     ticker       = _render_ticker(market_data)
     day_sum_html = _render_day_summary(day_summary)
 
-    nav_links = '<a href="#all">All</a>'
-    for slug, label in categories.items():
+    nav_links = '<span class="cat-pill active" data-target="all">All</span>'
+    for slug, cat in categories.items():
+        label = cat["label"] if isinstance(cat, dict) else cat
+        emoji = cat.get("emoji", "") if isinstance(cat, dict) else ""
         color = CAT_COLORS.get(slug, DEFAULT_COLOR)
         count = len(articles.get(slug, []))
         nav_links += (
-            f'<a href="#{slug}">'
-            f'<span class="dot" style="background:{color}"></span>'
-            f'{label["label"]} {label.get("emoji","")}'
-            f'<span class="nbadge">{count}</span>'
-            f'</a>'
+            f'<span class="cat-pill" data-target="{slug}">'
+            f'<span class="cat-dot" style="background:{color}"></span>'
+            f'{emoji} {label}'
+            f'<span class="cat-count">{count}</span>'
+            f'</span>'
         )
 
     sections_html = ""
-    for slug, label in categories.items():
-        arts = articles.get(slug, [])
+    for slug, cat in categories.items():
+        label = cat["label"] if isinstance(cat, dict) else cat
+        emoji = cat.get("emoji", "") if isinstance(cat, dict) else ""
+        arts  = articles.get(slug, [])
         if not arts:
             continue
         color = CAT_COLORS.get(slug, DEFAULT_COLOR)
-        cards = "".join(render_card(a, color) for a in arts)
+        cards = "".join(render_card(a, color, hero=(i == 0)) for i, a in enumerate(arts))
         sections_html += (
             f'<section id="{slug}">'
-            f'<div class="sechead">'
-            f'<span class="bar" style="background:{color}"></span>'
-            f'<h2>{label["label"]} {label.get("emoji","")}</h2>'
-            f'<span class="count">{len(arts)}</span>'
+            f'<div class="sec-header">'
+            f'<span class="sec-emoji">{emoji}</span>'
+            f'<span class="sec-title">{label}</span>'
+            f'<span class="sec-count">{len(arts)} stories</span>'
             f'</div>'
-            f'{cards}'
+            f'<div class="card-grid">{cards}</div>'
             f'</section>'
         )
 
@@ -499,12 +441,11 @@ def render_page(data, categories, site_name, data_url):
     )
 
 
-def build_site(data, categories, site_dir, data_dir, site_name):
+def build_site(data, categories, site_dir, site_name):
     os.makedirs(site_dir, exist_ok=True)
-    os.makedirs(data_dir, exist_ok=True)
 
     date  = data["date"]
-    fname = f"{data_dir}/{date}.json"
+    fname = f"data/{date}.json"
     with open(fname, "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"[build] saved {fname}")

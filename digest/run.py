@@ -1,44 +1,49 @@
 """Orchestrator. Usage:
-    python -m digest.run            # full run (needs ANTHROPIC_API_KEY)
-    python -m digest.run --demo    # offline demo with sample data (no key needed)
+    python -m digest.run            # full run (uses GitHub Models or Claude API)
+    python -m digest.run --demo    # offline demo with bundled sample data
 """
+import json
 import sys
+import time
+import urllib.request
 from datetime import datetime, timezone, timedelta
 
 from .feeds import CATEGORIES
 from .build import build_site
 
-SITE_DIR = "site"
-DATA_DIR = "data"
-SITE_NAME = "My Finance Digest"   # rename to whatever you like
-IST = timezone(timedelta(hours=5, minutes=30))
+SITE_DIR  = "site"
+DATA_DIR  = "data"
+SITE_NAME = "My Finance Digest"
+IST       = timezone(timedelta(hours=5, minutes=30))
+
+_YF_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0 Safari/537.36"
+    )
+}
 
 
-def main():
-    demo = "--demo" in sys.argv
-    now = datetime.now(IST)
-    if demo:
-        from .demo_data import DEMO_ARTICLES
-        articles = DEMO_ARTICLES
-        print("[demo] using bundled sample articles (no network / API)")
-    else:
-        from .fetch import fetch_all
-        from .simplify import simplify_all
-        articles = simplify_all(fetch_all(CATEGORIES))
+def fetch_market_data():
+    """Fetch Nifty 50, Sensex, USD/INR, BTC at build time from Yahoo Finance.
 
-    total = sum(len(v) for v in articles.values())
-    if total == 0:
-        raise SystemExit("No articles produced - aborting so yesterday's site isn't overwritten with an empty page")
-
-    data = {
-        "date": now.strftime("%Y-%m-%d"),
-        "date_label": now.strftime("%A, %d %B %Y"),
-        "generated_at": now.isoformat(),
-        "articles": articles,
+    Returns a dict like:
+      {"nifty": {"price": 22456.0, "change_pct": 1.23}, ...}
+    Any symbol that fails returns None for that key.
+    """
+    symbols = {
+        "nifty":  "^NSEI",
+        "sensex": "^BSESN",
+        "usdinr": "USDINR=X",
+        "btcusd": "BTC-USD",
     }
-    build_site(data, CATEGORIES, SITE_DIR, DATA_DIR, SITE_NAME)
-    print(f"[done] {total} articles across {len(articles)} categories")
-
-
-if __name__ == "__main__":
-    main()
+    results = {}
+    for name, symbol in symbols.items():
+        try:
+            url = (
+                f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
+                f"?interval=1d&range=1d"
+            )
+            req = urllib.request.Request(url, headers=_YF_HEADERS)
+            with urllib.request.urlopen(req, timeout=1

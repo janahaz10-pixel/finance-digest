@@ -465,7 +465,7 @@ def render_page(data, categories, site_name, data_url):
         nav_links += (
             f'<a href="#{slug}">'
             f'<span class="dot" style="background:{color}"></span>'
-            f'{label}'
+            f'{label["label"]} {label.get("emoji","")}'
             f'<span class="nbadge">{count}</span>'
             f'</a>'
         )
@@ -481,7 +481,7 @@ def render_page(data, categories, site_name, data_url):
             f'<section id="{slug}">'
             f'<div class="sechead">'
             f'<span class="bar" style="background:{color}"></span>'
-            f'<h2>{label}</h2>'
+            f'<h2>{label["label"]} {label.get("emoji","")}</h2>'
             f'<span class="count">{len(arts)}</span>'
             f'</div>'
             f'{cards}'

@@ -441,11 +441,12 @@ def render_page(data, categories, site_name, data_url):
     )
 
 
-def build_site(data, categories, site_dir, site_name):
+def build_site(data, categories, site_dir, data_dir, site_name):
     os.makedirs(site_dir, exist_ok=True)
+    os.makedirs(data_dir, exist_ok=True)
 
     date  = data["date"]
-    fname = f"data/{date}.json"
+    fname = f"{data_dir}/{date}.json"
     with open(fname, "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"[build] saved {fname}")

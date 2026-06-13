@@ -1,9 +1,21 @@
 {
   "date": "2026-06-13",
   "date_label": "Saturday, 13 June 2026",
-  "generated_at": "2026-06-13T15:15:56.838288+05:30",
+  "generated_at": "2026-06-13T19:18:53.330483+05:30",
   "articles": {
     "indian-markets": [
+      {
+        "title": "CLSA set to vanish as brand after 40 years in Asian brokerage: Report",
+        "summary": "Hong Kong-based CLSA will be rebranded under Citic Securities from 2027, ending a brokerage brand known for its distinctive culture and strong presence across Asian financial markets. The move reflects Citic's effort to integrate CLSA more closely into its institutional framework.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/clsa-set-to-vanish-as-brand-after-40-years-in-asian-brokerage-report/articleshow/131702491.cms",
+        "published": "Sat, 13 Jun 2026 16:14:29 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "7e29a204aa",
+        "quick_take": "CLSA set to vanish as brand after 40 years in Asian brokerage: Report",
+        "simplified_article": "Hong Kong-based CLSA will be rebranded under Citic Securities from 2027, ending a brokerage brand known for its distinctive culture and strong presence across Asian financial markets. The move reflects Citic's effort to integrate CLSA more closely into its institutional framework.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
       {
         "title": "F&O Talk: Bullish Nifty charts; Sudeep Shah picks 7 stocks, outlines HDFC Bank, Sterlite Tech strategy",
         "summary": "Indian stock markets rallied sharply on Friday, with Sensex and Nifty gaining 2% each, driven by hopes of a US-Iran peace deal and easing crude oil prices. Analysts see potential for further upside in Nifty and Bank Nifty, while Nifty IT faces headwinds. Derivatives data suggests improving market sentiment.",
@@ -87,30 +99,66 @@
         "simplified_article": "Facing renewed external sector pressures, the RBI has revived a version of the FCNR(B) deposit framework to attract foreign currency inflows and support the rupee. While effective for near-term stability, experts say long-term resilience requires reducing structural vulnerabilities and import dependence.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
-      },
-      {
-        "title": "ETMarkets Smart Talk| RBI's FPI reforms could attract $50-100 billion into Indian debt over time: Vikas Garg of Invesco MF",
-        "summary": "RBI’s easing of foreign investment norms for government securities could attract substantial long-term capital inflows into India’s debt market, according to Invesco Mutual Fund. The reforms may deepen bond markets, support the rupee, improve liquidity and strengthen macroeconomic stability.",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-rbis-fpi-reforms-could-attract-50-100-billion-into-indian-debt-over-time-vikas-garg-of-invesco-mf/articleshow/131699179.cms",
-        "published": "Sat, 13 Jun 2026 12:16:26 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "dc85d9823c",
-        "quick_take": "ETMarkets Smart Talk| RBI's FPI reforms could attract $50-100 billion into Indian debt over time: Vikas Garg of Invesco MF",
-        "simplified_article": "RBI’s easing of foreign investment norms for government securities could attract substantial long-term capital inflows into India’s debt market, according to Invesco Mutual Fund. The reforms may deepen bond markets, support the rupee, improve liquidity and strengthen macroeconomic stability.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
       }
     ],
     "us-global": [
       {
-        "title": "Trump administration: Iran deal signing likely in coming days, but not '100%' certain",
-        "summary": "A deal to end the Iran war could be signed soon, a senior Trump administration official said, following recent conflicting statements from the warring nations.",
+        "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+        "summary": "After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps.",
+        "link": "https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html",
+        "published": "Sat, 13 Jun 2026 12:00:01 GMT",
+        "source": "cnbc.com",
+        "id": "fad86ead0d",
+        "quick_take": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+        "simplified_article": "After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company, despite being a fraction the size by revenue of tech's megacaps.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says",
+        "summary": "A senior Trump administration official had said earlier that deal to end the Iran war could be signed soon.",
         "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
-        "published": "Fri, 12 Jun 2026 20:21:14 GMT",
+        "published": "Sat, 13 Jun 2026 12:34:15 GMT",
         "source": "cnbc.com",
         "id": "f20a1ddefe",
-        "quick_take": "Trump administration: Iran deal signing likely in coming days, but not '100%' certain",
-        "simplified_article": "A deal to end the Iran war could be signed soon, a senior Trump administration official said, following recent conflicting statements from the warring nations.",
+        "quick_take": "U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says",
+        "simplified_article": "A senior Trump administration official had said earlier that deal to end the Iran war could be signed soon.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "UAE denies 'false' reports of fund transfer to Iran",
+        "summary": "The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran.",
+        "link": "https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html",
+        "published": "Sat, 13 Jun 2026 09:30:18 GMT",
+        "source": "cnbc.com",
+        "id": "3c4cad2110",
+        "quick_take": "UAE denies 'false' reports of fund transfer to Iran",
+        "simplified_article": "The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
+        "summary": "Despite a large retail allocation and huge volume, volatility was moderate",
+        "link": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+        "published": "Sat, 13 Jun 2026 13:37:31 GMT",
+        "source": "cnbc.com",
+        "id": "50214a23ca",
+        "quick_take": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
+        "simplified_article": "Despite a large retail allocation and huge volume, volatility was moderate",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Moats vs. moonshots: The Warren Buffett-Elon Musk style debate",
+        "summary": "In 2018, Warren Buffett and Elon Musk indirectly debated a key question that persists for modern investors.",
+        "link": "https://www.cnbc.com/2026/06/13/moats-vs-moonshots-the-warren-buffett-elon-musk-style-debate.html",
+        "published": "Sat, 13 Jun 2026 12:57:53 GMT",
+        "source": "cnbc.com",
+        "id": "5d1d94b997",
+        "quick_take": "Moats vs. moonshots: The Warren Buffett-Elon Musk style debate",
+        "simplified_article": "In 2018, Warren Buffett and Elon Musk indirectly debated a key question that persists for modern investors.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       },
@@ -118,7 +166,7 @@
         "title": "Switzerland is voting on whether to cap its population at 10 million. Here's what to know",
         "summary": "Switzerland votes on a population cap that could tighten immigration and put its EU free-movement agreement under pressure.",
         "link": "https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html",
-        "published": "Sat, 13 Jun 2026 06:05:14 GMT",
+        "published": "Sat, 13 Jun 2026 10:51:08 GMT",
         "source": "cnbc.com",
         "id": "a6de8fdc0e",
         "quick_take": "Switzerland is voting on whether to cap its population at 10 million. Here's what to know",
@@ -139,62 +187,14 @@
         "key_terms": []
       },
       {
-        "title": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
-        "summary": "SpaceX has achieved its goal of becoming the largest IPO on record.",
-        "link": "https://www.cnbc.com/2026/06/12/spacex-moonshots-valuation-westly-tesla.html",
-        "published": "Sat, 13 Jun 2026 07:22:10 GMT",
+        "title": "Drugmakers race to find a place in the next wave of obesity drugs",
+        "summary": "Drugmakers are betting they can crack into the obesity drug market that Novo Nordisk and Eli Lilly currently dominate.",
+        "link": "https://www.cnbc.com/2026/06/13/glp-1s-lilly-novo-pfizer-look-to-new-weight-loss-drugs.html",
+        "published": "Sat, 13 Jun 2026 12:00:01 GMT",
         "source": "cnbc.com",
-        "id": "b58755fb9d",
-        "quick_take": "Former Tesla board member says SpaceX needs to achieve 2 of its 3 moonshots to keep its valuation",
-        "simplified_article": "SpaceX has achieved its goal of becoming the largest IPO on record.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Paramount-WBD merger wins approval from DOJ",
-        "summary": "The DOJ approval is an important milestone for the roughly $110 billion deal, though it could still face legal challenges from state attorneys general.",
-        "link": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
-        "published": "Fri, 12 Jun 2026 22:54:06 GMT",
-        "source": "cnbc.com",
-        "id": "90740b08af",
-        "quick_take": "Paramount-WBD merger wins approval from DOJ",
-        "simplified_article": "The DOJ approval is an important milestone for the roughly $110 billion deal, though it could still face legal challenges from state attorneys general.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-        "summary": "SpaceX set a fixed price of $135 per share in the leadup to its IPO on Friday, placing its valuation at $1.77 trillion. Shares rallied more than 25%.",
-        "link": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
-        "published": "Fri, 12 Jun 2026 21:48:59 GMT",
-        "source": "cnbc.com",
-        "id": "59f91532f4",
-        "quick_take": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-        "simplified_article": "SpaceX set a fixed price of $135 per share in the leadup to its IPO on Friday, placing its valuation at $1.77 trillion. Shares rallied more than 25%.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Trump name must be removed from Kennedy Center by Friday night as appeals court rejects delay",
-        "summary": "President Donald Trump had asked a federal appeals court to suspend a lower-court order that his name before removed from the performing arts center.",
-        "link": "https://www.cnbc.com/2026/06/12/trump-loses-kennedy-center-name.html",
-        "published": "Fri, 12 Jun 2026 23:58:41 GMT",
-        "source": "cnbc.com",
-        "id": "d8f232a786",
-        "quick_take": "Trump name must be removed from Kennedy Center by Friday night as appeals court rejects delay",
-        "simplified_article": "President Donald Trump had asked a federal appeals court to suspend a lower-court order that his name before removed from the performing arts center.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
-        "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
-        "link": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
-        "published": "Fri, 12 Jun 2026 20:33:52 GMT",
-        "source": "cnbc.com",
-        "id": "11478968ca",
-        "quick_take": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
-        "simplified_article": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+        "id": "5ddfefbc5b",
+        "quick_take": "Drugmakers race to find a place in the next wave of obesity drugs",
+        "simplified_article": "Drugmakers are betting they can crack into the obesity drug market that Novo Nordisk and Eli Lilly currently dominate.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       }
@@ -397,6 +397,42 @@
     ],
     "crypto": [
       {
+        "title": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
+        "summary": "\"Thanks to you, 25% of the Mag8 now holds bitcoin on the balance sheet,\" Saylor wrote on X, congratulating Musk on SpaceX's historic IPO debut.",
+        "link": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
+        "published": "Sat, 13 Jun 2026 13:05:40 +0000",
+        "source": "coindesk.com",
+        "id": "cd246bbd38",
+        "quick_take": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
+        "simplified_article": "\"Thanks to you, 25% of the Mag8 now holds bitcoin on the balance sheet,\" Saylor wrote on X, congratulating Musk on SpaceX's historic IPO debut.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Crypto should adopt the best of centralization, says LMAX CEO",
+        "summary": "As digital assets mature the industry should borrow more from traditional market infrastructure, especially credit, clearing and collateral systems, David Mercer argues.",
+        "link": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
+        "published": "Sat, 13 Jun 2026 13:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "f362dba29a",
+        "quick_take": "Crypto should adopt the best of centralization, says LMAX CEO",
+        "simplified_article": "As digital assets mature the industry should borrow more from traditional market infrastructure, especially credit, clearing and collateral systems, David Mercer argues.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+        "summary": "The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple’s bet is that XRPL’s speed, low fees and RLUSD can win a piece of that flow.",
+        "link": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
+        "published": "Sat, 13 Jun 2026 11:30:00 +0000",
+        "source": "coindesk.com",
+        "id": "0b5c0a9b85",
+        "quick_take": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+        "simplified_article": "The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple’s bet is that XRPL’s speed, low fees and RLUSD can win a piece of that flow.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
         "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
         "summary": "A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen.",
         "link": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
@@ -453,42 +489,6 @@
         "id": "d053cb2002",
         "quick_take": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
         "simplified_article": "Senior market analyst Geoffrey Kendrick pointed to the SpaceX IPO and a potential U.S.-Iran peace deal as the dual catalysts ending the recent crypto selloff.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
-        "summary": "VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.",
-        "link": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market",
-        "published": "Fri, 12 Jun 2026 16:05:31 +0000",
-        "source": "coindesk.com",
-        "id": "c28751acaf",
-        "quick_take": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
-        "simplified_article": "VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Elon Musk's SpaceX soars 20% in blockbuster Nasdaq debut",
-        "summary": "The stock was trading above $160 in volatile action after last night's IPO at $135.",
-        "link": "https://www.coindesk.com/markets/2026/06/12/spacex-opens-at-usdtk-in-blockbuster-nasdaq-debut",
-        "published": "Fri, 12 Jun 2026 15:55:42 +0000",
-        "source": "coindesk.com",
-        "id": "4c464d9747",
-        "quick_take": "Elon Musk's SpaceX soars 20% in blockbuster Nasdaq debut",
-        "simplified_article": "The stock was trading above $160 in volatile action after last night's IPO at $135.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Bloomberg Analyst: Most Bitcoin ETF Investors Have Stayed Put Despite Outflows",
-        "summary": "Bitcoin ETF investors have pulled billions this year, but the broader crypto ETF market remains more resilient than recent headlines suggest.",
-        "link": "https://www.coindesk.com/markets/2026/06/08/bloomberg-analyst-most-bitcoin-etf-investors-have-stayed-put-despite-outflows",
-        "published": "Fri, 12 Jun 2026 15:49:36 +0000",
-        "source": "coindesk.com",
-        "id": "176fe41b45",
-        "quick_take": "Bloomberg Analyst: Most Bitcoin ETF Investors Have Stayed Put Despite Outflows",
-        "simplified_article": "Bitcoin ETF investors have pulled billions this year, but the broader crypto ETF market remains more resilient than recent headlines suggest.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       }

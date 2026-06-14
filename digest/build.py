@@ -522,7 +522,7 @@ def _render_day_summary(text):
 def render_card(a, color, cat_label="", cat_emoji="", hero=False):
     hero_cls = " hero" if hero else ""
     q    = a.get("q") or a.get("title", "Untitled")
-    take = a.get("take", "")
+    take = a.get("take", "") or a.get("quick_take", "")
     url  = a.get("url") or a.get("link", "#")
     pub  = _fmt_pub(a.get("published", ""))
     src  = _src_label(url, a.get("source", ""))
@@ -530,6 +530,11 @@ def render_card(a, color, cat_label="", cat_emoji="", hero=False):
     exp  = a.get("expand") or {}
     if not isinstance(exp, dict):
         exp = {}
+    # Backward compat: build expand from old-format fields
+    if not exp:
+        what = a.get("simplified_article", "") or a.get("summary", "")
+        if what:
+            exp = {"what": what}
 
     badge = ""
     if cat_label:

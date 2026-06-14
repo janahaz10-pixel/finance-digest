@@ -40,7 +40,7 @@ def _fmt_pub(pub=""):
             return "Yesterday"
         return dt.strftime("%b %d")
     except Exception:
-  2     return pub[:10] if pub else ""
+        return pub[:10] if pub else ""
 
 
 def _est_read(a):
@@ -566,7 +566,7 @@ def render_card(a, color, cat_label="", cat_emoji="", hero=False):
         if why:
             parts += f'<div class="exp-block"><h4>Why it matters</h4><p>{why}</p></div>'
         if impact:
-  2         parts += f'<div class="exp-block impact"><h4>Market impact</h4><p>{impact}</p></div>'
+            parts += f'<div class="exp-block impact"><h4>Market impact</h4><p>{impact}</p></div>'
         if terms:
             tdivs = "".join(
                 f'<div class="term"><b>{t.get("term","")}</b> — {t.get("def","")}</div>'

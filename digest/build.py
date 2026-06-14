@@ -484,6 +484,8 @@ document.querySelectorAll('.share-btn').forEach(function(btn){{
 def _render_ticker(market_data):
     items = []
     for sym, info in (market_data or {}).items():
+        if not info:
+            continue
         price = info.get("price", "")
         chg   = info.get("change_pct", 0) or 0
         if chg > 0:

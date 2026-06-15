@@ -2,8 +2,9 @@ name: Daily Digest
 
 on:
   schedule:
-    # 12:45 UTC = 6:15 PM IST, after Indian markets close. Adjust as you like.
-    - cron: "45 12 * * *"
+    # 2:30 UTC = 8:00 AM IST (morning), 14:00 UTC = 7:30 PM IST (evening)
+    - cron: "30 2 * * *"
+    - cron: "0 14 * * *"
   workflow_dispatch: {}   # lets you trigger manually from the Actions tab
 
 permissions:

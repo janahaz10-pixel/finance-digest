@@ -1,236 +1,297 @@
 {
   "date": "2026-06-19",
   "date_label": "Friday, 19 June 2026",
-  "generated_at": "2026-06-19T03:05:23.709785+05:30",
+  "generated_at": "2026-06-19T19:53:14.963259+05:30",
   "articles": {
     "indian-markets": [
       {
-        "title": "US stocks: US market's indexes advance with boost from chips, Iran optimism",
-        "summary": "U.S. stock indexes rose Thursday, led by semiconductor shares and easing inflation fears, despite anticipated Federal Reserve interest rate hikes. Intel surged to a record high after President Trump announced a deal for U.S.-based chip design and manufacturing. Oil prices slid as the U.S. and Iran extended an interim agreement, allowing for continued passage through the Strait of Hormuz.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-markets-indexes-advance-with-boost-from-chips-iran-optimism/articleshow/131841695.cms",
-        "published": "Fri, 19 Jun 2026 01:32:02 +0530",
+        "title": "AGS Health, PGP Glass, 2 others get Sebi nod to float IPOs",
+        "summary": "Four Indian companies, AGS Health, PGP Glass, Shreni Shares, and SRIT India, have received the green light from Sebi for their upcoming IPOs. These firms confidentially submitted their draft documents, with Sebi providing its observations between June 16-19. Shreni Shares plans a mix of fresh issuance and an offer for sale, while SRIT India will issue new shares. Proceeds will fund working capital, debt repayment, and growth initiatives.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ags-health-pgp-glass-2-others-get-sebi-nod-to-float-ipos/articleshow/131859940.cms",
+        "published": "Fri, 19 Jun 2026 18:51:44 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "58058fe791",
-        "quick_take": "U.S. stock indexes rose on Thursday, mainly driven by Intel's record high after a new chip deal, reflecting growing confidence in tech despite looming interest rate hikes.",
-        "simplified_article": "U.S. stock indexes increased on Thursday, with semiconductor stocks like Intel seeing significant gains. This rise was largely fueled by positive news about a deal for U.S.-based chip design and manufacturing, announced by President Trump, which boosted investor confidence. Meanwhile, oil prices fell as the U.S. and Iran extended an interim agreement, ensuring safe shipping through a crucial trade route. Moving forward, tech stocks could continue to thrive from such government initiatives, benefiting investors in those sectors.",
-        "investor_impact": "If you're investing in tech, especially semiconductor companies like Intel, this news could increase your portfolio's value. Additionally, lower oil prices might impact energy stocks, potentially reducing costs for transportation and manufacturing companies, which could benefit consumers in the long run.",
+        "id": "e3cb3067cb",
+        "quick_take": "Four companies, including AGS Health and PGP Glass, just got approval from Sebi for their IPOs to raise funds for growth.",
+        "simplified_article": "Four Indian companies have been cleared by Sebi (the market regulator) to launch their Initial Public Offerings (IPOs). This approval follows the firms submitting their documents earlier, and Sebi made its decision from June 16-19. AGS Health, PGP Glass, Shreni Shares, and SRIT India are looking to raise money to cover expenses like working capital and paying off debts. In particular, Shreni Shares plans a mix of selling new shares and existing ones, while SRIT India is focusing on issuing new shares only. Investors can expect these IPOs to provide opportunities for investing in growing companies in healthcare and glass manufacturing sectors.",
+        "investor_impact": "If you're interested in the healthcare or manufacturing sectors, these upcoming IPOs could present new investment opportunities. Specifically, companies like AGS Health might attract investors looking to support healthcare innovations, while PGP Glass could appeal to those wanting to invest in consumer goods. Keep an eye on these IPOs, as they can impact stock market dynamics and sector performance.",
+        "key_terms": []
+      },
+      {
+        "title": "Sebi board meeting: Open market buyback is back and intraday borrowing for MFs; 5 key decisions investors should know",
+        "summary": "Sebi approved a series of reforms to improve market efficiency and investor protection. Key changes include the return of exchange-based buybacks, intraday borrowing for mutual funds, faster AIF launches, easier municipal bond fundraising and simplified transmission of securities to legal heirs.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-meeting-open-market-buyback-is-back-and-intraday-borrowing-for-mfs-5-key-decisions-investors-should-know/articleshow/131859649.cms",
+        "published": "Fri, 19 Jun 2026 18:29:54 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "0902992b18",
+        "quick_take": "Sebi's new reforms, including open market buybacks and intraday borrowing for mutual funds, strengthen market efficiency and investor safety.",
+        "simplified_article": "The Sebi board met and approved several reforms aimed at making the financial markets work better for investors. This includes bringing back exchange-based buybacks, which are a way for companies to buy back their own shares in a regulated market. These changes will help speed up the launch of Alternative Investment Funds (AIFs) and make it easier for municipalities to raise money through bonds. Moving forward, investors can expect more streamlined processes and protections in their investments, which could lead to increased investor participation in the market.",
+        "investor_impact": "With the return of open market buybacks, companies may increase their stock repurchase programs, potentially raising share prices. Also, mutual funds can now borrow money during the day, which may enhance their ability to invest and manage funds more effectively, possibly benefiting those invested in mutual funds. Municipal bonds could also see more interest, which might help fund local projects and attract investors seeking stable returns.",
         "key_terms": [
           {
-            "term": "semiconductor",
-            "meaning": "A material used in electronic devices that can control electricity, making it crucial for tech products like computers and smartphones."
+            "term": "open market buybacks",
+            "meaning": "This is when a company buys back its own shares from the market to reduce the number of shares available, which can increase the value of remaining shares."
           },
           {
-            "term": "interest rate hikes",
-            "meaning": "When the Federal Reserve raises the cost of borrowing money, which can affect loans and investments."
+            "term": "intraday borrowing",
+            "meaning": "Refers to mutual funds borrowing money during the trading day to manage liquidity and invest quickly, helping them to maximize returns."
           }
         ]
       },
       {
-        "title": "SpaceX bankers prepare for bond sale of at least $20 billion",
-        "summary": "SpaceX is preparing to discuss a massive bond offering with investors. The company plans to raise at least $20 billion. This move follows its record initial public offering. The funds will refinance a significant bridge loan. This is SpaceX's first foray into issuing investment-grade US dollar bonds. The company is also embracing artificial intelligence.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-bankers-prepare-for-bond-sale-of-at-least-20-billion/articleshow/131838013.cms",
-        "published": "Thu, 18 Jun 2026 23:03:54 +0530",
+        "title": "Bharat Forge among 6 stocks hitting 52-week highs; surge up to 25% in a month",
+        "summary": "Despite a significant dip in the benchmark Sensex, six stocks within the BSE200 index achieved new 52-week highs on Friday, signaling robust investor confidence. These outperformers, including GE Vernova T&D India, The Federal Bank, and Polycab India, have demonstrated impressive gains over the past month, suggesting strong upward momentum and potential for continued growth.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-among-6-stocks-hitting-52-week-highs-surge-up-to-25-in-a-month/slideshow/131859579.cms",
+        "published": "Fri, 19 Jun 2026 18:18:49 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "881ddeb929",
-        "quick_take": "SpaceX is planning to raise at least $20 billion through a bond sale to refinance a major loan, marking its first move into investment-grade bonds.",
-        "simplified_article": "SpaceX is preparing to discuss selling bonds worth at least $20 billion to investors. This comes after the company had a record initial public offering, meaning it successfully sold shares to the public for the first time. The money raised will be used to pay off a large loan that they initially took out. This is a significant step for SpaceX as it enters the investment-grade bond market, which means the bonds are seen as safer investments. The introduction of artificial intelligence in their operations is also part of their growth strategy. Investors in bonds will need to pay attention to how this affects the overall financing landscape for tech companies.",
-        "investor_impact": "If you hold investments in tech companies or related sectors, this bond sale by SpaceX may influence how other firms approach funding, possibly leading to more stable financing options. It could also affect interest rates for loans and bonds in the tech sector, as higher-profile companies like SpaceX set benchmarks for investors. Additionally, large bond offerings can impact the investment-grade bond market, which affects those holding bonds in similar categories.",
+        "id": "d496809f23",
+        "quick_take": "Bharat Forge and five other stocks hit new 52-week highs, showing strong investor confidence even as the broader market dipped.",
+        "simplified_article": "On Friday, six stocks from the BSE200 index, including Bharat Forge, reached new highest values in a year. This surge happened despite the overall market, represented by the Sensex, dropping significantly. Stocks like GE Vernova T&D India and The Federal Bank also saw impressive increases lately, indicating healthy investor interest and potentially good performance ahead. Investors might be looking for stable companies to invest in during uncertain times, which could encourage continued interest in these stocks.",
+        "investor_impact": "If you own stocks in sectors like manufacturing or banking, these price increases could mean your investments are performing well. With Bharat Forge and others showing strong momentum, it may encourage more investors to consider these stocks, possibly leading to further price increases. This is a positive sign for those holding shares in these companies.",
+        "key_terms": []
+      },
+      {
+        "title": "Quote of the day by Charlie Munger: \"I figure that I want to swim as well as I can against the tides. I’m not trying to predict the tides\"",
+        "summary": "Charlie Munger’s quote on swimming against market “tides” highlights his belief that investors should not try to predict markets but instead focus on improving judgement and discipline. His philosophy emphasises long-term thinking, strong fundamentals and emotional control, reinforcing that successful investing is built on preparation rather than prediction.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-charlie-munger-i-figure-that-i-want-to-swim-as-well-as-i-can-against-the-tides-im-not-trying-to-predict-the-tides/articleshow/131847169.cms",
+        "published": "Fri, 19 Jun 2026 18:10:00 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "1d7b52589d",
+        "quick_take": "Charlie Munger suggests focusing on self-improvement instead of trying to predict market movements, highlighting the importance of discipline for investors.",
+        "simplified_article": "Charlie Munger shared a thought-provoking quote about investing, emphasizing that instead of trying to guess how markets will move (like predicting tides), investors should concentrate on enhancing their own judgment and discipline. This view stems from his belief that successful investing relies more on long-term planning and emotional control. By focusing on getting better at decision-making, investors can navigate market challenges more effectively. This philosophy could help both new and experienced investors weather market fluctuations more successfully.",
+        "investor_impact": "For everyday investors, embracing this mindset could lead to making smarter choices in uncertain markets, reducing impulsive decisions that often result in losses. Sectors like technology or retail, which can be volatile, might benefit from a more patient investment approach as investors adopt this long-term perspective.",
+        "key_terms": []
+      },
+      {
+        "title": "Jio IPO filed: 10 crucial things investors must know about Ambani's $3 billion plan",
+        "summary": "Jio Platforms has filed its DRHP with Sebi for a massive IPO comprising a fresh issue of up to 27 crore shares. The offering aims to reduce debt, fund growth and unlock value for shareholders, while marking a milestone for India's largest telecom and digital services platform.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-filed-10-crucial-things-investors-must-know-about-ambanis-3-billion-plan/articleshow/131859325.cms",
+        "published": "Fri, 19 Jun 2026 18:04:01 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "ca48b1fefa",
+        "quick_take": "Jio Platforms has filed for a $3 billion IPO to pay off debt and fuel growth, which is a big step for India's top telecom company.",
+        "simplified_article": "Jio Platforms has submitted its draft prospectus to India's securities regulator, aiming for a $3 billion initial public offering (IPO) that includes a new issue of up to 27 crore shares (which is 270 million shares). This move is intended to reduce its debt and support future growth while benefiting its shareholders. Jio is the largest telecom and digital services provider in India, highlighting its significant presence in the market. Following this IPO, shareholders could see increased value in their investments and Jio may have more resources to expand its services.",
+        "investor_impact": "This IPO could potentially make Jio a stronger competitor in the telecom market, which might benefit companies and sectors involved in technology and digital services. Increased investment in Jio could also positively influence telecommunications stocks, creating ripple effects for investors with holdings in related sectors.',",
+        "key_terms": []
+      },
+      {
+        "title": "India 10-year yield snaps 6-day falling streak as US-Iran talks stall",
+        "summary": "India's benchmark 10-year bond yield saw a pause in its recent drop on Friday. This change was fueled by stalled talks between the U.S. and Iran, which caused oil prices to tick up, negatively impacting investor sentiment. Additionally, profit-taking by traders following a strong bond price increase played a role. Rising concerns about El Nino's expected effects on monsoon rains and inflation deserve attention as well.",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-yield-snaps-6-day-falling-streak-as-us-iran-talks-stall/articleshow/131859229.cms",
+        "published": "Fri, 19 Jun 2026 17:59:58 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "0f2aa114c1",
+        "quick_take": "India's 10-year bond yield paused its drop at 6.88% due to stalled US-Iran talks impacting oil prices and prompting profit-taking by traders.",
+        "simplified_article": "India's 10-year bond yield stopped falling after a six-day decline, reaching 6.88%. This happened because talks between the U.S. and Iran are stalled, which led to a slight increase in oil prices, making investors cautious. Additionally, traders took profits after bond prices had gone up significantly. With concerns about El Nino affecting future monsoon rains and inflation rising, this situation is important as it might influence economic stability. Investors, especially those in the bond market or affected by rising inflation, should keep an eye on these developments.",
+        "investor_impact": "The halt in bond yield decline indicates that interest rates could remain higher for longer, which might lead to increased borrowing costs for loans, affecting home buyers directly. Additionally, sectors that rely heavily on oil prices may see impacts, particularly transportation and manufacturing, which could result in higher operational costs.",
         "key_terms": [
           {
-            "term": "investment-grade bonds",
-            "meaning": "These are bonds rated higher by credit agencies, indicating a lower risk of default, which makes them more appealing to cautious investors."
+            "term": "bond yield",
+            "meaning": "The bond yield is the return an investor gets from holding a bond, which can indicate government borrowing costs and overall economic health."
           },
           {
-            "term": "refinance",
-            "meaning": "This means taking out new debt to pay off existing debt, often to secure better terms or lower interest rates."
-          },
-          {
-            "term": "public offering",
-            "meaning": "An event where a company sells its shares to the public for the first time, allowing it to raise money for growth."
+            "term": "El Nino",
+            "meaning": "El Nino is a climate pattern that can disrupt weather, potentially affecting agricultural output and inflation."
           }
         ]
       },
       {
-        "title": "Brent crude oil price touches pre-Iran war lows after ceasefire deal",
-        "summary": "Oil prices have fallen significantly. This is due to a preliminary agreement between the United States and Iran. The deal aims to reopen the Strait of Hormuz and lift sanctions. This is expected to boost global oil supply. Analysts anticipate a gradual recovery in oil flows. Some experts believe prices may not plummet further.",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-touches-pre-iran-war-lows-after-ceasefire-deal/articleshow/131836933.cms",
-        "published": "Thu, 18 Jun 2026 22:26:11 +0530",
+        "title": "Sebi board approves reintroducing open-market window for share buybacks from August 1",
+        "summary": "Securities and Exchange Board of India (SEBI) has given the green light to reintroduce open market buybacks for companies, effective August 1. This new route allows firms to repurchase shares directly from stock exchanges, a mechanism previously discontinued. The move aims to offer a more efficient and equitable way for companies to return capital to shareholders, complementing existing tender offer methods.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-board-approves-reintroducing-open-market-window-for-buybacks/articleshow/131858365.cms",
+        "published": "Fri, 19 Jun 2026 17:22:14 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "27e2ab8b62",
-        "quick_take": "Brent crude oil prices have dropped to pre-Iran war lows because the US and Iran reached a ceasefire deal that could boost global oil supply.",
-        "simplified_article": "Oil prices have fallen sharply, hitting levels not seen since before the Iran war. This drop is linked to a preliminary agreement between the United States and Iran that aims to reopen the Strait of Hormuz, a crucial shipping route, and lift sanctions against Iran. The deal could allow more oil to flow into the market, which has analysts predicting a gradual recovery in oil supplies. However, some experts believe prices won't drop any further. This situation impacts countries and businesses that rely heavily on oil imports or exports.",
-        "investor_impact": "Lower oil prices could benefit consumers by reducing fuel costs, which might lead to cheaper transportation and goods. However, oil companies may see reduced profits, which can affect their stock prices. If you have investments in energy stocks or funds focused on oil and gas, this situation might pose challenges in the near term.",
-        "key_terms": []
-      },
-      {
-        "title": "Bernie Sanders pushes 50%t public stake in AI giants, $1,000 dividend payout to every American",
-        "summary": "Senator Bernie Sanders has introduced legislation proposing a 50% public ownership stake in major US AI companies through a one-time stock tax. This plan aims to redistribute the industry's wealth, with an estimated $7 trillion fund potentially distributing over $1,000 annually to every American.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bernie-sanders-pushes-50-percent-public-stake-in-ai-giants/articleshow/131836774.cms",
-        "published": "Thu, 18 Jun 2026 22:13:44 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "03a3d5fe17",
-        "quick_take": "Bernie Sanders wants the government to own 50% of major US AI companies and give every American over $1,000 a year from the profits.",
-        "simplified_article": "Senator Bernie Sanders has proposed a new law that would allow the public to own half of big AI companies in the US. He believes this will help share the wealth from these profitable businesses. The plan involves a one-time tax on stocks that could create a fund of about $7 trillion, which would let every American receive over $1,000 each year. If the legislation passes, many families might benefit financially, especially those struggling with the rising cost of living.",
-        "investor_impact": "This plan could heavily impact the tech sector, especially companies focusing on artificial intelligence (AI) like Google and Microsoft. If half of their profits are paid out to the public, there might be less money for these companies to reinvest in growth, which could affect their stock prices. Individuals holding shares in these AI firms could see changes in their investments' value as a result of this legislation.",
+        "id": "afdf79fae5",
+        "quick_take": "The Sebi board is bringing back open market share buybacks starting August 1, allowing companies to buy their own shares directly from the stock market, which is a fairer way to return money to shareholders.",
+        "simplified_article": "The Securities and Exchange Board of India (SEBI) has approved the reintroduction of open market buybacks, set to begin on August 1. This change allows companies to repurchase their own shares from the stock exchange, which was previously not allowed. The goal is to make it easier and fairer for companies to return cash to their investors, alongside another method called tender offers, where companies invite shareholders to sell their shares at a specific price. Moving forward, companies can use this new method to manage their shares and provide returns to investors, impacting anyone who holds their stocks.",
+        "investor_impact": "This could lead to a more stable stock price for companies planning buybacks, benefiting shareholders directly. Sectors with companies known for share buybacks, like technology and finance, might see even more investor interest. If you own shares in these companies, this could increase the value of your investment over time.",
         "key_terms": [
           {
-            "term": "public ownership stake",
-            "meaning": "This means the government would own part of a company, which can help ensure that profits benefit the community rather than just private investors."
-          },
-          {
-            "term": "one-time stock tax",
-            "meaning": "This is a single tax applied to the value of company stocks, which is used to fund public benefits."
+            "term": "open market buyback",
+            "meaning": "This is when a company buys back its own shares from the stock market, which can help increase the share price and return money to investors."
           }
         ]
       },
       {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-        "summary": "Indian equities ended higher for a fifth straight session, recovering early losses despite hawkish Federal Reserve comments. Banking stocks led gains, while broader markets stayed positive. Analysts remain optimistic on Nifty's trend but caution that near-term consolidation may follow the recent rally.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131835621.cms",
-        "published": "Thu, 18 Jun 2026 21:25:03 +0530",
+        "title": "How Mukesh Ambani plans to spend Jio's mega Rs 27,500 crore IPO proceeds",
+        "summary": "Reliance Jio’s upcoming IPO aims to raise approximately $3 billion. The company intends to allocate Rs 27,500 crore to prepay debt, strengthening its balance sheet for future investments in 6G, artificial intelligence, broadband, and digital services expansion.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/how-mukesh-ambani-plans-to-spend-jios-mega-rs-27500-crore-ipo-proceeds/articleshow/131857770.cms",
+        "published": "Fri, 19 Jun 2026 17:02:12 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "8c130c171e",
-        "quick_take": "Indian stocks rose for the fifth consecutive day, led by banking gains, despite concerns from the Federal Reserve about interest rates.",
-        "simplified_article": "Indian stock markets finished higher, marking their fifth day of gains. This increase happened even though the Federal Reserve made comments suggesting it might keep interest rates high, which usually worries investors. The banking sector particularly performed well, boosting overall market sentiment. Analysts think the positive trend could continue for the index called Nifty, but they warn that the market might pause for some time after the recent rally. Investors should watch how these trends unfold in the coming days.",
-        "investor_impact": "If you have investments in banking stocks, you might benefit from their strong performance recently. However, be prepared for possible short-term fluctuations, as the market could stabilize after its recent rise. This might affect your overall portfolio value if you're heavily invested in stocks.",
-        "key_terms": []
-      },
-      {
-        "title": "RBI to conduct Rs 1 lakh cr 3-day VRR auction on Jun 19",
-        "summary": "The Reserve Bank of India will conduct a Rs 1 lakh crore variable rate repo auction on June 19. This move aims to manage liquidity in the banking system. The auction will help keep overnight money market rates stable. This follows recent liquidity infusions by the central bank. The RBI is actively managing funds to ensure smooth financial operations.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-conduct-rs-1-lakh-cr-3-day-vrr-auction-on-jun-19/articleshow/131835243.cms",
-        "published": "Thu, 18 Jun 2026 20:55:24 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "bff2eb539e",
-        "quick_take": "RBI is set to auction Rs 1 lakh crore to manage liquidity in the banking system, helping stabilize money market rates.",
-        "simplified_article": "The Reserve Bank of India (RBI) will hold an auction for Rs 1 lakh crore on June 19. This auction is designed to control the amount of money circulating in banks, which can help ensure that money market rates remain steady. Recently, the RBI has been actively pumping money into the system to maintain smooth financial operations. After the auction, banks will have more stable funds available overnight, which could affect how they lend money. Overall, this is significant for banks and other financial institutions that depend on these money market rates.",
-        "investor_impact": "This auction could lead to lower interest rates on loans as banks will have stable liquidity. If you have a home loan, you might see your EMIs stay stable or even decrease slightly because of better cash flow in the banks. Additionally, businesses relying on bank financing might find borrowing easier and cheaper in the near term.",
-        "key_terms": []
-      },
-      {
-        "title": "Market Trading Guide: Radico Khaitan among 2 stock recommendations for Friday",
-        "summary": "Domestic markets remained range-bound with a positive bias as optimism from the US-Iran peace deal faded amid hawkish Federal Reserve commentary. Rising energy-driven inflation concerns kept investors cautious. Analysts recommended VTL and Radico Khaitan, citing bullish breakouts, strong momentum and potential upside.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-radico-khaitan-among-2-stock-recommendations-for-friday/articleshow/131834744.cms",
-        "published": "Thu, 18 Jun 2026 20:39:55 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "edd358cbb6",
-        "quick_take": "Radico Khaitan is one of two stocks recommended for Friday as traders stay cautious amid rising inflation concerns and fading US-Iran peace deal optimism.",
-        "simplified_article": "Domestic markets were mostly steady with a slight positive trend. This cautious atmosphere came from worries about rising inflation driven by energy costs and comments from the US Federal Reserve suggesting they might keep interest rates high. Recently, analysts highlighted two stocks, VTL and Radico Khaitan, as good options because they showed strong performance and potential for growth. Investors now have these two stocks on their radar as possible opportunities, even as the market remains a bit uncertain.",
-        "investor_impact": "If you're looking at investing in stocks, Radico Khaitan might be worth your attention since it's being called out for potential growth. The ongoing inflation worries could affect sectors reliant on energy, making it a tricky time for those in industries tied to oil and gas prices. Overall, you should keep an eye on how inflation trends might impact your investments over the coming weeks.",
-        "key_terms": []
-      },
-      {
-        "title": "Infosys ADRs crash over 8%, Wipro falls 6% after Accenture cuts annual revenue forecast",
-        "summary": "Infosys and Wipro ADRs plunged following Accenture’s reduced FY26 revenue forecast. This downgrade highlights enterprise caution regarding discretionary IT spending, impacting Indian IT giants despite their AI investments and ongoing transformation projects, overshadowing recent cybersecurity acquisitions.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-crash-over-8-wipro-falls-6-after-accenture-cuts-annual-revenue-forecast/articleshow/131832948.cms",
-        "published": "Thu, 18 Jun 2026 19:17:45 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "44700544b5",
-        "quick_take": "Infosys shares dropped over 8% and Wipro fell 6% after Accenture lowered its revenue outlook, indicating worries about IT spending.",
-        "simplified_article": "Infosys and Wipro saw their American Depository Receipts (ADRs) fall sharply after Accenture cut its revenue forecast for the upcoming year. This revision signals that companies are becoming cautious about spending money on additional IT services, which directly impacts Indian IT firms like Infosys and Wipro. Despite significant investments in artificial intelligence (AI) and ongoing transformation projects, these companies are affected by the broader market sentiment. Moving forward, this could lead to a slowdown in revenue growth for Indian IT firms as clients tighten their budgets.",
-        "investor_impact": "If you own stocks in Indian IT companies like Infosys or Wipro, this news suggests potential challenges ahead, as clients may reduce spending. Consequently, this could lead to lower profits and declining stock prices, impacting your investments in these sectors.",
+        "id": "29c118b9ef",
+        "quick_take": "Reliance Jio is raising $3 billion from its IPO to pay off Rs 27,500 crore in debt and invest in future technologies like 6G and AI.",
+        "simplified_article": "Reliance Jio plans to launch an Initial Public Offering (IPO) to raise around $3 billion, which is approximately Rs 27,500 crore. The company wants to use this money mainly to pay off its debts, making it financially stronger. It also aims to invest in advanced technologies such as 6G (the next generation of wireless technology), artificial intelligence (AI), and expanding its broadband services. By paying off debt, Jio can invest more in growth areas, which may lead to better services for consumers. This strategy will likely impact customers using Jio's services and investors who see potential for future profit.",
+        "investor_impact": "Paying off debt could lead to a more financially stable company, which may enhance investor confidence in Jio's future growth. This is significant for anyone invested in telecommunications or tech sectors, as such advancements could lead to improved services and higher revenues for the business. Additionally, customers might see enhancements in service quality as Jio invests in new technologies.",
         "key_terms": []
       }
     ],
     "us-global": [
       {
-        "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
-        "summary": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.",
-        "link": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html",
-        "published": "Thu, 18 Jun 2026 20:10:47 GMT",
+        "title": "Oil prices turn negative after U.S. official says Israel, Hezbollah agree to ceasefire",
+        "summary": "Oil prices turned lower after Israel and Iran-backed Hezbollah agreed to a ceasefire from 4 p.m. local time on Friday, a U.S. official told CNBC.",
+        "link": "https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html",
+        "published": "Fri, 19 Jun 2026 14:01:47 GMT",
         "source": "cnbc.com",
-        "id": "9ebf16f051",
-        "quick_take": "SpaceX shares dropped 7% to $178, which puts many buyers at risk of losing money just after the IPO.",
-        "simplified_article": "Shares of SpaceX fell to $178 after a 7% drop. The decline followed recent trading patterns as the stock hovered around its average price of just under $180. SpaceX's recent IPO attracted plenty of buyers, but the current prices might discourage them if they don't recover. If these shares keep falling, investors might reconsider their investments or even sell at a loss, which could affect the overall market sentiment for newly listed tech companies.",
-        "investor_impact": "This decline impacts individuals who bought SpaceX shares during the IPO, as they might now be facing losses if they decide to sell. This situation could also create hesitation among potential investors looking to invest in other tech IPOs if they see SpaceX struggling.",
+        "id": "638a598c51",
+        "quick_take": "Oil prices dropped because a U.S. official announced that Israel and Hezbollah agreed to a ceasefire, signaling reduced tensions in the region.",
+        "simplified_article": "Oil prices went down after a U.S. official reported that Israel and Iran-backed Hezbollah will halt fighting starting 4 p.m. local time on Friday. This ceasefire could ease worries about supply disruptions in the oil market caused by regional conflicts. The situation in the Middle East often affects oil prices because much of the world's oil comes from this region. Lower oil prices can impact the economy by reducing costs for gas and transportation, which may help consumers save money at the pump.",
+        "investor_impact": "This drop in oil prices could lead to lower gas prices for consumers, benefiting anyone who drives or uses fuel in their daily life. Additionally, companies in industries reliant on oil, such as airlines and shipping, might see decreased costs, which could improve their profit margins. However, some energy sector stocks may struggle as lower oil prices could reduce their revenue.",
         "key_terms": []
       },
       {
-        "title": "Vance says U.S. isn’t giving Iran ‘a cent’ as he defends Trump peace deal",
-        "summary": "\"The only way the Iranians get any of these resources ... is if they comply fully\" with the terms of the deal, Vice President JD Vance said.",
-        "link": "https://www.cnbc.com/2026/06/18/vance-iran-war-memo-oil-gas.html",
-        "published": "Thu, 18 Jun 2026 20:14:38 GMT",
+        "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
+        "summary": "SpaceX shares were up 37% after its historic debut last week, which offered shares at a set price of $135.",
+        "link": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
+        "published": "Fri, 19 Jun 2026 10:47:57 GMT",
         "source": "cnbc.com",
-        "id": "4e369f3589",
-        "quick_take": "Vice President JD Vance stated that the U.S. isn't giving Iran any money unless they fully comply with the peace deal, which is crucial for international relations.",
-        "simplified_article": "JD Vance, the U.S. Vice President, emphasized that Iran will not receive any funds unless they obey the conditions set in a peace deal. This stance reinforces the U.S. position on Iran amid ongoing negotiations. The peace deal aims to improve relations between the two nations and enhance regional stability. If Iran complies, it might gain access to resources that could benefit its economy, impacting its citizens and regional politics.",
-        "investor_impact": "This situation may affect companies involved in international trade with Iran, especially those in energy and agricultural sectors, which could see changes in their operations or markets. Investors focusing on Middle Eastern markets should be aware that tensions or resolutions may impact those stock values and related investments.",
+        "id": "48da8ab6ec",
+        "quick_take": "Musk's SpaceX stake soared to over $1 trillion after shares jumped 37% following their launch price of $135, highlighting the value of private space exploration.",
+        "simplified_article": "SpaceX shares increased by 37% after their initial public offering (IPO) last week, where they were sold for $135 each. This surge in share value indicates strong investor interest in the company, which is known for its ambitious space missions and technology. SpaceX has gained significant attention as a leader in private space travel and exploration. With this high valuation, it could impact funding and investments in technology and space sectors, as other companies might attempt to capitalize on similar interests.",
+        "investor_impact": "If you're interested in tech or space exploration, this could ignite more investments in those areas, potentially leading to growth in related stocks. Additionally, this significant valuation could encourage other private companies to go public, opening up more investment opportunities. Keep an eye on emerging tech that might benefit from increased attention due to SpaceX's success.",
         "key_terms": []
       },
       {
-        "title": "Markets are set for a much more hawkish Warsh Fed than expected",
-        "summary": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
-        "link": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
-        "published": "Thu, 18 Jun 2026 18:04:41 GMT",
+        "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+        "summary": "Apple appears poised to take the rare step of increasing prices to deal with what CEO Tim Cook called an \"unsustainable\" memory shortage.",
+        "link": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
+        "published": "Fri, 19 Jun 2026 12:00:02 GMT",
         "source": "cnbc.com",
-        "id": "881cfc9c04",
-        "quick_take": "Fed Chairman Kevin Warsh's strong comments on inflation surprised markets, signaling a more aggressive approach to interest rates than expected.",
-        "simplified_article": "The financial markets reacted strongly this week after Fed Chairman Kevin Warsh made tough statements about inflation. His comments suggest that the Federal Reserve may raise interest rates more aggressively to combat rising prices, which has caught many investors off guard. It's important because the Fed plays a big role in controlling the economy by setting interest rates. If rates go up, borrowing money becomes more expensive, affecting loans and mortgages. Investors should prepare for potential shifts in stock prices and borrowing costs as this new stance unfolds.",
-        "investor_impact": "If the Fed raises interest rates more than expected, it might increase monthly payments on loans and mortgages, making home buying more expensive. Sectors like housing and consumer finance could feel the squeeze, as borrowers face higher costs. Additionally, stock prices may become more volatile as investors react to these developments, especially in interest-sensitive sectors like real estate and utilities.",
+        "id": "31c46575e6",
+        "quick_take": "Apple might raise prices due to a major memory shortage, which could affect how much you'll pay for their products.",
+        "simplified_article": "Apple's CEO, Tim Cook, announced they may have to increase prices because of a severe shortage of memory, which is a key component in many devices. This shortage is described as 'unsustainable,' meaning it can't continue without causing problems. Memory chips are crucial for technology products, and this situation could lead to higher costs for consumers. If Apple raises prices, it could influence how much you pay for your next iPhone or MacBook, affecting many shoppers who rely on these devices.",
+        "investor_impact": "If Apple raises product prices, it could lead to decreased sales if customers decide to hold off on purchases, which might hurt Apple's revenues. Additionally, suppliers of memory chips might see fluctuations in demand, impacting their stock prices. Overall, tech consumers can expect higher prices for new gadgets, especially from Apple.",
         "key_terms": []
       },
       {
-        "title": "Trump administration temporarily cuts student loan interest rates for borrowers on autopay",
-        "summary": "The Trump administration announced it will offer federal student loan borrowers who sign up for autopay a larger interest rate discount.",
-        "link": "https://www.cnbc.com/2026/06/18/trump-student-loan-autopay-interest-rate-discount.html",
-        "published": "Thu, 18 Jun 2026 20:08:16 GMT",
+        "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
+        "summary": "Trump said in an interview with Axios on Thursday evening stateside that he negotiated the deal to prevent the conflict from triggering a global depression.",
+        "link": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
+        "published": "Fri, 19 Jun 2026 02:00:46 GMT",
         "source": "cnbc.com",
-        "id": "3e453cfaf0",
-        "quick_take": "The Trump administration cut student loan interest rates for borrowers on autopay, helping them save money on their loans.",
-        "simplified_article": "The Trump administration announced a temporary interest rate discount for federal student loan borrowers who set up autopay, where payments are automatically deducted from their bank accounts. This move aims to make it easier for borrowers to manage their repayments. Many borrowers struggle with high interest rates, and this discount can lessen their financial burden. Going forward, those who enroll in autopay will benefit from this lower rate, making their loans cheaper over time.",
-        "investor_impact": "This change directly affects federal student loan borrowers, potentially saving them money each month on their payments. If more borrowers choose autopay due to the discount, it might encourage financial stability among young adults burdened by student debt, but it doesn’t have a significant impact on investment sectors like real estate or stocks.",
+        "id": "b9bf15b4dc",
+        "quick_take": "Trump called the Iran deal an 'unconditional surrender,' highlighting his view that it's a move to avoid a global economic crisis.",
+        "simplified_article": "In an interview, Trump expressed strong disapproval of the Iran deal, referring to it as an 'unconditional surrender.' He believes he negotiated the deal to stop it from leading to a worldwide recession. The Iran deal relates to how the U.S. and other nations engage with Iran, especially concerning its nuclear program. Going forward, Trump's stance could influence U.S.-Iran relations and affect global oil prices, impacting businesses reliant on stable international trade and energy markets.",
+        "investor_impact": "If tensions between the U.S. and Iran escalate, oil prices could rise, affecting transportation and manufacturing sectors. Companies that import oil or rely heavily on stable energy prices might see increased costs and reduced profits. Consumers could eventually feel this in higher prices at the pump or for goods that depend on oil.",
         "key_terms": []
       },
       {
-        "title": "Amazon investigating engineers who criticized AI data center expansion",
-        "summary": "Five Amazon employees testified at Seattle City Council meetings where officials sought feedback on a year-long data center new construction pause.",
-        "link": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
-        "published": "Thu, 18 Jun 2026 19:47:59 GMT",
+        "title": "Trump DNI pick Pulte poised to get access to U.S. intelligence despite congressional bid to thwart",
+        "summary": "With President Donald Trump halting his nomination of U.S. Attorney Jay Clayton as director of national intelligence, Bill Pulte is set to take on the role.",
+        "link": "https://www.cnbc.com/2026/06/18/pulte-trump-dni-us-intelligence-congress.html",
+        "published": "Thu, 18 Jun 2026 18:49:36 GMT",
         "source": "cnbc.com",
-        "id": "53178f02a1",
-        "quick_take": "Amazon is looking into five employees who criticized its plans for a new AI data center in Seattle, which could impact public perception and employee morale at the company.",
-        "simplified_article": "Amazon is investigating five of its employees who spoke out against the construction of a new AI data center during Seattle City Council meetings. This investigation follows a pause on data center construction that city officials initiated to gather community feedback. Data centers are facilities that store and manage digital data, and expanding them often brings concerns from local residents about the impact on the environment and infrastructure. The outcome of this investigation may influence Amazon's relationship with its workforce and how it approaches future projects, potentially affecting both employees and the company's public image.",
-        "investor_impact": "This situation could raise concerns among investors about Amazon's ability to manage employee relations and community perceptions, which are crucial for its long-term growth. If the investigation leads to negative publicity, it could affect the stock price, especially within the tech sector where public sentiment plays a significant role. Additionally, ongoing scrutiny over data center expansions may impact related sectors, such as real estate and construction, in the Seattle area.",
+        "id": "508635c9d5",
+        "quick_take": "Bill Pulte is set to become the new director of national intelligence, replacing Jay Clayton, highlighting Trump's shift in leadership for U.S. intelligence.",
+        "simplified_article": "President Trump has decided not to nominate U.S. Attorney Jay Clayton as the director of national intelligence and is instead bringing in Bill Pulte for the role. This change is significant as it reflects Trump's preference for Pulte, who has been involved in charitable initiatives and civic engagement. The director of national intelligence oversees and coordinates the U.S. intelligence community, which is crucial for national security. Going forward, Pulte's leadership may influence how intelligence operations are conducted and how information is shared among agencies, impacting decisions on national safety.",
+        "investor_impact": "This shift in leadership could lead to changes in defense and cybersecurity funding priorities, affecting companies within those sectors. Investors with interests in defense contractors or tech firms involved in government contracts should pay attention, as changes in these areas might influence their business opportunities and stock performance.",
         "key_terms": []
       },
       {
-        "title": "U.S. Navy ends blockade of Iran's ports and coastal areas",
-        "summary": "The Navy on Thursday lifted its blockade of Iran's ports and coastal areas at the direction of President Donald Trump.",
-        "link": "https://www.cnbc.com/2026/06/18/us-navy-blockade-iran-trump-oil.html",
-        "published": "Thu, 18 Jun 2026 19:29:26 GMT",
+        "title": "NetJets' first fatal crash kills influential Texas VC founder",
+        "summary": "NetJets is not speculating on what caused one of its planes to crash onto a highway in Laredo, Texas late Tuesday, killing a prominent tech entrepreneur.",
+        "link": "https://www.cnbc.com/2026/06/19/netjets-first-fatal-crash-kills-influential-texas-vc-founder.html",
+        "published": "Fri, 19 Jun 2026 12:46:55 GMT",
         "source": "cnbc.com",
-        "id": "4cfc11edbb",
-        "quick_take": "The U.S. Navy ended its blockade of Iran's ports, likely affecting oil prices and regional trade.",
-        "simplified_article": "The U.S. Navy has lifted its blockade of Iran's ports and coastal areas. This decision was made by President Donald Trump and suggests a changing approach to handling relations with Iran. Blockades are military actions meant to restrict access, usually to limit supplies or trade. Moving forward, this could lead to increased shipping and trade activity in the region, which may affect global oil markets and other related industries.",
-        "investor_impact": "The end of the blockade might lead to a rise in oil supply from Iran, potentially lowering oil prices. This affects sectors like energy, especially companies involved in oil production and trading. Additionally, traders should keep an eye on fluctuations in related markets like shipping and logistics.",
+        "id": "290f36cd9b",
+        "quick_take": "NetJets' plane crashed on a Texas highway, resulting in the death of a key tech entrepreneur, raising safety concerns in private aviation.",
+        "simplified_article": "A NetJets plane crashed on a highway in Laredo, Texas, leading to the death of a well-known tech entrepreneur. The cause of the crash is still unknown as NetJets is not speculating about it. NetJets is a company that provides private jet services to individuals and businesses. This incident may prompt reviews of safety protocols in private aviation and could affect perceptions of flying on chartered jets, which impacts both customers and the industry.",
+        "investor_impact": "The crash might lead to increased scrutiny of private aviation companies, potentially affecting their stock prices and insurance costs. Investors involved in the aviation sector, especially those in private jet services, could see changes in their financial outlook based on how safety measures are perceived going forward.",
         "key_terms": []
       },
       {
-        "title": "Waymo recalls about 3,900 robotaxis after some drove into 'freeway construction zones'",
-        "summary": "After some Waymo robotaxis drove into closed construction zones, the company implemented a recall to fix underlying software issues.",
-        "link": "https://www.cnbc.com/2026/06/18/waymo-nhtsa-voluntary-recall-robotaxis-entered-freeway-construction-zones.html",
-        "published": "Thu, 18 Jun 2026 20:21:21 GMT",
+        "title": "Struggling to find a job? Try looking in Nevada",
+        "summary": "The sparsely populated state known for its world-class casinos and dry climate has been a hiring hot spot.",
+        "link": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
+        "published": "Fri, 19 Jun 2026 12:33:45 GMT",
         "source": "cnbc.com",
-        "id": "a73a9de0ea",
-        "quick_take": "Waymo recalled about 3,900 robotaxis after some drove into closed construction zones, highlighting software issues that need fixing.",
-        "simplified_article": "Waymo has recalled around 3,900 of its robotaxis because some of them accidentally drove into closed construction areas. This happened due to underlying problems with their software that controls the cars. Robotaxis are self-driving cars operated by Waymo, which is a leader in autonomous technology. Moving forward, Waymo will work on improving their software to ensure safety, and this recall could affect customers using their ride-hailing services.",
-        "investor_impact": "This recall might raise concerns about the reliability of Waymo's technology, which could impact investor confidence in companies developing self-driving cars. If customers lose trust in robotaxi services, it could slow down adoption and affect future revenues for Waymo and similar tech companies in the autonomous vehicle sector.",
+        "id": "84cb81555b",
+        "quick_take": "Nevada, known for its casinos, is becoming a hiring hotspot, which is great news for job seekers.",
+        "simplified_article": "Nevada is seeing an increase in job opportunities, making it a good place for people looking for work. This rise in hiring is likely due to growth in tourism and entertainment industries, which are popular in the state. Nevada has a reputation for its dry climate and exciting resorts. As more jobs become available, many people, especially those in hospitality and services, may benefit from relocating or exploring work there.",
+        "investor_impact": "This job growth could lead to an uptick in spending in sectors like hospitality and retail, affecting local businesses positively. If you have investments in sectors tied to tourism or local services, those could see improvements as more people find jobs and spend money.",
         "key_terms": []
       },
       {
-        "title": "Trump bid to fire Fed's Lisa Cook cost her more than $1M in legal, security costs: Filing",
-        "summary": "A financial disclosure from Federal Reserve Governor Lisa Cook details large legal and security expenses",
-        "link": "https://www.cnbc.com/2026/06/18/trump-federal-reserve-lisa-cook-security-filing.html",
-        "published": "Thu, 18 Jun 2026 17:24:11 GMT",
+        "title": "Bob Iger reflects on 10 years of Shanghai Disneyland as it defies the Chinese pullback",
+        "summary": "Shanghai Disneyland hit 100 million cumulative visitors in 2025, according to the company. It's a relatively new but important foothold in Disney's history.",
+        "link": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html",
+        "published": "Fri, 19 Jun 2026 11:00:01 GMT",
         "source": "cnbc.com",
-        "id": "df13657186",
-        "quick_take": "Lisa Cook, a Federal Reserve Governor, incurred over $1 million in legal and security costs due to Trump's attempt to fire her, highlighting the political tensions around the Fed's leadership.",
-        "simplified_article": "Lisa Cook, a governor at the U.S. Federal Reserve, reported more than $1 million in expenses for legal fees and security. This situation arose after former President Trump tried to remove her from her position. Cook's spending reflects the challenges and scrutiny Fed officials face, especially in a politically charged atmosphere. Moving forward, Cook may continue to deal with heightened security and legal pressures, impacting her ability to focus on monetary policy decisions, which can affect the economy at large.",
-        "investor_impact": "This incident could create uncertainty around the Federal Reserve's stability, potentially impacting interest rates and investor confidence. If markets perceive instability in the Fed's leadership, it could lead to fluctuations in bond and stock prices, particularly affecting sectors that rely heavily on stable interest rates like real estate and utilities.",
+        "id": "42de1f90ae",
+        "quick_take": "Shanghai Disneyland reached 100 million visitors in 2025, showing its strong attraction despite challenges in China.",
+        "simplified_article": "Shanghai Disneyland celebrated 100 million visitors in 2025. This milestone indicates its popularity and significance for Disney, especially amid a tough market in China. Shanghai Disneyland is a relatively new addition to Disney's parks but has quickly become a key part of its global operations. Moving forward, this success could encourage Disney to invest further in the region and attract more tourists, which may benefit local businesses and economies around the park.",
+        "investor_impact": "The success of Shanghai Disneyland could lead to positive outcomes for the tourism and entertainment sectors in China. Local businesses, such as hotels and restaurants near the park, might see increased sales due to the influx of visitors. Companies associated with travel and leisure might benefit as well, as more tourists travel to enjoy the park's offerings.",
         "key_terms": []
       }
     ],
     "banking-economy": [
+      {
+        "title": "South Indian Bank raises FCNR deposit rate to 6.5 pc after RBI swap window",
+        "summary": "South Indian Bank has boosted interest rates on US dollar deposits for Non-Resident Indians to 6.5% per annum for 3-5 year tenures. This move follows the RBI's new USD/INR forex swap facility, enabling banks to secure stable foreign currency while managing exchange risks. The attractive returns offer NRIs a chance to grow their savings securely, with the RBI facility available until September 2026.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/south-indian-bank-raises-fcnr-deposit-rate-to-6-5-pc-after-rbi-swap-window/articleshow/131858286.cms",
+        "published": "Fri, 19 Jun 2026 18:08:43 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "78f395d035",
+        "quick_take": "South Indian Bank raised its interest rate on US dollar deposits for Non-Resident Indians to 6.5% to attract more savings amid RBI's new forex swap facility.",
+        "simplified_article": "South Indian Bank has increased interest rates on US dollar deposits for Non-Resident Indians (NRIs) to 6.5% per year for 3-5 year terms. This increase is in response to the Reserve Bank of India's (RBI) new facility that helps banks manage currency exchange risks. The RBI's facility is set to be available until September 2026. This higher rate gives NRIs a better chance to grow their savings securely, making it an attractive option for them.",
+        "investor_impact": "If you're an NRI, this means you can earn more from your US dollar deposits, making it potentially beneficial for your savings strategy. This could encourage more NRIs to deposit their money in South Indian Bank to take advantage of the higher interest rate.",
+        "key_terms": [
+          {
+            "term": "FCNR deposit",
+            "meaning": "FCNR (Foreign Currency Non-Resident) deposits are accounts held in foreign currency by NRIs, allowing them to earn interest while avoiding currency risk."
+          },
+          {
+            "term": "forex swap facility",
+            "meaning": "A forex swap facility allows banks to exchange currencies at a fixed rate, helping them manage exchange rate risks and stabilize foreign currency holdings."
+          }
+        ]
+      },
+      {
+        "title": "Singapore-based fintech company Aleta aims to expand operations into India",
+        "summary": "Aleta Planet, a Singapore fintech firm, is set to enter the Indian market. The company will provide infrastructure for Visa debit cards, enabling quick launches for partners. Aleta also plans to introduce exclusive Sanrio-themed Visa debit and prepaid cards. These collectable cards featuring popular characters aim to attract a wide audience.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/singapore-based-fintech-company-aleta-aims-to-expand-operations-into-india/articleshow/131852894.cms",
+        "published": "Fri, 19 Jun 2026 13:56:41 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "4d459f1a8f",
+        "quick_take": "Singapore's Aleta Planet is entering India to offer fast Visa debit card options, which could reshape local payment methods.",
+        "simplified_article": "Aleta Planet, a financial technology company from Singapore, is planning to start its operations in India. They aim to provide technology that will allow partners to quickly launch Visa debit cards. Aleta also wants to offer fun Sanrio-themed cards featuring popular characters, likely to attract more users. This move highlights the growing demand for diverse payment options in India and signals Aleta's confidence in the market. As Aleta enters, more consumers and businesses might benefit from better card offerings and promotional deals.",
+        "investor_impact": "This development could lead to increased competition in the Indian fintech sector, affecting companies involved in payment solutions and card services. If Aleta captures market share, companies like Paytm and PhonePe might need to innovate or lower costs to stay competitive, which could impact their profits. Those investing in fintech stocks might want to watch how this competition unfolds.",
+        "key_terms": []
+      },
+      {
+        "title": "PhonePe wallet inactive? You will now be fined for not using it",
+        "summary": "PhonePe is now charging a Rs 100 quarterly fee for inactive wallets. This fee applies if users have not made any financial transactions through the PhonePe Wallet in the past 365 days. The charge supports platform improvements. Users receive multiple notifications before the fee is deducted. A single wallet transaction reactivates the account and avoids the charge.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/phonepe-wallet-inactive-you-will-now-be-fined-for-not-using-it/articleshow/131849538.cms",
+        "published": "Fri, 19 Jun 2026 12:15:02 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "50515cfb72",
+        "quick_take": "PhonePe is introducing a Rs 100 quarterly fee for inactive wallets, making it essential for users to regularly engage with their accounts.",
+        "simplified_article": "PhonePe is now charging users Rs 100 every three months if they don't use their wallet for a whole year. This fee is meant to help improve the platform. If you haven't made any transactions in 365 days, you'll start seeing this charge. However, you'll be notified several times before it happens. If you do one transaction, your wallet will become active again, and you won't have to pay the fee.",
+        "investor_impact": "Users with inactive PhonePe wallets need to be mindful of this new Rs 100 fee, especially if they haven't used the service in a while. This could particularly affect those who haven’t engaged with digital wallets or similar services, as they may incur unexpected costs.",
+        "key_terms": []
+      },
+      {
+        "title": "Power and IT set to remain dominant industries as pvt sector leads India's investment landscape in post-Covid era: Report",
+        "summary": "Power and IT sectors are set to lead India's economic growth. New investment announcements show a strong focus on electricity and technology. This trend is driven by digital infrastructure and renewable energy needs. The private sector is now a major investor. Transport, chemicals, and metals also see substantial capital allocation. Consumer segments hold smaller shares.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/power-and-it-set-to-remain-dominant-industries-as-pvt-sector-leads-indias-investment-landscape-in-post-covid-era-report/articleshow/131846271.cms",
+        "published": "Fri, 19 Jun 2026 10:08:32 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "8eb6c15ee6",
+        "quick_take": "India's private sector is heavily investing in the power and IT sectors, signaling a strong economic recovery post-Covid.",
+        "simplified_article": "The report highlights that the power and IT industries will drive India's growth as private companies increase their investments. This focus is mainly due to the increased demand for digital infrastructure and renewable energy. Historically, these sectors have been crucial for job creation and economic stability. Moving forward, more investments in transport, chemicals, and metals are also expected, which will continue to shape the economy and create job opportunities for many people.",
+        "investor_impact": "If you have investments in renewable energy or technology stocks, this might be a good time as these sectors are likely to see substantial growth. The increased private investment could lead to more job openings, impacting workers in sectors like transport and chemicals positively. However, consumer goods might lag behind in investment, so those stocks could face slower growth.",
+        "key_terms": []
+      },
+      {
+        "title": "CBI conducts searches in Kolkata in PNB fraud cases",
+        "summary": "The Central Bureau of Investigation (CBI) has conducted searches on Wednesday, at 8 locations in Kolkata, West Bengal, in connection with three separate cases registered against Tantia Construction Ltd., Brahm Alloys Ltd. and Amrit Feeds Ltd.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/cbi-conducts-searches-in-kolkata-in-pnb-fraud-cases/articleshow/131845070.cms",
+        "published": "Fri, 19 Jun 2026 08:18:52 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "d52d99043f",
+        "quick_take": "The CBI searched 8 locations in Kolkata related to fraud cases involving Tantia Construction Ltd., Brahm Alloys Ltd., and Amrit Feeds Ltd., which is serious for investors involved with these companies.",
+        "simplified_article": "On Wednesday, the Central Bureau of Investigation (CBI) carried out searches at 8 places in Kolkata as part of investigations into frauds linked to three companies: Tantia Construction Ltd., Brahm Alloys Ltd., and Amrit Feeds Ltd. These searches suggest that there might be significant financial misconduct happening within these firms. Fraud investigations like these typically indicate potential misuse of funds or misrepresentation of financial health. The outcomes could lead to legal troubles for these companies, affecting their operations and possibly leading to losses for investors and other stakeholders.",
+        "investor_impact": "Investors in Tantia Construction, Brahm Alloys, and Amrit Feeds should be cautious as these searches might lead to decreased trust and lower stock prices. If any legal action occurs, it could hinder business operations and investor returns in the short term. Those considering investments in these sectors may want to reevaluate their options given the current uncertainty.",
+        "key_terms": []
+      },
       {
         "title": "Emirates NBD completes acquisition of RBL Bank",
         "summary": "The investment was completed through a preferential allotment of 929.1 million fully paid-up equity shares of RBL Bank at Rs 280 per share, aggregating to about Rs 26,016 crore. As a result of the allotment, RBL Bank's total share count has more than doubled -to 1.5485 billion from about 619.4 million.",
@@ -238,10 +299,15 @@
         "published": "Fri, 19 Jun 2026 00:33:13 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "8b8a8a7b84",
-        "quick_take": "Emirates NBD has acquired a large stake in RBL Bank by buying 929.1 million shares for around Rs 26,016 crore, which could significantly reshape the Indian banking landscape.",
-        "simplified_article": "Emirates NBD has completed the purchase of 929.1 million shares in RBL Bank, investing about Rs 26,016 crore. This acquisition increased RBL Bank's total number of shares from around 619.4 million to over 1.5 billion. The deal happened because Emirates NBD seeks to strengthen its presence in the Indian banking sector. Going forward, this acquisition may lead to changes in RBL Bank's operations and competitive stance in the market, which could directly impact customers and investors associated with the bank.",
-        "investor_impact": "For RBL Bank investors, this acquisition might mean a rise in confidence about the bank's future performance, potentially increasing the stock value. Customers of RBL Bank could see new products and services or changes in loan terms due to the new ownership structure. Additionally, companies in the banking sector may experience shifts in competition as Emirates NBD establishes its influence in the Indian market.",
-        "key_terms": []
+        "quick_take": "Emirates NBD has bought a significant stake in RBL Bank, investing about Rs 26,016 crore to help the bank grow.",
+        "simplified_article": "Emirates NBD has completed its acquisition of RBL Bank by purchasing 929.1 million shares. This investment has doubled the total number of shares RBL Bank has, increasing it from about 619.4 million to 1.5485 billion. The move is aimed at strengthening RBL Bank's capital base and supporting its future growth. This acquisition could lead to improved banking services and stability for customers of RBL Bank. People using RBL Bank for their financial needs may see the benefits in services or security as the bank evolves after this major investment.",
+        "investor_impact": "This acquisition could potentially enhance the stability and service offerings of RBL Bank, which may be good news for current customers. If you're a customer or have any assets linked to RBL Bank, you might experience better banking experiences or new product offerings in the near future.",
+        "key_terms": [
+          {
+            "term": "preferential allotment",
+            "meaning": "This refers to issuing new shares to a specific investor at a fixed price, which helps the company raise money."
+          }
+        ]
       },
       {
         "title": "Banks seek RBI nod to let NRIs break & rebook existing deposits",
@@ -250,13 +316,13 @@
         "published": "Fri, 19 Jun 2026 00:20:59 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "a9640189b8",
-        "quick_take": "The Reserve Bank of India (RBI) is allowing banks to let Non-Resident Indians (NRIs) break and rebook their deposits to attract more foreign currency inflows.",
-        "simplified_article": "Banks are asking the RBI for permission to let NRIs break and rebook their existing dollar deposits. This change is happening because the RBI wants to boost foreign currency inflows into India. Previously, NRIs had fixed deposits called Foreign Currency Non-Resident (Bank), or FCNR(B) deposits, which are in foreign currency. If the RBI approves this request, it could lead to NRIs finding these deposits more appealing, which would increase the amount of foreign currency coming into India.",
-        "investor_impact": "If you are an NRI with deposits in India, you could benefit from the chance to rebook your deposits, potentially at better rates. This move may also strengthen the Indian rupee as more foreign currency flows in, impacting people who hold foreign investments or currencies.",
+        "quick_take": "Indian banks want RBI approval to allow NRIs to break and rebook their deposits to boost foreign currency inflows, which is significant for attracting investment.",
+        "simplified_article": "Indian banks are asking the Reserve Bank of India (RBI) for permission to let Non-Resident Indians (NRIs) break their existing foreign currency deposits and rebook them under better terms. This move aims to encourage more foreign currency to flow into India. The RBI is supporting this by covering costs associated with these deposits, making them more appealing to depositors. If approved, NRIs will benefit from improved deposit conditions, impacting how much money they choose to invest back in India.",
+        "investor_impact": "This change could make foreign currency deposits much more attractive for NRIs, leading them to invest more in Indian banks. As a result, banks might see increased foreign currency inflows, which can strengthen the overall economy. Additionally, if more NRIs decide to rebook their deposits, it could lead to more favorable exchange rates for them, impacting their investments in India.",
         "key_terms": [
           {
-            "term": "FCNR(B)",
-            "meaning": "Foreign Currency Non-Resident (Bank) deposits allow NRIs to hold accounts in foreign currency, offering potential benefits when interest rates change."
+            "term": "FCNR(B) scheme",
+            "meaning": "This is a special type of bank deposit for NRIs in foreign currencies, allowing them to earn interest without worrying about currency exchange rates."
           }
         ]
       },
@@ -267,96 +333,54 @@
         "published": "Thu, 18 Jun 2026 17:35:26 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "28278c691e",
-        "quick_take": "RBI extended Keki Mistry's role as interim chairman of HDFC Bank for three months, giving the bank more time to find a permanent replacement.",
-        "simplified_article": "The Reserve Bank of India (RBI) has decided to allow Keki Mistry to continue as the interim Part-time Chairman of HDFC Bank for another three months. This extension is necessary as the bank is still searching for a new permanent chairman after the resignation of Atanu Chakraborty, which was linked to a legal inquiry. Initial findings from this inquiry have indicated that there are no major issues with the bank's governance. Moving forward, HDFC Bank will focus on finding a suitable candidate for the chairman position while Mistry remains in charge temporarily.",
-        "investor_impact": "This extension could impact HDFC Bank's operations and strategic decisions in the short term, which is important for investors holding HDFC Bank shares. A stable leadership in the bank may help maintain confidence among customers and stakeholders, potentially affecting the bank's loan and deposit rates in the near future.",
+        "quick_take": "The RBI has extended Keki Mistry's role as interim chairman of HDFC Bank by three months, giving the bank more time to find a permanent leader.",
+        "simplified_article": "The Reserve Bank of India (RBI) has approved a three-month extension for Keki Mistry to serve as the interim Part-time Chairman of HDFC Bank. This extension comes as the bank is still in the process of appointing a regular chairman, after the previous chairman, Atanu Chakraborty, resigned amid a legal inquiry. Early findings indicate there were no governance issues related to his departure. Moving forward, HDFC Bank will have additional time to ensure a smooth leadership transition, impacting its operations and strategies.",
+        "investor_impact": "This extension might help stabilize HDFC Bank’s management during a critical transition period, potentially calming any investor nerves about leadership uncertainty. Customers and shareholders can feel reassured that the bank is taking its time to make a careful decision on leadership, which could influence future bank policies and performance.",
         "key_terms": []
-      },
-      {
-        "title": "HDFC Bank extends Keki Mistry's interim chairman tenure by three months",
-        "summary": "HDFC Bank announced a three-month extension for Keki Mistry as interim part-time chairman. The Reserve Bank of India approved this extension until September 18, 2026. This decision comes after the previous chairman's resignation. Mistry continues in his role, ensuring continuity at the bank.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-extends-keki-mistrys-interim-chairman-tenure-by-three-months/articleshow/131828553.cms",
-        "published": "Thu, 18 Jun 2026 16:55:58 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "23dc05fffb",
-        "quick_take": "HDFC Bank has extended Keki Mistry's role as interim chairman for three more months to maintain leadership stability after the previous chairman's resignation.",
-        "simplified_article": "HDFC Bank decided to keep Keki Mistry as interim part-time chairman for an additional three months. This decision was made so that the bank has consistent leadership following the resignation of its previous chairman. The Reserve Bank of India, which oversees banks in India, approved this extension until September 18, 2026. With Mistry staying on, the bank aims to ensure a smooth transition for its operations. This move affects everyone connected to the bank including customers, employees, and shareholders who seek stability.",
-        "investor_impact": "This extension could reassure existing investors and customers about the bank's stability during a leadership transition. However, any uncertainty around future leadership may cause some hesitation among potential investors looking to enter HDFC Bank shares.",
-        "key_terms": []
-      },
-      {
-        "title": "RBI cancels licence of Karnataka-based Shree Mahalaxmi Urban Co-operative Credit Bank",
-        "summary": "The Reserve Bank of India has cancelled the banking license of Karnataka-based Shree Mahalaxmi Urban Co-operative Credit Bank due to its deteriorating financial condition. The bank's inability to meet its obligations and its lack of adequate capital and earning prospects led to this decision. Approximately 97.9% of depositors are expected to receive their full deposit amounts from DICGC upon liquidation.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-cancels-licence-of-karnataka-based-shree-mahalaxmi-urban-co-operative-credit-bank/articleshow/131828187.cms",
-        "published": "Thu, 18 Jun 2026 16:42:29 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "0118a84d46",
-        "quick_take": "RBI cancelled the license of Shree Mahalaxmi Urban Co-operative Credit Bank due to its financial troubles, impacting its depositors.",
-        "simplified_article": "The Reserve Bank of India (RBI) has taken away the banking license of Shree Mahalaxmi Urban Co-operative Credit Bank in Karnataka. This happened because the bank couldn't handle its finances properly and didn't have enough money to continue operations. Co-operative banks like this one are smaller banks that help people in local communities. About 97.9% of the bank’s depositors are expected to get their money back through an insurance program called DICGC when the bank closes down.",
-        "investor_impact": "If you have money in smaller co-operative banks, this news highlights the risks involved, as they can face financial issues. It's also a reminder for depositors to check if their money is insured or not. This situation might lead more people to trust larger banks, affecting how smaller banks operate in the future.",
-        "key_terms": []
-      },
-      {
-        "title": "Govt announces key leadership changes in insurance sector",
-        "summary": "Dinesh Pant, managing director at Life Insurance Corporation of India, has been appointed whole-time member (actuary) at IRDAI, while Girija Subramanian, chairman-cum-managing director of The New India Assurance Company Limited, has been appointed whole-time member (distribution). Both appointments are for five years. The government has also reappointed Deepak Sood as whole-time member (non-life), extending his term by two years until 2028, and Rajay Kumar Sinha as whole-time member (finance and investment) for another two years until 2029, or until they attain the age of 65 years, whichever is earlier.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/govt-announces-key-leadership-changes-in-insurance-sector/articleshow/131812105.cms",
-        "published": "Thu, 18 Jun 2026 01:00:43 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "0176e238eb",
-        "quick_take": "The Indian government made major leadership changes in the insurance sector, which could reshape industry policies and practices over the next five years.",
-        "simplified_article": "The government announced new appointments in the insurance sector: Dinesh Pant will now be part of IRDAI (the insurance regulator) focusing on actuarial matters, while Girija Subramanian will handle distribution. These changes aim to strengthen leadership in the industry. Deepak Sood and Rajay Kumar Sinha have received extensions in their roles, ensuring continuity in key positions. These leadership changes may impact how insurance companies operate and interact with consumers.",
-        "investor_impact": "These appointments could influence how insurance companies develop and sell their products, potentially affecting premiums and coverage options. If you own insurance stocks, the performance of those companies might shift depending on the new strategies adopted by the leadership. Changes in regulation can lead to new opportunities or challenges in the market that's worth keeping an eye on.",
-        "key_terms": [
-          {
-            "term": "IRDAI",
-            "meaning": "Insurance Regulatory and Development Authority of India, which regulates the insurance industry and ensures the protection of policyholders."
-          }
-        ]
-      },
-      {
-        "title": "Financial Intelligence Unit puts large crypto OTC deals under scanner, asks exchanges for trade data",
-        "summary": "Indian financial authorities are examining large over-the-counter cryptocurrency trades. The Financial Intelligence Unit is requesting data from major crypto exchanges for transactions exceeding $10,000. This move aims to combat money laundering and track beneficial owners. These off-market deals are insulated from price volatility. The focus is on ensuring transparency and preventing illicit activities within the digital asset space.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/financial-intelligence-unit-puts-large-crypto-otc-deals-under-scanner-asks-exchanges-for-trade-data/articleshow/131811947.cms",
-        "published": "Thu, 18 Jun 2026 00:55:40 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "b871e1ed41",
-        "quick_take": "India's Financial Intelligence Unit is probing large crypto trades over $10,000 to fight money laundering.",
-        "simplified_article": "The Financial Intelligence Unit of India is looking into large cryptocurrency trades that happen outside the usual market (known as over-the-counter or OTC trades). They are asking major crypto exchanges to provide transaction data for deals worth over $10,000. This review is intended to help prevent illegal activities like money laundering. As crypto trading can experience price swings, these off-market deals are less affected by sudden changes. Going forward, this scrutiny could impact how crypto transactions are conducted and increase transparency in the market.",
-        "investor_impact": "If you trade cryptocurrencies or are involved in the OTC market, this could lead to more oversight and stricter rules for your transactions. Exchanges may need to change how they operate, which could slow down trading times or add more steps before you can execute a trade. Overall, this could make trading cryptocurrencies feel more regulated, similar to traditional markets.",
-        "key_terms": [
-          {
-            "term": "over-the-counter (OTC)",
-            "meaning": "A type of trade that takes place directly between two parties, bypassing traditional exchanges, which can reduce price fluctuations."
-          }
-        ]
-      },
-      {
-        "title": "NARCL makes fifth exit with Rs 575 crore recovery",
-        "summary": "Agson Global, a manufacturer of aroma ingredients, was admitted to insolvency proceedings by the National Company Law Tribunal following a petition filed by the erstwhile Allahabad Bank, now part of Indian Bank. NARCL, the state-backed \"bad bank\", had acquired Agson Global's debt at a steep discount, said one of the people cited earlier. The recovery enabled NARCL to fully redeem the security receipts (SRs) issued to lenders and also distribute an additional nearly Rs 200 crore to the banks.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/narcl-makes-fifth-exit-with-rs-575-crore-recovery/articleshow/131811999.cms",
-        "published": "Thu, 18 Jun 2026 00:52:17 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "87df2a5d6a",
-        "quick_take": "NARCL recovered Rs 575 crore from Agson Global's debt, marking a significant move in managing bad loans and benefiting banks involved.",
-        "simplified_article": "NARCL, a government-created 'bad bank', successfully recovered Rs 575 crore from Agson Global, a company that makes aroma ingredients. This recovery followed Agson's insolvency, which happened after a bank petitioned for it. Bad banks like NARCL are set up to take on non-performing loans (loans that aren't being paid back) to help clear balance sheets of regular banks. With this recovery, NARCL is able to pay back the money it originally borrowed from banks, plus an additional Rs 200 crore. This is encouraging for banks because it means they can reduce their losses.",
-        "investor_impact": "This recovery could improve the financial health of banks involved, potentially making them more willing to lend money in the future. It may also boost confidence in the banking sector, which is relevant for anyone investing in bank stocks or looking for loans. Overall, better recovery of bad loans can lead to higher stability in the banking industry.",
-        "key_terms": [
-          {
-            "term": "NARCL",
-            "meaning": "NARCL stands for the National Asset Reconstruction Company Limited, which buys bad loans from banks to help them manage financial risks."
-          },
-          {
-            "term": "insolvency",
-            "meaning": "Insolvency means that a company cannot pay its debts, leading to legal proceedings to resolve the situation."
-          },
-          {
-            "term": "bad bank",
-            "meaning": "A bad bank is a financial institution that takes on non-performing loans from other banks to help clean up their balance sheets."
-          }
-        ]
       }
     ],
     "sectors": [
+      {
+        "title": "Indian two-wheeler industry to see moderate growth at 3-5% in FY27: ICRA",
+        "summary": "India's two-wheeler sector anticipates a modest 3-5% wholesale volume growth in FY27, according to ICRA. While domestic demand and exports remain strong, challenges like a high base, potential weak monsoon, and inflation-driven price hikes could temper expansion. The electric two-wheeler segment, however, continues its impressive surge, capturing significant market share and demonstrating growing consumer acceptance.",
+        "link": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/indian-2w-industry-to-see-moderate-growth-at-3-5-in-fy27-icra/articleshow/131860814.cms",
+        "published": "Fri, 19 Jun 2026 19:34:47 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "ce88b1d43b",
+        "quick_take": "India's two-wheeler industry is expected to grow 3-5% in FY27, driven by strong local demand and electric vehicle adoption, despite some challenges.",
+        "simplified_article": "India's two-wheeler industry is forecasting a growth of 3-5% for the fiscal year 2027 (FY27). This moderate growth is expected due to ongoing strong demand for bikes both within the country and internationally, but could face hurdles like a high sales base from previous years, possible weak monsoon rains affecting consumer spending, and rising prices from inflation. The electric two-wheeler market is doing especially well, gaining popularity among customers. Going forward, this growth will influence manufacturers and retailers in the bike sector, making electric options increasingly competitive.",
+        "investor_impact": "Investors in the automotive sector, especially those focused on two-wheelers, might see steady but cautious progress as sales improve slowly. Companies producing electric bikes could have a brighter future due to increasing consumer acceptance, which may lead to better revenue inflows for them. However, the overall industry might be weighed down by external challenges like inflation and weather conditions affecting sales.",
+        "key_terms": []
+      },
+      {
+        "title": "What actually determines your car's final selling price online",
+        "summary": "India's booming used car market sees online valuations as a starting point, not a final offer. While platforms like Cars24 aim for transparency, a gap often exists between initial estimates and final prices due to condition discrepancies and shifting market demand. Understanding these factors is crucial for sellers navigating the process and achieving a fair deal.",
+        "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/what-actually-determines-your-cars-final-selling-price-online/articleshow/131859293.cms",
+        "published": "Fri, 19 Jun 2026 18:12:16 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "156cf0bce9",
+        "quick_take": "India's used car market is booming, but online valuation estimates are just starting points, often differing from final sale prices due to condition and market demand.",
+        "simplified_article": "The used car market in India is growing rapidly, with online platforms providing initial price estimates for cars. However, these estimates can change based on the car's condition and current demand in the market. Understanding this discrepancy is important for sellers as it helps them negotiate better deals. As more people sell cars online, being aware of these factors can lead to fairer prices for sellers. Ultimately, knowing how these valuations work will empower individuals looking to sell their vehicles.",
+        "investor_impact": "For those involved in the used car sector, this difference between estimated and actual selling prices could affect resale planning and potential profits. Sellers need to be informed about their car's condition and market trends to negotiate effectively. Additionally, this could influence business strategies for online car-selling platforms aiming to refine their pricing methods.",
+        "key_terms": []
+      },
+      {
+        "title": "Hero MotoCorp plans to expand flex-fuel capability up to E100, bets on multi-fuel future",
+        "summary": "Hero MotoCorp is embracing a multi-fuel future, planning to extend its flex-fuel vehicle capabilities to E100. The company is also investing heavily in electrification across various two-wheeler segments, aiming to cater to both urban demand for EVs and the strong rural market for internal combustion engines.",
+        "link": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/hero-motocorp-plans-to-expand-flex-fuel-capability-up-to-e100-bets-on-multi-fuel-future/articleshow/131857835.cms",
+        "published": "Fri, 19 Jun 2026 17:04:58 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "27992ff5bd",
+        "quick_take": "Hero MotoCorp is expanding its vehicles to use up to E100 fuel, showing its commitment to multiple fuel options as it invests in electric bikes.",
+        "simplified_article": "Hero MotoCorp announced it will develop vehicles that can run on E100, a type of biofuel made entirely from renewable sources like sugarcane. This move is part of their strategy to create more flexible vehicle options as demand for eco-friendly vehicles grows. Previously, they focused mainly on traditional gasoline engines but are now shifting to electrification, especially for urban and rural markets. Going forward, this could mean a broader range of vehicles for consumers, which might encourage more people to consider both electric and biofuel options.",
+        "investor_impact": "This could be good news for the renewable energy sector, particularly companies producing biofuels or electric vehicle components, as more vehicles using E100 may drive demand. Additionally, as Hero MotoCorp invests in electric two-wheelers, businesses related to battery production and charging infrastructure may also see growth opportunities.",
+        "key_terms": [
+          {
+            "term": "E100",
+            "meaning": "E100 is a fuel made entirely from bioethanol, which can reduce emissions and reliance on fossil fuels."
+          }
+        ]
+      },
       {
         "title": "Harley-Davidson, Hero MotoCorp to expand partnership for global entry-level bikes",
         "summary": "The Harley-Hero partnership, which has on sale the HD X440 and Hero Mavrick in the local market, has planned a slew of launches this fiscal to strengthen its play in the premium segment.",
@@ -364,9 +388,9 @@
         "published": "Fri, 19 Jun 2026 00:03:45 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "22b2c8b961",
-        "quick_take": "Harley-Davidson and Hero MotoCorp are expanding their partnership to boost sales of entry-level bikes, which is important for attracting new riders globally.",
-        "simplified_article": "Harley-Davidson is teaming up with Hero MotoCorp to introduce more entry-level motorcycles. This expansion aims to boost their competitive edge in the growing premium motorcycle market. Previously, they released models like the HD X440 and Hero Mavrick. Moving forward, they plan several new launches in the coming year, benefiting both companies and offering more choices to motorcycle enthusiasts looking for premium options.",
-        "investor_impact": "This partnership could open up new revenue streams for both Harley-Davidson and Hero MotoCorp, especially in the premium bike segment, which is popular among young riders. If successful, it might improve their stock performance and attract more investments in the motorcycle industry.",
+        "quick_take": "Harley-Davidson and Hero MotoCorp are expanding their partnership to launch more entry-level bikes, which is significant for their growth in the premium motorcycle market.",
+        "simplified_article": "Harley-Davidson and Hero MotoCorp have announced that they will work together to introduce more entry-level motorcycles globally. This decision aims to strengthen their position in the premium motorcycle segment, which is becoming increasingly popular. Currently, they are selling models like the HD X440 and Hero Mavrick in local markets. In the coming fiscal year, they plan several new launches that could attract more customers looking for premium bikes at affordable prices. This partnership could lead to more options for riders and could help both companies increase their market share.",
+        "investor_impact": "This partnership could positively impact the motorcycle industry by increasing competition in the premium segment, potentially leading to better products and prices for consumers. Companies involved in manufacturing and selling premium motorcycles may see increased interest from buyers, which could influence their stock performance. Motorcycle enthusiasts looking for new models might find more attractive options in the market soon.",
         "key_terms": []
       },
       {
@@ -376,9 +400,9 @@
         "published": "Thu, 18 Jun 2026 16:45:28 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "fd229cf0b6",
-        "quick_take": "Kia India plans to hike vehicle prices by up to 2% starting July 1, 2026, mainly due to increased costs.",
-        "simplified_article": "Kia India announced that it will raise prices on its vehicles by as much as 2% from July 1, 2026. This increase is driven by rising costs to produce and operate the vehicles. In the automotive industry, companies often face higher expenses for materials and labor, leading to price hikes. Consumers looking to buy Kia vehicles will need to budget for higher prices, while Kia aims to maintain its profit margins amid these costs.",
-        "investor_impact": "If you are looking to buy a Kia vehicle, be prepared for a price increase, which may affect your overall budget. This price hike could influence consumers' purchasing decisions, potentially impacting Kia's sales and revenue. It's something to keep in mind if you're considering investment in automotive stocks or related industries.",
+        "quick_take": "Kia India is increasing vehicle prices by up to 2% starting July 1, 2026, due to rising costs that could impact car buyers.",
+        "simplified_article": "Kia India announced that it will raise prices for its cars by as much as 2% from July 1, 2026. This price hike is happening because the company is facing higher costs to produce and operate its vehicles. Car prices can increase for many reasons, including rising costs of materials and other business expenses. Car buyers in India will need to budget for slightly higher prices for Kia vehicles as a result of this announcement.",
+        "investor_impact": "If you plan to buy a Kia vehicle, expect to pay a bit more due to the price increase. This action might also influence other car manufacturers to raise their prices, so overall, it could lead to slightly higher costs for new cars across the market.",
         "key_terms": []
       },
       {
@@ -388,13 +412,17 @@
         "published": "Thu, 18 Jun 2026 14:23:40 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "2a349f4abd",
-        "quick_take": "India will import 3.78 lakh UK cars at a much lower tax rate of 10%, which will make UK cars more affordable here starting July 15.",
-        "simplified_article": "India has agreed to allow the import of up to 3.78 lakh conventional cars from the UK with reduced taxes starting on July 15. This decision is part of a new trade pact intended to boost trade relations between the two countries. Currently, the tax on these car imports is very high at 110%, but it will drop to just 10%. Meanwhile, from the sixth year of this agreement, Indian electric and hybrid cars will be able to enter the UK market without any taxes, which could boost sales for those vehicles. This could lead to greater competition in the car market, benefiting consumers in both countries.",
-        "investor_impact": "Car manufacturers in India might face increased competition from imported UK cars, potentially affecting their sales. However, Indian electric and hybrid car makers could benefit from zero-duty access to the UK market, increasing their export opportunities. Investors in the automobile sector should pay attention to how local companies adapt to this new competition.",
+        "quick_take": "India will import 3.78 lakh cars from the UK at lower taxes, which may change the car market starting July 15.",
+        "simplified_article": "India has agreed to import up to 3.78 lakh traditional petrol and diesel cars from the UK at reduced import taxes. This decision is part of a new trade deal that starts on July 15, lowering import duties from 110% to just 10%. The UK will also allow Indian electric and hybrid cars to enter its market without any import taxes from the sixth year of the agreement. This move will benefit UK car manufacturers and Indian electric vehicle makers in the coming years.",
+        "investor_impact": "Car manufacturers that export to India may see a boost in sales due to lower import taxes, potentially affecting stock prices in this sector. Indian electric vehicle producers may gain an edge with duty-free access to the UK market, encouraging investment in sustainable transportation. Those holding stocks in traditional car manufacturers might need to watch how their market position changes with increased competition.",
         "key_terms": [
           {
             "term": "concessional duties",
-            "meaning": "These are lower taxes that make imported goods cheaper, in this case, allowing UK cars to be sold in India at a significantly reduced cost."
+            "meaning": "Lower taxes on imported goods, making them cheaper and more competitive in the market."
+          },
+          {
+            "term": "quotas",
+            "meaning": "Limits on how many items can be imported, ensuring a controlled flow of products into a market."
           }
         ]
       },
@@ -405,9 +433,9 @@
         "published": "Thu, 18 Jun 2026 14:09:00 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "2e38738374",
-        "quick_take": "BMW is launching 27 new models in India this year to become the top luxury carmaker, which could shake up the market.",
-        "simplified_article": "BMW Group India is set to introduce 27 new car models this year. They aim to strengthen their lead in the luxury car market by expanding their offerings to meet rising customer demand. The company expects significant growth, particularly for their MINI brand. The launch will likely create more choices for customers and may increase competition among luxury carmakers in India.",
-        "investor_impact": "This ambitious expansion by BMW could spark increased sales in the luxury car sector, benefiting related industries like automotive parts and services. If more high-end vehicles enter the market, it may influence pricing strategies, potentially affecting profits for luxury car dealerships and service centers.",
+        "quick_take": "BMW is launching 27 new models in India this year to become the top luxury carmaker, which could reshape the premium car market.",
+        "simplified_article": "BMW Group India announced it will introduce 27 new car models this year. This move is driven by strong customer demand and the company's goal to increase sales significantly. BMW wants to expand its range of vehicles to better compete in the luxury car market, where they currently aspire to be number one. Following this, they expect their MINI brand sales to surge as well, along with plans to grow their dealership network, which means more options for customers.",
+        "investor_impact": "This could lead to heightened competition in the luxury car sector, affecting companies like Audi and Mercedes-Benz if consumers shift towards BMW's new offerings. Additionally, BMW's broader network expansion could increase sales opportunities for local dealers, potentially boosting their revenues.",
         "key_terms": []
       },
       {
@@ -417,172 +445,112 @@
         "published": "Thu, 18 Jun 2026 11:13:45 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "26d6c6715e",
-        "quick_take": "Tata Motors is raising commercial vehicle prices by up to 2.5% starting July 1 to cope with rising costs, following earlier hikes on passenger vehicles.",
-        "simplified_article": "Tata Motors is increasing the prices of its commercial vehicles by as much as 2.5%, effective July 1. This decision comes after the company also raised prices for its passenger vehicles. The price hikes are mainly to manage the higher costs of materials and inputs used in manufacturing vehicles. As a result, customers buying Tata's entire range of domestic vehicles will have to pay more. This change could affect sales and customer demand for these vehicles in the near future.",
-        "investor_impact": "If you are considering buying a commercial vehicle from Tata Motors, expect to pay more starting July 1, which might influence your purchase decisions. This price increase could also impact Tata Motors' sales figures and overall revenue, which is something to keep an eye on if you're looking at automotive stocks.",
-        "key_terms": []
-      },
-      {
-        "title": "JLR projects revenue growth and return to profit in FY27, doubles down on US",
-        "summary": "Jaguar Land Rover anticipates a strong comeback in financial year 2027. The company projects a 13% revenue increase and a return to profitability. This recovery will be powered by a strategic emphasis on North America, its key growth market. JLR aims for £26 billion in revenue and improved Ebit margins.",
-        "link": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/jlr-projects-revenue-growth-and-return-to-profit-in-fy27-doubles-down-on-us/articleshow/131806894.cms",
-        "published": "Wed, 17 Jun 2026 22:16:45 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "c8d5a67efb",
-        "quick_take": "Jaguar Land Rover expects a 13% revenue increase to £26 billion by FY27, indicating a strong recovery largely focused on the US market.",
-        "simplified_article": "Jaguar Land Rover (JLR) announced its plan for the financial year 2027, expecting to boost its revenue by 13% and return to making profits. This growth is driven by a stronger focus on North America, which is seen as a key market for the company. JLR aims to reach £26 billion in revenue after facing challenges in recent years. Moving forward, with this strategy, JLR's financial health could improve significantly, benefiting stakeholders involved in its operations and potentially its investors as well.",
-        "investor_impact": "This positive outlook means that stakeholders in the automotive industry, particularly those involved with Jaguar Land Rover, may see improved returns as the company increases its revenue and profitability. Also, if JLR succeeds in its US market strategy, it could influence supply chains and related businesses in that region.",
-        "key_terms": []
-      },
-      {
-        "title": "Domestic tractor wholesale volumes likely to grow at 1-4% in FY27: ICRA",
-        "summary": "Tractor sales are set for modest growth this fiscal year. However, a below-normal monsoon forecast poses a risk to agricultural output and sales. Despite this, manufacturers' margins are expected to remain healthy. Strong farm cash flows and government support continue to underpin the sector. Industry growth may moderate due to an elevated base and potential El Nino conditions.",
-        "link": "https://economictimes.indiatimes.com/industry/auto/tyres/domestic-tractor-wholesale-volumes-likely-to-grow-at-1-4-in-fy27-icra/articleshow/131805509.cms",
-        "published": "Wed, 17 Jun 2026 21:33:31 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "572ac00322",
-        "quick_take": "Tractor sales are expected to grow by 1-4% this year, but a forecasted below-normal monsoon could hurt these sales and agricultural output.",
-        "simplified_article": "Tractor sales in India are projected to increase slightly in the fiscal year 2027. This modest growth is influenced by strong cash flows from farms and ongoing government support, even though a below-normal monsoon could negatively impact farming and tractor sales. The industry is coming off a strong previous year, which makes the growth look more modest. Going forward, if the weather conditions worsen due to potential El Nino effects, both agricultural production and tractor sales may be at risk, impacting farmers and manufacturers.",
-        "investor_impact": "This news suggests that companies involved in manufacturing tractors might face challenges if the rain doesn't come as needed, which could affect their profits. Additionally, farmers who rely on tractors for their work may delay purchases, impacting their cash flow. If you're considering investing in this sector, staying informed about the weather patterns could be crucial as they directly affect sales.",
-        "key_terms": []
-      },
-      {
-        "title": "Tesla opens first Telangana experience centre, brings 2026 Model Y range to Hyderabad",
-        "summary": "Tesla has opened its fifth Experience Centre in India, located in Hyderabad. This new facility showcases the 2026 Model Y Premium Rear-Wheel Drive and the Model Y L. Customers can explore these electric vehicles from June 17. Tesla is also offering delivery and after-sales services from its Bollaram facility to support customers in Telangana.",
-        "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/tesla-opens-first-telangana-experience-centre-brings-2026-model-y-range-to-hyderabad/articleshow/131800889.cms",
-        "published": "Wed, 17 Jun 2026 18:17:28 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "324e5a33e2",
-        "quick_take": "Tesla opened its first Experience Centre in Telangana to showcase the 2026 Model Y, making it easier for locals to explore electric vehicles.",
-        "simplified_article": "Tesla has launched its fifth Experience Centre in Hyderabad, India, where customers can check out the new 2026 Model Y vehicles starting June 17. This move is part of Tesla's effort to expand its presence in India and support electric vehicle adoption. The Model Y is a popular electric SUV that offers environmentally friendly transportation. Customers in the Telangana region will also benefit from delivery and after-sales services offered from a nearby facility.",
-        "investor_impact": "This opening could boost sales in the electric vehicle sector, particularly benefiting investors in automotive companies focusing on sustainability. Local businesses related to electric vehicle services might also see increased activity, as Tesla provides support for customers in the region.",
+        "quick_take": "Tata Motors raised prices of its commercial vehicles by up to 2.5% starting July 1 to cope with rising costs.",
+        "simplified_article": "Tata Motors is increasing the prices of its commercial vehicles by up to 2.5%. This price hike is happening because the company is facing higher costs for materials and production. Recently, they also raised prices for passenger vehicles. Consumers buying these vehicles will have to pay more, which may affect their budgets. This price change impacts all of Tata's vehicles sold in India.",
+        "investor_impact": "If you're considering buying a commercial vehicle from Tata Motors, expect to pay an additional 2.5% starting in July, which could affect potential sales. Additionally, this price increase might influence overall vehicle affordability in the market, impacting Tata's sales performance.",
         "key_terms": []
       }
     ],
     "crypto": [
       {
-        "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
-        "summary": "Alexander Mashinsky, the founder of failed crypto lender Celsius, had earlier been imprisoned for fraud and is now formally banned from CFTC registration.",
-        "link": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator",
-        "published": "Thu, 18 Jun 2026 19:26:55 +0000",
+        "title": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
+        "summary": "GoMining unveiled a software development kit and programmable access for its bitcoin payment protocol GoBTC Pay, allowing merchants to accept BTC for everyday purchases.",
+        "link": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
+        "published": "Fri, 19 Jun 2026 12:30:00 +0000",
         "source": "coindesk.com",
-        "id": "bde036a72d",
-        "quick_take": "Alexander Mashinsky, the ex-CEO of Celsius, has been banned from registration with the U.S. CFTC after being imprisoned for fraud, highlighting the ongoing consequences of his actions in the crypto sector.",
-        "simplified_article": "Alexander Mashinsky, who founded the now-defunct crypto lending platform Celsius, has received a formal ban from the U.S. Commodity Futures Trading Commission (CFTC) as part of the resolution of his legal issues. This ban comes after he was previously imprisoned for fraud, indicating serious legal repercussions for his actions. Celsius' failure impacted many investors, leading to significant financial losses. Moving forward, this ban prevents Mashinsky from engaging in activities regulated by the CFTC, which focuses on overseeing the futures and options markets.",
-        "investor_impact": "For those invested in cryptocurrencies and lending platforms, this ban serves as a warning about the risks associated with these types of investments. Increased regulatory scrutiny could lead to stricter rules for crypto companies, potentially affecting their operations and profitability. This might cause investors to be more cautious before committing funds to similar ventures in the future.",
-        "key_terms": [
-          {
-            "term": "CFTC",
-            "meaning": "The Commodity Futures Trading Commission, a U.S. regulator that oversees the trading of futures and options to protect investors and ensure market integrity."
-          }
-        ]
-      },
-      {
-        "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
-        "summary": "The Federal Reserve, Treasury and other regulators have issued a proposed rule that would set identification standards, and it's now open for public comments.",
-        "link": "https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule",
-        "published": "Thu, 18 Jun 2026 17:17:22 +0000",
-        "source": "coindesk.com",
-        "id": "666bd5f449",
-        "quick_take": "U.S. regulators, including the Federal Reserve and Treasury, proposed new rules for stablecoin users to verify their identity, similar to banks, which could create more trust in these digital currencies.",
-        "simplified_article": "U.S. agencies like the Federal Reserve and Treasury want to enforce rules that require stablecoin customers to provide identification, similar to how banks operate. This is to enhance security and trust in stablecoins, which are digital currencies pegged to stable assets like the dollar. Stablecoins have been growing in popularity, so regulators want to ensure users are legitimate. The proposal is now open for public comments, allowing people to express their views on these changes. If implemented, this could affect anyone using stablecoins, especially in transactions or investments.",
-        "investor_impact": "These new identification rules could increase user confidence in stablecoins, potentially attracting more investors into this market and leading to more stable prices. However, it might also lead to additional steps and requirements for users, which could deter some from using stablecoins for quick transactions.",
-        "key_terms": [
-          {
-            "term": "stablecoin",
-            "meaning": "A type of digital currency designed to maintain a stable value by being tied to a stable asset, like a dollar, making it less volatile than other cryptocurrencies."
-          }
-        ]
-      },
-      {
-        "title": "Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns",
-        "summary": "Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.",
-        "link": "https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns",
-        "published": "Thu, 18 Jun 2026 15:41:17 +0000",
-        "source": "coindesk.com",
-        "id": "8d7808a91e",
-        "quick_take": "Hsiao-Wei Wang, co-executive director at the Ethereum Foundation, has resigned, adding to a series of leadership changes that could impact the project's stability.",
-        "simplified_article": "Hsiao-Wei Wang has resigned from her role as co-executive director of the Ethereum Foundation. Her departure follows another resignation from her colleague, Tomasz Stańczak, suggesting possible issues within the organization. The Ethereum Foundation is responsible for supporting the development of the Ethereum blockchain, a major platform for cryptocurrencies. This could create uncertainty for those involved in Ethereum projects, as leadership instability might affect the foundation's direction and projects.",
-        "investor_impact": "For those invested in Ethereum or related cryptocurrencies, this leadership shake-up may signal potential volatility or changes in project priorities. If you're holding Ethereum assets, be aware that significant leadership changes could influence their value and stability. Developers and companies working on Ethereum-based projects may also feel the impact as they watch the foundation's actions closely.",
+        "id": "f421fd101c",
+        "quick_take": "GoMining has launched GoBTC Pay to compete with Jack Dorsey's Square by allowing merchants to accept bitcoin for everyday purchases, which could boost bitcoin's use in retail.",
+        "simplified_article": "GoMining introduced a new payment system called GoBTC Pay that helps merchants accept bitcoin for their daily sales. This move comes as an effort to challenge the dominance of Square, a popular payment service led by Jack Dorsey. Bitcoin is a type of digital currency that operates without central banks and allows for quick transactions. If successful, this system could make it easier for more stores to use bitcoin, attracting more customers interested in digital currencies.",
+        "investor_impact": "If GoBTC Pay gains traction, it could pave the way for increased bitcoin usage in retail, benefiting companies that invest in bitcoin infrastructure. This could also influence the prices of bitcoin and impact investors holding bitcoin-related assets or funds, as more merchants using bitcoin could drive demand higher.",
         "key_terms": []
       },
       {
-        "title": "Crypto for Advisors: Trading the bitcoin cycle",
-        "summary": "Bitcoin’s 4-year cycle makes DCA costly. Learn why a cycle-smart strategy is essential for advisors to better manage volatility and maximize client returns.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
-        "published": "Thu, 18 Jun 2026 15:00:00 +0000",
+        "title": "Smart-contract and DeFi coins lead losses as bitcoin wilts for 4th straight day",
+        "summary": "Concerns about STRC, the dividend-paying preferred stock from Strategy continue to dominate market sentiment.",
+        "link": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day",
+        "published": "Fri, 19 Jun 2026 10:47:03 +0000",
         "source": "coindesk.com",
-        "id": "df4cdefbdc",
-        "quick_take": "Bitcoin’s predictable 4-year cycle is posing challenges for advisors, making regular investment strategies (DCA) potentially expensive.",
-        "simplified_article": "Bitcoin operates in a cycle that lasts about 4 years, impacting how investors buy and sell it. As this cycle affects prices, advisors need to adjust their strategies to help clients avoid losses during volatile times. In the past, many have used Dollar-Cost Averaging (DCA), which means investing a fixed amount regularly, but that approach may not be the best right now. As Bitcoin’s value can swing wildly, understanding these cycles can help advisors find better methods to boost their clients' investment returns.",
-        "investor_impact": "If you have investments in Bitcoin or crypto, being aware of these market cycles can help you decide when to buy or hold. This is particularly relevant for those who are using strategies like DCA, as sticking to it blindly could lead to losses. Clients might see a need for adjustment in their investment plans to navigate this cycle effectively.",
-        "key_terms": [
-          {
-            "term": "Dollar-Cost Averaging (DCA)",
-            "meaning": "This is an investment strategy where you invest a constant amount of money regularly, helping to spread out the risk."
-          }
-        ]
-      },
-      {
-        "title": "Algorand unveils roadmap to achieve quantum resistance by 2028",
-        "summary": "The announcement reflects a crypto's growing recognition that adopting quantum-resistant cryptography could take years, requiring changes not only to user wallets but also to core protocol infrastructure.",
-        "link": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
-        "published": "Thu, 18 Jun 2026 14:00:00 +0000",
-        "source": "coindesk.com",
-        "id": "f7ba2b9129",
-        "quick_take": "Algorand plans to implement measures for quantum resistance by 2028, highlighting the need for stronger security in cryptocurrencies.",
-        "simplified_article": "Algorand has announced a plan to make its technology safe from potential future threats posed by quantum computers by 2028. This initiative is in response to the growing concerns that quantum computers could break current security systems used in cryptocurrencies. Quantum resistance means creating new security measures that cannot be easily hacked by quantum technology. As this transition will take years, it means that users and developers will need to adapt their wallets and systems to these new standards. This roadmap is important for anyone involved in cryptocurrency as it ensures their assets remain secure in the future.",
-        "investor_impact": "Investors in Algorand or other cryptocurrencies may see this as a positive step towards long-term security, potentially boosting confidence in the sector. This development might make digital assets more appealing to institutions concerned about security, leading to increased investment in cryptocurrencies overall.",
-        "key_terms": [
-          {
-            "term": "quantum resistance",
-            "meaning": "This refers to security measures designed to protect systems against future threats posed by quantum computers, which are much more powerful than current technology."
-          }
-        ]
-      },
-      {
-        "title": "CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines",
-        "summary": "Internet Computer (ICP) fell 4.1% and Sui (SUI) dropped 4%, leading the index lower from Wednesday.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines",
-        "published": "Thu, 18 Jun 2026 13:13:44 +0000",
-        "source": "coindesk.com",
-        "id": "1ab7aedcb0",
-        "quick_take": "Stellar (XLM) rose 10% while the CoinDesk 20 index fell due to drops in Internet Computer (ICP) and Sui (SUI).",
-        "simplified_article": "Stellar (XLM), a cryptocurrency, jumped 10% despite a general decline in the CoinDesk 20 index, which measures the performance of 20 major cryptocurrencies. The index fell primarily because Internet Computer (ICP) dropped by 4.1% and Sui (SUI) decreased by 4%, leading to the overall decline. Cryptocurrencies are known for their volatility, meaning their values can change quickly. Investors in cryptocurrencies should keep an eye on these fluctuations as they can affect their portfolios significantly.",
-        "investor_impact": "If you own Stellar (XLM), this 10% increase is a positive development for your investment. However, the drop in major cryptocurrencies like Internet Computer and Sui highlights the risks involved in the crypto market, especially if you're holding assets in those coins. This could influence the overall value of your cryptocurrency holdings, particularly in the short term.",
+        "id": "9f9ce23e71",
+        "quick_take": "Smart-contract and DeFi coins are losing value as bitcoin struggles for the 4th day, reflecting ongoing worries about a specific stock, STRC.",
+        "simplified_article": "Smart-contract and decentralized finance (DeFi) coins are seeing price drops while bitcoin has fallen for four consecutive days. This downturn is fueled by concerns about STRC, a dividend-paying preferred stock associated with Strategy. This is significant because market sentiment can shift quickly based on news or investor confidence. If this trend continues, it may impact buyers of these cryptocurrencies and shares of STRC, leading to a cautious approach in the market.",
+        "investor_impact": "If you own DeFi or smart-contract coins, be prepared for possible further losses as uncertainty lingers. Investors holding STRC may face declining value, which could affect those reliant on dividends for income. Overall, the tech and cryptocurrency sectors are likely to remain volatile.",
         "key_terms": []
       },
       {
-        "title": "Alchemy's AI-driven identity and payment service gains access to Visa network",
-        "summary": "The AgentCard integration with Visa Intelligent Commerce allows AI agents built on models from any provider, including OpenAI or Anthropic, to effect commercial transactions.",
-        "link": "https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network",
-        "published": "Thu, 18 Jun 2026 13:00:00 +0000",
+        "title": "Digital credit market hit by huge selloff as Strive CEO blames leverage liquidations",
+        "summary": "Matt Cole says forced selling from leveraged investors pushed STRC and SATA sharply lower before both rebounded.",
+        "link": "https://www.coindesk.com/markets/2026/06/19/digital-credit-market-hit-by-record-selloff-as-strive-ceo-blames-leverage-liquidations",
+        "published": "Fri, 19 Jun 2026 09:19:28 +0000",
         "source": "coindesk.com",
-        "id": "6e31b6e5e8",
-        "quick_take": "Alchemy's AI-driven identity service can now process payments through the Visa network, making transactions easier for users.",
-        "simplified_article": "Alchemy has integrated its AI-driven identity and payment service, called AgentCard, with Visa's Intelligent Commerce platform. This means that AI agents from various companies, like OpenAI, can now handle transactions securely and efficiently. The move aims to streamline online payments and enhance customer experiences. Going forward, businesses that adopt this technology could see improved transaction speeds and security, benefiting both merchants and consumers.",
-        "investor_impact": "This integration could boost the payment processing sector, particularly for companies that utilize AI technology for transactions. Businesses that incorporate Alchemy's AI services may attract more customers due to the ease of payments, positively affecting their revenue streams. Investors in tech and payment processing firms should pay attention to developments in AI applications within this space.",
+        "id": "abb9cf7a3f",
+        "quick_take": "The digital credit market took a hit as Strive CEO Matt Cole highlighted forced selling by investors, causing stocks STRC and SATA to drop before recovering.",
+        "simplified_article": "Recently, the digital credit market experienced a significant selloff, leading to sharp drops in stocks STRC and SATA. This was mainly due to leveraged investors being forced to sell off their assets, which triggered a downward trend. Leverage means borrowing money to invest more than you actually own, which can intensify market movements. As a result, both STRC and SATA stocks eventually bounced back, but this incident shows how quickly things can change in the market. Investors in this sector need to be cautious as it highlights the risks involved with using borrowed funds.",
+        "investor_impact": "If you hold shares in the digital credit sector, you might have seen a worrying dip in value but could expect some recovery. This situation underscores the risk of volatility in investments that rely on borrowed money, especially for high-growth companies. It's a reminder that when markets turn, those using leverage might face quick and significant losses.",
         "key_terms": [
           {
-            "term": "AgentCard",
-            "meaning": "AgentCard is Alchemy's service that uses AI to manage identity and payments, simplifying transaction processes for businesses and consumers."
-          },
-          {
-            "term": "Intelligent Commerce",
-            "meaning": "Visa's Intelligent Commerce is a platform that enables secure and efficient online transactions through various payment technologies."
+            "term": "leveraged investors",
+            "meaning": "These are investors who borrow money to increase their potential investment returns, which can also amplify losses when the market declines."
           }
         ]
       },
       {
-        "title": "Hive shares jumps 10% on $220m Canada sovereign AI infrastructure deal",
-        "summary": "GPU cloud contract with Bell and Cohere strengthens HIVE's shift from bitcoin mining to high performance AI computing.",
-        "link": "https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal",
-        "published": "Thu, 18 Jun 2026 11:49:41 +0000",
+        "title": "Microsoft found malware that hijacks crypto wallets and spreads through USB sticks",
+        "summary": "The software intercepts shortcut files and directs them to install a worm that harvests private keys from the Windows clipboard and inserts its own destination wallet addresses when it detects a transfer.",
+        "link": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks",
+        "published": "Fri, 19 Jun 2026 08:48:14 +0000",
         "source": "coindesk.com",
-        "id": "391b7cc5be",
-        "quick_take": "Hive's shares soared 10% after securing a $220 million deal for AI infrastructure in Canada, highlighting its shift from bitcoin mining to AI computing.",
-        "simplified_article": "Hive's stock price jumped by 10% because they landed a $220 million contract to build AI infrastructure in Canada. This deal with Bell and Cohere shows Hive's move away from bitcoin mining towards providing high-performance AI computing services. Previously, Hive focused mainly on mining cryptocurrencies like Bitcoin. Going forward, this shift could mean more stable earnings for Hive as they tap into the growing AI market, which is expected to expand rapidly.",
-        "investor_impact": "If you're invested in tech companies or funds that focus on AI and cloud computing, this news is positive. It signals that companies like Hive are transitioning towards more sustainable technology sectors, potentially leading to increased growth opportunities. Meanwhile, traditional cryptocurrency investments might see more volatility as firms like Hive pivot their business models.",
+        "id": "9ca14c4bdd",
+        "quick_take": "Microsoft discovered a harmful software that targets cryptocurrency wallets, highlighting growing security risks in digital finance.",
+        "simplified_article": "Microsoft found malware that can take over cryptocurrency wallets and it spreads via USB sticks. This malware tricks users into installing it by intercepting shortcut files and stealing sensitive information like private keys (the special passwords needed to access cryptocurrency). The news emphasizes the rising threat of cybercrime in the digital currency world. As a result, users of crypto wallets and anyone who uses USB drives should be extra careful about their security practices to protect their funds.",
+        "investor_impact": "This malware poses a significant risk to individuals holding cryptocurrencies, as it can lead to the loss of their digital assets. People using external drives for transactions in the crypto sector should increase their security measures, potentially impacting how safely they can manage their investments.",
+        "key_terms": []
+      },
+      {
+        "title": "XRP falls 3% after losing $1.15 support as breakout attempt fades",
+        "summary": "Heavy selling pushed XRP back below a key support zone, reinforcing a downtrend that has repeatedly stalled rallies near $1.25.",
+        "link": "https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades",
+        "published": "Fri, 19 Jun 2026 05:14:20 +0000",
+        "source": "coindesk.com",
+        "id": "b046dc6c3a",
+        "quick_take": "XRP dropped 3% after falling below $1.15, signaling continued struggles to maintain its value.",
+        "simplified_article": "XRP, a cryptocurrency, fell by 3% and dropped below a crucial support level of $1.15. This decline was driven by heavy selling, which suggests many people are eager to sell their XRP. Previously, XRP had trouble maintaining its value around $1.25, indicating ongoing downward pressure. Moving forward, if XRP can't regain its support, more declines could happen, affecting investors holding this cryptocurrency.",
+        "investor_impact": "This decline means that if you own XRP, your investment is worth less now, and further drops could wipe out even more value. Those looking at buying into XRP might need to wait for a better price, as the market appears unstable at the moment.",
+        "key_terms": []
+      },
+      {
+        "title": "Live markets: Bitcoin under pressure as Saylor comments on STRC sell-off",
+        "summary": "About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.",
+        "link": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
+        "published": "Fri, 19 Jun 2026 05:04:22 +0000",
+        "source": "coindesk.com",
+        "id": "d7bff01e87",
+        "quick_take": "20% of Bitcoin miners are struggling to make a profit, which led them to sell over 32,000 bitcoins just in the first quarter to pay their bills.",
+        "simplified_article": "Recently, about 20% of Bitcoin miners are facing losses and can't keep operating profitably. This situation forced publicly traded mining companies to sell more than 32,000 bitcoins in the first three months of the year, a higher amount than they sold throughout all of 2025. Bitcoin mining is the process of creating new bitcoins, requiring a lot of energy and money. Moving forward, if miners continue to sell off their bitcoins, it could put more downward pressure on Bitcoin's price and impact investors who hold or trade Bitcoin.",
+        "investor_impact": "If miners keep selling off their bitcoins to cover costs, it could lead to lower prices for Bitcoin, which directly impacts anyone holding or trading this cryptocurrency. Investors in crypto markets should be aware that miner health is crucial, as their struggles can affect overall market sentiment and prices.",
+        "key_terms": []
+      },
+      {
+        "title": "Bitcoin traders load up on bearish bets all the way down to $52,000",
+        "summary": "Bitcoin traders are scrambling to buy options bets that would pay off if the selloff deepens.",
+        "link": "https://www.coindesk.com/markets/2026/06/19/bitcoin-traders-load-up-on-bearish-bets-all-the-way-down-to-usd52-000",
+        "published": "Fri, 19 Jun 2026 05:02:01 +0000",
+        "source": "coindesk.com",
+        "id": "ff6b80bf71",
+        "quick_take": "Bitcoin traders load up on bearish bets all the way down to $52,000",
+        "simplified_article": "Bitcoin traders are scrambling to buy options bets that would pay off if the selloff deepens.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Bitcoin falls below $63,000 as risk assets sell off and the week's bounce fades",
+        "summary": "Crypto dropped across the board on Friday in holiday-thinned trading, giving back the week's gains. With oil down 9% and the Iran deal signed, the question turns to whether this cycle gets an altseason at all.",
+        "link": "https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades",
+        "published": "Fri, 19 Jun 2026 04:49:20 +0000",
+        "source": "coindesk.com",
+        "id": "6fc7fb5110",
+        "quick_take": "Bitcoin dropped below $63,000 as investors sold off risky assets, erasing the week's gains.",
+        "simplified_article": "On Friday, Bitcoin fell below $63,000 as part of a wider decline in the cryptocurrency market. This decline happened because investors were selling off riskier investments, likely due to uncertainty following a 9% drop in oil prices and the signing of a deal with Iran. Recently, there was a small rebound in crypto prices, but it quickly faded. Moving forward, this could impact investors in cryptocurrencies and related sectors, sparking questions about a potential 'altseason'—a time when other smaller cryptocurrencies perform well.",
+        "investor_impact": "If you have money in cryptocurrencies, this drop may mean your investments have lost some value, potentially affecting your overall portfolio. Additionally, traders in the crypto market may be more cautious, which could lead to more volatility in these assets in the near future.",
         "key_terms": []
       }
     ]
@@ -593,5 +561,5 @@
     "usdinr": null,
     "btcusd": null
   },
-  "day_summary": "U.S. stock indexes climbed on Thursday, driven primarily by Intel's remarkable surge after securing a new chip deal, which fueled optimism in tech despite concerns about rising interest rates. Meanwhile, Indian stocks celebrated their fifth consecutive day of gains, largely propelled by strong performances in the banking sector, as the RBI prepared to auction Rs 1 lakh crore to ease liquidity pressures. Amid these gains, the global landscape shifts with Brent crude prices dipping to pre-Iran war lows following a ceasefire deal between the U.S. and Iran, indicating a potential boost in oil supply ahead."
+  "day_summary": "Jio Platforms is making waves by filing for a massive $3 billion IPO aimed at paying off its Rs 27,500 crore debt and investing in future technologies, marking a significant move for India's telecom giant. Meanwhile, Sebi's approval of IPOs for four companies like AGS Health and PGP Glass reflects growing opportunities in the market. In other news, Bharat Forge and five other stocks climbed to new 52-week highs, showcasing resilient investor confidence despite a slight dip in the broader market."
 }

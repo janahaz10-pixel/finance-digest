@@ -1,0 +1,723 @@
+{
+  "date": "2026-06-25",
+  "date_label": "Thursday, 25 June 2026",
+  "generated_at": "2026-06-25T01:52:29.054739+05:30",
+  "articles": {
+    "india-macro": [
+      {
+        "title": "RBI says no to special exposure relaxations for state NBFCs",
+        "summary": "The Reserve Bank of India has firmly rejected requests for special exemptions from concentration norms for government-owned NBFCs, emphasizing a principles-based regulatory approach. The central bank also denied calls to raise single counterparty limits for public sector enterprises. While allowing grandfathering of residual breaches and specific conditions for temporary limit breaches, the RBI has tightened rules to ensure regulatory clarity and stability.",
+        "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-says-no-to-special-exposure-relaxations-for-state-nbfcs/articleshow/131977159.cms",
+        "published": "Thu, 25 Jun 2026 01:23:04 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "bc23386b46",
+        "quick_take": "RBI denied special rules for state-owned non-banking financial companies (NBFCs), stressing the need for clear financial regulations.",
+        "simplified_article": "The Reserve Bank of India (RBI) has turned down requests from state-owned non-banking financial companies (NBFCs) for special leniency in their financial regulations. This decision aims to maintain a consistent approach to financial rules. In recent years, government-owned NBFCs have been seeking more flexibility to operate. Moving forward, these stricter regulations will mean that government NBFCs must adhere to existing financial limits, which could affect their ability to lend and operate in the market.",
+        "investor_impact": "This decision could limit the funding available to government-backed NBFCs, potentially slowing down lending in sectors like housing and infrastructure. If these companies have restricted lending abilities, projects relying on their financing might face delays or funding shortages. Overall, this could lead to higher borrowing costs for consumers and businesses looking for loans.",
+        "key_terms": []
+      },
+      {
+        "title": "RBI tightens rules on recovery of excess pension payments",
+        "summary": "Government pensioners will now have stronger protection against unexpected deductions from their accounts. The Reserve Bank of India has mandated that banks must inform pensioners and obtain their consent before recovering any excess pension payments. This new directive ensures that individuals are aware and agree to any adjustments, preventing abrupt debits and requiring a written undertaking from pensioners for future recoveries.",
+        "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-tightens-rules-on-recovery-of-excess-pension-payments/articleshow/131977157.cms",
+        "published": "Thu, 25 Jun 2026 01:19:23 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "76a48914ff",
+        "quick_take": "RBI now requires banks to get consent from pensioners before recovering overpayments, ensuring clearer communication and preventing unexpected deductions.",
+        "simplified_article": "The Reserve Bank of India (RBI) has introduced new rules that protect government pensioners from having excess pension payments automatically taken from their accounts without their knowledge. This change was made to ensure that pensioners are informed and agree to any deductions. Previously, some pensioners experienced sudden withdrawals due to overpayments without being notified first. From now on, banks must obtain written consent from these pensioners before making any adjustments, which means they’ll be alerted and can plan accordingly if a deduction is necessary.",
+        "investor_impact": "This change is particularly significant for pensioners who rely on fixed incomes, as unexpected deductions could affect their monthly budgeting. Banks may also need to adjust their communication practices, which could lead to operational changes and create extra costs for them. Overall, this move aims to enhance customer trust and provide better financial security for those receiving pensions.",
+        "key_terms": []
+      },
+      {
+        "title": "RBI in wait-and-watch mode, no certainty on rate hike: Governor Sanjay Malhotra",
+        "summary": "Reserve Bank of India Governor Sanjay Malhotra stated that an interest rate hike is premature, as inflation hasn't broadly impacted consumer prices. The central bank remains in a 'wait-and-watch' mode, closely monitoring global uncertainties and the monsoon's progress. While acknowledging improved outlooks, risks persist, but India is well-prepared for challenges. The RBI has revised inflation forecasts upwards and growth forecasts downwards for the fiscal year.",
+        "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-in-wait-and-watch-mode-no-certainty-on-rate-hike-governor-sanjay-malhotra/articleshow/131976903.cms",
+        "published": "Thu, 25 Jun 2026 00:56:11 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "0a02031bbb",
+        "quick_take": "RBI Governor Sanjay Malhotra indicated no interest rate hike yet, as inflation isn't significantly affecting prices, which matters for borrowing costs.",
+        "simplified_article": "The Reserve Bank of India (RBI) decided to keep interest rates steady for now. This choice comes because inflation isn't broadly affecting consumer prices, and the RBI wants to carefully watch global uncertainties and the progress of the monsoon season. Recently, the RBI has changed its inflation outlook to predict higher rates but expects slower growth for the year. Moving forward, the RBI's cautious stance affects anyone with loans or investments, as it influences borrowing costs and economic activity.",
+        "investor_impact": "If you're looking at personal loans or mortgages, a steady interest rate could keep your monthly payments stable for now. However, the projection of higher inflation means that prices for goods may rise, which could affect everyday spending. This situation is important for anyone considering taking new loans, as fluctuating rates could change their borrowing costs in the future.",
+        "key_terms": []
+      },
+      {
+        "title": "S&P cuts India's FY27 growth forecast to 6.6%, sees inflation at 5.1%",
+        "summary": "India's economic growth is projected to slow to 6.6% in 2026-27 due to energy pressures, a weaker monsoon, and global slowdown, S&P Global Ratings reported. Retail inflation is expected to climb to 5.1% this fiscal year. Despite near-term challenges, GDP growth is anticipated to rebound to 7.2% in 2027-28, with oil prices expected to stabilize.",
+        "link": "https://economictimes.indiatimes.com/news/economy/indicators/sp-cuts-indias-fy27-growth-forecast-to-6-6-sees-inflation-at-5-1/articleshow/131976260.cms",
+        "published": "Thu, 25 Jun 2026 00:22:08 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "72af7a66d9",
+        "quick_take": "S&P cut India's growth forecast to 6.6% for FY27, which matters because it reflects challenges like energy issues and a weaker monsoon that could impact jobs and spending.",
+        "simplified_article": "S&P Global Ratings announced that India's economic growth is expected to slow down to 6.6% in the fiscal year 2026-27. This slowdown is due to energy price issues, a weaker-than-usual monsoon that affects agriculture, and a general global economic slowdown. Historically, India has seen strong growth rates, but this news indicates some tough times ahead. However, there is hope for a rebound in growth to 7.2% in the following fiscal year, with the expectation that oil prices will stabilize. This slowdown could affect everyday people's jobs and inflation rates.",
+        "investor_impact": "With the growth forecast being lowered, sectors reliant on economic expansion, like construction and consumer goods, might see slower sales which could impact their stock prices. Higher inflation, predicted at 5.1%, could lead to increased costs for goods, affecting family budgets and possibly raising the cost of living. If you're involved in sectors like agriculture or retail, you may feel the pinch more acutely due to these economic pressures.",
+        "key_terms": []
+      },
+      {
+        "title": "Goyal heads to UK ahead of India-UK trade pact rollout",
+        "summary": "Commerce Minister Piyush Goyal's UK visit from June 25-27 precedes the July 15 implementation of the India-UK CETA and Double Contribution Convention. Discussions with UK's Business and Trade Secretary Peter Kyle will focus on regulatory alignment, customs coordination, and operationalizing tariff liberalisation for Indian exports. The talks also aim to boost professional mobility and achieve a bilateral trade target of $120 billion by 2030.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/goyal-heads-to-uk-ahead-of-india-uk-trade-pact-rollout/articleshow/131976110.cms",
+        "published": "Thu, 25 Jun 2026 00:12:39 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "593a376cb5",
+        "quick_take": "Commerce Minister Piyush Goyal is visiting the UK to finalize a trade deal that aims to boost India-UK trade to $120 billion by 2030.",
+        "simplified_article": "Piyush Goyal, India's Commerce Minister, is traveling to the UK from June 25-27 to prepare for a new trade agreement that will start on July 15. This agreement, called CETA (Comprehensive Economic and Trade Agreement), aims to enhance trade between India and the UK. The talks will cover important topics like customs procedures and reducing taxes on Indian exports. If successful, this could help companies in both countries do business more easily and stimulate economic growth. Ultimately, the goal is to significantly increase the total trade amount between the two countries over the next few years.",
+        "investor_impact": "This trade deal could benefit Indian exporters, especially in sectors like textiles and technology, as it may lower costs and increase demand in the UK market. Additionally, companies involved in logistics and customs services might see more business opportunities due to improved coordination between the two countries.",
+        "key_terms": []
+      },
+      {
+        "title": "India, US inch closer to interim trade pact after fresh talks",
+        "summary": "India and the US are nearing an interim trade deal, with both nations reporting significant progress in recent negotiations. Commerce Minister Piyush Goyal and US Trade Representative Jamieson Greer concluded two days of talks, aiming to finalize the first phase of a bilateral trade agreement. Discussions focused on market access, digital trade, and non-tariff barriers, with both sides committed to a balanced pact delivering tangible benefits.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-inch-closer-to-interim-trade-pact-after-fresh-talks/articleshow/131976017.cms",
+        "published": "Thu, 25 Jun 2026 00:08:41 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "8728cdac29",
+        "quick_take": "India and the US are close to finalizing a trade deal, which could boost economic ties between the two countries.",
+        "simplified_article": "India and the US are making progress toward an interim trade deal after two days of talks between Commerce Minister Piyush Goyal and US Trade Representative Jamieson Greer. The negotiations focused on key issues like market access (how easily businesses can sell their products in each other's countries), digital trade, and reducing restrictions not related to tariffs (taxes on imported goods). A trade deal would benefit both countries by opening more trading opportunities. The next steps involve finalizing the agreement, which could positively impact businesses and consumers in both nations.",
+        "investor_impact": "If the trade deal goes through, it could benefit sectors like technology and agriculture, as companies gain access to larger markets. This could also lead to lower prices on imported goods, impacting consumer spending. Investors in US-India trade sectors might see improvements in stock performance if the deal is finalized.",
+        "key_terms": []
+      },
+      {
+        "title": "Exporters urge govt not to impose curbs on onions",
+        "summary": "Indian onion exporters are urging the government against imposing export curbs, citing a surge in wholesale prices at Lasalgaon market. Delayed sowing and adverse weather have impacted production, pushing prices up. Exporters warn that restrictions could jeopardize markets painstakingly regained after previous bans, potentially shifting buyers to competing nations and damaging India's trade reputation.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/exporters-urge-govt-not-to-impose-curbs-on-onions/articleshow/131975458.cms",
+        "published": "Wed, 24 Jun 2026 23:40:44 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "9b9363469b",
+        "quick_take": "Indian onion exporters are worried that government restrictions on exports could hurt sales after prices surged in Lasalgaon due to bad weather and delayed planting.",
+        "simplified_article": "Indian onion exporters are asking the government not to limit onion exports. They are concerned because wholesale prices have jumped in the Lasalgaon market, mainly due to delayed planting seasons and adverse weather affecting production. This situation could push buyers to consider purchasing onions from other countries instead of India. If the government imposes restrictions, it could harm India's reputation in international trade, especially after regaining market access lost from earlier bans.",
+        "investor_impact": "If the government enforces export curbs, it could hurt onion prices and earnings for Indian farmers and exporters. This might lead to increased competition for buyers from countries like China or Egypt, potentially lowering India's market share in onion exports. Those invested in agricultural sectors might see volatility as a result of these changing dynamics.",
+        "key_terms": []
+      },
+      {
+        "title": "Goyal meets exporters to discuss ways to boost shipments, leverage FTAs",
+        "summary": "Commerce Minister Piyush Goyal met with exporters to strategize on boosting outbound shipments and maximizing opportunities through Free Trade Agreements. Discussions focused on strengthening MSME support, fostering innovation, improving export facilitation, and expanding India's global value chain role. The meeting reviewed strategies to enhance the export ecosystem, diversify markets, and boost trade competitiveness, with councils presenting their progress on key performance indicators.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/goyal-meets-exporters-to-discuss-ways-to-boost-shipments-leverage-ftas/articleshow/131973117.cms",
+        "published": "Wed, 24 Jun 2026 22:13:04 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "cc3f2ad41b",
+        "quick_take": "Commerce Minister Piyush Goyal met with exporters to boost India's shipments and take full advantage of Free Trade Agreements.",
+        "simplified_article": "Commerce Minister Piyush Goyal held a meeting with exporters to find ways to increase the number of goods India sells to other countries. This effort aims to make the most of Free Trade Agreements, which help reduce tariffs and trade barriers. The discussion included how to better support small and medium businesses (MSMEs), encourage new ideas, and simplify the export process. Next, various councils will share their progress on improving exports, which could help local businesses reach more customers around the world.",
+        "investor_impact": "This focus on boosting exports should positively impact industries like textiles, electronics, and pharmaceuticals, as they could see increased sales abroad. If local businesses expand their reach, it might lead to job growth in these sectors, benefiting workers and suppliers involved in exporting goods.",
+        "key_terms": []
+      }
+    ],
+    "indian-markets": [
+      {
+        "title": "US stocks: Nasdaq, S&P end lower in volatile session as tech stocks retreat",
+        "summary": "Tech stocks pulled down the Nasdaq and S&P 500 due to valuation worries and concerns over AI spending, falling crude prices bolstered airlines and travel sectors. The Dow Jones Industrial Average, however, finished higher. Homebuilders also experienced a significant surge. Investors are now keenly awaiting inflation data for clues on the Federal Reserve's next move.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-sp-end-lower-in-volatile-session-as-tech-stocks-retreat/articleshow/131977238.cms",
+        "published": "Thu, 25 Jun 2026 01:32:48 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "4f23889731",
+        "quick_take": "Tech stocks dragged down the Nasdaq and S&P 500 as worries over AI spending emerged, while the Dow Jones rose due to strong performance in homebuilding and travel sectors.",
+        "simplified_article": "In a hectic trading day, tech stocks fell, causing the Nasdaq and S&P 500 to drop. This decline was driven by concerns over the amount companies are spending on artificial intelligence (AI). Meanwhile, the Dow Jones saw an increase, thanks to a surge in homebuilding. Investors are now looking forward to upcoming inflation data to better understand what the Federal Reserve might do next regarding interest rates. Overall, this volatility shows how sensitive the market is to changes in technology and spending trends.",
+        "investor_impact": "If you have investments in tech stocks, particularly in companies focusing on AI, you might see those values drop as investor confidence wanes. On the flip side, the airline and travel sectors could benefit from falling crude prices, potentially leading to better profits. Those interested in real estate might notice homebuilder stocks gaining traction, which could impact the housing market positively.",
+        "key_terms": []
+      },
+      {
+        "title": "Nithin Kamath recalls falling for a pyramid scheme, warns retail investors against 'easy money' promises",
+        "summary": "Zerodha co-founder Nithin Kamath shared his past entanglement with a pyramid scheme in his late teens, emphasizing that wealth building requires no shortcuts. He warned against schemes promising unusually high returns, noting that many continue to operate in India despite growing financial awareness. Kamath cautioned that making money in the stock market isn't easy and urged people to avoid referral-based money-making schemes, calling them almost invariably fraudulent.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-recalls-falling-for-a-pyramid-scheme-warns-retail-investors-against-easy-money-promises/articleshow/131973054.cms",
+        "published": "Wed, 24 Jun 2026 22:11:31 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "ce1d49752f",
+        "quick_take": "Nithin Kamath, co-founder of Zerodha, warns that falling for pyramid schemes can ruin finances and emphasizes that building wealth takes time, not shortcuts.",
+        "simplified_article": "Nithin Kamath shared his experience of getting involved in a pyramid scheme when he was a teenager. He highlighted that many people still fall for such scams that promise quick money despite more people being aware of finance today. Kamath reminded everyone that real investment, especially in the stock market, requires effort and patience. He urged individuals to be cautious of schemes that rely on referrals to earn money, labeling them mostly as scams. This advice is important for anyone looking to invest their money wisely.",
+        "investor_impact": "This warning is particularly relevant for newer investors who might be tempted by flashy advertisements promising high returns. Individuals considering quick investment schemes, especially in finance-related apps or platforms, may need to reevaluate their options to avoid losing money. Overall, understanding these risks can help safeguard your finances in the long run.",
+        "key_terms": []
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+        "summary": "Indian markets rallied on Wednesday, with Sensex and Nifty gaining up to 1% amid easing crude prices, supportive global cues and optimism over India-US trade talks. Analysts highlight key technical levels for Nifty, while stock-specific action was seen in banking, IT, infrastructure and midcap counters across NSE trading data.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131972069.cms",
+        "published": "Wed, 24 Jun 2026 21:04:05 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "b428b4c065",
+        "quick_take": "India's markets bounced back with the Sensex and Nifty both up by 1% on lower crude oil prices and positive trade talks with the US.",
+        "simplified_article": "On Wednesday, India's stock markets saw a rise, with major indexes like the Sensex and Nifty increasing by up to 1%. This surge was driven by falling crude oil prices and encouraging signals from trade discussions between India and the US. Historically, lower crude prices help reduce costs for consumers and businesses, boosting the economy. As a result, sectors like banking, IT, infrastructure, and mid-sized companies are currently seeing increased activity. This might lead to more investments in these areas as market confidence grows.",
+        "investor_impact": "If you're invested in sectors like banking or IT, you could see benefits from this market positivity, potentially increasing your returns. Lower crude prices may also help reduce costs for companies, which could mean better performance and dividends for shareholders. This is relevant if you hold stocks in these sectors or are considering new investments.",
+        "key_terms": []
+      },
+      {
+        "title": "Musk’s SpaceX adds billions in debt while cutting interest",
+        "summary": "Elon Musk's SpaceX has successfully issued $25 billion in investment-grade bonds, a move that consolidates debt from X and xAI while lowering annual interest costs. This strategic financial maneuver leverages SpaceX's strong revenue streams from Starlink and government contracts to support the ambitious, cash-burning AI ventures.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/musks-spacex-adds-billions-in-debt-while-cutting-interest/articleshow/131971973.cms",
+        "published": "Wed, 24 Jun 2026 20:54:38 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "dfa60d6d99",
+        "quick_take": "SpaceX raised $25 billion in bonds to cut interest costs while managing debt from its other ventures, which is crucial for its cash-hungry projects.",
+        "simplified_article": "Elon Musk's SpaceX has issued $25 billion in bonds to manage and consolidate its debt. This move is intended to lower the annual interest costs while supporting its ambitious AI projects, which require a lot of cash. The company is capitalizing on its strong income from Starlink (an internet service) and government contracts. Going forward, this strategy may enable SpaceX to invest more in its future projects without straining its finances, possibly benefiting investors who support tech and innovation.",
+        "investor_impact": "This debt maneuver could affect those investing in tech and aerospace sectors, as SpaceX's ability to fund its ambitious projects may lead to advancements in those industries. Additionally, it might influence the performance of bonds and investments related to AI, as the company continues to pursue cash-intensive projects.",
+        "key_terms": [
+          {
+            "term": "investment-grade bonds",
+            "meaning": "These are bonds considered low-risk, making them attractive to investors looking for stable returns."
+          },
+          {
+            "term": "debt consolidation",
+            "meaning": "This refers to combining multiple debts into a single one, often to get better terms, like lower interest rates."
+          }
+        ]
+      },
+      {
+        "title": "ITAT: Accrued interest component on non-convertible debentures sales is taxable as interest income",
+        "summary": "The ITAT has held that the accrued interest component embedded in sale proceeds from non-convertible debentures cannot automatically be treated as capital gains and may instead be taxed as interest income. Tax experts say the decision could trigger greater scrutiny and fresh litigation.",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/itat-accrued-interest-component-on-non-convertible-debentures-sales-is-taxable-as-interest-income/articleshow/131971655.cms",
+        "published": "Wed, 24 Jun 2026 20:32:52 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "227ee1dddd",
+        "quick_take": "The ITAT ruled that the interest from non-convertible debentures will be taxed as interest income, impacting how such investments are treated for tax purposes.",
+        "simplified_article": "The Income Tax Appellate Tribunal (ITAT) decided that when non-convertible debentures are sold, the interest earned up to that point can't just be seen as part of investment gains; it should be taxed as regular interest income. This ruling came about to clarify how these sales should be recorded for tax purposes. Non-convertible debentures are a type of debt investment where the investor does not have the option to convert their investment into shares. Moving forward, this change might lead to more tax reviews and potential legal challenges for those who have sold such debentures.",
+        "investor_impact": "If you have sold non-convertible debentures recently, be prepared to account for the interest portion of your earnings as taxable income, which may increase your overall tax liability. This ruling could particularly affect investors in the bond market and large corporations that issue these debentures for funding.",
+        "key_terms": [
+          {
+            "term": "non-convertible debentures",
+            "meaning": "These are fixed-income investment securities that cannot be converted into shares; they're a way for companies to borrow money."
+          },
+          {
+            "term": "capital gains",
+            "meaning": "The profit made from selling an investment for more than you paid; in this case, it was initially thought the interest could be treated this way instead of as taxable income."
+          }
+        ]
+      },
+      {
+        "title": "Gold futures sink to three-month low as dollar rally batters bullion",
+        "summary": "India's gold prices hit a three-month low on Wednesday, dropping to Rs 1.44 lakh per 10 grams, as global markets react to a bolstered US dollar and expectations for elevated interest rates. Analysts attribute this slump to signals from the Federal Reserve and a notable downturn in technology stocks. Investors are now closely monitoring upcoming US inflation figures to gauge the next steps in the market.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-futures-sink-to-three-month-low-as-dollar-rally-batters-bullion/articleshow/131971540.cms",
+        "published": "Wed, 24 Jun 2026 20:25:33 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "4d65778cb3",
+        "quick_take": "Gold prices in India fell to Rs 1.44 lakh per 10 grams, hitting a three-month low due to a stronger US dollar and increasing interest rate expectations.",
+        "simplified_article": "Gold prices in India dropped to Rs 1.44 lakh per 10 grams, marking a three-month low. This decline is linked to the US dollar becoming stronger and worries about rising interest rates in the US. The Federal Reserve, which sets important interest rates, signaled that it might keep rates high, which affects gold's appeal as an investment. Moving forward, investors are watching US inflation data closely, as it will play a key role in determining market trends and could impact whether gold prices continue to fall.",
+        "investor_impact": "If you hold gold or gold-related investments, this drop in prices could mean a decrease in your investment's value. Furthermore, sectors sensitive to economic changes, like technology stocks, may feel pressure as higher interest rates could lead to lower spending and investment.",
+        "key_terms": []
+      },
+      {
+        "title": "Market trading guide: IndiGo among 2 stock recommendations for Thursday",
+        "summary": "IndiGo and Phoenix Mills are among two stock picks for Thursday, with both showing strong technical breakouts, robust volumes and bullish momentum, according to a market trading guide.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-indigo-among-2-stock-recommendations-for-thursday/slideshow/131971260.cms",
+        "published": "Wed, 24 Jun 2026 20:01:49 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "f6244c840b",
+        "quick_take": "IndiGo and Phoenix Mills are identified as top stock picks for Thursday due to their strong performance and positive market signals.",
+        "simplified_article": "On Thursday, stocks of IndiGo and Phoenix Mills are recommended for trading because they are showing positive signs in the market. This pick is based on strong technical breakouts, which means their stock prices are moving upwards decisively. The significant volume of trading also indicates high interest from buyers. Investors and traders might consider these stocks for potential gains as they continue to show bullish momentum, meaning signs of rising prices.",
+        "investor_impact": "If you own shares in airlines or retail, these recommended stocks could influence your portfolio positively if they perform well. Higher activity in these stocks can also attract more investors, which might raise their prices further. Monitoring these recommendations could help you make informed decisions about your investments in these sectors.",
+        "key_terms": []
+      },
+      {
+        "title": "Sebi introduces lighter certification framework for non-core staff in investment advisory roles",
+        "summary": "The Securities and Exchange Board of India (Sebi) has launched a new certification, 'NISM Series-XXV-B', specifically designed for investment advisory personnel focused on sales and client interaction. This initiative is intended to simplify operational processes for financial firms while maintaining compliance standards. However, professionals in primary advisory roles will still need to obtain 'NISM Series-X-A' and 'X-B' certifications, ensuring a comprehensive regulatory framework.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-introduces-lighter-certification-framework-for-non-core-staff-in-investment-advisory-roles/articleshow/131970930.cms",
+        "published": "Wed, 24 Jun 2026 19:43:32 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "0fd55713ea",
+        "quick_take": "Sebi introduced a new certification for non-core staff in investment advisory roles, making it easier for firms while keeping regulatory standards intact.",
+        "simplified_article": "The Securities and Exchange Board of India (Sebi) has created a new certification called 'NISM Series-XXV-B' aimed at investment advisory workers who deal with sales and clients. This change aims to streamline operations for financial companies without lowering compliance standards. People in primary advisory roles still need to complete tougher certifications, 'NISM Series-X-A' and 'X-B', to ensure they meet comprehensive regulations. This new certification will mainly affect non-core staff in financial firms, allowing them to be better trained without intensive requirements.",
+        "investor_impact": "The introduction of this easier certification may lead to more knowledgeable personnel in financial advisory roles, which could enhance client interactions. As firms adopt this framework, it is likely they will operate more efficiently, potentially benefiting investors looking for clearer guidance. Overall, clients in the investment advisory space may experience improved service levels as firms adapt to this change.",
+        "key_terms": []
+      }
+    ],
+    "global-macro": [
+      {
+        "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
+        "summary": "The Baroness and her husband Doug Barrowman are among individuals being sued in a bid to recover some of the money owed to the government by the business.",
+        "link": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 17:32:22 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "8e358c2b73",
+        "quick_take": "Baroness Mone and her husband are being sued for millions related to PPE Medpro, and it's important because it could affect taxpayer money.",
+        "simplified_article": "Baroness Mone and her husband Doug Barrowman are facing a lawsuit aimed at recovering money owed to the government linked to their company, PPE Medpro. This lawsuit is a response to financial issues the business has faced. PPE Medpro was involved in providing personal protective equipment during the COVID-19 pandemic. Next, if the lawsuit is successful, some of the money could be returned to the government, potentially impacting taxpayers who funded the initial outlay.",
+        "investor_impact": "This lawsuit could have implications for the healthcare sector, especially companies involved in government contracts for medical supplies. If more individuals in similar situations face legal action, it may lead to increased scrutiny of contracts and budgets, potentially affecting investor confidence in health-related investments.",
+        "key_terms": []
+      },
+      {
+        "title": "Elon Musk loses trillionaire status as global tech rout hits SpaceX",
+        "summary": "Elon Musk lost his trillionaire status on Tuesday after a brutal global tech rout erased billions from his wealth.",
+        "link": "https://www.bbc.co.uk/news/articles/c8j2m2p8dgmo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 17:45:13 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "5691a69af4",
+        "quick_take": "Elon Musk lost his trillionaire status after a global tech downturn wiped out billions from his wealth, highlighting the impact of tech market fluctuations.",
+        "simplified_article": "Elon Musk is no longer a trillionaire as of Tuesday because a significant drop in the tech market reduced his wealth by billions. This decline is part of a larger trend affecting tech companies globally. Musk's wealth is mainly tied to his stakes in companies like Tesla and SpaceX, making him vulnerable to changes in the tech industry. As tech values drop, it may affect investments in this sector and potentially slow down growth for companies reliant on technology innovation.",
+        "investor_impact": "If you have investments in tech stocks or are considering stocks related to companies like SpaceX and Tesla, you might want to keep an eye on their performance as this downturn could lead to further declines. Investors in tech ETFs or other technology-related funds may also feel the impact, as the overall value of these investments can fluctuate with changes in high-profile companies like Musk's ventures.",
+        "key_terms": []
+      },
+      {
+        "title": "The economic challenges facing the next prime minister",
+        "summary": "Though the person in charge of the country will change, the fiscal issues remain the same.",
+        "link": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 23 Jun 2026 23:01:55 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "94538a48d5",
+        "quick_take": "The next UK prime minister will face the same existing financial issues, which could affect public services and investments.",
+        "simplified_article": "A new prime minister in the UK will take office, but they will encounter ongoing economic problems. These challenges include managing the country's budget and public spending, which have remained difficult despite a leadership change. Previously, the government struggled with high debt and inflation affecting daily life. Moving forward, the new leader will need to address these pressing fiscal issues, impacting citizens and businesses alike, especially in areas reliant on government funding.",
+        "investor_impact": "As the new prime minister tries to tackle these challenges, sectors that depend on government contracts and funding, like healthcare and infrastructure, may see fluctuations in their budgets. If public spending gets tight, companies in these areas could experience slower growth or delays in projects. Additionally, long-term investments in the UK might face uncertainty, affecting those with money in UK stocks or bonds.",
+        "key_terms": []
+      },
+      {
+        "title": "Who could be the UK's next chancellor?",
+        "summary": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+        "link": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 00:43:24 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "c0d5de6621",
+        "quick_take": "The UK is beginning to search for a new chancellor after the prime minister stepped down, which is key because the chancellor controls the nation's finances.",
+        "simplified_article": "The prime minister has resigned, prompting a race to find the next chancellor, who is responsible for managing the UK's economic policies and finances. This situation is unfolding due to political instability within the government. The chancellor's decisions directly impact public spending and economic health. As candidates emerge, the choice of the new chancellor will affect the UK’s financial direction and influence markets, potentially impacting everything from taxes to public services funding.",
+        "investor_impact": "Investors should pay attention as changes in chancellor could lead to shifts in fiscal policy, affecting sectors like public services or healthcare funding. If the new chancellor aims to reduce spending, this might impact investments in companies reliant on government contracts. Conversely, a pro-growth approach could boost markets and improve business confidence, which affects stock investments.",
+        "key_terms": []
+      },
+      {
+        "title": "Train passed red signal before fatal crash - report",
+        "summary": "A preliminary report from the Independent Rail Accident Investigation Branch is published.",
+        "link": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 13:09:44 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "6c6e3a44a2",
+        "quick_take": "A train ignored a red signal leading to a fatal crash, highlighting serious safety concerns in the rail industry.",
+        "simplified_article": "A preliminary report indicates that a train passed a red signal before a deadly crash occurred. This situation suggests there was a failure in following safety protocols. Rail safety oversight is crucial to prevent accidents and ensure the well-being of passengers. Moving forward, investigations will aim to understand the root causes and implement measures to avoid future incidents, affecting train operators and passengers alike.",
+        "investor_impact": "This incident could lead to increased regulations and safety spending in the rail sector, potentially impacting stock prices of train companies and related suppliers. Investors in infrastructure projects may also see changes in funding or operational requirements as more safety measures are implemented.",
+        "key_terms": []
+      },
+      {
+        "title": "Council tax debt rises to £9bn but here's how you can get help",
+        "summary": "New figures show billions of pounds is owed to councils but the government has plans to reform the system.",
+        "link": "https://www.bbc.co.uk/news/articles/c0my4gwe3y2o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 10:48:24 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "5962c3d2aa",
+        "quick_take": "Council tax debt has hit £9 billion, highlighting financial strain on households and prompting the government to propose system reforms.",
+        "simplified_article": "Councils in the UK are facing a huge £9 billion in unpaid council tax. This debt has risen because many people are struggling to pay their bills, especially during tough economic times. Council tax is a fee residents pay to help fund local services like schools and garbage collection. To address this issue, the government plans to reform the council tax system to make it fairer and more manageable for households. This situation will affect anyone who lives in a council area and may lead to changes in how tax is calculated or collected in the future.",
+        "investor_impact": "If you own property or are involved in local services, this council tax debt could impact funding and resource allocation for public services in your area. Additionally, businesses that rely on public sector contracts might face changes based on how councils manage their budgets moving forward.",
+        "key_terms": []
+      },
+      {
+        "title": "Ten years on, Brexit's economic impact is becoming clearer",
+        "summary": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?",
+        "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 23 Jun 2026 23:07:34 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "0f76793972",
+        "quick_take": "Ten years after Brexit, the UK economy is still feeling the effects of leaving the EU, which matters because it affects trade and growth.",
+        "simplified_article": "Brexit, which happened a decade ago, has led to economic challenges for the UK. Economists predicted that leaving the European Union would harm the country's economy, and now the impact is becoming clearer. The UK has faced slower growth and trade difficulties since leaving. As time goes on, businesses are adjusting, but many still feel the pain of reduced trade with EU countries, affecting jobs and prices. The ongoing changes will continue to influence the economy and people's lives in the UK.",
+        "investor_impact": "UK companies that rely heavily on trade with the EU might see lower profits, which could affect their stock prices. Sectors like manufacturing and agriculture could face more challenges due to these trade issues, potentially leading to job losses. For investors, businesses that adapt to these changes might still offer opportunities, but caution is advised.",
+        "key_terms": []
+      },
+      {
+        "title": "Why are there holiday delay warnings over the EU's new border system?",
+        "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+        "link": "https://www.bbc.co.uk/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 24 Jun 2026 09:47:35 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "3bf75fda74",
+        "quick_take": "The EU's new Entry/Exit System, affecting UK travelers to 29 countries, is causing delays for the upcoming holiday season.",
+        "simplified_article": "The EU plans to implement a new Entry/Exit System for travelers. This system is being introduced to improve border security and manage immigration better. UK passengers traveling to 29 EU countries will face delays as this change takes effect. It may affect travel plans during the holiday season, leading to longer wait times at borders. Everyone traveling from the UK to these countries should be aware of potential disruptions as the system rolls out.",
+        "investor_impact": "This could lead to increased travel costs, impacting airlines and tourism sectors as travelers may seek alternate routes or change their plans. Companies in the travel industry, especially those servicing flights to the EU, might see reduced demand during the holiday season.",
+        "key_terms": []
+      }
+    ],
+    "us-global": [
+      {
+        "title": "Micron stock jumps 10% as soaring prices from memory crunch lead to quadrupling of revenue",
+        "summary": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.",
+        "link": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+        "published": "Wed, 24 Jun 2026 20:21:08 GMT",
+        "source": "cnbc.com",
+        "id": "863092bd33",
+        "quick_take": "Micron's stock jumped 10% after its revenue quadrupled due to rising memory prices, significantly boosting investor confidence.",
+        "simplified_article": "Micron, a company that makes memory chips, reported a major increase in profits, causing its stock price to rise by 10%. This surge in revenue happened because the prices for memory chips have skyrocketed. Over the past year, Micron's stock price has actually increased by an impressive 700%. Going forward, Micron's success could lead to more investment in the tech sector and potentially attract buyers looking for high-demand memory products.",
+        "investor_impact": "If you own shares in technology companies, their performance might improve as demand for memory products grows. Additionally, this could mean higher stock prices for other chip manufacturers, benefiting shareholders in that sector. Consumers might also notice that electronics prices could increase due to the rising costs of memory chips.",
+        "key_terms": []
+      },
+      {
+        "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
+        "summary": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.",
+        "link": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+        "published": "Wed, 24 Jun 2026 19:51:48 GMT",
+        "source": "cnbc.com",
+        "id": "d3cf0ec311",
+        "quick_take": "Trump canceled signing a housing bill that was supposed to improve affordability, creating uncertainty in the housing market.",
+        "simplified_article": "President Trump called off the signing ceremony for a bill designed to make housing more affordable just an hour before it was set to happen. This unexpected decision may be linked to rising tensions with GOP senators. Affordable housing has been a critical issue, especially for low- and middle-income families. The cancellation could slow down efforts to provide more affordable housing options, leaving many potential homebuyers and renters in a tough spot.",
+        "investor_impact": "With the cancellation of this housing bill, there may be renewed pressure on housing prices, affecting those looking to buy or rent. If the bill had passed, it could have helped stabilize or lower rental costs, which now remains uncertain. This situation could also impact real estate investments negatively, particularly in areas expected to benefit from increased affordability measures.",
+        "key_terms": []
+      },
+      {
+        "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+        "summary": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
+        "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+        "published": "Wed, 24 Jun 2026 20:00:12 GMT",
+        "source": "cnbc.com",
+        "id": "07c66e0894",
+        "quick_take": "The Federal Reserve found that U.S. banks can handle $708 billion in losses without major issues, which is important for your confidence in bank stability.",
+        "simplified_article": "The Federal Reserve just announced that U.S. banks could withstand up to $708 billion in losses as part of its annual assessment. This testing is happening now as the Fed reviews its capital rules, but unlike past years, the results won't change how much money banks are required to hold. In simpler terms, banks are mainly showing they are in good shape financially despite these challenging tests. Going forward, this reassures customers and investors about the safety of their deposits and can affect how banks manage their money.",
+        "investor_impact": "This news likely stabilizes bank stocks and could encourage investment in the financial sector, as it suggests that banks are resilient to economic shocks. It may also lead to a more stable environment for lending, which could benefit small businesses looking for loans.",
+        "key_terms": []
+      },
+      {
+        "title": "Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz",
+        "summary": "Some 72 ships loaded with 19 million barrels of oil have passed through Hormuz in the past 24 hours, Energy Secretary Chris Wright said.",
+        "link": "https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html",
+        "published": "Wed, 24 Jun 2026 19:07:26 GMT",
+        "source": "cnbc.com",
+        "id": "63d7b9152a",
+        "quick_take": "Energy Secretary Chris Wright announced that the U.S. has stopped Iran from blocking the Strait of Hormuz, allowing 72 ships carrying 19 million barrels of oil to pass through safely.",
+        "simplified_article": "The U.S. has successfully prevented Iran from disrupting traffic in the Strait of Hormuz, a vital waterway for oil shipping. This means that oil shipments can continue without the fear of being blocked. The Strait of Hormuz is crucial because a significant portion of the world's oil passes through it. As a result, oil markets are likely to stabilize, and countries relying on this oil can breathe a sigh of relief about supply security.",
+        "investor_impact": "This news is good for oil prices, which might not spike due to fears of supply disruptions. Companies involved in oil shipping will benefit from this stability, as it reduces risks associated with transporting oil. Additionally, nations that import oil will be less likely to face sudden price increases at the gas pump.",
+        "key_terms": [
+          {
+            "term": "Strait of Hormuz",
+            "meaning": "A narrow passage where a large percentage of the world's oil comes through, making it crucial for global oil supply."
+          }
+        ]
+      },
+      {
+        "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
+        "summary": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
+        "link": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
+        "published": "Wed, 24 Jun 2026 20:01:14 GMT",
+        "source": "cnbc.com",
+        "id": "a047d6675f",
+        "quick_take": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
+        "simplified_article": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Toyota gains on General Motors in new U.S. sales forecast: 'GM may be looking over their shoulder'",
+        "summary": "Toyota has notably leaned into hybrid vehicles while GM and others bet on all-electric vehicles, which saw lower-than-expected adoption from consumers.",
+        "link": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
+        "published": "Wed, 24 Jun 2026 16:39:43 GMT",
+        "source": "cnbc.com",
+        "id": "b7e8956769",
+        "quick_take": "Toyota gains on General Motors in new U.S. sales forecast: 'GM may be looking over their shoulder'",
+        "simplified_article": "Toyota has notably leaned into hybrid vehicles while GM and others bet on all-electric vehicles, which saw lower-than-expected adoption from consumers.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Bitcoin falls back under $60,000, hitting its lowest level since October 2024",
+        "summary": "Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.",
+        "link": "https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html",
+        "published": "Wed, 24 Jun 2026 19:09:32 GMT",
+        "source": "cnbc.com",
+        "id": "e394009f05",
+        "quick_take": "Bitcoin falls back under $60,000, hitting its lowest level since October 2024",
+        "simplified_article": "Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
+        "summary": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
+        "link": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+        "published": "Wed, 24 Jun 2026 19:03:44 GMT",
+        "source": "cnbc.com",
+        "id": "1c79ef3609",
+        "quick_take": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
+        "simplified_article": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      }
+    ],
+    "banking-economy": [
+      {
+        "title": "RBI eases forex exposure rules, giving banks more room to trade",
+        "summary": "The Reserve Bank of India has updated foreign exchange exposure rules for banks. These changes simplify calculations by merging onshore and offshore positions and allow inclusion of overseas earnings. Crucially, banks can now exclude certain long-term foreign currency investments, potentially boosting trading capacity. Forex risk capital will be based on actual net open positions, with gold treated separately.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-eases-forex-exposure-rules-giving-banks-more-room-to-trade/articleshow/131977165.cms",
+        "published": "Thu, 25 Jun 2026 01:18:24 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "4a6598da20",
+        "quick_take": "RBI eases forex exposure rules, giving banks more room to trade",
+        "simplified_article": "The Reserve Bank of India has updated foreign exchange exposure rules for banks. These changes simplify calculations by merging onshore and offshore positions and allow inclusion of overseas earnings. Crucially, banks can now exclude certain long-term foreign currency investments, potentially boosting trading capacity. Forex risk capital will be based on actual net open positions, with gold treated separately.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Govt pushes PSU banks to develop loan products of up to ₹1 lakh each for street vendors",
+        "summary": "Public sector banks are developing new loan products up to ₹1 lakh for street vendors, aiming to help them build credit histories and transition to larger Mudra loans. This initiative bridges a gap in micro-credit, enabling vendors to scale their businesses. The government is also pushing for Grameen Credit Score integration to improve access to formal credit for first-time borrowers.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-pushes-psu-banks-to-develop-loan-products-of-up-to-1-lakh-each-for-street-vendors/articleshow/131975557.cms",
+        "published": "Wed, 24 Jun 2026 23:51:23 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "9d95b76988",
+        "quick_take": "Govt pushes PSU banks to develop loan products of up to ₹1 lakh each for street vendors",
+        "simplified_article": "Public sector banks are developing new loan products up to ₹1 lakh for street vendors, aiming to help them build credit histories and transition to larger Mudra loans. This initiative bridges a gap in micro-credit, enabling vendors to scale their businesses. The government is also pushing for Grameen Credit Score integration to improve access to formal credit for first-time borrowers.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Listed pvt firms return to double-digit sales growth in FY26, led by manufacturing rebound: RBI",
+        "summary": "Indian companies are back in the double-digit growth lane! The Reserve Bank of India reports that listed private non-financial firms saw sales jump 10.1% in FY26, a significant rebound. Manufacturing led the charge with 10.8% growth, driven by autos and food, while services also posted strong gains. However, input costs are rising for manufacturers.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/listed-pvt-firms-return-to-double-digit-sales-growth-in-fy26-led-by-manufacturing-rebound-rbi/articleshow/131972244.cms",
+        "published": "Wed, 24 Jun 2026 21:15:58 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "61aabda560",
+        "quick_take": "Listed pvt firms return to double-digit sales growth in FY26, led by manufacturing rebound: RBI",
+        "simplified_article": "Indian companies are back in the double-digit growth lane! The Reserve Bank of India reports that listed private non-financial firms saw sales jump 10.1% in FY26, a significant rebound. Manufacturing led the charge with 10.8% growth, driven by autos and food, while services also posted strong gains. However, input costs are rising for manufacturers.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Mastercard Move: Who is strategising at Mastercard to eliminate pain points and make money move globally effortlessly?",
+        "summary": "International payments have traditionally been slow, less transparent, and expensive. With growing expectations of better, seamless payments in India, Mastercard’s Global Head of Transfer Solutions, Pratik Khowala, is radically changing how these payments are carried out. With experience and expertise he is eliminating the pain points.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/mastercard-move-who-is-strategising-at-mastercard-to-eliminate-pain-points-and-make-money-move-globally-effortlessly/articleshow/131971442.cms",
+        "published": "Wed, 24 Jun 2026 20:16:18 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "4827798223",
+        "quick_take": "Mastercard Move: Who is strategising at Mastercard to eliminate pain points and make money move globally effortlessly?",
+        "simplified_article": "International payments have traditionally been slow, less transparent, and expensive. With growing expectations of better, seamless payments in India, Mastercard’s Global Head of Transfer Solutions, Pratik Khowala, is radically changing how these payments are carried out. With experience and expertise he is eliminating the pain points.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "RBI finalises digital banking fraud protection rules; introduces shadow reversal, extends relief to sole proprietors",
+        "summary": "Victims of digital payment fraud losing up to Rs 50,000 can now get up to Rs 25,000 compensation from banks, effective January 1, 2027. The RBI will fund 65% of this, with banks contributing the rest. Sole proprietors are now covered, and cross-border frauds are included. Reporting within five days to the cybercrime portal and bank is crucial for eligibility.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-finalises-digital-banking-fraud-protection-rules-introduces-shadow-reversal-extends-relief-to-sole-proprietors/articleshow/131970423.cms",
+        "published": "Wed, 24 Jun 2026 19:11:09 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "428b63346a",
+        "quick_take": "RBI finalises digital banking fraud protection rules; introduces shadow reversal, extends relief to sole proprietors",
+        "simplified_article": "Victims of digital payment fraud losing up to Rs 50,000 can now get up to Rs 25,000 compensation from banks, effective January 1, 2027. The RBI will fund 65% of this, with banks contributing the rest. Sole proprietors are now covered, and cross-border frauds are included. Reporting within five days to the cybercrime portal and bank is crucial for eligibility.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Bandhan Bank raises FD rates by up to 20 basis points",
+        "summary": "Bandhan Bank has boosted fixed deposit interest rates by up to 20 basis points, with senior citizens now earning a competitive 7.95% on select tenures. This move comes as other banks also adjust their deposit offerings, even with the RBI holding the repo rate steady. The bank aims to attract more retail deposits with these revised, attractive rates.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bandhan-bank-raises-fd-rates-by-up-to-20-basis-points/articleshow/131970103.cms",
+        "published": "Wed, 24 Jun 2026 18:51:54 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "ffcaa2e41c",
+        "quick_take": "Bandhan Bank raises FD rates by up to 20 basis points",
+        "simplified_article": "Bandhan Bank has boosted fixed deposit interest rates by up to 20 basis points, with senior citizens now earning a competitive 7.95% on select tenures. This move comes as other banks also adjust their deposit offerings, even with the RBI holding the repo rate steady. The bank aims to attract more retail deposits with these revised, attractive rates.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "RBI mandates kill switch for AI models at banks, introduces comprehensive model risk framework",
+        "summary": "The Reserve Bank of India is implementing stringent rules for banks and financial entities using Artificial Intelligence. A new draft framework mandates 'kill switches' for AI models, ensuring immediate shutdown if errors occur. Banks must also ensure human oversight, disclose AI use to customers, and manage risks associated with third-party AI providers. Board-level accountability for AI governance is a key focus, with a risk-based approach to model oversight.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-mandates-kill-switch-for-ai-models-at-banks-introduces-comprehensive-model-risk-framework/articleshow/131969198.cms",
+        "published": "Wed, 24 Jun 2026 18:10:26 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "d21c6f0acf",
+        "quick_take": "RBI mandates kill switch for AI models at banks, introduces comprehensive model risk framework",
+        "simplified_article": "The Reserve Bank of India is implementing stringent rules for banks and financial entities using Artificial Intelligence. A new draft framework mandates 'kill switches' for AI models, ensuring immediate shutdown if errors occur. Banks must also ensure human oversight, disclose AI use to customers, and manage risks associated with third-party AI providers. Board-level accountability for AI governance is a key focus, with a risk-based approach to model oversight.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "RBI expands digital fraud protection, introduces compensation for small-value scam victims",
+        "summary": "The RBI has expanded customer protection rules for digital payment frauds to cover cases where people are tricked into sending money to scammers and introduced a compensation mechanism for small-value frauds. Eligible victims can receive up to 85% of their losses, subject to a cap of ₹25,000. The rules take effect from January 1, 2027.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-expands-digital-fraud-protection-introduces-compensation-for-small-value-scam-victims/articleshow/131968799.cms",
+        "published": "Wed, 24 Jun 2026 17:54:10 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "c3b32e293a",
+        "quick_take": "RBI expands digital fraud protection, introduces compensation for small-value scam victims",
+        "simplified_article": "The RBI has expanded customer protection rules for digital payment frauds to cover cases where people are tricked into sending money to scammers and introduced a compensation mechanism for small-value frauds. Eligible victims can receive up to 85% of their losses, subject to a cap of ₹25,000. The rules take effect from January 1, 2027.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      }
+    ],
+    "sectors": [
+      {
+        "title": "Tech entrepreneurs seeking the next AI frontier are pivoting from chatbots to 'world models'",
+        "summary": "AI is evolving beyond text-based chatbots, with researchers now focusing on \"world models.\" These advanced systems aim to teach AI to understand and interact with the physical world, much like humans do. This shift is attracting significant investment, with a new generation of entrepreneurs and prominent scientists exploring how AI can learn spatial and temporal structures, paving the way for smarter robots and more immersive virtual environments.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/tech-entrepreneurs-seeking-the-next-ai-frontier-are-pivoting-from-chatbots-to-world-models/articleshow/131974037.cms",
+        "published": "Wed, 24 Jun 2026 23:02:58 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "d4d7e986f9",
+        "quick_take": "Tech entrepreneurs seeking the next AI frontier are pivoting from chatbots to 'world models'",
+        "simplified_article": "AI is evolving beyond text-based chatbots, with researchers now focusing on \"world models.\" These advanced systems aim to teach AI to understand and interact with the physical world, much like humans do. This shift is attracting significant investment, with a new generation of entrepreneurs and prominent scientists exploring how AI can learn spatial and temporal structures, paving the way for smarter robots and more immersive virtual environments.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Agility Robotics heads to Wall Street in a $2.5 billion bet on staffing warehouses with humanoids",
+        "summary": "Agility Robotics, an AI-driven humanoid robotics for warehouse operations, plans to go public with a remarkable $2.5 billion valuation. This move signifies a noteworthy advancement for the rapidly growing humanoid robot industry. Their 'Digit' robots, optimized for monotonous manual tasks, are already deployed in various industrial environments, supported by leading technology firms.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/agility-robotics-heads-to-wall-street-in-a-2-5-billion-bet-on-staffing-warehouses-with-humanoids/articleshow/131973157.cms",
+        "published": "Wed, 24 Jun 2026 22:16:01 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "213357e70b",
+        "quick_take": "Agility Robotics heads to Wall Street in a $2.5 billion bet on staffing warehouses with humanoids",
+        "simplified_article": "Agility Robotics, an AI-driven humanoid robotics for warehouse operations, plans to go public with a remarkable $2.5 billion valuation. This move signifies a noteworthy advancement for the rapidly growing humanoid robot industry. Their 'Digit' robots, optimized for monotonous manual tasks, are already deployed in various industrial environments, supported by leading technology firms.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Apple-Intel chip deal makes strategic sense but production is years away",
+        "summary": "Apple is reportedly turning to Intel for chip manufacturing, a move driven by TSMC's inability to meet surging AI demand and Apple's need for more capacity. This partnership, however, faces significant hurdles, with analysts predicting it could take two to three years for advanced chips to be ready. Intel's past struggles with chip yields and quality add to the commercial and financial risks involved in this ambitious collaboration.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/apple-intel-chip-deal-makes-strategic-sense-but-production-is-years-away/articleshow/131972239.cms",
+        "published": "Wed, 24 Jun 2026 21:18:32 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "b17ecf477e",
+        "quick_take": "Apple-Intel chip deal makes strategic sense but production is years away",
+        "simplified_article": "Apple is reportedly turning to Intel for chip manufacturing, a move driven by TSMC's inability to meet surging AI demand and Apple's need for more capacity. This partnership, however, faces significant hurdles, with analysts predicting it could take two to three years for advanced chips to be ready. Intel's past struggles with chip yields and quality add to the commercial and financial risks involved in this ambitious collaboration.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Maharashtra CM meets Amazon CEO, invites company to invest in data centres, healthcare",
+        "summary": "Maharashtra Chief Minister Devendra Fadnavis met Amazon CEO Andy Jassy, urging investment in the state's data centres, healthcare, and AI-driven skill development. Fadnavis highlighted Maharashtra's ambition to double its economy by 2030 and its commitment to leveraging AI for public services. The state is fostering a robust ecosystem for tech expansion, including green data centres and the Medicity project, seeking partnerships with Amazon to boost MSMEs through AI skilling.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/maharashtra-cm-meets-amazon-ceo-invites-company-to-invest-in-data-centres-healthcare/articleshow/131972106.cms",
+        "published": "Wed, 24 Jun 2026 21:12:36 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "5406300d7e",
+        "quick_take": "Maharashtra CM meets Amazon CEO, invites company to invest in data centres, healthcare",
+        "simplified_article": "Maharashtra Chief Minister Devendra Fadnavis met Amazon CEO Andy Jassy, urging investment in the state's data centres, healthcare, and AI-driven skill development. Fadnavis highlighted Maharashtra's ambition to double its economy by 2030 and its commitment to leveraging AI for public services. The state is fostering a robust ecosystem for tech expansion, including green data centres and the Medicity project, seeking partnerships with Amazon to boost MSMEs through AI skilling.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Vishal Sikka’s AI startup Hang Ten Systems raises $32 million led by Mayfield",
+        "summary": "Former Infosys CEO Vishal Sikka has launched Hang Ten Systems, an AI startup focused on enterprise solutions, securing $32 million in seed funding led by Mayfield. The Palo Alto-based company aims to help large corporations translate AI investments into tangible business results.",
+        "link": "https://economictimes.indiatimes.com/tech/funding/vishal-sikkas-ai-startup-hang-ten-systems-raises-32-million-led-by-mayfield/articleshow/131971910.cms",
+        "published": "Wed, 24 Jun 2026 20:51:52 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "e1054be374",
+        "quick_take": "Vishal Sikka’s AI startup Hang Ten Systems raises $32 million led by Mayfield",
+        "simplified_article": "Former Infosys CEO Vishal Sikka has launched Hang Ten Systems, an AI startup focused on enterprise solutions, securing $32 million in seed funding led by Mayfield. The Palo Alto-based company aims to help large corporations translate AI investments into tangible business results.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "A16z crypto leads $33 million bet on compute marketplace Ornn",
+        "summary": "Compute marketplace Ornn has secured $33 million in a funding round led by a16z crypto, with participation from Galaxy Ventures and others. Founded by MIT graduates, Ornn aims to bring transparency to the computing power market, which is crucial for AI. The platform will allow data centers and cloud providers to trade compute capacity, similar to commodity markets. This funding will fuel talent acquisition and business expansion.",
+        "link": "https://economictimes.indiatimes.com/tech/funding/a16z-crypto-leads-33-million-bet-on-compute-marketplace-ornn/articleshow/131971804.cms",
+        "published": "Wed, 24 Jun 2026 20:44:50 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "5b3e425d63",
+        "quick_take": "A16z crypto leads $33 million bet on compute marketplace Ornn",
+        "simplified_article": "Compute marketplace Ornn has secured $33 million in a funding round led by a16z crypto, with participation from Galaxy Ventures and others. Founded by MIT graduates, Ornn aims to bring transparency to the computing power market, which is crucial for AI. The platform will allow data centers and cloud providers to trade compute capacity, similar to commodity markets. This funding will fuel talent acquisition and business expansion.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Microsoft's quantum computing technology called into question, again",
+        "summary": "A new scientific critique in Nature casts doubt on Microsoft's quantum computing claims, potentially impacting its 2029 target. While rivals pursue established methods, Microsoft's long-term bet on a novel technology faces renewed skepticism. The company maintains its research is progressing practically, despite past retractions and current concerns over identifying a crucial subatomic particle and a minute gap in conductive wires.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/microsofts-quantum-computing-technology-called-into-question-again/articleshow/131971788.cms",
+        "published": "Wed, 24 Jun 2026 20:43:47 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "4bf94d95ff",
+        "quick_take": "Microsoft's quantum computing technology called into question, again",
+        "simplified_article": "A new scientific critique in Nature casts doubt on Microsoft's quantum computing claims, potentially impacting its 2029 target. While rivals pursue established methods, Microsoft's long-term bet on a novel technology faces renewed skepticism. The company maintains its research is progressing practically, despite past retractions and current concerns over identifying a crucial subatomic particle and a minute gap in conductive wires.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Swiggy Instamart COO Ankit Jain, CBO Hari Kumar quit amid top-level rejig",
+        "summary": "Quick commerce platform Instamart has seen key leadership departures with COO Ankit Jain and CBO Hari Kumar resigning due to personal reasons. Both executives, formerly of Flipkart, played crucial roles in the quick commerce business. This comes as Swiggy, Instamart's parent company, faces intense competition in the rapidly growing quick commerce sector, with other players aggressively expanding their reach.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/swiggy-instamart-coo-ankit-jain-cbo-hari-kumar-quit-amid-top-level-rejig/articleshow/131971358.cms",
+        "published": "Wed, 24 Jun 2026 20:11:55 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "522e62fd4d",
+        "quick_take": "Swiggy Instamart COO Ankit Jain, CBO Hari Kumar quit amid top-level rejig",
+        "simplified_article": "Quick commerce platform Instamart has seen key leadership departures with COO Ankit Jain and CBO Hari Kumar resigning due to personal reasons. Both executives, formerly of Flipkart, played crucial roles in the quick commerce business. This comes as Swiggy, Instamart's parent company, faces intense competition in the rapidly growing quick commerce sector, with other players aggressively expanding their reach.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Meta, Microsoft lead $850 billion boom in data center leases",
+        "summary": "Tech giants Meta and Microsoft are pouring billions into future data center leases, pushing industry-wide commitments past $850 billion. Meta alone pledged an additional $79 billion, signaling massive AI infrastructure investment. Microsoft also added over $41 billion, despite capacity constraints. This surge highlights sustained, long-term spending on crucial tech infrastructure like semiconductors and energy.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-microsoft-lead-850-billion-boom-in-data-center-leases/articleshow/131970976.cms",
+        "published": "Wed, 24 Jun 2026 19:46:27 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "7b3d0fde1d",
+        "quick_take": "Meta, Microsoft lead $850 billion boom in data center leases",
+        "simplified_article": "Tech giants Meta and Microsoft are pouring billions into future data center leases, pushing industry-wide commitments past $850 billion. Meta alone pledged an additional $79 billion, signaling massive AI infrastructure investment. Microsoft also added over $41 billion, despite capacity constraints. This surge highlights sustained, long-term spending on crucial tech infrastructure like semiconductors and energy.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Beyond the top 3, Amazon and Flipkart wage war to win the quick commerce crown",
+        "summary": "Ecommerce giants Amazon and Flipkart are aggressively expanding their quick commerce operations, aiming to capture market share from established players like Blinkit, Instamart, and Zepto. Flipkart Minutes is rapidly growing its fulfilment centres, focusing on tier 2 and 3 cities, while Amazon Now plans to extend its dark store network to 300 cities.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/beyond-the-top-3-amazon-and-flipkart-wage-war-to-win-the-quick-commerce-crown/articleshow/131970795.cms",
+        "published": "Wed, 24 Jun 2026 19:36:54 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "92ec8bd895",
+        "quick_take": "Beyond the top 3, Amazon and Flipkart wage war to win the quick commerce crown",
+        "simplified_article": "Ecommerce giants Amazon and Flipkart are aggressively expanding their quick commerce operations, aiming to capture market share from established players like Blinkit, Instamart, and Zepto. Flipkart Minutes is rapidly growing its fulfilment centres, focusing on tier 2 and 3 cities, while Amazon Now plans to extend its dark store network to 300 cities.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      }
+    ],
+    "crypto": [
+      {
+        "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
+        "summary": "In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network.",
+        "link": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
+        "published": "Wed, 24 Jun 2026 19:52:39 +0000",
+        "source": "coindesk.com",
+        "id": "8f24b88c77",
+        "quick_take": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
+        "simplified_article": "In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+        "summary": "The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report.",
+        "link": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
+        "published": "Wed, 24 Jun 2026 19:48:23 +0000",
+        "source": "coindesk.com",
+        "id": "9b03e42c87",
+        "quick_take": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+        "simplified_article": "The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
+        "summary": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
+        "link": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+        "published": "Wed, 24 Jun 2026 17:18:08 +0000",
+        "source": "coindesk.com",
+        "id": "b078a72888",
+        "quick_take": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
+        "simplified_article": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
+        "summary": "South Korean memory chip giant on Wednesday filed to raise nearly $30 billion in a U.S. offering.",
+        "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
+        "published": "Wed, 24 Jun 2026 16:01:02 +0000",
+        "source": "coindesk.com",
+        "id": "d14c474d9d",
+        "quick_take": "Bitcoin falls below $60,000 as AI trade continues to draw investor interest and capital",
+        "simplified_article": "South Korean memory chip giant on Wednesday filed to raise nearly $30 billion in a U.S. offering.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
+        "summary": "In this week's Crypto Long & Short, Nonco’s Caue Teixeira makes the case that regardless of which coin ultimately wins, infrastructure is the prevailing currency in digital assets. Then, using CoinDesk's liquidation feed, Liquibit Capital's Alen Pavlović finds that June's forced selling peaked near $68,000, days before bitcoin actually bottomed.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
+        "published": "Wed, 24 Jun 2026 16:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "2b13c3e31a",
+        "quick_take": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
+        "simplified_article": "In this week's Crypto Long & Short, Nonco’s Caue Teixeira makes the case that regardless of which coin ultimately wins, infrastructure is the prevailing currency in digital assets. Then, using CoinDesk's liquidation feed, Liquibit Capital's Alen Pavlović finds that June's forced selling peaked near $68,000, days before bitcoin actually bottomed.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
+        "summary": "SecondFi was hit by three separate attacks exploiting a flaw in its wallet generation software. A further 129 million ADA was secured by the team before attackers could reach it.",
+        "link": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
+        "published": "Wed, 24 Jun 2026 15:45:42 +0000",
+        "source": "coindesk.com",
+        "id": "0317dc12f1",
+        "quick_take": "SecondFi loses $2.4 million in Cardano wallet exploit",
+        "simplified_article": "SecondFi was hit by three separate attacks exploiting a flaw in its wallet generation software. A further 129 million ADA was secured by the team before attackers could reach it.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      }
+    ]
+  },
+  "market_data": {
+    "nifty": null,
+    "sensex": null,
+    "usdinr": null,
+    "btcusd": null
+  },
+  "day_summary": ""
+}

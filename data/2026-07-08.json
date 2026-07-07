@@ -1,0 +1,737 @@
+{
+  "date": "2026-07-08",
+  "date_label": "Wednesday, 08 July 2026",
+  "generated_at": "2026-07-08T02:01:27.284381+05:30",
+  "articles": {
+    "india-macro": [
+      {
+        "title": "Sugar prices up 6-7% in June amid below-normal rainfall",
+        "summary": "Sugar prices have increased six to seven percent over June. This rise occurred as below-normal rainfall raised concerns about crop output. Demand also climbed with the end of the Hindu month of Adhik Maas. Ex-mill sugar prices in Maharashtra have increased to about forty-one point five rupees per kilogram. Recent rainfall is expected to provide relief to the standing sugarcane crop.",
+        "link": "https://economictimes.indiatimes.com/news/economy/agriculture/sugar-prices-up-6-7-over-june-amid-below-normal-rainfall/articleshow/132248109.cms",
+        "published": "Wed, 08 Jul 2026 01:01:34 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "d242891e7e",
+        "quick_take": "Sugar prices in Maharashtra rose by 6-7% to about 41.5 rupees per kg due to lower rainfall impacting crop yields and increased demand.",
+        "simplified_article": "Sugar prices increased by 6-7% in June, reaching about 41.5 rupees per kilogram in Maharashtra. This rise was mainly driven by below-normal rainfall, raising fears about how much sugarcane will be harvested. Sugarcane is the main ingredient for sugar, and its availability can influence prices. The decrease in rain prompted more buying as the month ended, but recent rainfall may help the current crop recover. Consumers and sugar-producing businesses may feel the pinch as costs go up.",
+        "investor_impact": "Higher sugar prices could lead to increased costs for food products that use sugar, which may affect grocery bills for consumers. Businesses relying on sugar for production, like confectioneries and soft drink companies, might see squeezed profit margins due to rising input costs. If prices stabilize or drop following recent rainfall, it could ease some of that pressure.",
+        "key_terms": []
+      },
+      {
+        "title": "Kharif sowing slow, 15 more districts face rain deficiency",
+        "summary": "The government is monitoring 262 districts for rainfall deficiency and El Nino impacts. Fifteen additional districts have been identified as facing rainfall deficits. Sowing remains slower than usual due to uneven rainfall across the country. However, rains are forecast for Gujarat, Haryana, Punjab, and Rajasthan soon. Contingency plans are being implemented to minimize potential impacts on agriculture.",
+        "link": "https://economictimes.indiatimes.com/news/economy/agriculture/kharif-sowing-slow-15-more-districts-face-rain-deficiency/articleshow/132248018.cms",
+        "published": "Wed, 08 Jul 2026 00:58:00 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "6631977965",
+        "quick_take": "Fifteen more districts in India are facing rainfall deficits during the Kharif sowing season, which could hurt agricultural output and food prices.",
+        "simplified_article": "The Indian government is keeping an eye on 262 districts affected by a lack of rainfall. Recent reports indicate that another 15 districts are facing deficits in rain, slowing down the usual planting season. This uneven rainfall is a concern, especially as it could impact crop yields. However, rain is expected soon in states like Gujarat, Haryana, Punjab, and Rajasthan. The government is also taking measures to reduce the potential negative effects on farmers and agriculture.",
+        "investor_impact": "If agricultural production decreases due to slow sowing and rainfall issues, food prices could rise, impacting consumers. This situation could especially affect investors in agriculture-related stocks or those involved in food production and distribution. Additionally, companies that rely on agricultural products may face increased costs, which could squeeze their profit margins.",
+        "key_terms": []
+      },
+      {
+        "title": "India asks US to reconsider proposed 12.5% additional tariff",
+        "summary": "India has asked the US to reconsider proposed additional tariffs on its exports. New Delhi argues the proposed tariffs lack legal basis and sufficient evidence. The US Trade Representative is investigating dozens of economies for forced labor import policies. India believes the US has not conducted economy-specific analyses of these practices. Dialogue is preferred to address any specific concerns raised by the US.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-asks-us-to-reconsider-proposed-12-5-additional-tariff/articleshow/132246288.cms",
+        "published": "Wed, 08 Jul 2026 00:19:20 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "a15d7062f6",
+        "quick_take": "India is urging the US to rethink its proposed 12.5% extra tax on Indian exports, which could hurt trade relations.",
+        "simplified_article": "India has officially requested the US to reconsider a proposed 12.5% additional tariff on its exports. The reason for this appeal is India's belief that the tariffs are based on weak legal arguments and insufficient evidence. This situation arose as the US is looking into various countries for policies related to forced labor. India argues that the US hasn't specifically analyzed its economic practices. Going forward, India hopes to resolve any concerns through direct discussions rather than tariffs, which could impact many exporters in sectors like textiles and electronics.",
+        "investor_impact": "If the US goes ahead with the 12.5% tariff, Indian companies that export goods, especially in textiles and electronics, may see their profits shrink, negatively impacting their stock prices. This could also lead to higher prices for goods imported from India, affecting consumers looking for affordable options. Overall, trade tensions might create uncertainty in the market, impacting both exporters and investors in those sectors.",
+        "key_terms": []
+      },
+      {
+        "title": "Economic Advisory Council to the Prime Minister calls for rapid scale-up of grid-scale battery storage",
+        "summary": "India's electricity challenge has shifted from generation to managing availability and flexibility. Rising solar power causes grid stress and price volatility between day and night. The government recognises energy storage as crucial for the power system. Expanding solar capacity needs corresponding investments in storage solutions. This ensures grid stability and meets evening peak demand effectively.",
+        "link": "https://economictimes.indiatimes.com/news/economy/policy/economic-advisory-council-to-the-prime-minister-calls-for-rapid-scale-up-of-grid-scale-battery-storage/articleshow/132246002.cms",
+        "published": "Wed, 08 Jul 2026 00:04:35 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "2045bad8e4",
+        "quick_take": "India's Economic Advisory Council urges faster expansion of battery storage to stabilize electricity supply as solar power rises.",
+        "simplified_article": "The Economic Advisory Council to the Prime Minister of India has called for quicker development of large-scale battery storage systems. This is needed because the surge in solar energy production is making it tough to manage electricity availability and causing price swings during the day and night. As more solar power comes online, the government realizes that efficient energy storage is essential for keeping the power grid stable and meeting high energy demand in the evenings. The push for battery storage is expected to lead to investment opportunities in renewable energy technologies, impacting companies involved in energy storage solutions and utilities.",
+        "investor_impact": "This could lead to increased investments in renewable energy companies, particularly those focused on battery storage and solar technologies. Utility companies might also see changes in their operations and investments due to the need for better grid management solutions, potentially affecting their stock performance. If you have investments in energy stocks, watch out for companies enhancing their storage capacities or expanding into solar energy.",
+        "key_terms": [
+          {
+            "term": "grid-scale battery storage",
+            "meaning": "Large batteries that store electricity generated from renewable sources, helping to balance supply and demand on the power grid."
+          }
+        ]
+      },
+      {
+        "title": "Information & Computer services to make up 1/5th of India's proposed planned index",
+        "summary": "India will soon release a new monthly Index of Services Production. Information and computer services will lead this important economic indicator. Retail trade and administrative support will follow as significant components. This index will cover the formal services sector and use GST data. The first trial release is scheduled for July 2026.",
+        "link": "https://economictimes.indiatimes.com/news/economy/indicators/information-computer-services-to-make-up-1/5th-of-indias-proposed-planned-index/articleshow/132245509.cms",
+        "published": "Tue, 07 Jul 2026 23:48:58 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "b90a2a4c42",
+        "quick_take": "India will launch a monthly Index of Services Production in July 2026, with information and computer services making up 20% of it, highlighting the sector's growth importance.",
+        "simplified_article": "India is set to introduce a new monthly Index of Services Production by July 2026. This index will focus on the formal services sector, using Goods and Services Tax (GST) data to measure performance. Information and computer services will lead this index, accounting for one-fifth of its content, while retail trade and administrative support will also be significant parts. The index aims to provide better insights into the services part of the economy. The new data will help businesses and policymakers understand trends and make informed decisions.",
+        "investor_impact": "The strong emphasis on information and computer services in this new index suggests potential growth for companies in the tech sector, including software and IT service providers. Businesses involved in retail trade may also benefit as their performance gets highlighted in this new measure. This could influence investment sentiment toward these sectors, possibly raising stock values in companies like TCS and Infosys.",
+        "key_terms": [
+          {
+            "term": "Index of Services Production",
+            "meaning": "This is a new tool to measure how well the services sector of the economy is doing, which helps in understanding economic health."
+          },
+          {
+            "term": "GST data",
+            "meaning": "Goods and Services Tax data tracks the sales and services across businesses, providing a clear view of economic activity."
+          }
+        ]
+      },
+      {
+        "title": "Ministries asked to fill top vacancies at CPSEs in 3 months",
+        "summary": "The government has issued a directive mandating that ministries address top management vacancies within a strict three-month timeframe. Delays in filling these positions have been hindering important strategic decisions in various state-owned enterprises.",
+        "link": "https://economictimes.indiatimes.com/news/economy/policy/ministries-asked-to-fill-top-vacancies-at-cpses-in-3-months/articleshow/132245748.cms",
+        "published": "Tue, 07 Jul 2026 23:46:54 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "415c1202c0",
+        "quick_take": "The Indian government is giving ministries 3 months to fill top jobs at state-owned companies, which is crucial for making important business decisions.",
+        "simplified_article": "The Indian government has ordered that ministries must fill leadership vacancies in state-owned companies within three months. This push comes because delays in hiring have been slowing down critical decisions that affect how these companies operate. State-owned enterprises are companies owned by the government, and these roles are vital for their success. If these positions are filled on time, it could lead to more efficient management and better performance in these companies, impacting employees and stakeholders.",
+        "investor_impact": "Filling these management vacancies quickly may help improve the performance of state-owned companies, particularly in sectors like energy and infrastructure. Investors in these sectors should look out for potential improvements or growth as leadership stabilizes and strategic decisions are made more efficiently.",
+        "key_terms": []
+      },
+      {
+        "title": "RBI mulls guidelines on property title searches",
+        "summary": "The guidelines could prescribe a minimum search period, key documents and records to be verified, as well as precautions to be followed while preparing title search or legal background check reports, said people familiar with the development.",
+        "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mulls-guidelines-on-property-title-searches/articleshow/132245673.cms",
+        "published": "Tue, 07 Jul 2026 23:43:37 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "cef328712e",
+        "quick_take": "The RBI is planning new rules for property title searches to ensure more accurate legal checks, which is vital for home buyers and real estate investors.",
+        "simplified_article": "The Reserve Bank of India (RBI) is considering guidelines to improve property title searches. This is happening to make sure that legal checks for property ownership are reliable and secure. Property title searches are important because they help confirm who really owns a property. If these guidelines are put into place, home buyers and real estate investors will benefit from clearer information and reduced risks when purchasing properties.",
+        "investor_impact": "If the RBI's guidelines lead to stricter checks, this could slow down property transactions, potentially impacting the real estate market. Buyers might feel more confident but could also face delays, affecting property prices. Lenders may adjust processes for home loans based on these new rules, influencing loan approvals and timelines.",
+        "key_terms": []
+      },
+      {
+        "title": "Air-cooled condenser makers urge review of Chinese firms' entry into thermal power contracts",
+        "summary": "ACC systems are used in dry-cooling systems at thermal power plants and are typically sub-contracted as part of larger engineering, procurement and construction contracts.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/air-cooled-condenser-makers-urge-review-of-chinese-firms-entry-into-thermal-power-contracts/articleshow/132245468.cms",
+        "published": "Tue, 07 Jul 2026 23:39:43 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "7c602f82c0",
+        "quick_take": "Air-cooled condenser (ACC) makers are asking regulators to reassess how Chinese companies enter thermal power contracts because it could affect local jobs and projects.",
+        "simplified_article": "Air-cooled condenser (ACC) manufacturers are concerned about Chinese firms getting involved in contracts for thermal power plants. They believe this could hurt local businesses and affect job opportunities in the sector. ACC systems help cool down power plants which is critical for their operation. Moving forward, discussions may lead to changes in how contracts are awarded, which could benefit local manufacturers and impact the competitiveness of Chinese companies in the energy sector.",
+        "investor_impact": "If the review leads to restrictions on Chinese firms, local power equipment manufacturers may see increased demand for their products, possibly boosting their stock prices. This could be significant for investors in the thermal power sector, as well as those holding shares in companies that produce cooling systems.",
+        "key_terms": [
+          {
+            "term": "air-cooled condenser (ACC)",
+            "meaning": "A system used to cool down thermal power plants, which is important for maintaining efficiency and safety."
+          },
+          {
+            "term": "thermal power",
+            "meaning": "Electricity generated using heat, commonly from burning fossil fuels, which is a major part of the energy sector."
+          }
+        ]
+      }
+    ],
+    "indian-markets": [
+      {
+        "title": "US stocks today: S&P 500, Nasdaq end lower as AI worries hit chipmakers",
+        "summary": "U.S. markets closed lower as chip stocks declined on concerns the AI-driven rally may be overstretched. Losses in Micron and other semiconductor firms weighed on indices, while rising competition from China and unmet expectations after Samsung’s earnings added pressure. Investors are reassessing valuations amid continued volatility in AI-linked stocks.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-ends-down-as-ai-worries-hit-chipmakers/articleshow/132248660.cms",
+        "published": "Wed, 08 Jul 2026 01:37:04 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "e05bb5d9e3",
+        "quick_take": "US stocks fell, with the S&P 500 and Nasdaq dropping as chipmaker Micron faced AI-related concerns and rising competition from China.",
+        "simplified_article": "US stock markets ended lower today, driven by a decline in technology companies that make computer chips, like Micron. This downturn is due to fears that the current excitement over AI might be too much and not sustainable, combined with increased competition from Chinese firms and disappointing results from Samsung. The semiconductor industry is central to the tech sector's growth, as chips are essential for devices that use AI. Moving forward, investors may become more cautious, impacting tech stocks and potentially leading to more fluctuations in the market.",
+        "investor_impact": "This decline could affect those invested in technology stocks, particularly in semiconductor companies, as they may continue facing challenges from competitors. If the chipmakers struggle, it could have a ripple effect, leading to lower stock prices and impacting investments in related technology sectors. Investors in mutual funds or ETFs focused on tech might also see reduced returns as these companies take a hit.",
+        "key_terms": []
+      },
+      {
+        "title": "Sebi eases rules on use of depository investor protection fund income",
+        "summary": "Sebi has allowed depositories to use a small portion of annual income from the Investor Protection Fund for administrative and statutory expenses while requiring most earnings to remain in the corpus. The revised framework introduces safeguards and takes effect from September.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-rules-on-use-of-depository-investor-protection-fund-income/articleshow/132242860.cms",
+        "published": "Tue, 07 Jul 2026 21:29:02 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "260babcb46",
+        "quick_take": "Sebi eases rules on use of depository investor protection fund income",
+        "simplified_article": "Sebi has allowed depositories to use a small portion of annual income from the Investor Protection Fund for administrative and statutory expenses while requiring most earnings to remain in the corpus. The revised framework introduces safeguards and takes effect from September.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+        "summary": "Indian equities ended lower after four straight gains as profit booking, weak global cues and caution ahead of the US Fed minutes weighed on sentiment. IT stocks remained resilient, while analysts expect earnings, monsoon progress, stable rupee and foreign inflows to guide near-term market direction.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132242806.cms",
+        "published": "Tue, 07 Jul 2026 21:23:41 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "b3052e78e6",
+        "quick_take": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+        "simplified_article": "Indian equities ended lower after four straight gains as profit booking, weak global cues and caution ahead of the US Fed minutes weighed on sentiment. IT stocks remained resilient, while analysts expect earnings, monsoon progress, stable rupee and foreign inflows to guide near-term market direction.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "SanDisk shares crash 10% as AI chip selloff spreads to memory stocks",
+        "summary": "SanDisk share crash why, chip stocks falling today, AI rally over or not, Micron Intel share fall reason, memory stocks crash news, Samsung stock down despite profit, AI stock correction 2026, semiconductor stocks outlook India, storage stocks news today, why tech stocks falling now",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sandisk-shares-crash-10-as-ai-chip-selloff-spreads-to-memory-stocks/articleshow/132242786.cms",
+        "published": "Tue, 07 Jul 2026 21:20:26 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "a9f4777b61",
+        "quick_take": "SanDisk shares fell 10% today as a selloff in AI-related chip stocks spreads, raising concerns about the memory market's stability.",
+        "simplified_article": "SanDisk's stock dropped by 10% as investors reacted to a broader decline in semiconductor stocks linked to AI chip selling. This selloff was driven by fears that the AI chip boom may be ending, with companies like Micron and Intel also experiencing losses. The semiconductor industry, which makes computer chips, has seen significant fluctuations recently, affecting stocks like Samsung, which despite reporting profits, also saw its shares decline. Moving forward, if this trend continues, it could negatively impact future technology investments and influence stock valuations in the memory sector.",
+        "investor_impact": "If you're invested in tech or semiconductor stocks, you might feel the pinch as these declines could affect portfolio values. Particularly, companies that produce memory chips, like SanDisk and Micron, are now facing uncertainty, which could influence their profitability and stock prices in the near term.",
+        "key_terms": []
+      },
+      {
+        "title": "Market Trading Guide: 360 One Wam among 6 stock recommendations for Wednesday",
+        "summary": "Profit booking became evident on Tuesday in reaction to a dip in Asian markets, leaving investors eagerly anticipating the US Fed minutes. Analysts suggest considering 360 One Wam, HFCL, RITES, Azad Engineering, EPL, and PGEL for investment, as they present strong technical signals and promising upside potential.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-360-one-wam-among-2-stock-recommendations-for-wednesday/articleshow/132242562.cms",
+        "published": "Tue, 07 Jul 2026 20:58:05 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "482a8c4212",
+        "quick_take": "360 One Wam is one of six recommended stocks as profit booking hits markets after Asian dips, signaling potential investment opportunities.",
+        "simplified_article": "On Tuesday, stock markets showed a trend of profit booking, which means investors were selling off stocks to secure their gains. This was in response to a decline in Asian markets, making people more cautious. Analysts highlight six stocks, including 360 One Wam, as having strong potential for growth based on their trading patterns. Moving forward, investors are likely to keep an eye on these recommendations, as they may offer good returns amidst the current market fluctuations.",
+        "investor_impact": "If you're considering investing, sectors represented by the recommended stocks could see increased interest, especially in tech and infrastructure. This means potential growth for those sectors if you hold similar stocks. Keep an eye on stocks like HFCL and RITES as they could see higher trading volumes due to this news.",
+        "key_terms": []
+      },
+      {
+        "title": "Amazon aims to raise $25 billion from bond sale, Bloomberg News reports",
+        "summary": "Amazon is set to secure a minimum of twenty-five billion dollars through a U.S. bond initiative. This strategic decision is aimed at bolstering the company's burgeoning investments in artificial intelligence infrastructure. As the tech landscape evolves, major players such as Meta and Alphabet have also turned to debt markets to fuel their AI ambitions. The funds raised will primarily address corporate needs and manage impending debt obligations.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/amazon-aims-to-raise-25-billion-from-bond-sale-bloomberg-news-reports/articleshow/132242087.cms",
+        "published": "Tue, 07 Jul 2026 20:24:52 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "f202ac7a63",
+        "quick_take": "Amazon plans to raise $25 billion through a bond sale to invest in artificial intelligence, reflecting a trend among top tech companies seeking funding for innovation.",
+        "simplified_article": "Amazon is looking to raise at least $25 billion from selling bonds, which are basically loans that the company promises to pay back with interest. They need this money to expand their investments in artificial intelligence technology. Other big companies like Meta and Alphabet are also borrowing money to support their own AI projects. The money will help Amazon manage its existing debts and fund its new initiatives. This move could have significant impacts on the company's growth and its investors' returns.",
+        "investor_impact": "If you own stocks in tech companies, especially Amazon, this bond sale indicates the company is serious about future growth, which could lead to higher stock prices over time. Additionally, companies like Amazon borrowing large sums could influence the cost of borrowing for other businesses, potentially affecting their investment plans. Overall, this could lead to a more competitive technology sector as companies race to innovate with AI.",
+        "key_terms": []
+      },
+      {
+        "title": "RBI to conduct Rs 25,000-cr overnight variable rate repo auction on Jul 8",
+        "summary": "The Reserve Bank of India is set to hold an overnight variable rate repo auction on July 8, offering Rs 25,000 crore. This auction aims to address current liquidity dynamics, and the funds will revert on July 9. Following less engagement in a prior auction due to excessive liquidity, this move seeks to adjust the monetary balance.",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-conduct-rs-25000-cr-overnight-variable-rate-repo-auction-on-jul-8/articleshow/132241975.cms",
+        "published": "Tue, 07 Jul 2026 20:13:04 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "f63637e298",
+        "quick_take": "RBI is auctioning Rs 25,000 crore in an overnight repo to manage liquidity on July 8, which affects how quickly banks can access cash.",
+        "simplified_article": "The Reserve Bank of India (RBI) is holding an overnight auction where it will offer banks Rs 25,000 crore to help with cash flow issues. This decision comes after a previous auction saw low participation from banks due to a lot of cash already being available. A repo auction is when the RBI lends money to banks with the agreement that they will pay it back the next day. After this auction, banks will likely have more money to lend, which could influence loan availability for consumers and businesses.",
+        "investor_impact": "This move may lead to easier access to loans for businesses looking for cash, possibly leading to lower interest rates on some types of loans. If you have a home loan, the cost to borrow could remain steady, as banks balance lending amid liquidity changes. Companies that depend on loans for operations may benefit from this adjustment in cash flow.",
+        "key_terms": [
+          {
+            "term": "repo auction",
+            "meaning": "A system where RBI lends money to banks to help them with cash, usually paid back quickly, which influences how banks lend money to everyone else."
+          }
+        ]
+      },
+      {
+        "title": "Kalyan Jewellers posts strong Q1 growth on robust demand",
+        "summary": "Kalyan Jewellers reported strong first-quarter revenue growth, supported by resilient domestic demand, healthy international performance and rapid expansion of recycled gold usage. The company also added new stores and said it entered the current quarter with positive momentum ahead of festive demand.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-posts-strong-q1-growth-on-robust-demand/articleshow/132241944.cms",
+        "published": "Tue, 07 Jul 2026 20:11:25 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "b557a2b857",
+        "quick_take": "Kalyan Jewellers saw strong first-quarter revenue growth due to high demand, signaling a healthy market for gold jewellery as they prepare for upcoming festive sales.",
+        "simplified_article": "Kalyan Jewellers reported notable growth in their revenue for the first quarter. This growth was driven by strong local demand, good performance in international markets, and a rise in the use of recycled gold (gold that is reused to create new items). The company is also expanding by opening new stores and is optimistic about maintaining this trend as the festive season approaches. This means more options for customers looking to buy jewellery during one of the busiest shopping times of the year.",
+        "investor_impact": "If you're considering investing in gold or jewellery-related stocks, this news indicates a positive outlook for those sectors. Kalyan Jewellers' success reflects a strong demand for gold, which could influence gold prices. Overall, more consumer spending on jewellery might lead to better profits for companies in this industry.",
+        "key_terms": []
+      }
+    ],
+    "global-macro": [
+      {
+        "title": "One million more UK homeowners set to face higher mortgages",
+        "summary": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
+        "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Jul 2026 15:18:00 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "dfb77746b6",
+        "quick_take": "One million UK homeowners will pay an average of £45 more each month for their mortgages as they switch to new deals over the next two years.",
+        "simplified_article": "Over the next two years, about one million homeowners in the UK will experience higher mortgage payments, averaging an extra £45 each month. This increase is likely due to the ongoing effects of rising interest rates, which make borrowing more expensive. Mortgages are loans used to buy homes, and most homeowners need a mortgage to afford their houses. As they move to new deals, they will face these increased costs, impacting their monthly budgets.",
+        "investor_impact": "Higher mortgage payments mean homeowners will have less money to spend on other things, potentially slowing down consumer spending in the economy. This could affect the housing market and related sectors, such as home improvement and furniture, which may see reduced sales. Financial institutions that offer mortgages might also feel the pressure as customers react to the increased costs.",
+        "key_terms": []
+      },
+      {
+        "title": "Online gamblers betting more than £1,000 to face new checks",
+        "summary": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.",
+        "link": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Jul 2026 14:18:25 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "307b866d2c",
+        "quick_take": "If you bet over £1,000 online in one day, you'll now face new checks, aimed at reducing gambling risks.",
+        "simplified_article": "Online gamblers who place bets of more than £1,000 in a single day will soon have to go through checks to assess their gambling habits. This change was announced by regulators who are concerned about the risks associated with high-stakes betting. Gambling addiction can lead to severe financial problems, making these assessments crucial for player safety. Starting soon, those who gamble at these higher levels will need to provide personal information to ensure they're playing responsibly. This change affects online betting sites and their users, especially high rollers.",
+        "investor_impact": "This move may lead to a decrease in revenue for online gambling companies as some gamblers might reduce their betting or choose not to comply with the new checks. Additionally, companies that offer financial services or support for gamblers may see increased demand as individuals seek help with managing their gambling behaviors.",
+        "key_terms": []
+      },
+      {
+        "title": "Banks accused of pushing customers away from basic accounts",
+        "summary": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
+        "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 23:29:34 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "93ffffc9b1",
+        "quick_take": "UK banks are being criticized for neglecting their most vulnerable customers after a report from the financial regulator found them not supporting those who need basic accounts.",
+        "simplified_article": "Some of the biggest banks in the UK have been accused of not helping customers who need basic banking accounts, particularly those who are vulnerable. This issue is said to be due to banks focusing more on profitable services rather than making sure everyone has access to essential banking. Basic accounts are important because they provide essential banking services without high fees, which is crucial for those on low incomes. With this situation, many vulnerable customers may struggle to manage their finances as they might not have access to the necessary banking services. If banks don’t change their practices, these customers could face increased financial difficulties.",
+        "investor_impact": "This situation could lead to increased scrutiny on banks, especially those focusing on high-profit services instead of basic customer needs. If banks face penalties or backlash, it may ultimately affect their profitability and stock performance, particularly for those heavily involved in retail banking. Vulnerable customers' struggles could lead to calls for more regulation in the sector.",
+        "key_terms": []
+      },
+      {
+        "title": "Amazon bars breastfeeding boss from business course",
+        "summary": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+        "link": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 23:31:21 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "f94ccefa6e",
+        "quick_take": "Amazon's decision to bar a breastfeeding boss from a business course highlights unclear company policies, leading to public backlash.",
+        "simplified_article": "Rachael Bews, a breastfeeding employee at Amazon, was told her child couldn't accompany her during a business course. Amazon apologized for not making its policy clear about bringing children to work events. This incident raises awareness around company policies regarding family support at work. Moving forward, Amazon may need to clarify its rules to prevent similar misunderstandings and ensure employees feel supported in their roles.",
+        "investor_impact": "This situation may reflect poorly on Amazon's company culture and could deter potential talent, especially parents considering jobs there. Negative publicity can impact stock performance if consumers or investors lose confidence in Amazon's treatment of employees. Overall, companies that prioritize family-friendly policies might gain a competitive edge in attracting talent.",
+        "key_terms": []
+      },
+      {
+        "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+        "summary": "Around the world women are marking their split with new - or repurposed engagement - rings.",
+        "link": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 23:30:40 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "fb8196b851",
+        "quick_take": "Women globally are now embracing 'divorce rings' to symbolize their independence after splitting from partners, marking a significant cultural shift.",
+        "simplified_article": "Women around the world are starting to wear divorce rings, which are either new rings made for this purpose or reimagined engagement rings. This trend reflects a growing desire to celebrate personal freedom after a divorce, changing how society views the end of relationships. Traditionally, engagement rings symbolize commitment, but now these divorce rings represent strength and defiance. As more women embrace this new symbol, it could alter how the jewelry market caters to those going through life changes.",
+        "investor_impact": "The rise of divorce rings might boost the jewelry sector, especially companies that sell unique or custom pieces. This trend could lead to increased demand for redesign services among jewelers, benefiting small businesses and artisans who focus on personalized items. As this cultural shift gains momentum, it may even influence marketing strategies in the luxury goods market, potentially leading to more offerings tailored to personal empowerment.",
+        "key_terms": []
+      },
+      {
+        "title": "Robots available for rent: But what can they do?",
+        "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 23:48:55 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "e8add58ad6",
+        "quick_take": "Robots are now available for rent as technology advances quickly, making them easier to access for businesses looking to enhance efficiency.",
+        "simplified_article": "Robots can now be rented by companies, which allows them to use advanced technology without a huge upfront cost. This trend is happening because robotics technology is improving rapidly, making it more practical for companies to adopt. Renting robots can help businesses save money and stay competitive. As more companies choose to rent instead of buy, we might see a rise in the use of robots across various industries, impacting sectors like manufacturing and logistics.",
+        "investor_impact": "Investors in tech and robotics firms could see potential growth as more businesses adopt rental models for robotics. This shift might lead to increased demand for rental services, particularly in industries looking to innovate and reduce costs. Companies specializing in robotics and automation solutions may benefit from this trend as businesses look to boost efficiency with affordable options.",
+        "key_terms": []
+      },
+      {
+        "title": "Samsung profits jump 1,800% as AI chip sales soar",
+        "summary": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
+        "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Jul 2026 07:28:10 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "af9c4ecb62",
+        "quick_take": "Samsung's profits surged 1,800% due to booming AI chip sales, but investors were left disappointed and sold shares after expecting even better results.",
+        "simplified_article": "Samsung reported a staggering profit increase of 1,800%, largely driven by strong sales of its AI chips, which are specialized chips designed to power artificial intelligence applications. Despite this impressive performance, the company's shares dropped sharply because some investors had anticipated even higher earnings. This reflects the high expectations and competitive nature of the tech industry. Moving forward, this situation may lead to increased scrutiny on Samsung's future earnings potential and could impact investor confidence in the tech sector.",
+        "investor_impact": "This sharp drop in Samsung's share price might affect technology investors, particularly those in companies related to AI and semiconductors, as it indicates a volatile market environment. If investors lose confidence in Samsung’s growth prospects, it may lead to broader sell-offs in tech stocks. Those holding investments in firms that rely on Samsung's chips, like smartphone and computer manufacturers, could also see impacts on their stock performance.",
+        "key_terms": []
+      },
+      {
+        "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
+        "summary": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
+        "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 06 Jul 2026 23:08:51 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "15a86df16b",
+        "quick_take": "MPs found that phone contract comparisons led to mis-selling of student loans, meaning students might face unexpected loan term changes, affecting many borrowers.",
+        "simplified_article": "A recent report by MPs revealed that students were not adequately informed about the potential changes to their loan terms after signing up. This miscommunication could affect how much students owe over time, and it suggests that lenders need to be clearer. Student loans are designed to help pay for education but can have complex terms that students may not fully understand. Moving forward, affected students and advocates may push for better information practices from lenders to ensure transparency and fairness in loan agreements.",
+        "investor_impact": "While this news directly impacts students with loans, it could also lead to increased scrutiny on education financing companies. If regulations change to ensure clearer communication, it may affect the operational costs of these companies. Stakeholders in the education sector should keep an eye on how this develops, as it might influence investment in related financial services.",
+        "key_terms": []
+      }
+    ],
+    "us-global": [
+      {
+        "title": "Trump renews Greenland threats at NATO summit, says U.S. could remove troops from Europe",
+        "summary": "NATO fell into a crisis earlier this year as Trump demanded that the U.S. must take control of Greenland on national security grounds.",
+        "link": "https://www.cnbc.com/2026/07/07/trump-nato-summit-greenland-us-troops-europe.html",
+        "published": "Tue, 07 Jul 2026 16:15:08 GMT",
+        "source": "cnbc.com",
+        "id": "465d8a4e84",
+        "quick_take": "Trump is threatening to take control of Greenland, claiming it affects U.S. national security, which could lead to fewer U.S. troops in Europe.",
+        "simplified_article": "At a NATO summit, Trump renewed his controversial claim about Greenland, suggesting the U.S. might need it for security reasons. This comes after earlier tensions in NATO, which faced a crisis due to Trump's demands. Greenland is strategically located and important for military operations. If the U.S. reduces its military presence in Europe, it could impact defense relationships and regional stability, affecting European countries and NATO's effectiveness.",
+        "investor_impact": "If U.S. troop levels drop in Europe, defense contractors and military support companies might see a decline in their stock prices due to potential reduced defense spending. Additionally, European economies could feel the pressure if U.S. military support is scaled back, impacting sectors reliant on that presence, like tourism and local businesses near military bases.",
+        "key_terms": []
+      },
+      {
+        "title": "Maine Senate race replacements circle amid pressure on Platner to drop out",
+        "summary": "Democrat Graham Platner has denied allegations of sexual assault leveled by Maine resident Jenny Racicot as calls for him to exit the pivotal race mount.",
+        "link": "https://www.cnbc.com/2026/07/07/graham-platner-sexual-assault-allegation-maine-senate.html",
+        "published": "Tue, 07 Jul 2026 19:58:52 GMT",
+        "source": "cnbc.com",
+        "id": "66e1744109",
+        "quick_take": "Pressure is mounting for Democrat Graham Platner to exit the Maine Senate race following sexual assault allegations.",
+        "simplified_article": "Democrat Graham Platner is facing calls to drop out of the Maine Senate race after a resident, Jenny Racicot, accused him of sexual assault. Platner has denied these allegations. As the election approaches, his position is becoming increasingly vulnerable, and his party may look for replacements to secure the seat. If he resigns, the Democrats may struggle to maintain their foothold in a crucial race.",
+        "investor_impact": "This situation could create uncertainty in the political landscape of Maine, which may affect local businesses and state funding if the race shifts significantly. Investors in companies linked to state contracts or local infrastructure might want to keep an eye on developments here, as political changes often impact funding and investment opportunities.",
+        "key_terms": []
+      },
+      {
+        "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+        "summary": "Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings.",
+        "link": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+        "published": "Tue, 07 Jul 2026 18:00:01 GMT",
+        "source": "cnbc.com",
+        "id": "0b60d78f21",
+        "quick_take": "Meta launched its new AI image model, Muse Image, to attract more advertisers and content creators.",
+        "simplified_article": "Meta, the parent company of Facebook, introduced its first AI model for creating images called Muse Image. This move aims to draw in advertisers and creators who want to use AI technology for their content. Meta is competing in the growing market for AI-generated images, which is becoming popular among businesses. The introduction of this model may change how ads are made and what kind of content users see on social platforms. Advertisers and digital creators can use these AI tools to make more engaging visuals, potentially increasing their reach and effectiveness.",
+        "investor_impact": "This could impact tech companies focused on advertising and digital content creation, as having better image generation tools might attract more advertisers to platforms like Facebook and Instagram. If advertisers spend more on these platforms, it could lead to increased revenue for Meta, which might be positive for stocks in the tech sector.",
+        "key_terms": []
+      },
+      {
+        "title": "Mitch McConnell's health concerns grow amid 4th week in hospital with few details from aides",
+        "summary": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to the hospital on June 14.",
+        "link": "https://www.cnbc.com/2026/07/07/mitch-mcconnell-health-senate-gop.html",
+        "published": "Tue, 07 Jul 2026 19:57:01 GMT",
+        "source": "cnbc.com",
+        "id": "5ff72f93bf",
+        "quick_take": "Mitch McConnell, the former Senate leader, has been hospitalized for four weeks due to ongoing health issues, raising concerns about his future influence in politics.",
+        "simplified_article": "Mitch McConnell, who previously led the Senate, was admitted to the hospital on June 14 and has been there for four weeks now. The reasons for his hospitalization are not clear, and this uncertain situation casts a shadow on his political career. McConnell had already decided not to run for an eighth term due to various health scares. If his health continues to deteriorate, it could impact Republican leadership and strategies as they prepare for upcoming elections, affecting party members and campaign dynamics.",
+        "investor_impact": "Political uncertainty can lead to market fluctuations, particularly in sectors impacted by government policy decisions, such as healthcare and infrastructure. If McConnell's health continues to decline, it may lead to instability within the Republican party, potentially affecting investments in companies reliant on government contracts or legislation. Investors should be aware that changes in political leadership could influence market sentiment and specific industries aligned with McConnell's policy focus.",
+        "key_terms": []
+      },
+      {
+        "title": "DeSantis-backed 'Stop WOKE' law meets appeals court block, teeing up possible Supreme Court fight",
+        "summary": "A Trump-appointed judge ruled against Gov. Ron DeSantis' Stop WOKE Act, leaving Florida’s college speech limits blocked as a Supreme Court appeal looms.",
+        "link": "https://www.cnbc.com/2026/07/07/florida-stop-woke-act-desantis-professors-first-amendment-dei.html",
+        "published": "Tue, 07 Jul 2026 20:21:09 GMT",
+        "source": "cnbc.com",
+        "id": "4018e60a55",
+        "quick_take": "A judge blocked Florida’s 'Stop WOKE' law by DeSantis, which limits college speech, potentially leading to a Supreme Court showdown that could impact future laws.",
+        "simplified_article": "A judge appointed by Trump ruled against Florida's 'Stop WOKE' Act, which aimed to restrict discussions on race in colleges. This ruling keeps the law from being enforced while an appeal could take the case to the Supreme Court, the highest court in the U.S. The 'Stop WOKE' Act was controversial as it sought to limit free speech on sensitive topics. If the Supreme Court takes the case, the outcome could affect college students and faculty across Florida and possibly beyond, depending on whether similar laws arise in other states.",
+        "investor_impact": "This ruling could lead to uncertainty for educational institutions in Florida regarding funding and programming, as limiting free speech may affect student enrollment and state support. Companies that rely on a diverse and open academic environment, like those in the tech and public relations sectors, may feel the impact. An unfavorable Supreme Court ruling could also prompt similar legislation in other states, affecting a broader range of educational services.",
+        "key_terms": []
+      },
+      {
+        "title": "Supreme Court's Kagan, Barrett to testify to House for budget request, a first since 2019",
+        "summary": "Supreme Court justices last testified to Congress was 2019, when Elena Kagan and Samuel Alito discussed a budget request with a House subcommittee.",
+        "link": "https://www.cnbc.com/2026/07/07/supreme-court-kagan-barrett-house-appropriations-testify.html",
+        "published": "Tue, 07 Jul 2026 19:02:59 GMT",
+        "source": "cnbc.com",
+        "id": "09da430ceb",
+        "quick_take": "Supreme Court justices Elena Kagan and Amy Coney Barrett are set to testify to Congress for the first time since 2019 to discuss their budget request, highlighting the growing scrutiny of judicial spending.",
+        "simplified_article": "Elena Kagan and Amy Coney Barrett from the Supreme Court will testify before Congress regarding their budget needs. This is the first time since 2019 that justices have been called to discuss their funding. The testimony underscores the importance of transparency and accountability in government spending. Following this session, it's likely that public discussions will focus on how judicial budgets are allocated and managed, affecting the judiciary as a whole and those who work within it.",
+        "investor_impact": "This testimony could lead to increased public interest and scrutiny over government spending, which may influence budgets allocated to various sectors, including legal and public service. If changes in budget policy occur, they may also affect related sectors like public legal services and non-profit organizations that depend on government funding.",
+        "key_terms": []
+      },
+      {
+        "title": "Judge blocks DOJ subpoena for names of 2020 Fulton County, Georgia, election workers",
+        "summary": "President Donald Trump has focused on the ballot count in Fulton County, Georgia, to promote claims that he actually won the 2020 election",
+        "link": "https://www.cnbc.com/2026/07/07/doj-subpoena-fulton-county-georgia-election-trump.html",
+        "published": "Tue, 07 Jul 2026 20:31:21 GMT",
+        "source": "cnbc.com",
+        "id": "d7e47e4dc1",
+        "quick_take": "A judge blocked the DOJ from getting the names of election workers in Fulton County, Georgia, which is significant as President Trump continues to dispute the 2020 election results.",
+        "simplified_article": "A judge has prevented the Department of Justice (DOJ) from obtaining the names of election workers involved in the 2020 election in Fulton County, Georgia. This decision comes amid former President Donald Trump's claims that he actually won that election, focusing particular attention on the ballot count in Fulton County. This legal move protects the identities of the workers who helped manage the election process. Going forward, the DOJ will have to find other ways to investigate Trump's claims without revealing these names, impacting both the workers involved and the ongoing discourse around election integrity.",
+        "investor_impact": "This legal decision may not have a direct impact on financial markets, but it keeps the debate around election integrity alive, influencing sectors like cybersecurity and technology that focus on election security measures. Investors in companies involved in election infrastructure or technology may want to monitor developments closely as public sentiment on this issue could affect their businesses.",
+        "key_terms": []
+      },
+      {
+        "title": "As chip sector takes it on the chin, traders bet on a big Nvidia rally",
+        "summary": "Shares of Nvidia fought into the green despite a 5% sell-off in chip stocks tracked by the VanEck Semiconductor ETF (SMH).",
+        "link": "https://www.cnbc.com/2026/07/07/as-chip-sector-takes-it-on-the-chin-traders-bet-on-a-big-nvidia-rally-.html",
+        "published": "Tue, 07 Jul 2026 19:56:25 GMT",
+        "source": "cnbc.com",
+        "id": "c8b137766f",
+        "quick_take": "Despite a 5% drop in chip stocks, Nvidia's shares are rising, suggesting traders expect a rebound.",
+        "simplified_article": "Nvidia's stock value has started to increase even though chip stocks overall fell by 5%. This drop in chip stocks is likely due to concerns in the semiconductor industry, which affects many companies making computer chips. Nvidia, known for its graphics processing units used in gaming and AI, is seen as a strong player. If Nvidia continues to rise, it could influence the broader tech sector, benefiting other companies in technology and semiconductor spaces.",
+        "investor_impact": "If you own stocks in technology or semiconductor companies, you might see some movement based on Nvidia's performance. A rise in Nvidia could lead to increased interest in similar tech stocks. Traders focusing on tech investments may find this situation particularly relevant, as strong performance from a major player like Nvidia often boosts the entire sector.",
+        "key_terms": []
+      }
+    ],
+    "banking-economy": [
+      {
+        "title": "Cost of free alerts: RBI’s SMS order may dent banks’ income by Rs 300 crore",
+        "summary": "Banks have also been given the flexibility of dropping mandatory alerts for lowvalue transactions. However, top-draw private banks, such as HDFC Bank or ICICI Bank, are unlikely to reduce SMS alerts for such transactions to ensure their reputation for technology adoption and customer experience isn’t compromised.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/cost-of-free-alerts-rbis-sms-order-may-dent-banks-income-by-rs-300-crore/articleshow/132248433.cms",
+        "published": "Wed, 08 Jul 2026 01:07:55 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "aee5f7fa2d",
+        "quick_take": "RBI's SMS alert directive could cost banks like HDFC and ICICI around Rs 300 crore, affecting their income significantly.",
+        "simplified_article": "The Reserve Bank of India (RBI) has ordered banks to send SMS alerts for transactions, which may reduce their income by Rs 300 crore. While banks can stop alerts for small transactions, major private banks like HDFC and ICICI are likely to continue sending these alerts to maintain their customer service reputation. This decision is part of the RBI's efforts to enhance customer experience. Going forward, customers can expect to receive more notifications, but it may also put pressure on bank profits.",
+        "investor_impact": "This change could lead to increased operational costs for banks, potentially affecting their profitability in the long run. If banks incur higher expenses, they may respond by raising fees for services, which could impact everyday consumers. Customers relying on banking services, especially those using top private banks, might feel the effects through higher charges or fees.",
+        "key_terms": []
+      },
+      {
+        "title": "Irdai asks state-run insurers to account for wage costs annually",
+        "summary": "Irdai has implemented a new requirement for state insurers to create annual provisions for wage increases, intending to soften the financial repercussions of periodic wage negotiations. Insurers are now obliged to evaluate the sufficiency of these provisions quarterly after obligations become clear. The government has ruled out options for additional capital, instead banking on solvency improvements from IFRS 17 and stakes in the NSE.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/irdai-asks-state-run-insurers-to-account-for-wage-costs-annually/articleshow/132247305.cms",
+        "published": "Wed, 08 Jul 2026 00:44:47 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "f9b3f2ee91",
+        "quick_take": "Irdai is now requiring state-run insurers to set aside money annually for wage increases to manage financial impacts better during negotiations.",
+        "simplified_article": "The Insurance Regulatory and Development Authority of India (Irdai) has introduced a rule for state-run insurance companies. They must create a yearly fund to prepare for wage hikes, making it easier to handle the financial effects when wages are negotiated. This is important because it can help these companies stay financially stable. Moving forward, insurers will have to check every three months whether their funds are enough as wage responsibilities become clearer. This change affects the insurance industry and its employees, ensuring that workers are paid fairly without putting too much strain on company finances.",
+        "investor_impact": "This new requirement could lead to increased costs for state-run insurers, which may affect their profitability in the long run. If insurers face higher wage expenses, they might pass these costs onto policyholders through higher premiums. This will impact anyone purchasing insurance from these state-run companies.",
+        "key_terms": []
+      },
+      {
+        "title": "ARC consolidation: Govt weighs ASREC merger with NARCL",
+        "summary": "The government is considering a merger of ASREC Asset Reconstruction Company with NARCL to enhance the functionality of state-sponsored bad-loan resolution efforts. This proposal, still in preliminary discussions, underscores a strategic effort for consolidation rather than growth. ASREC ARC is majorly held by public sector lenders and LIC, aiming for better management and scrutiny of bad loans.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/arc-consolidation-govt-weighs-asrec-merger-with-narcl/articleshow/132247081.cms",
+        "published": "Wed, 08 Jul 2026 00:39:14 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "cc32b179d0",
+        "quick_take": "The Indian government is considering merging ASREC with NARCL to tackle bad loans more effectively, which is important for improving the banking sector's health.",
+        "simplified_article": "The government is exploring a merger between ASREC Asset Reconstruction Company and NARCL to streamline efforts to manage bad loans. This move is aimed at improving the oversight of bad loans held by public sector lenders and LIC. ASREC focuses on managing and recovering non-performing assets (loans that borrowers aren’t paying back). If the merger goes ahead, it could lead to better management of these problem loans, which would impact how banks handle debt recovery and could ultimately influence interest rates.",
+        "investor_impact": "If this merger is successful, banks may become more effective in recovering money from bad loans, which could stabilize the financial sector. This is particularly relevant for public sector banks and LIC, as their loan management practices might improve, potentially leading to a more stable investment environment in the banking sector.",
+        "key_terms": []
+      },
+      {
+        "title": "Include infra loans in priority sector in absence of vibrant bond market: SBI economists",
+        "summary": "Economists propose reviewing priority sector lending guidelines for banks. They note banks struggle to meet targets without certificate purchases. Infrastructure loans should gain priority sector status for national development. Housing and education loan limits also need upward revision. Renewable energy project loan limits should be significantly increased.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/include-infra-loans-in-priority-sector-in-absence-of-vibrant-bond-market-sbi-economists/articleshow/132243984.cms",
+        "published": "Tue, 07 Jul 2026 22:55:48 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "17dc748223",
+        "quick_take": "SBI economists want infrastructure loans to be included in priority sector lending so banks can better support national growth without relying on costly certificates.",
+        "simplified_article": "Economists from State Bank of India (SBI) are suggesting changes to the rules that dictate how banks lend money to certain important sectors. They believe that including infrastructure loans in what’s called 'priority sector lending' will help banks meet their goals more easily. Currently, banks are struggling because they need to buy certificates to hit these targets. Moreover, limits on housing and education loans should also be raised, and loan limits for renewable energy projects need a big boost. This change could help improve funding for vital projects across the country.",
+        "investor_impact": "Including infrastructure loans in priority sector lending could lead to more funding for construction and energy projects, positively impacting those sectors. If banks can lend more freely without needing to buy certificates, it might encourage investments in housing and education as well, potentially making loans for these areas a bit easier to access. Homebuyers and education seekers may see benefits, but it could also mean increased demand in real estate market, affecting prices.",
+        "key_terms": []
+      },
+      {
+        "title": "RBI approves re-appointment of NS Vishwanathan as Axis Bank's non-executive chairman",
+        "summary": "The Reserve Bank of India has approved NS Vishwanathan's reappointment as Axis Bank's non-executive chairman. His new three-year term will commence from October 27, 2026, and conclude on October 26, 2029. This extension is contingent upon his reappointment as an independent director for the bank. Vishwanathan, a former deputy governor, has been serving as part-time chairman since October 2023.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-re-appointment-of-ns-vishwanathan-as-axis-banks-non-executive-chairman/articleshow/132243719.cms",
+        "published": "Tue, 07 Jul 2026 22:21:40 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "2664a7dab5",
+        "quick_take": "RBI has confirmed NS Vishwanathan's reappointment as Axis Bank's non-executive chairman for three years starting October 27, 2026, ensuring stability in the bank's leadership.",
+        "simplified_article": "The Reserve Bank of India (RBI) has approved the reappointment of NS Vishwanathan as the non-executive chairman of Axis Bank. This decision means Vishwanathan will continue in this role until October 26, 2029, provided he is also reappointed as an independent director for the bank. He has been part-time chairman since October 2023 and was previously a deputy governor of the RBI. This reappointment aims to maintain experienced leadership at a crucial time for the bank. Stakeholders like investors and employees will benefit from continued oversight and direction under Vishwanathan's leadership.",
+        "investor_impact": "This reappointment signals a commitment to stability at Axis Bank, which could positively affect investor confidence. If you hold shares in Axis Bank or are considering investment in the banking sector, this continuity in leadership might make the bank a more attractive option for long-term growth.",
+        "key_terms": []
+      },
+      {
+        "title": "NBFC credit driven by retail loans, RBI data shows",
+        "summary": "Non-banking finance companies saw fourteen percent loan growth in May. Retail loans increased twenty percent, and agriculture loans rose eighteen percent. Loans against gold jewellery grew seventy percent, while consumer durable loans expanded forty-two percent. Vehicle loans grew fifteen percent, and services sector credit grew seventeen percent. Overall NBFC credit growth lagged behind banks' seventeen percent expansion.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfc-credit-driven-by-retail-loans-rbi-data-shows/articleshow/132241511.cms",
+        "published": "Tue, 07 Jul 2026 19:39:44 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "75fb8ad7a6",
+        "quick_take": "Non-banking finance companies (NBFCs) saw a 14% growth in loans in May due to increased demand for retail and agriculture loans.",
+        "simplified_article": "In May, non-banking finance companies experienced a 14% increase in loans. This growth was mainly fueled by a 20% rise in retail loans and an 18% increase in agriculture loans. Retail loans include personal loans for things like shopping and home improvement. Despite this growth, NBFCs lagged behind banks, which grew 17% overall in lending. The surge in loans could mean more borrowing options for consumers but also indicates a competitive market among lenders.",
+        "investor_impact": "If you're looking to take out a personal loan or buy durable goods like electronics, NBFCs may offer attractive deals due to their expanding loan portfolios. However, with the overall growth lagging behind banks, some borrowers might find better rates or terms through traditional banks. This shift could also impact how banks and NBFCs adjust their lending strategies in the future.",
+        "key_terms": []
+      },
+      {
+        "title": "NBFCs' gold loans jump nearly 70 pc in May, fastest across segments: RBI data",
+        "summary": "Outstanding loans against gold jewellery stood at Rs 3.29 lakh crore at the end of May 2026, up 69.9 per cent from Rs 1.94 lakh crore a year earlier.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-gold-loans-jump-nearly-70-pc-in-may-fastest-across-segments-rbi-data/articleshow/132240830.cms",
+        "published": "Tue, 07 Jul 2026 18:38:48 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "37d65faddc",
+        "quick_take": "Gold loans by non-banking financial companies surged nearly 70% to Rs 3.29 lakh crore in May 2026, reflecting increased demand for quick access to cash.",
+        "simplified_article": "Non-banking financial companies (NBFCs) have reported a significant rise in gold loans, reaching Rs 3.29 lakh crore by the end of May 2026, which is a 69.9% increase from Rs 1.94 lakh crore a year ago. This surge is primarily due to individuals turning to gold as a reliable way to secure loans amid economic uncertainties. Gold loans are popular because they allow people to borrow money by putting up their gold jewelry as collateral (an item pledged to the lender until the debt is paid). Moving forward, this trend could indicate a growing reliance on gold as a financial backup, affecting individuals who might consider loans against their gold assets.",
+        "investor_impact": "If you're thinking about taking out a loan against your gold, this spike means you could expect higher valuations for your gold jewelry. Additionally, increased demand for gold loans suggests that people may be more financially pressed, which can impact overall spending in sectors like retail and services. These trends could also influence gold prices, which might rise as demand increases.",
+        "key_terms": []
+      },
+      {
+        "title": "IDFC First Bank launches EPFO payment services",
+        "summary": "IDFC First Bank has launched provident fund payment services through its EPFO integration. This integration allows establishments to initiate PF payments directly via the EPFO portal. Transactions can then be completed using IDFC FIRST Bank's digital banking platforms. Customers can now make provident fund payments quickly and securely. The bank served 38 million customers as of March 31, 2026.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idfc-first-bank-launches-epfo-payment-services/articleshow/132237777.cms",
+        "published": "Tue, 07 Jul 2026 16:34:19 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "f133c9d29d",
+        "quick_take": "IDFC First Bank launched EPFO payment services, allowing quicker and secure provident fund transactions for its 38 million customers.",
+        "simplified_article": "IDFC First Bank has introduced a new service that lets businesses make payments for their employees' provident funds (money saved for their retirement) directly through the EPFO (Employees' Provident Fund Organization) portal. This move is aimed at simplifying the payment process and making it more secure. The bank has seen a big customer base, serving 38 million customers by March 31, 2026. With this service, companies can handle their provident fund payments faster, benefiting both employers and employees who rely on these funds for their future financial security.",
+        "investor_impact": "This service could enhance the efficiency of businesses managing their employee benefits, potentially attracting more companies to use IDFC First Bank for their banking needs. Improved integration for provident fund payments might also lead to increased customer loyalty and growth for the bank, which is good news for current and prospective investors in IDFC First Bank.",
+        "key_terms": [
+          {
+            "term": "EPFO",
+            "meaning": "The Employees' Provident Fund Organization (EPFO) is a government agency that manages employee savings for their retirement."
+          },
+          {
+            "term": "provident fund",
+            "meaning": "A provident fund is a savings scheme that helps employees save money for retirement by contributing a portion of their salary."
+          }
+        ]
+      }
+    ],
+    "sectors": [
+      {
+        "title": "US cyber agency is using Anthropic's Mythos to audit government code, sources say",
+        "summary": "The Cybersecurity and Infrastructure Security Agency is using Mythos to scan government code repositories for bugs that could leave the door ​open for foreign spies and cybercriminals, the sources said.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/us-cyber-agency-is-using-anthropics-mythos-to-audit-government-code-sources-say/articleshow/132246170.cms",
+        "published": "Wed, 08 Jul 2026 00:06:54 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "832c6cbc35",
+        "quick_take": "US cyber agency is using Anthropic's Mythos to audit government code, sources say",
+        "simplified_article": "The Cybersecurity and Infrastructure Security Agency is using Mythos to scan government code repositories for bugs that could leave the door ​open for foreign spies and cybercriminals, the sources said.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Meta expands generative AI tools with Muse Image rollout",
+        "summary": "The company said Muse Image, which is integrated ‌into its ⁠Meta ⁠AI chatbot, can interpret complex prompts, use photos as inputs ​and let users edit generated images directly through sketches or ​annotations.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-expands-generative-ai-tools-with-muse-image-rollout/articleshow/132246143.cms",
+        "published": "Wed, 08 Jul 2026 00:05:24 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "ccb91251ad",
+        "quick_take": "Meta launched Muse Image, a new tool in its AI chatbot that allows users to create and edit images easily, making it important for anyone interested in tech and digital creativity.",
+        "simplified_article": "Meta, the company behind Facebook, has introduced a new feature called Muse Image in its AI chatbot. This tool can understand complex requests and allows users to use photos and make edits by sketching or adding notes. This innovation aims to enhance user experience and creativity in image generation. Going forward, this could influence artists, marketers, and anyone who uses visuals for online content, as they now have more powerful tools at their disposal.",
+        "investor_impact": "Investors in tech and digital creativity sectors might see increased interest as tools like Muse Image could boost productivity and engagement online. Companies that focus on marketing and content creation may benefit from using such advanced features to attract more users. This innovation could also spark growth in the AI development industry, affecting stock prices of related companies.",
+        "key_terms": []
+      },
+      {
+        "title": "AI startup CEO pleaded guilty in US to trading on insider tips from lawyers",
+        "summary": "An AI startup founder secretly pleaded guilty last year to insider trading. Arya Bolurfrushan participated in a scheme involving law firm attorneys tipping traders. He agreed to a plea deal recommending two years in prison and forfeiture. Bolurfrushan traded on confidential merger information, earning significant profits. Nine other defendants also pleaded guilty before indictments were announced.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-ceo-pleaded-guilty-in-us-to-trading-on-insider-tips-from-lawyers/articleshow/132243547.cms",
+        "published": "Tue, 07 Jul 2026 22:15:42 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "1c9efa596d",
+        "quick_take": "AI startup CEO pleaded guilty in US to trading on insider tips from lawyers",
+        "simplified_article": "An AI startup founder secretly pleaded guilty last year to insider trading. Arya Bolurfrushan participated in a scheme involving law firm attorneys tipping traders. He agreed to a plea deal recommending two years in prison and forfeiture. Bolurfrushan traded on confidential merger information, earning significant profits. Nine other defendants also pleaded guilty before indictments were announced.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Meta removed 4 million accounts, 36 million posts over child exploitation",
+        "summary": "Addressing the controversy directly for the first time, Meta said it had already begun taking action before the issue was flagged publicly.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meta-removed-4-million-accounts-36-million-posts-over-child-exploitation/articleshow/132243257.cms",
+        "published": "Tue, 07 Jul 2026 21:55:02 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "37fad63da2",
+        "quick_take": "Meta removed 4 million accounts, 36 million posts over child exploitation",
+        "simplified_article": "Addressing the controversy directly for the first time, Meta said it had already begun taking action before the issue was flagged publicly.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Ukraine to pick AI models operated without provider control, official says",
+        "summary": "Ukraine will favor AI systems run on its own servers for government services. This approach seeks to avoid dependence on remote systems that providers can restrict. The policy was reinforced after the US government ordered Anthropic to cut access. Ukraine is developing its own model with Kyivstar based on Google's Gemma. This model will be intended for use across government, business, and military.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ukraine-to-pick-ai-models-operated-without-provider-control-official-says/articleshow/132242843.cms",
+        "published": "Tue, 07 Jul 2026 21:39:51 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "93832ef52d",
+        "quick_take": "Ukraine to pick AI models operated without provider control, official says",
+        "simplified_article": "Ukraine will favor AI systems run on its own servers for government services. This approach seeks to avoid dependence on remote systems that providers can restrict. The policy was reinforced after the US government ordered Anthropic to cut access. Ukraine is developing its own model with Kyivstar based on Google's Gemma. This model will be intended for use across government, business, and military.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Retailer body seeks government action over Amazon, Flipkart's quick commerce push",
+        "summary": "The All India Consumer Products Distributors Federation (AICPDF) said foreign-backed marketplace platforms must operate strictly within Indian law, regardless of size or capital strength, and should not be allowed to undermine the country's traditional retail and distribution networks.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/retailer-body-seeks-government-action-over-amazon-flipkarts-quick-commerce-push/articleshow/132242792.cms",
+        "published": "Tue, 07 Jul 2026 21:20:06 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "c6f900a992",
+        "quick_take": "Retailer body seeks government action over Amazon, Flipkart's quick commerce push",
+        "simplified_article": "The All India Consumer Products Distributors Federation (AICPDF) said foreign-backed marketplace platforms must operate strictly within Indian law, regardless of size or capital strength, and should not be allowed to undermine the country's traditional retail and distribution networks.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding",
+        "summary": "Norm Ai secured $120 million in a Series C funding round. This investment values the legal AI startup at $1.2 billion. The company has now raised over $260 million since its founding. Norm Ai plans to use the funds for hiring and expansion. Businesses increasingly adopt AI for legal and compliance work.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-ai-startup-norm-ai-hits-1-2-billion-valuation-after-120-million-funding/articleshow/132242539.cms",
+        "published": "Tue, 07 Jul 2026 20:56:51 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "e906a70735",
+        "quick_take": "Legal AI startup Norm Ai hits $1.2 billion valuation after $120 million funding",
+        "simplified_article": "Norm Ai secured $120 million in a Series C funding round. This investment values the legal AI startup at $1.2 billion. The company has now raised over $260 million since its founding. Norm Ai plans to use the funds for hiring and expansion. Businesses increasingly adopt AI for legal and compliance work.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "AI-driven governance essential for detecting fraud, managing high financial data volatility: Experts",
+        "summary": "Industry leaders and financial experts highlighted the necessity of integrating Artificial Intelligence (AI) into financial reporting and corporate auditing while maintaining rigorous human oversight to safeguard against rising fraud risks.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-driven-governance-essential-for-detecting-fraud-managing-high-financial-data-volatility-experts/articleshow/132241569.cms",
+        "published": "Tue, 07 Jul 2026 19:43:46 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "abe5a8ede6",
+        "quick_take": "AI-driven governance essential for detecting fraud, managing high financial data volatility: Experts",
+        "simplified_article": "Industry leaders and financial experts highlighted the necessity of integrating Artificial Intelligence (AI) into financial reporting and corporate auditing while maintaining rigorous human oversight to safeguard against rising fraud risks.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Swiggy’s Indian control push; Cultfit’s big IPO swing",
+        "summary": "Swiggy has inched closer to qualifying as an Indian-owned and controlled company. This and more in today's ETtech Top 5.",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/cultfits-big-ipo-swing-swiggys-indian-control-push/articleshow/132241174.cms",
+        "published": "Tue, 07 Jul 2026 19:26:40 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "c795d36517",
+        "quick_take": "Swiggy’s Indian control push; Cultfit’s big IPO swing",
+        "simplified_article": "Swiggy has inched closer to qualifying as an Indian-owned and controlled company. This and more in today's ETtech Top 5.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Koo cofounder Mayank Bidawatka shuts down new venture PicSee",
+        "summary": "PicSee aimed to simplify photo sharing by using AI and facial recognition to identify friends in users' galleries and automatically exchange photos after mutual consent. However, Bidawatka said the product failed to overcome a key challenge — while it succeeded in attracting initial users, it struggled to convince their friends and family to join the platform, and did not gains the network effects required for growth.",
+        "link": "https://economictimes.indiatimes.com/tech/startups/koo-cofounder-mayank-bidawatka-shuts-down-new-venture-picsee/articleshow/132240807.cms",
+        "published": "Tue, 07 Jul 2026 18:36:23 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "0f50cbf75b",
+        "quick_take": "Koo cofounder Mayank Bidawatka has shut down PicSee, a photo-sharing app that failed to grow because users couldn't get their friends and family on board.",
+        "simplified_article": "Mayank Bidawatka, who helped create Koo, has ended his new app called PicSee, which was designed to make sharing photos easier using AI. The app attracted some initial users but couldn't convince their friends and family to join, which kept it from growing. The idea was to automatically exchange photos between friends, but the lack of broader participation was a major setback. Without enough users, the app couldn’t provide the necessary network to succeed. This closure affects anyone who was hoping to use PicSee for sharing and storing photos.",
+        "investor_impact": "This situation highlights the challenges in the tech startup space, especially for apps focused on social interactions. Investors in similar tech ventures might reconsider backing new projects unless they have a strong plan for user engagement and growth. The failure of PicSee could lead to more skepticism around investment in photo-sharing technologies.",
+        "key_terms": []
+      }
+    ],
+    "crypto": [
+      {
+        "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
+        "summary": "The decline fits into a pattern of recently-public digital asset companies sliding after debut, Arca's Jeff Dorman said.",
+        "link": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
+        "published": "Tue, 07 Jul 2026 19:35:14 +0000",
+        "source": "coindesk.com",
+        "id": "abb58ba4e6",
+        "quick_take": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
+        "simplified_article": "The decline fits into a pattern of recently-public digital asset companies sliding after debut, Arca's Jeff Dorman said.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Crypto exchange Kraken is trying to become a bank in Europe",
+        "summary": "Kraken's focus is on Lithuania as the jurisdiction to secure the license, according to a person familiar with the plans.",
+        "link": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+        "published": "Tue, 07 Jul 2026 18:38:10 +0000",
+        "source": "coindesk.com",
+        "id": "e55750303e",
+        "quick_take": "Crypto exchange Kraken is trying to become a bank in Europe",
+        "simplified_article": "Kraken's focus is on Lithuania as the jurisdiction to secure the license, according to a person familiar with the plans.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
+        "summary": "SpaceX tokens captured $1.19 billion, or 31% of total monthly volume, with Backpack’s SPCX leading trading at $1.08 billion.",
+        "link": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
+        "published": "Tue, 07 Jul 2026 16:18:18 +0000",
+        "source": "coindesk.com",
+        "id": "7b92ccdbff",
+        "quick_take": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
+        "simplified_article": "SpaceX tokens captured $1.19 billion, or 31% of total monthly volume, with Backpack’s SPCX leading trading at $1.08 billion.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
+        "summary": "A newly updated agenda from the securities regulator shows so-called Reg Crypto high on its near-term list.",
+        "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
+        "published": "Tue, 07 Jul 2026 16:08:19 +0000",
+        "source": "coindesk.com",
+        "id": "2b8cfd7e8b",
+        "quick_take": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
+        "simplified_article": "A newly updated agenda from the securities regulator shows so-called Reg Crypto high on its near-term list.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Analysts see more upside for SpaceX as post-IPO research begins",
+        "summary": "Major brokerages initiated coverage on Tuesday with mostly buy ratings following the company's $75 billion June IPO.",
+        "link": "https://www.coindesk.com/markets/2026/07/07/analysts-see-more-upside-for-spacex-as-post-ipo-research-begins",
+        "published": "Tue, 07 Jul 2026 14:39:24 +0000",
+        "source": "coindesk.com",
+        "id": "a3e8770ff8",
+        "quick_take": "Analysts see more upside for SpaceX as post-IPO research begins",
+        "simplified_article": "Major brokerages initiated coverage on Tuesday with mostly buy ratings following the company's $75 billion June IPO.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
+        "summary": "The new role would oversee tokenization, stablecoins and blockchain initiatives as Vanguard reassesses digital assets.",
+        "link": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
+        "published": "Tue, 07 Jul 2026 14:28:37 +0000",
+        "source": "coindesk.com",
+        "id": "9f1c4fa2f0",
+        "quick_take": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
+        "simplified_article": "The new role would oversee tokenization, stablecoins and blockchain initiatives as Vanguard reassesses digital assets.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      }
+    ]
+  },
+  "market_data": {
+    "nifty": null,
+    "sensex": null,
+    "usdinr": null,
+    "btcusd": null
+  },
+  "day_summary": ""
+}

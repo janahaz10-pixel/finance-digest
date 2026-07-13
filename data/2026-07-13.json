@@ -1,220 +1,249 @@
 {
   "date": "2026-07-13",
   "date_label": "Monday, 13 July 2026",
-  "generated_at": "2026-07-13T17:53:00.455091+05:30",
+  "generated_at": "2026-07-13T21:59:42.895426+05:30",
   "articles": {
     "india-macro": [
       {
-        "title": "India, US have framework trade deal ready; signing awaits right time: Official",
-        "summary": "India and the United States are progressing well on a trade agreement framework. This framework deal is ready and will be signed at the appropriate time. India seeks a comparative advantage on tariffs compared to competitor nations. Both sides are fully engaged in achieving a balanced and meaningful trade pact. Discussions also cover US investigations into forced labor and excess capacity concerns.",
-        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-have-framework-trade-deal-ready-signing-awaits-right-time-official/articleshow/132366072.cms",
-        "published": "Mon, 13 Jul 2026 17:21:45 +0530",
+        "title": "RBI deputy guv asks financial entities' ombudsmen to provide effective complaint resolution",
+        "summary": "Reserve Bank Deputy Governor Swaminathan J urged internal ombudsmen to ensure fair complaint resolutions. He asked them to identify recurring issues and implement remedial measures effectively. An empowered internal ombudsman mechanism reduces external escalations significantly. The conference focused on faster, higher-quality resolutions and systemic improvements. Participants exchanged views on enhancing the internal ombudsman framework's effectiveness.",
+        "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-deputy-guv-asks-financial-entities-ombudsmen-to-provide-effective-complaint-resolution/articleshow/132370631.cms",
+        "published": "Mon, 13 Jul 2026 21:12:55 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "258a4ae6db",
-        "quick_take": "India and the US are finalizing a trade deal framework, which is important for Indian businesses to secure better tariffs against competitors.",
-        "simplified_article": "India and the United States are close to finalizing a trade agreement framework that is ready to be signed. This deal is sought after to give India a competitive edge on tariffs, which are taxes on imports and exports. Discussions include topics like forced labor and concerns about production capacity. Next, both countries will look to ensure the agreement benefits them fairly, impacting businesses in industries like manufacturing and technology. If signed, this deal could affect the prices of goods and overall trade between the two nations.",
-        "investor_impact": "If the trade agreement goes through, it could lower costs for Indian manufacturers, making their products more competitive. Sectors like textiles and IT may especially benefit as they gain access to better tariff conditions. This might lead to increased exports from India to the US, positively affecting company revenues in these sectors.",
+        "id": "937ec38d85",
+        "quick_take": "RBI's Deputy Governor Swaminathan J emphasized the need for financial entities' ombudsmen to resolve complaints fairly, which is crucial for improving customer trust.",
+        "simplified_article": "RBI Deputy Governor Swaminathan J called on financial entities to improve how they handle customer complaints. He wants internal ombudsmen, who help resolve issues without needing to go outside, to be more effective by identifying and fixing common problems. The event aimed to speed up and enhance the quality of complaint resolutions. If these improvements succeed, customers will likely face fewer issues with their financial services.",
+        "investor_impact": "If complaints are resolved more efficiently, customers might feel more secure in using banks and financial products, which could lead to increased business for those firms. This may especially benefit customer service-oriented sectors like banking and insurance, as better complaint handling can enhance overall satisfaction and retention.",
+        "key_terms": []
+      },
+      {
+        "title": "Procedure for TRQs allocation under India-Oman trade pact notified",
+        "summary": "India has notified procedures for tariff concessions under its free trade agreement with Oman. This agreement, which came into effect on June 1, offers reduced import duties on specific Omani goods. Items like dates and marble will benefit from these quota-based tariff reductions. The Directorate General of Foreign Trade issued the public notice regarding these tariff rate quotas.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/procedure-for-trqs-allocation-under-india-oman-trade-pact-notified/articleshow/132370576.cms",
+        "published": "Mon, 13 Jul 2026 21:10:30 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "6a634abf4e",
+        "quick_take": "India has set up rules for reduced import taxes on Omani goods like dates and marble under a new trade agreement, which means lower prices for consumers and businesses dealing with these products.",
+        "simplified_article": "India has announced the procedures for granting lower import duties on certain goods from Oman, effective from June 1. This decision allows for cheaper imports of items like dates and marble. The trade agreement aims to boost trade between India and Oman by creating tariff concessions, which are discounts on import taxes. Next, this will help Indian businesses save money on these specific goods, benefiting consumers who might pay less for imported dates and marble items.",
+        "investor_impact": "If you're in the import business or consume Omani products like dates and marble, you might see prices drop, giving you a better deal. This could also encourage more trade activities between India and Oman, possibly increasing business opportunities in those sectors.",
         "key_terms": [
           {
-            "term": "tariffs",
-            "meaning": "Tariffs are taxes on goods imported or exported between countries, and lower tariffs can make a country's products cheaper and more competitive in foreign markets."
+            "term": "tariff concessions",
+            "meaning": "These are reductions in import taxes that make imported goods cheaper."
+          },
+          {
+            "term": "tariff rate quotas",
+            "meaning": "These are specific limits on the amount of goods that can be imported at reduced taxes to manage trade."
           }
         ]
       },
       {
-        "title": "Rajnath Singh, Nitin Gadkari inaugurate Lucknow-Kanpur Expressway in UP",
-        "summary": "Union ministers and Uttar Pradesh Chief Minister inaugurated the Lucknow-Kanpur Expressway. This new six-lane access-controlled highway cost Rs 4,200 crore to build. The project is expected to cut travel time between the two cities to just 40 minutes. It features an Intelligent Traffic Management System for enhanced safety and efficiency. The expressway will boost regional development and create new employment opportunities.",
-        "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/rajnath-singh-nitin-gadkari-inaugurate-lucknow-kanpur-expressway-in-up/articleshow/132365100.cms",
-        "published": "Mon, 13 Jul 2026 16:36:23 +0530",
+        "title": "21% YoY rise in engineering exports in June shows sector's resilience amid global challenges: EEPC India Chairman Pankaj Chadha",
+        "summary": "Engineering exports rose nearly twenty-one percent year-on-year in June. This growth reached eleven point four eight billion dollars, reflecting sector resilience. Cumulative exports for the first quarter also showed an eighteen percent increase. Free trade agreements and market diversification contributed to this strong performance.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/21-yoy-rise-in-engineering-exports-in-june-shows-sectors-resilience-amid-global-challenges-eepc-india-chairman-pankaj-chadha/articleshow/132369968.cms",
+        "published": "Mon, 13 Jul 2026 20:39:51 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "2fbd4627ab",
-        "quick_take": "The Lucknow-Kanpur Expressway, costing Rs 4,200 crore, is set to cut travel time to 40 minutes and boost local jobs.",
-        "simplified_article": "Union ministers and the Chief Minister of Uttar Pradesh opened the new Lucknow-Kanpur Expressway, a six-lane highway that cost Rs 4,200 crore to build. This expressway will significantly reduce the travel time between the two cities to just 40 minutes. The project includes an Intelligent Traffic Management System, which enhances safety and traffic flow. Going forward, the expressway is expected to stimulate local economic growth and create new jobs in the area.",
-        "investor_impact": "Construction and infrastructure companies could see increased demand for projects like this, potentially boosting their stock prices. Additionally, local businesses along the route might benefit from increased traffic and customers, positively impacting their revenues. Regions near the expressway may also experience surges in real estate development due to improved access.",
+        "id": "cf747bfebe",
+        "quick_take": "Engineering exports jumped 21% year-on-year to $11.48 billion in June, showing the sector's strong performance despite global challenges.",
+        "simplified_article": "In June, engineering exports from India increased by 21% compared to last year, reaching a total of $11.48 billion. This growth is attributed to free trade agreements (deals that reduce tariffs between countries) and expanding into new markets. Overall, exports for the first quarter also saw an 18% rise, highlighting the sustained demand for Indian engineering goods. Looking ahead, this trend could benefit Indian manufacturers and exporters, making their products more competitive globally.",
+        "investor_impact": "This strong growth in engineering exports could benefit companies involved in manufacturing and exporting goods, leading to potentially higher stock prices for those firms. Investors in sectors related to engineering and manufacturing should keep an eye on these developments as they might indicate increasing opportunities and profits.",
         "key_terms": []
       },
       {
-        "title": "India's June retail inflation quickens to 4.38%, crosses RBI's 4% target after 17 months",
-        "summary": "India's retail inflation reached 4.38 percent in June, exceeding the central bank's target. Elevated food and fuel prices contributed to this significant acceleration in price pressures. The Reserve Bank of India maintained its benchmark repo rate at 5.25 percent during its review. Policymakers are balancing inflation risks with the need to support economic growth. Concerns remain about global energy prices and an erratic monsoon season.",
-        "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-retail-inflation-quickens-4-38-in-june-breaches-rbi-medium-term-target-after-17-months/articleshow/132363382.cms",
-        "published": "Mon, 13 Jul 2026 16:05:38 +0530",
+        "title": "Small biz outstanding grows 13% in FY26, asset quality improves: Report",
+        "summary": "Small business credit exposure grew by 13.4 percent to Rs 49.2 lakh crore by March 2026. Asset quality improved, with overdue balances now at four percent. Sole proprietorship concerns led this significant portfolio expansion. State-run banks showed accelerated enterprise term loan portfolio growth. Manufacturing sector received thirty-one percent of these small business loans.",
+        "link": "https://economictimes.indiatimes.com/news/economy/indicators/small-biz-outstanding-grows-13-in-fy26-asset-quality-improves-report/articleshow/132369868.cms",
+        "published": "Mon, 13 Jul 2026 20:27:56 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "78fca4e3a0",
-        "quick_take": "India's retail inflation rose to 4.38% in June, crossing the Reserve Bank of India's 4% target due to rising food and fuel prices.",
-        "simplified_article": "In June, India's retail inflation hit 4.38%, which is above the Reserve Bank of India's (RBI) comfort level of 4%. This increase is mainly because of higher prices for food and fuel. For the past 17 months, inflation had been below this target. Moving forward, the RBI is keeping interest rates steady at 5.25% as they try to balance fighting inflation with supporting economic growth. The situation could affect everyday costs for consumers and influence future financial decisions.",
-        "investor_impact": "With inflation above target, it may lead to higher interest costs for borrowing, meaning home loans and personal loans could become more expensive. If price pressures continue, industries like consumer goods and retail could feel the pinch, leading to increased prices for everyday products.",
-        "key_terms": []
-      },
-      {
-        "title": "'False, baseless': Piyush Goyal pushes back on India-US trade deal claims",
-        "summary": "Commerce Minister Piyush Goyal has dismissed reports that India rejected a quick trade deal with the US as \"completely false, baseless and misleading.\" He said both countries remain committed to a balanced bilateral agreement, while Trade Secretary Rajesh Agarwal said negotiations are progressing well and India sees no challenges in the talks.",
-        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/false-baseless-piyush-goyal-pushes-back-on-india-us-trade-deal-claims/articleshow/132362925.cms",
-        "published": "Mon, 13 Jul 2026 15:23:33 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "4e6dffcaf2",
-        "quick_take": "India's Commerce Minister Piyush Goyal rejected claims of a halted trade deal with the US, stating negotiations are still on track.",
-        "simplified_article": "Commerce Minister Piyush Goyal responded to reports claiming that India had turned down a fast trade deal with the US, calling them 'false and misleading.' He emphasized that both countries are committed to reaching a fair agreement. This situation arises as both nations aim to strengthen their economic relationship. Moving forward, successful negotiations could benefit various sectors by enhancing trade and investment opportunities between India and the US.",
-        "investor_impact": "This development could positively affect sectors like manufacturing and technology, as improved trade relations might lead to more exports and business collaborations. Companies engaged in exporting goods to the US or those that rely on US markets could see increased growth opportunities.",
-        "key_terms": []
-      },
-      {
-        "title": "India's June trade deficit jumps 59% YoY to $30.43 bn",
-        "summary": "India's merchandise trade deficit widened to $30.43 billion in June from $28.21 billion in May, even as goods exports rose 15.5% year-on-year to $40.41 billion. In the April-June quarter, overall goods exports increased about 15%, supported by higher petroleum shipments and a recovery in exports to Gulf countries.",
-        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-trade-deficit-widens-to-30-43-bn-in-june-as-against-28-21-bn-in-may/articleshow/132358512.cms",
-        "published": "Mon, 13 Jul 2026 14:52:12 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "30bc9a51a9",
-        "quick_take": "India's trade deficit surged 59% to $30.43 billion in June, signaling rising import costs despite a boost in exports.",
-        "simplified_article": "In June, India experienced a trade deficit of $30.43 billion, which is a significant increase from the previous month. This rise occurred even though exports of goods grew by 15.5% to reach $40.41 billion. The increase in exports was helped by higher shipments of petroleum and a recovery in trade with Gulf countries. Going forward, the widening trade deficit may affect the Indian economy's stability and could influence the exchange rate of the rupee, impacting everyday consumers and businesses that rely on imports.",
-        "investor_impact": "The sharp increase in the trade deficit might lead to downward pressure on the rupee, which can make imports more expensive. This could result in higher costs for consumers, especially in sectors like fuel and electronics, which rely heavily on imported goods. Businesses that export, especially those in petroleum and goods trade, might benefit from the increasing demand abroad.",
+        "id": "9fa756e042",
+        "quick_take": "Small business loans surged by 13.4% to Rs 49.2 lakh crore by March 2026, indicating growing confidence in this sector amid improved loan quality.",
+        "simplified_article": "Small businesses in India saw their loans increase by 13.4% to Rs 49.2 lakh crore (that's 49.2 trillion rupees) by March 2026. This growth happened because many sole proprietorships (businesses owned by one person) are expanding, and state-run banks are offering more loans. In the past, overdue payments were a concern, but now only four percent of these loans are overdue, showing better financial health. Manufacturing received a notable share of these loans, with 31% going to that sector. Moving forward, this trend could lead to more investment and job creation in small businesses.",
+        "investor_impact": "If you’re involved in small businesses, expect easier access to loans which can help grow your business. The manufacturing sector, in particular, could benefit from these loans, leading to more production and economic activity. If you invest in companies that support small businesses, this growth could positively impact their performance.",
         "key_terms": [
           {
-            "term": "trade deficit",
-            "meaning": "A trade deficit occurs when a country's imports exceed its exports, indicating it is spending more on foreign goods than it is earning from selling its own."
+            "term": "asset quality",
+            "meaning": "This refers to the health of loans in a bank's portfolio, indicating how likely borrowers are to pay back their loans on time."
+          },
+          {
+            "term": "sole proprietorship",
+            "meaning": "A type of business owned and run by one person, which can often be easier to set up and manage."
           }
         ]
       },
       {
-        "title": "India mulls security certification for IoT devices",
-        "summary": "The government is considering extending its cybersecurity rules beyond internet-enabled CCTV cameras to a wider range of IoT devices, including smart meters, amid concerns over vulnerabilities in imported products, particularly from China.",
-        "link": "https://economictimes.indiatimes.com/news/economy/policy/india-mulls-security-certification-for-iot-devices/articleshow/132360328.cms",
-        "published": "Mon, 13 Jul 2026 14:28:42 +0530",
+        "title": "India's exports to West Asia region evened out in June: Commerce Secretary",
+        "summary": "India's exports to West Asia grew 7.29 percent to USD 5 billion in June. Shipments to the UAE increased while those to Saudi Arabia saw a decline. Imports from the UAE and Oman registered positive growth during this period. Indian exporters are utilizing Omani ports to facilitate regional trade. The US-Iran conflict had previously impacted international shipping routes.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-to-west-asia-region-evened-out-in-june-commerce-secretary/articleshow/132369441.cms",
+        "published": "Mon, 13 Jul 2026 19:59:35 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "7c54bf0939",
-        "quick_take": "India is planning to expand its cybersecurity rules to cover more smart devices due to concerns over security risks from imported products like IoT gadgets from China.",
-        "simplified_article": "India's government is thinking about new security certifications for various internet-connected devices, not just CCTV cameras. This move is prompted by worries that many gadgets, especially from China, could be vulnerable to cyberattacks. Over the past years, IoT devices like smart meters have become popular, but their safety is now a major concern. If these new security measures go into effect, manufacturers and consumers of IoT devices will have to deal with stricter regulations and potential costs related to compliance.",
-        "investor_impact": "If you're investing in tech companies that produce IoT devices or manufacturers relying on imports from China, prepare for possible rising costs due to new certification processes, which could affect product pricing. This could slow down the growth of the IoT market in India, impacting stock prices for tech firms involved in that space.",
+        "id": "ff5f6c0ff2",
+        "quick_take": "India's exports to West Asia grew by 7.29% to $5 billion in June, indicating strong demand despite mixed performance from key markets.",
+        "simplified_article": "In June, Indian exports to the West Asia region increased by 7.29% to $5 billion. This growth was primarily due to a rise in sales to the UAE, although exports to Saudi Arabia declined. Meanwhile, imports from the UAE and Oman were also on the rise, with Indian exporters making use of Omani ports to enhance trade. The recent US-Iran conflict had previously affected shipping routes, but the current improvement suggests a recovery in trade dynamics. Going forward, increased exports could benefit Indian businesses focused on the West Asia market.",
+        "investor_impact": "The rise in exports signals stronger trade relationships, particularly for companies dealing with the UAE, which could boost revenues for export-focused firms. If this trend continues, sectors like logistics and shipping may also see benefits as routes stabilize and trade volumes increase.",
         "key_terms": []
       },
       {
-        "title": "An emboldened India holds out for better terms in US trade talks",
-        "summary": "India rejected a swift trade agreement with the United States, seeking more favorable terms. New Delhi's confidence stems from new trading partners and eased economic risks. India's government official stated they will not rush into an unfavorable deal. Rising exports and diversification initiatives have strengthened India's negotiating position. India is calculating potential legal and political setbacks for US trade measures.",
-        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/an-emboldened-india-holds-out-for-better-terms-in-us-trade-talks/articleshow/132354546.cms",
-        "published": "Mon, 13 Jul 2026 07:38:23 +0530",
+        "title": "Area sown to kharif crops remains 16% on weak monsoon; paddy, pulses acreage down: Agriculture Ministry",
+        "summary": "Kharif crop sowing is 16 percent lower this season. This delay is attributed to a weak monsoon and El Nino effects. Area under pulses and coarse cereals has significantly declined. Oilseeds and cotton coverage also shows a notable decrease. Sugarcane and jute acreage, however, have seen slight increases.",
+        "link": "https://economictimes.indiatimes.com/news/economy/agriculture/area-sown-to-kharif-crops-remains-16-on-weak-monsoon-paddy-pulses-acreage-down-agriculture-ministry/articleshow/132369298.cms",
+        "published": "Mon, 13 Jul 2026 19:59:08 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "164e920fbf",
-        "quick_take": "India is holding out for better trade terms with the US, showing its confidence from strong exports and new trading partners.",
-        "simplified_article": "India has decided not to rush into a quick trade agreement with the United States, wanting more favorable conditions. This decision comes because India feels more secure with new trading partners and reduced economic risks. In the past, India has pushed to diversify its markets, which has helped it negotiate better. Looking ahead, India's move could affect future trade relations and economic strategies between the two countries, influencing businesses and exports. The government is carefully considering the potential legal and political challenges from US trade actions.",
-        "investor_impact": "This situation could impact businesses that rely on exports, especially those in sectors like textiles and software, as they might face uncertainty about tariffs or trade barriers. Companies with strong US connections may see stock volatility as trade talks progress. If trade issues arise, it could lead to increased costs that affect prices on goods sold internationally.",
+        "id": "be66ec53a3",
+        "quick_take": "Kharif crop sowing is down 16% this season due to weak monsoon and El Nino effects, affecting food supply and prices.",
+        "simplified_article": "This season, farmers have sown 16% fewer kharif crops than last year. The main reasons for this drop are a weak monsoon and the El Nino weather pattern, which can disrupt normal rain patterns. Kharif crops are typically sown during the rainy season and include staples like paddy and pulses. Farmers may face lower yields, which could lead to higher food prices later on, impacting consumers and businesses that rely on these crops.",
+        "investor_impact": "The decline in kharif crops could lead to higher prices for staples like rice and pulses, directly affecting food manufacturers and consumers. Additionally, reduced oilseeds and cotton cultivation may impact companies involved in cooking oil production and the textile industry. Farmers may also face increased challenges due to lower crop yields, which can affect rural economies.",
         "key_terms": []
       },
       {
-        "title": "Private capital should play a much larger role in India's infrastructure development: Rajkiran Rai, MD & CEO, NaBFID",
-        "summary": "India requires infrastructure investments of nearly Rs 770 lakh crore over the next 20 years. This requirement cannot be met through budgetary resources alone; private capital will need to play a larger role, says Rajkiran Rai, managing director and chief executive of National Bank for Financing Infrastructure and Development (NaBFID).",
-        "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/private-capital-should-play-a-much-larger-role-in-indias-infrastructure-development-rajkiran-rai-md-ceo-nabfid/articleshow/132351620.cms",
-        "published": "Mon, 13 Jul 2026 00:39:04 +0530",
+        "title": "India's exports to US dip 1.21% in June, imports rise 33.86%",
+        "summary": "India's exports to the US saw a slight dip in June, while imports increased significantly. Merchandise exports declined marginally during April-June, with imports showing a substantial rise. Trade with China experienced robust growth in both exports and imports during the period. Exports to Singapore and several other nations registered positive growth.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-to-us-dip-1-21-in-june-imports-rise-33-86/articleshow/132368790.cms",
+        "published": "Mon, 13 Jul 2026 19:42:32 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "65f53ab491",
-        "quick_take": "India needs Rs 770 lakh crore for infrastructure in 20 years, and Rajkiran Rai of NaBFID says private investment is crucial to meet this need.",
-        "simplified_article": "Rajkiran Rai, the head of NaBFID, announced that India will require a staggering Rs 770 lakh crore for infrastructure projects over the next two decades. This amount is far too large to be covered by government funding alone, meaning private investors will need to contribute significantly. Infrastructure includes essential facilities like roads, bridges, and utilities, which are vital for economic growth. Moving forward, this could lead to increased opportunities for private companies to invest in large projects, impacting sectors such as construction, energy, and transportation.",
-        "investor_impact": "Investors in private construction firms or infrastructure projects could see opportunities grow as the government encourages private funding. This push could make related investments more attractive, particularly in sectors like real estate and energy. Those holding stock in infrastructure companies may benefit from increased activity and funding in the coming years.",
+        "id": "6f57a6263c",
+        "quick_take": "India's exports to the US dropped by 1.21% in June, which matters because it shows a decline in trade despite rising imports, signaling potential economic challenges.",
+        "simplified_article": "In June, India's exports to the US fell slightly while imports surged by over 33%. This dip in exports might be due to changing market demands or trade dynamics. In contrast, exports to China and Singapore saw positive growth, indicating strong trade relationships with those countries. Looking ahead, the increase in imports could affect domestic industries and trade balances. Companies relying on US markets might face tougher conditions if this trend continues.",
+        "investor_impact": "This decline in exports might pressure companies focused on US markets, potentially leading to lower profits in sectors like manufacturing and textiles. Meanwhile, businesses that rely heavily on imports may see increased costs due to higher import volumes. Overall, consumer goods prices may rise if production costs increase as a result.",
+        "key_terms": []
+      },
+      {
+        "title": "India-UK trade pact: CBIC issues guidelines on implementation of self-certification of origin declarations",
+        "summary": "New guidelines for self-certification of origin declarations are now in effect. This change applies to the India-UK Comprehensive Economic and Trade Agreement starting July fifteenth. The agreement replaces traditional certificates with a self-declaration framework for origin verification. Customs authorities in both nations will manage the authentication process for imports. Origin declarations will remain valid for twelve months from their completion date.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-trade-pact-cbic-issues-guidelines-on-implementation-of-self-certification-of-origin-declarations/articleshow/132368686.cms",
+        "published": "Mon, 13 Jul 2026 19:29:58 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "ba67831d38",
+        "quick_take": "India and the UK just launched a trade deal that lets businesses self-certify the origin of goods, simplifying imports for both nations starting July 15.",
+        "simplified_article": "India and the UK have introduced new guidelines allowing businesses to self-certify where their products come from instead of needing traditional certificates. This change is part of the Comprehensive Economic and Trade Agreement, effective from July 15. The agreement aims to streamline trade and make it easier for goods to move between the two countries. Customs authorities in both India and the UK will still check these self-declarations, which will be valid for one year. This means businesses can save time and resources on paperwork when importing goods.",
+        "investor_impact": "Businesses that frequently import goods from the UK might see a reduction in delays and costs related to customs processing, which could improve overall efficiency. Sectors like manufacturing and retail that rely on imported products could benefit from quicker turnaround times on goods. This could lead to potential growth in profits for those sectors due to reduced bureaucracy.",
         "key_terms": []
       }
     ],
     "indian-markets": [
       {
-        "title": "ICICI Prudential AMC Q1 Results: Net profit rises 23% YoY to Rs 965 crore; revenue up 18%",
-        "summary": "ICICI Prudential AMC Q1 Results: Revenue from operations, meanwhile, increased 18% YoY to Rs 1,564 crore.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms",
-        "published": "Mon, 13 Jul 2026 16:48:32 +0530",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+        "summary": "The stock market witnessed a strong intraday recovery from the day’s lows, ending with modest gains amid a positive underlying sentiment supported by encouraging IT business updates and attractive valuations, said Vinod Nair, Head of Research of Geojit Investments.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132370688.cms",
+        "published": "Mon, 13 Jul 2026 21:20:23 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "dcf67bbaff",
-        "quick_take": "ICICI Prudential's net profit surged by 23% to Rs 965 crore, driven by an 18% rise in revenue, showing strong growth in their operations.",
-        "simplified_article": "ICICI Prudential Asset Management Company (AMC) reported its financial results for the first quarter, revealing a net profit increase of 23% year-over-year (YoY) to Rs 965 crore. This growth was primarily due to an 18% rise in revenue from operations, reaching Rs 1,564 crore. Asset management companies like ICICI Prudential earn money by managing investments for others, which can lead to higher profits during strong market conditions. Moving forward, if ICICI Prudential continues to grow, it could mean better returns for its investors and a stronger position in the competitive asset management industry.",
-        "investor_impact": "This strong performance could attract more investment into ICICI Prudential's funds, potentially benefiting existing investors and those considering mutual funds. Additionally, firms in the financial services sector might see increased investor confidence, affecting stock prices positively. If more people invest in mutual funds, it could lead to overall growth in the asset management sector.",
+        "id": "a2902bb417",
+        "quick_take": "The stock market bounced back with modest gains due to positive updates from IT companies and attractive stock prices, according to Vinod Nair from Geojit Investments.",
+        "simplified_article": "The stock market saw a recovery today after hitting lower points earlier in the day, finishing with some gains. This rebound happened because of promising news from IT companies, meaning these companies are performing well and attracting investor interest. Generally, when stock prices look attractive, more investors are likely to buy in, which boosts the market. Moving forward, this positive trend could benefit tech-related investments and encourage more trading activity, impacting investors focusing on the IT sector.",
+        "investor_impact": "This means that if you have investments in IT stocks like TCS or Infosys, you might see their values increase as positive news continues to flow. Additionally, if you're looking at overall market performance, this recovery could lead to more stability and confidence in the stock market, which may attract new investors or prompt current investors to buy more shares.",
         "key_terms": []
       },
       {
-        "title": "Can SBI Funds’ Rs 9,813 crore mega IPO revive a dry stock market? CEO makes bold prediction",
-        "summary": "SBI Funds Management expects its Rs 9,813 crore IPO to revive investor confidence and boost India's primary market. CEO Debasish Mishra said attractive pricing, strong governance and industry growth prospects could encourage fresh investments and pave the way for more quality listings.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-sbi-funds-rs-9813-crore-mega-ipo-revive-a-dry-stock-market-ceo-makes-bold-prediction/articleshow/132364883.cms",
-        "published": "Mon, 13 Jul 2026 16:28:43 +0530",
+        "title": "SK Hynix US-listed shares slip nearly 8% as Nasdaq debut euphoria cools",
+        "summary": "SK Hynix’s US-listed shares fell nearly 8% after a strong Nasdaq debut, as investors booked profits in AI-linked chip stocks. The decline triggered broader weakness across global semiconductor stocks, with sharp losses in Seoul and the US, reflecting growing concerns over valuations and sustainability of AI-driven demand.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-us-listed-shares-slip-nearly-8-as-nasdaq-debut-euphoria-cools/articleshow/132369738.cms",
+        "published": "Mon, 13 Jul 2026 20:18:30 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "ed11987c0c",
-        "quick_take": "SBI Funds is launching a Rs 9,813 crore IPO to boost the struggling stock market and attract more investor interest.",
-        "simplified_article": "SBI Funds Management plans to raise Rs 9,813 crore through its initial public offering (IPO). This move aims to boost investor confidence, which has been low in recent months. The CEO believes that appealing pricing and strong governance, along with the promising growth of the industry, will draw in fresh investments. If successful, this IPO could pave the way for more high-quality companies to go public in the future. Investors and companies looking to enter the market will be watching closely for signals that the stock market is recovering.",
-        "investor_impact": "If the SBI Funds IPO succeeds, it could lead to a more active stock market, meaning more companies may decide to list their shares, which is good for all investors. This could especially benefit the mutual fund sector, as it may attract more individual investors looking to grow their wealth through stocks.",
+        "id": "0df57d04d0",
+        "quick_take": "SK Hynix's shares dropped nearly 8% as excitement from its Nasdaq debut faded, highlighting investor concerns about the future of AI chip demand.",
+        "simplified_article": "SK Hynix, a company that makes chips for AI technology, saw its shares listed in the US fall by almost 8% after a strong start. Investors decided to sell some of their shares to lock in profits, which led to a decline in shares of other tech companies that make similar products. This drop in SK Hynix shares reflects worries about how long the demand for AI chips will last and if their prices are too high. Moving forward, this could lead to more caution among investors, especially those holding semiconductor stocks, which could feel the impact of reduced confidence in AI technology's growth potential.",
+        "investor_impact": "If you have investments in tech or semiconductor stocks, particularly those related to AI, you may see their values drop as investor confidence wanes. This price decrease could also affect companies in related sectors, leading to less enthusiasm for new AI projects and investments. Overall, be prepared for a more cautious market environment in tech as investors reassess their expectations for AI-driven growth.",
         "key_terms": []
       },
       {
-        "title": "Oil pangs resurface for rupee, options market gauge signals bearish bias",
-        "summary": "On Monday, the Indian rupee fell to its lowest level in over a month, driven down by rising oil prices amid escalating tensions between the US and Iran. Despite the currency's decline, traders observed that the central bank's potential intervention helped mitigate further losses. Additionally, India's merchandise trade deficit saw a notable increase in June, raising concerns about persistent inflation that might lead to interest rate hikes.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-pangs-resurface-for-rupee-options-market-gauge-signals-bearish-bias/articleshow/132364812.cms",
-        "published": "Mon, 13 Jul 2026 16:26:03 +0530",
+        "title": "Ahead of IPO, Millworks Tech raises nearly Rs 44 cr from anchor investors",
+        "summary": "Millworks Technologies has successfully garnered Rs 44 crore from its anchor investors ahead of its public offering set to commence on July fourteenth. This large-scale IPO, amounting to Rs 160.33 crore, will close on July sixteenth. Renowned for its precision components across multiple sectors, the firm plans to utilize the raised funds to bolster capital expenditures and meet working capital demands.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ahead-of-ipo-millworks-tech-raises-nearly-rs-44-cr-from-anchor-investors/articleshow/132369715.cms",
+        "published": "Mon, 13 Jul 2026 20:16:49 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "ac6428d498",
-        "quick_take": "The Indian rupee dropped to its lowest point in over a month due to rising oil prices, which is key because it raises inflation concerns and might lead to higher interest rates.",
-        "simplified_article": "On Monday, the Indian rupee fell significantly, hitting its lowest level in more than a month. This drop was caused by increasing oil prices amidst rising tensions between the US and Iran. Additionally, India's trade deficit, which is the difference between imports and exports, grew sharply in June, fueling worries about ongoing inflation. If inflation continues to rise, it could lead the central bank, the RBI, to increase interest rates, which affects borrowing costs for everyone. This situation impacts consumers, businesses, and investors alike as it could lead to more expensive loans and tighter financial conditions.",
-        "investor_impact": "If the rupee continues to weaken, importing goods like electronics or oil could become more costly, likely making those prices rise for consumers. Additionally, if inflation leads the RBI to hike interest rates, home loan EMIs could increase, making it more expensive to borrow money for houses.",
-        "key_terms": []
-      },
-      {
-        "title": "Sensex rises 47 points, Nifty closes above 24,200 as market recovers all morning losses. What’s ahead?",
-        "summary": "Indian benchmark indices erased steep intraday losses to end marginally higher on Monday, supported by a strong rally in IT stocks and continued foreign fund inflows despite escalating tensions between the US and Iran. Analysts said the market's near-term direction will hinge on crude oil prices, with Brent remaining below the key $90-a-barrel threshold.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-47-points-nifty-closes-above-24200-as-market-recovers-all-morning-losses-whats-ahead/articleshow/132363441.cms",
-        "published": "Mon, 13 Jul 2026 15:46:45 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "77b1983fa5",
-        "quick_take": "The Sensex gained 47 points to close slightly higher, driven by a rise in IT stocks and ongoing foreign investment despite US-Iran tensions.",
-        "simplified_article": "On Monday, the major Indian stock indices, including the Sensex, ended up slightly after overcoming significant losses earlier in the day. This recovery was mainly thanks to a strong performance in technology stocks and consistent foreign investments coming into the market. Market experts noted that the future direction will depend on crude oil prices, which are currently stable below $90 per barrel. Investors should keep an eye on oil prices as they can impact overall market conditions and economic sentiments. Companies in the IT sector, especially, are likely to benefit from the current environment.",
-        "investor_impact": "If you invest in technology stocks, this news is positive as companies like Infosys and TCS may see increased interest from investors. Furthermore, if oil prices stay low, it could help keep inflation in check, which is good for your overall investment portfolio.",
+        "id": "3c7144e99c",
+        "quick_take": "Millworks Technologies raised Rs 44 crore from anchor investors to support its upcoming IPO, which could impact investors interested in precision components.",
+        "simplified_article": "Millworks Technologies has raised Rs 44 crore from large investors as it prepares for its initial public offering (IPO) starting on July 14. The IPO aims to raise a total of Rs 160.33 crore. This funding will help the company expand its operations and cover its costs. After the IPO closes on July 16, shares will be available for public trading, affecting both the company’s growth and potential investors in the technology sector.",
+        "investor_impact": "If you're interested in investing in tech companies, this IPO could open new opportunities in the precision components industry. The funds raised will likely position Millworks Technologies for growth, which might benefit shareholders in the long run. Keep an eye on how this impacts stock prices and market interest in similar tech firms after the offering.",
         "key_terms": [
           {
-            "term": "Brent",
-            "meaning": "Brent crude is a major trading classification of crude oil, and its price influences fuel costs and economic conditions globally."
+            "term": "IPO",
+            "meaning": "Initial Public Offering, when a company sells its shares to the public for the first time."
           }
         ]
       },
       {
-        "title": "Puravankara Q1 sales bookings up 28% to Rs 1,439 cr on higher volumes, price growth",
-        "summary": "Puravankara has achieved an impressive twenty-eight percent growth in sales bookings in the first quarter, reflecting strong market performance. Additionally, customer fund collections experienced a remarkable forty percent year-on-year increase, reaching Rs 1,199 crore. The sales area expanded by nine percent to 1.36 million square feet, while the average price realization rose by eighteen percent to Rs 10,589 per square foot.",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/puravankara-q1-sales-bookings-up-28-to-rs-1439-cr-on-higher-volumes-price-growth/articleshow/132362818.cms",
-        "published": "Mon, 13 Jul 2026 15:10:19 +0530",
+        "title": "Global Markets: Shein eyes up to $3 billion Hong Kong IPO as soon as August, Bloomberg News reports",
+        "summary": "Fast-fashion powerhouse Shein is gearing up for an initial public offering in Hong Kong, aiming to secure between two to three billion dollars in funds. The company's long-awaited entry into the public market has been greenlit by China's securities regulator. With a targeted valuation between forty and fifty billion dollars, this listing comes after previous unsuccessful attempts in various global markets.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-eyes-up-to-3-billion-hong-kong-ipo-as-soon-as-august-bloomberg-news-reports/articleshow/132368819.cms",
+        "published": "Mon, 13 Jul 2026 19:38:30 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "0e32240bcb",
-        "quick_take": "Puravankara's sales bookings soared 28% to Rs 1,439 crore this quarter, showing strong demand for real estate.",
-        "simplified_article": "Puravankara, a real estate company, reported a 28% increase in sales bookings in the first quarter, reaching Rs 1,439 crore. This growth is due to higher sales volume and rising property prices. Over the past year, customer collections jumped 40% to Rs 1,199 crore. The sales area also grew by 9%, while the average price per square foot rose by 18% to Rs 10,589. This indicates strong demand in the housing market, benefiting both buyers and sellers.",
-        "investor_impact": "If you're considering investing in real estate or related sectors, this strong performance could indicate rising property values, potentially increasing your investment returns. Moreover, those looking for homes might face higher prices and increased competition as demand grows.",
+        "id": "5af2b7daf4",
+        "quick_take": "Shein is planning a $3 billion IPO in Hong Kong, which could value the company between $40 billion and $50 billion and marks its return to the public market after previous failed attempts.",
+        "simplified_article": "Shein, a popular fast-fashion brand, is preparing to go public with an initial public offering (IPO) in Hong Kong, aiming to raise up to $3 billion. This move comes after China's securities regulator approved their listing, allowing Shein to finally enter the stock market. Previously, Shein had faced challenges with its attempts to list in other countries. If successful, this IPO could provide Shein with significant funds for growth and expansion, affecting investors, consumers, and the fast-fashion industry as a whole.",
+        "investor_impact": "If Shein's IPO is successful, it could boost investor interest in the fast-fashion sector, attracting both retail and institutional investors. Additionally, this move may spark competition among other similar companies looking to go public, potentially impacting their stock values. Consumers might also see shifts in product offerings as companies compete for market share.",
         "key_terms": []
       },
       {
-        "title": "Global Market: Eurozone bond yields climb as Middle East tensions rekindle inflation concerns",
-        "summary": "Eurozone government bond yields climbed on Monday due to escalating US-Iran tensions. Oil prices surged significantly after Iran announced a closure of the Strait of Hormuz. This renewed conflict has increased concerns over global inflation and economic stability.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-climb-as-middle-east-tensions-rekindle-inflation-concerns/articleshow/132362710.cms",
-        "published": "Mon, 13 Jul 2026 15:05:00 +0530",
+        "title": "Gold drops more than 1% as rising Middle East tensions add to rate-hike fears",
+        "summary": "Gold prices saw a notable decline amidst rising tensions in the Middle East, driven by concerns over inflation linked to escalating oil prices. The prospect of an interest rate hike from the Federal Reserve in September is keeping traders on edge as they await crucial economic data releases this week. Prices for other precious metals also suffered losses on Monday.",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms",
+        "published": "Mon, 13 Jul 2026 19:27:10 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "17ba59035d",
-        "quick_take": "Global Market: Eurozone bond yields climb as Middle East tensions rekindle inflation concerns",
-        "simplified_article": "Eurozone government bond yields climbed on Monday due to escalating US-Iran tensions. Oil prices surged significantly after Iran announced a closure of the Strait of Hormuz. This renewed conflict has increased concerns over global inflation and economic stability.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "id": "d94144a89b",
+        "quick_take": "Gold prices dropped over 1% due to rising tensions in the Middle East and fears of a Federal Reserve interest rate hike.",
+        "simplified_article": "Gold prices fell by more than 1% recently as tensions in the Middle East increased. The rise in oil prices is raising concerns about inflation, which is making investors nervous. The Federal Reserve, which helps control the economy by adjusting interest rates, is expected to consider a hike in September. Traders are now waiting for important economic data to guide their next moves. This decline also affected prices of other precious metals.",
+        "investor_impact": "If you own gold ETFs or sovereign gold bonds, their value might drop as gold prices decrease during this tension. Rising oil prices could also lead to higher costs for businesses, impacting sectors like transportation and manufacturing. Finally, if interest rates go up, it could make borrowing more expensive for people looking to take loans.",
+        "key_terms": [
+          {
+            "term": "interest rate hike",
+            "meaning": "This is when the Federal Reserve raises rates to control inflation, affecting borrowing costs."
+          },
+          {
+            "term": "inflation",
+            "meaning": "It's the rate at which prices for goods and services rise, meaning your money buys less over time."
+          }
+        ]
+      },
+      {
+        "title": "US stocks today: S&P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall",
+        "summary": "On Monday, stock markets dipped as rising oil prices intensified due to increasing tensions between the U.S. and Iran. This surge in oil costs exacerbated the ongoing decline in chip stocks, heavily weighing on the Nasdaq index. Investors are now tasked with weighing strong corporate earnings against escalating geopolitical uncertainties.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-iran-tensions-jolt-sentiment-chip-stocks-fall/articleshow/132368301.cms",
+        "published": "Mon, 13 Jul 2026 19:07:01 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "6d9ae6945c",
+        "quick_take": "US stocks like the S&P 500 and Nasdaq fell today because rising oil prices are stirring up worries about tensions with Iran.",
+        "simplified_article": "On Monday, US stock markets went down as oil prices increased due to rising tensions between the U.S. and Iran. This rise in oil prices hurt chip stocks significantly, which are an important part of the Nasdaq index. Companies in the tech sector, especially those making chips, are struggling as investors have to balance good company earnings with the risks of international conflicts. Moving forward, people investing in tech stocks might see more volatility because of these geopolitical issues. Those invested in oil or energy companies could see different effects as oil prices change.",
+        "investor_impact": "If you own shares in tech companies, especially those focused on chips, you might face some losses as their stock prices may continue to drop. On the other hand, if you're invested in energy stocks, this rise in oil prices could boost their value, benefiting your portfolio if you have investments in that sector.",
         "key_terms": []
       },
       {
-        "title": "Sebi tightens ethics rules for current, former employees",
-        "summary": "India's Securities and Exchange Board (SEBI) has put in place a two-year cooling-off period for past officials. The new regulations broaden investment restrictions to include the family members of employees. Notably, SEBI personnel are now required to step away from specific issues that involve personal affiliations and must report any future job discussions within a thirty-day timeframe. These changes take effect starting Monday.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-tightens-ethics-rules-for-current-former-employees/articleshow/132362647.cms",
-        "published": "Mon, 13 Jul 2026 15:00:31 +0530",
+        "title": "Mylan to sell up to $363 million stake in India's Biocon, term sheet shows",
+        "summary": "Mylan ​Inc plans to ‌sell ⁠up ⁠to 92 ​million shares in ​Indian drugmaker ​Biocon ⁠Ltd, worth ‌up ​to ​34.81 ⁠billion Indian rupees ($363 ​million), according to ​a term ‌sheet seen ​by ​Reuters.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mylan-to-sell-up-to-363-million-stake-in-indias-biocon-term-sheet-shows/articleshow/132368259.cms",
+        "published": "Mon, 13 Jul 2026 19:02:25 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "d11f16ae30",
-        "quick_take": "Sebi tightens ethics rules for current, former employees",
-        "simplified_article": "India's Securities and Exchange Board (SEBI) has put in place a two-year cooling-off period for past officials. The new regulations broaden investment restrictions to include the family members of employees. Notably, SEBI personnel are now required to step away from specific issues that involve personal affiliations and must report any future job discussions within a thirty-day timeframe. These changes take effect starting Monday.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "id": "cad01270b8",
+        "quick_take": "Mylan is selling up to $363 million worth of shares in Biocon, marking a significant change for both companies.",
+        "simplified_article": "Mylan Inc plans to sell up to 92 million shares in the Indian company Biocon Ltd, which could bring in up to $363 million. This sale reflects Mylan's strategy to focus on its core operations. Biocon is a major player in the pharmaceutical industry in India, known for its biotechnology products. The sale will likely affect Mylan's market presence and could also impact Biocon’s stock performance as the news unfolds.",
+        "investor_impact": "This sale could influence Biocon's stock price, especially if investors react to Mylan's decision. If you hold shares in Biocon or are interested in the Indian pharmaceutical sector, it's worth keeping an eye on how this transaction progresses and its overall impact on the market.",
         "key_terms": []
       },
       {
-        "title": "Global Market: European stocks edge lower as Middle East escalation dampens investor sentiment",
-        "summary": "The pan-European STOXX 600 index slipped 0.3% to 639.29 in early trade, extending losses after posting its biggest weekly decline since late April in the previous session.",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-lower-as-middle-east-escalation-dampens-investor-sentiment/articleshow/132361444.cms",
-        "published": "Mon, 13 Jul 2026 14:01:48 +0530",
+        "title": "Quote of the day by Irving Fisher: \"The chief evils of speculation flow from the participation of the general public, who lack the special knowledge, and enter the market in a purely gambling spirit\"",
+        "summary": "Irving Fisher's timeless observation warns against public speculation in financial markets. Retail investors often treat markets like casinos, driven by emotion and trends. Knowledge and discipline are crucial for successful investing, not quick profits. Easy access to trading platforms democratizes investing but increases speculative risks. Informed decisions consistently reward market participants more than impulsive speculation.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-irving-fisher-the-chief-evils-of-speculation-flow-from-the-participation-of-the-general-public-who-lack-the-special-knowledge-and-enter-the-market-in-a-purely-gambling-spirit/articleshow/132356751.cms",
+        "published": "Mon, 13 Jul 2026 18:00:00 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "0084711dc4",
-        "quick_take": "European stocks fell 0.3%, reflecting cautious investor feelings due to rising tensions in the Middle East.",
-        "simplified_article": "European stocks showed a small decline, with the pan-European STOXX 600 index dropping 0.3% to 639.29. This decline follows an even bigger drop last week, the worst since late April. The current situation in the Middle East is making investors worried, which affects how they feel about buying stocks. Moving forward, if tensions escalate further, we might see continued caution among investors, impacting sectors like travel and oil, which are sensitive to geopolitical issues.",
-        "investor_impact": "This drop in European markets might lead to a more cautious approach in sectors like travel and airlines, as people may hesitate to invest in them amid instability. Similarly, oil prices could fluctuate; if concerns rise, it might increase costs for consumers and businesses that rely on oil. Overall, anyone with investments in these sectors may feel the impact as stock values adjust to current events.",
+        "id": "191d2be13e",
+        "quick_take": "Irving Fisher highlighted that when everyday people gamble on financial markets without proper knowledge, it leads to risks for their investments.",
+        "simplified_article": "Irving Fisher pointed out that many regular people are speculating in financial markets without understanding how they work. This trend is driven by emotions and trends, making them act like gamblers instead of informed investors. In the current environment, easy access to trading platforms means more people are participating, which increases the risks of making impulsive decisions. Moving forward, investors who rely on knowledge and discipline are likely to see better returns than those who simply chase quick profits.",
+        "investor_impact": "If you're trading stocks and are tempted to follow market trends without research, you could risk losing money as many others do. This situation particularly affects new or inexperienced investors who might treat their investments too casually, potentially leading to larger financial losses. Recognizing the importance of informed investing can help safeguard your money in volatile markets.",
         "key_terms": []
       }
     ],
     "global-macro": [
+      {
+        "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+        "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+        "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+        "published": "Mon, 13 Jul 2026 16:19:15 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "ef5b7268e6",
+        "quick_take": "Volkswagen plans to cut up to 100,000 jobs globally due to falling profits and intense competition from China.",
+        "simplified_article": "Volkswagen, which also owns brands like Porsche and Audi, is preparing to lay off up to 100,000 employees worldwide. This decision comes because the company has seen a significant drop in profits and is struggling to compete with cheaper electric cars from China. Volkswagen is one of the largest car manufacturers in the world, known for offering a wide range of vehicles. The job cuts will likely impact workers in various departments and may affect the production of some models as the company tries to save money and stay competitive.",
+        "investor_impact": "These job cuts could signal financial trouble for the automotive sector, which may lead to lower stock prices for companies like Volkswagen. If you hold shares in automotive companies, you might see volatility as investors react to these layoffs. Additionally, suppliers and related businesses may also feel the pinch as production slows.",
+        "key_terms": []
+      },
       {
         "title": "How to change bank, energy or broadband provider and save money",
         "summary": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
@@ -222,9 +251,9 @@
         "published": "Sun, 12 Jul 2026 23:28:01 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "340bb6933f",
-        "quick_take": "Switching your bank, energy, or broadband provider is now easier than ever, which can help you save money.",
-        "simplified_article": "You can now change your bank, energy provider, or broadband supplier more easily than before. This change is happening because companies have simplified the process to help customers find better deals. In the past, switching providers often involved a lot of complicated steps. As more people look for cheaper options, this trend could lead to better pricing and services for everyone involved.",
-        "investor_impact": "If you are considering switching providers, you might save money on monthly bills, especially in energy and broadband where prices can vary widely. This could lead to higher customer loyalty as companies are more pressured to offer competitive rates to keep their clients.",
+        "quick_take": "Switching your bank, energy, or broadband provider is now easier, helping you save money on those bills.",
+        "simplified_article": "People can now easily change their bank, energy, or broadband service for better deals. This change is due to improvements in processes and regulations that make switching options simpler. In the past, switching could be complicated and time-consuming, discouraging many from looking for better deals. Moving forward, more customers may take advantage of this ease of switching, leading to potential savings on monthly bills and increased competition among providers.",
+        "investor_impact": "Consumers could see lower monthly expenses on utilities and banking fees, as providers may lower their prices to attract new customers. Companies in the energy and broadband sectors may adjust their pricing strategies to remain competitive, which could impact their profit margins.",
         "key_terms": []
       },
       {
@@ -234,9 +263,9 @@
         "published": "Mon, 13 Jul 2026 11:45:25 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "a6b166d1d3",
-        "quick_take": "SpaceX's IPO made waves last month, but it seems to be losing steam as investors reassess how the company earns money.",
-        "simplified_article": "SpaceX recently debuted on the stock market, attracting significant attention. However, a month later, investors are starting to realize that the company's revenue sources are not as clear-cut as they hoped. Originally known for its ambitious space missions, SpaceX's business model involves a mix of government contracts and commercial satellite launches. Moving forward, this uncertainty could affect SpaceX's stock price and investor confidence, particularly for those looking to benefit from new advancements in space technology.",
-        "investor_impact": "This situation may influence the aerospace and technology sectors, especially for companies involved in satellite operations or space exploration. If SpaceX struggles, investors in related tech stocks might see a ripple effect, potentially affecting their investments. People holding funds that focus on innovative technology companies could also be impacted as market sentiment shifts.",
+        "quick_take": "SpaceX's stock debuted a month ago, but its momentum has slowed as investors reevaluate its revenue sources.",
+        "simplified_article": "SpaceX went public about a month ago, which means its shares started being sold on the stock market. Recently, people are starting to worry about how SpaceX actually makes money, and this has made some investors less excited about the company. Before going public, SpaceX was already known for its groundbreaking work in space travel and satellite technology. If this trend continues, it could affect how many people want to invest in SpaceX, impacting its stock price and the overall market perception of private space companies.",
+        "investor_impact": "This slowdown in excitement might make current shareholders worried about the future value of their investments in SpaceX. It could also affect other companies involved in space technology, as investors might be more cautious now. If SpaceX's struggles continue, it may influence the appetite for investing in similar tech startups.",
         "key_terms": []
       },
       {
@@ -246,21 +275,9 @@
         "published": "Mon, 13 Jul 2026 00:07:00 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "53742d0f68",
-        "quick_take": "Pokémon Go celebrates its 10th anniversary, highlighting its success in uniting millions of players worldwide.",
-        "simplified_article": "Pokémon Go has reached its 10th anniversary, and millions of players continue to play the game. The game's owner, Scopely, emphasizes that its goal has always been to bring people together. Launched in 2016, Pokémon Go encourages outdoor activity and social interaction as players search for virtual creatures in real-world locations. Moving forward, the game will likely introduce new features to keep players engaged and connected.",
-        "investor_impact": "The ongoing popularity of Pokémon Go could lead to increased revenue for Scopely, benefiting sectors tied to mobile gaming and app development. As the game remains relevant, companies involved in augmented reality (AR) technologies may see growth opportunities as well. Players who engage with the game could further drive in-app purchases and partnerships with brands.",
-        "key_terms": []
-      },
-      {
-        "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-        "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-        "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 12 Jul 2026 05:00:15 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "29c49c0186",
-        "quick_take": "Aldi is investing $9 billion to open new stores in urban areas like Manhattan, trying to compete with Walmart's low prices.",
-        "simplified_article": "Aldi, the German supermarket chain, is planning to spend $9 billion to expand its presence in the United States, focusing on cities like Manhattan. This expansion is aimed at attracting customers looking for cheaper options, while Walmart has dominated the discount grocery market. Aldi is known for its low prices, like its $4 almond butter, which can appeal to budget-conscious shoppers. As Aldi opens more stores, it could change the shopping landscape in urban areas, putting pressure on existing stores to lower their prices or improve their offerings.",
-        "investor_impact": "If Aldi succeeds, it could force competitors, particularly smaller grocery chains, to reconsider their pricing strategies, which might impact their profits. This could lead to increased competition in the supermarket sector, affecting businesses that supply groceries or healthy food alternatives. Investors in retail or grocery-related stocks might see some volatility as these companies adjust to Aldi's aggressive pricing.",
+        "quick_take": "Pokémon Go has been capturing players' attention for 10 years, highlighting its role in bringing people together.",
+        "simplified_article": "Pokémon Go, a mobile game, is celebrating its 10th anniversary, and millions of players are still engaged in the game. The game's creator, Scopely, focuses on fostering community among players, which has contributed to its enduring popularity. Initially launched in 2016, Pokémon Go encourages players to explore the real world to catch virtual creatures. Moving forward, both new and longtime players will continue to enjoy events and updates that keep the game fresh and exciting.",
+        "investor_impact": "The long-term success of Pokémon Go may positively influence Scopely and other mobile gaming companies by highlighting the importance of community in game design. This could lead to increased investments in similar community-focused games, affecting the tech and entertainment sectors. As mobile gaming continues to thrive, businesses focused on engaging social experiences may attract more consumer spending.",
         "key_terms": []
       },
       {
@@ -270,9 +287,21 @@
         "published": "Sun, 12 Jul 2026 23:29:06 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "effe7d8b12",
-        "quick_take": "Gibraltar's 118-year-old border controls with Spain have been removed, which could boost the economy by allowing easier movement between the two regions.",
-        "simplified_article": "Gibraltar has officially removed border controls with Spain that have been in place for 118 years. This change aims to enhance free movement between the UK territory and Spain, potentially leading to greater economic growth. Historically, these border controls have restricted travel and trade. Moving forward, businesses and tourists from both regions could benefit, leading to increased commerce and investment opportunities.",
-        "investor_impact": "With the removal of border controls, sectors like tourism and retail could see significant gains as people travel more freely. Real estate in Gibraltar may also become more appealing to Spanish buyers, potentially driving up property values. Local businesses that rely on foot traffic could experience a boost in sales as accessibility improves.",
+        "quick_take": "Gibraltar has removed its 118-year-old border controls with Spain, hoping for an economic boost from improved travel and trade.",
+        "simplified_article": "Gibraltar has opened its borders with Spain after 118 years of strict controls. This change aims to enhance the flow of people and goods between the UK territory and Spain. Historically, Gibraltar has faced significant restrictions at its border, affecting local businesses and residents. With the borders now open, we can expect increased tourism and trade, benefiting local shops and services as more people cross over freely.",
+        "investor_impact": "This development could lead to increased profits for businesses in Gibraltar that rely on tourism and cross-border trade. Local retailers and service providers may see a surge in customers, which could improve their financial performance. Additionally, the ease of movement might attract new investments, impacting commercial real estate positively in the region.",
+        "key_terms": []
+      },
+      {
+        "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+        "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+        "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Jul 2026 05:00:15 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "29c49c0186",
+        "quick_take": "Aldi is pouring $9 billion into the US market, focusing on cities like Manhattan, in a challenge to Walmart's dominance with its affordable $4 almond butter.",
+        "simplified_article": "Aldi, a German supermarket, is making a big move in the US by investing $9 billion to open stores in major cities such as Manhattan. This strategy is to attract shoppers who prefer lower prices, especially with products like almond butter priced at just $4. Aldi aims to compete directly with big chains like Walmart, known for its low-cost offerings. If successful, this could change the shopping habits of many urban customers, potentially leading to tougher competition for other grocery stores in these areas.",
+        "investor_impact": "This aggressive expansion might affect grocery retailers and food suppliers by increasing competition, potentially leading to lower prices across the sector. Companies like Walmart and other supermarket chains could see changes in sales as consumers may flock to Aldi for better deals.",
         "key_terms": []
       },
       {
@@ -282,9 +311,9 @@
         "published": "Sat, 11 Jul 2026 12:00:16 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "07f6aaeb34",
-        "quick_take": "Chancellor Reeves stressed the importance of a solid plan for Burnham as he prepares to take over, highlighting the need for economic stability.",
-        "simplified_article": "Chancellor Rebecca Reeves spoke with BBC's Laura Kuenssberg about the incoming Prime Minister, Andy Burnham. She emphasized that Burnham needs a well-thought-out plan to govern effectively from the start. A stable economy is crucial for a smooth transition, which Reeves aims to provide. Moving forward, it will be vital for Burnham to outline his strategies to maintain that stability, impacting citizens and businesses alike.",
-        "investor_impact": "If Burnham fails to provide a clear economic plan, it could lead to uncertainty that might disrupt financial markets. This situation could particularly affect industries like real estate and small businesses that rely on stable economic conditions. Consumers may face challenges such as fluctuating loan rates or delayed investments.",
+        "quick_take": "Chancellor Reeves says she's ensuring a stable economy for the next Prime Minister, Burnham, to take charge smoothly.",
+        "simplified_article": "Chancellor of the Exchequer, Rebecca Reeves, spoke to Laura Kuenssberg and emphasized the importance of a stable economy for the new Prime Minister, Andy Burnham. She believes that a well-planned approach is necessary for him to effectively govern from the beginning. A stable economy means less uncertainty for businesses and citizens. Looking ahead, it will be crucial for Burnham to outline his economic strategy to maintain this stability, which will affect everyone's financial situation.",
+        "investor_impact": "If Burnham presents a strong economic plan, it may bolster investor confidence, especially in sectors like retail and construction, which thrive in a stable economy. However, any signs of instability or a lack of clear strategy could lead to increased volatility in financial markets, impacting stocks and other investments.",
         "key_terms": []
       },
       {
@@ -294,123 +323,174 @@
         "published": "Sat, 11 Jul 2026 07:41:18 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "ce200fa885",
-        "quick_take": "The White House is promoting Trump Accounts as a way to help American children invest in their futures, but there is skepticism surrounding this initiative.",
-        "simplified_article": "The Trump Accounts project has been announced by the White House to provide American children with opportunities to build wealth and achieve the 'American dream.' This initiative aims to give children a financial stake in their future, potentially fostering long-term savings habits. Critics, however, are questioning the effectiveness and viability of this scheme. Moving forward, the success of these accounts could impact many families, especially those looking to secure better financial futures for their children and might influence how education systems approach financial literacy.",
-        "investor_impact": "If successful, this initiative could lead to increased savings among families, potentially benefiting financial institutions that offer these accounts. It might also encourage more parents to invest in child-centric savings products, thus stimulating demand in the financial services sector focused on youth accounts.",
-        "key_terms": []
-      },
-      {
-        "title": "Major car firms found not to have installed emissions-cheating devices",
-        "summary": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
-        "link": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 10 Jul 2026 16:18:08 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "6e2610021f",
-        "quick_take": "A High Court judge ruled that major car manufacturers, like Volkswagen, did not use devices to cheat on emissions tests, which is crucial for environmental regulations.",
-        "simplified_article": "Recently, a High Court judge stated that some major car companies didn't use cheating devices to pass emissions tests. This means they complied with the laws that require cars to meet specific pollution standards. In the past, some manufacturers faced allegations of using such devices to falsely show lower emissions. Moving forward, this ruling may restore some trust in the industry and could lead to stricter testing measures to ensure all cars meet environmental regulations.",
-        "investor_impact": "This ruling might impact the automotive sector positively, signaling more accountability and compliance in emissions standards, which could enhance the reputation of manufacturers that adhere to regulations. Additionally, companies that invest in cleaner technologies may see a boost as consumers become more environmentally conscious.",
+        "quick_take": "The White House promotes Trump Accounts as a way to help American children invest in their future, but it faces criticism.",
+        "simplified_article": "The Trump Accounts initiative aims to give children in America the opportunity to save and invest, creating hope for a better future. This plan was introduced to help young people engage with the idea of building wealth and achieving the American dream. The initiative has sparked debate, with some people questioning its effectiveness and potential impact. As it rolls out, families and financial institutions will likely play significant roles in how these accounts are utilized and whether they truly benefit children across the nation.",
+        "investor_impact": "If successful, Trump Accounts could lead to increased demand for financial products specifically designed for young savers, such as children's savings accounts or investment funds. This initiative might inspire more families to consider financial literacy for their children, potentially boosting the education sector focused on finance. Companies that offer child-friendly investment solutions could see increased interest as families look for ways to engage their children in saving and investing.",
         "key_terms": []
       }
     ],
     "us-global": [
       {
-        "title": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates",
-        "summary": "Iran responded to a fresh wave of strikes by U.S. forces by launching an attack on American military bases in several Gulf states.",
-        "link": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html",
-        "published": "Mon, 13 Jul 2026 09:00:32 GMT",
+        "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
+        "summary": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+        "link": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+        "published": "Mon, 13 Jul 2026 16:17:25 GMT",
         "source": "cnbc.com",
-        "id": "371be56d8c",
-        "quick_take": "U.S. and Iran exchanged military strikes in the Gulf, escalating tensions which could impact global oil prices.",
-        "simplified_article": "The U.S. launched strikes against Iran, prompting Iran to retaliate by attacking American military bases in the Gulf region. This military exchange is part of ongoing tensions between the two countries. The Strait of Hormuz, where this is happening, is a crucial shipping route for oil. As tensions rise, global markets and oil prices might be affected, as any conflict in this area can disrupt oil supply, impacting consumers and businesses worldwide.",
-        "investor_impact": "If conflicts escalate, oil prices could rise, affecting consumers with higher fuel costs. Investors in energy stocks or oil ETFs should keep an eye on this situation, as rising oil prices can boost profits in those sectors.",
+        "id": "a38e42c8bc",
+        "quick_take": "Trump wants to impose a 20% toll on cargo passing through the Strait of Hormuz, heightening tensions with Iran, a key oil route.",
+        "simplified_article": "Trump is proposing a 20% toll on cargo that travels through the Strait of Hormuz, a crucial shipping lane for oil. This move is aimed at restarting the blockade against Iran amid ongoing hostilities. The Strait of Hormuz is vital for transporting oil globally, and any disruptions here can significantly affect oil supply. If the toll goes into effect, it could result in higher shipping costs and potentially lead to increased oil prices, impacting consumers and businesses that rely on oil.",
+        "investor_impact": "If the toll is implemented, shipping companies may face higher costs, which could lead to increased prices for goods transported via this route. This scenario could also push oil prices up, affecting anyone who pays for gasoline or heating, thus impacting household budgets. Companies that rely heavily on oil, such as airlines and transportation firms, might see their expenses rise, which could affect their profits.",
+        "key_terms": [
+          {
+            "term": "Strait of Hormuz",
+            "meaning": "A narrow passageway in the Middle East that is used for shipping a significant portion of the world's oil, making it crucial for global energy supply."
+          }
+        ]
+      },
+      {
+        "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
+        "summary": "A group of states, including California, filed a lawsuit to block the merger between Paramount and Warner Bros. Discovery.",
+        "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
+        "published": "Mon, 13 Jul 2026 16:19:48 GMT",
+        "source": "cnbc.com",
+        "id": "1076ca54a5",
+        "quick_take": "California and 11 other states are suing to block the merger between Paramount and Warner Bros. Discovery, which could reshape the entertainment industry.",
+        "simplified_article": "A group of 12 states, including California, filed a lawsuit against the merger of Paramount and Warner Bros. Discovery. They believe that this merger could reduce competition in the entertainment market, leading to higher prices and fewer choices for consumers. Mergers like this one often combine large companies to save costs and expand their reach. The lawsuit may delay the merger as it goes through the legal process, affecting the companies involved and potentially the entertainment options available to viewers.",
+        "investor_impact": "If this merger is blocked, it could lead to uncertainty in the media and entertainment sector, affecting shares of both Paramount and Warner Bros. Discovery. Viewers might continue to see more diverse content options since the companies won't combine, which can influence subscription prices in the long run.",
+        "key_terms": []
+      },
+      {
+        "title": "Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina",
+        "summary": "The death of Sen. Lindsey Graham ignited a scramble among South Carolina Republicans to prepare for a special primary election to replace him on the GOP ticket.",
+        "link": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html",
+        "published": "Mon, 13 Jul 2026 16:18:49 GMT",
+        "source": "cnbc.com",
+        "id": "0ed760685b",
+        "quick_take": "Trump suggests Lindsey Graham's sister as interim senator for South Carolina after Graham's death, impacting the GOP's strategy for his replacement.",
+        "simplified_article": "Senator Lindsey Graham has died, which triggered a rush among South Carolina Republicans to find someone to replace him. Trump recommended Graham's sister for this interim position. This is important because it can affect the political landscape in South Carolina and the upcoming special primary election. Next, Republicans in the state must prepare for the election to choose a new candidate, which could change their influence in the Senate.",
+        "investor_impact": "Political changes like this can lead to shifts in investor sentiment, especially in sectors tied to government spending and policies. For example, infrastructure companies may see fluctuations if new projects are promised or threatened based on the new senator's priorities. Generally, uncertainty around political leadership can make investors cautious, particularly in regions closely tied to specific politicians.",
+        "key_terms": []
+      },
+      {
+        "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
+        "summary": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
+        "link": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
+        "published": "Mon, 13 Jul 2026 16:14:03 GMT",
+        "source": "cnbc.com",
+        "id": "42a1b2a70f",
+        "quick_take": "SpaceX's stock has dropped for two consecutive days, setting it close to its IPO price of $135, which is significant because it recently entered the Nasdaq-100 index.",
+        "simplified_article": "SpaceX's stock is falling for the second day in a row, and it's nearing the $135 price at which it went public. This decline is happening just after the company was added to the Nasdaq-100, a key stock market index that tracks major technology companies. The company, led by Elon Musk, had a record initial public offering (IPO), meaning it first sold its shares to the public at a very high value. If the stock continues to drop, it could shake investor confidence and impact those who recently bought shares as part of this IPO.",
+        "investor_impact": "If you're an investor in SpaceX or considering buying its stock, this decline could mean a loss of value on your investment, especially if it falls below the IPO price. Additionally, this situation may make other tech stocks cautious as investors reevaluate their positions in the sector after this high-profile IPO.",
+        "key_terms": [
+          {
+            "term": "IPO",
+            "meaning": "Initial Public Offering (IPO) is when a company sells its shares to the public for the first time, allowing it to raise money for growth."
+          },
+          {
+            "term": "Nasdaq-100",
+            "meaning": "The Nasdaq-100 is a stock market index that includes 100 of the largest non-financial companies listed on the Nasdaq stock exchange, giving investors a snapshot of the tech sector."
+          }
+        ]
+      },
+      {
+        "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+        "summary": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare' fund that has since been scrapped.",
+        "link": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+        "published": "Mon, 13 Jul 2026 16:17:41 GMT",
+        "source": "cnbc.com",
+        "id": "e9d78975cc",
+        "quick_take": "A judge criticized Trump's lawsuit against the IRS and referred his lawyer to the bar while a planned $1.8 billion legal fund was abandoned.",
+        "simplified_article": "Donald Trump filed a lawsuit against the IRS, which was criticized by a judge for being improperly motivated. This lawsuit stemmed from disputes over Trump's taxes and legal issues. The U.S. Justice Department previously agreed to create a $1.8 billion fund to support legal actions (often called 'lawfare'), but this fund has now been canceled. Moving forward, Trump's legal battles may continue to face challenges, affecting how his financial situation is managed and perceived by the public and investors.",
+        "investor_impact": "This legal setback for Trump could shake investor confidence in sectors tied to his business ventures, particularly real estate and entertainment, as uncertainty around his financial stability grows. Additionally, if Trump's legal issues continue, it could affect companies relying on his brand and partnerships, possibly impacting their stock values.",
+        "key_terms": []
+      },
+      {
+        "title": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
+        "summary": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
+        "link": "https://www.cnbc.com/2026/07/13/trump-congress-clarity-act-crypto-bill-lindsey-graham.html",
+        "published": "Mon, 13 Jul 2026 16:17:51 GMT",
+        "source": "cnbc.com",
+        "id": "c8f5d9f1b0",
+        "quick_take": "Trump urged Congress to pass the Clarity Act crypto bill, which has already gained support with a 15-9 approval from the Senate Banking Committee.",
+        "simplified_article": "Trump has called for Congress to support a cryptocurrency law called the Clarity Act. This push came after the Senate Banking Committee voted 15-9 in favor of the bill, with two Democrats breaking ranks to support it. The Clarity Act aims to provide clear rules for cryptocurrencies, making it easier to understand how they are regulated. If passed, this bill could impact businesses and investors in the crypto space by providing a more stable legal framework for their operations.",
+        "investor_impact": "If the Clarity Act is passed, it could lead to increased confidence in the cryptocurrency market, potentially attracting more investment. This would be significant for crypto companies looking to operate under clearer regulations, affecting their stock prices and market stability. Investors holding cryptocurrencies should keep an eye on this development, as clearer regulations may lead to more mainstream adoption.",
         "key_terms": []
       },
       {
         "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
         "summary": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
         "link": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-        "published": "Mon, 13 Jul 2026 12:00:40 GMT",
+        "published": "Mon, 13 Jul 2026 13:19:24 GMT",
         "source": "cnbc.com",
         "id": "54e5a2762f",
-        "quick_take": "Big banks are about to report huge revenue growth in Q2, driven by the SpaceX IPO and unrest from the Iran war.",
-        "simplified_article": "Big banks are expecting strong profits for the second quarter of the year. This is mainly because the launch of SpaceX's stock (IPO) and the chaos from the Iran war have created favorable conditions for making money. The Iran war has led to uncertainty, which often boosts demand for financial services. If these banks report high earnings, it could impact their stock prices and also signal positive economic activity overall, influencing various sectors like lending and investments.",
-        "investor_impact": "If big banks report strong earnings, it could lead to higher stock prices in the banking sector, benefiting shareholders. Additionally, a rebound in commercial lending might mean easier access to loans for businesses, which could improve overall economic conditions. This could be particularly important for companies looking to expand or invest, potentially leading to more job creation.",
+        "quick_take": "Big banks are expected to report strong profits in Q2, thanks to SpaceX's IPO and the ongoing Iran war impacting market conditions.",
+        "simplified_article": "Big banks are about to announce their financial results for the second quarter of the year, and they're looking very good. This surge in revenue is largely driven by the recent IPO (initial public offering) of SpaceX, which brought in a lot of trading activities, and the uncertainty from the Iran war affecting market dynamics. IPOs can boost bank revenues as companies raise money, and the Iran situation adds volatility that banks often profit from. Going forward, strong earnings reports from banks may lead to increased stock prices and greater investment in the financial sector, affecting both investors and the broader economy.",
+        "investor_impact": "If you're invested in bank stocks, this surge in revenue could lead to higher stock prices, benefiting your portfolio. Additionally, financial products linked to commercial loans may become more accessible or favorable as banks thrive. Keep an eye on how this strong performance affects overall market confidence, which could improve returns across various sectors.",
         "key_terms": []
       },
       {
-        "title": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
-        "summary": "Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.",
-        "link": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
-        "published": "Mon, 13 Jul 2026 09:30:01 GMT",
+        "title": "The 10 best state economies in America in 2026",
+        "summary": "Economy is one of the most important categories in CNBC’s annual America’s Top States for Business rankings. Several states stand out for economic strength.",
+        "link": "https://www.cnbc.com/2026/07/13/best-state-economies-2026.html",
+        "published": "Mon, 13 Jul 2026 14:00:01 GMT",
         "source": "cnbc.com",
-        "id": "30003a9901",
-        "quick_take": "Meta is investing over $50 billion in a giant data center in Louisiana, which shows its commitment to expanding tech infrastructure.",
-        "simplified_article": "Meta announced that it will build a large data center called the Hyperion supercluster in Richland Parish, Louisiana, costing more than $50 billion. This investment is bolstered by generous tax incentives from the state, making it financially attractive for Meta to proceed. Data centers are crucial for tech companies as they store and process massive amounts of information. This investment will create jobs and potentially draw more tech-related businesses to the area, benefiting the local economy.",
-        "investor_impact": "If you invest in technology companies or local businesses, this massive investment by Meta may positively impact their growth and profitability. The creation of jobs in Louisiana could boost consumer spending in the area, which might benefit local retailers and service providers. Additionally, other tech companies could see this as a sign to invest in similar projects, potentially lifting tech sector stocks.",
-        "key_terms": []
-      },
-      {
-        "title": "Graham’s death complicates myriad GOP goals in Congress",
-        "summary": "South Carolina Republican Sen. Lindsey Graham died unexpectedly at 71.",
-        "link": "https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html",
-        "published": "Sun, 12 Jul 2026 18:22:11 GMT",
-        "source": "cnbc.com",
-        "id": "4726235865",
-        "quick_take": "Senator Lindsey Graham of South Carolina passed away at 71, creating uncertainty for many Republican initiatives in Congress.",
-        "simplified_article": "Lindsey Graham, a Republican senator from South Carolina, unexpectedly died at the age of 71. His death may disrupt various goals and strategies that the GOP had planned in Congress, as he was a significant figure in the party. Graham had been involved in U.S. politics for decades, often pushing for conservative policies. Going forward, the Republican Party will need to find a way to adjust its plans without his leadership, which could impact upcoming legislation and political strategy.",
-        "investor_impact": "This might lead to delays in key government spending or policy changes that could affect sectors reliant on Republican support. For example, industries tied to defense and tax reforms could experience uncertainty as the party reassesses its leadership and agenda. If major initiatives are stalled, it may impact market confidence in these sectors.",
-        "key_terms": []
-      },
-      {
-        "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-        "summary": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
-        "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-        "published": "Sun, 12 Jul 2026 20:29:06 GMT",
-        "source": "cnbc.com",
-        "id": "5ff7cf925c",
-        "quick_take": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-        "simplified_article": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
-        "summary": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
-        "link": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-        "published": "Sun, 12 Jul 2026 12:47:31 GMT",
-        "source": "cnbc.com",
-        "id": "5c51a6b6f1",
-        "quick_take": "Amazon's major layoffs have left many workers struggling in a tough job market, highlighting the challenges of finding employment right now.",
-        "simplified_article": "Amazon has recently laid off a large number of employees, marking its biggest job cuts ever. This happened as the company is adjusting to changing market conditions and may aim to improve efficiency. Over 8 months have passed since the announcement, and those affected are now facing a job market that has many candidates and fewer jobs. The oversupply of workers means it’s harder for these laid-off employees to find new positions. As a result, many are dealing with challenges like stress and disappointment while looking for work.",
-        "investor_impact": "This situation may lead to a slower recovery in the technology sector, especially if other companies follow Amazon's lead in cutting jobs to reduce costs. Investors in the tech industry should be cautious as this might affect stock prices if consumer spending slows down due to rising unemployment. Additionally, sectors like retail could face challenges as well since laid-off workers typically reduce their spending.",
-        "key_terms": []
-      },
-      {
-        "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
-        "summary": "The platform is designed to alleviate problems the company's most active traders have run into, according to a memo provided to CNBC.",
-        "link": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
-        "published": "Mon, 13 Jul 2026 11:36:00 GMT",
-        "source": "cnbc.com",
-        "id": "9a98765b97",
-        "quick_take": "Kalshi launched a new product called 'Pro' to help active traders tackle issues when trading multiple markets at once, which is crucial for enhancing their trading experience.",
-        "simplified_article": "Kalshi, a trading platform, just introduced a new product named 'Pro' aimed at making it easier for its most active users to trade across various markets simultaneously. This change was made because these traders faced several challenges while managing multiple positions at once. Kalshi specializes in allowing users to bet on the outcomes of events, which can lead to fluctuations in trading experiences. Going forward, traders using the 'Pro' product will likely find it simpler to execute their strategies, potentially leading to more efficiency in their trading activities.",
-        "investor_impact": "This could improve the trading experience for active traders on Kalshi, allowing them to manage their investments more effectively across different markets. If you are someone who trades frequently on this platform, the new features might help optimize your trading results, which could influence your overall returns. Keep an eye on how this product affects the trading dynamics on Kalshi, especially if you’re involved in markets where speed and efficiency are key.",
-        "key_terms": []
-      },
-      {
-        "title": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
-        "summary": "Ahead of its second-quarter earnings, TSMC reported its June and first-half revenue for 2026.",
-        "link": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
-        "published": "Mon, 13 Jul 2026 07:29:26 GMT",
-        "source": "cnbc.com",
-        "id": "88245b7a22",
-        "quick_take": "TSMC's revenue jumped 68% in June, highlighting its strong position in the booming semiconductor industry.",
-        "simplified_article": "TSMC, the world's largest contract chipmaker, reported a significant 68% increase in its revenue for June 2026. This surge is likely due to the growing demand for semiconductor chips used in everything from smartphones to cars. TSMC plays a crucial role in the tech supply chain, so its performance often reflects industry trends. Investors and businesses should keep an eye on TSMC's upcoming second-quarter earnings report to see if this growth continues.",
-        "investor_impact": "This strong revenue growth could positively affect companies that rely on semiconductors, including tech firms and automotive companies. If TSMC continues to perform well, it may lead to higher stock prices in the tech sector. Additionally, suppliers to TSMC might also see increased demand, affecting their business opportunities.",
+        "id": "184bbf28bc",
+        "quick_take": "In 2026, certain states are highlighted for their strong economies, which is important for job growth and investment opportunities.",
+        "simplified_article": "A report listed the 10 best state economies in America for 2026, showing which states are performing well financially. This ranking helps identify where there are good job prospects and economic stability. Strong state economies can attract businesses and boost local employment. As these states thrive, residents might find better opportunities for work and economic growth.",
+        "investor_impact": "If you're considering investments, focusing on states that have strong economies might point you towards industries like real estate or local businesses that could benefit from increased job growth. This could also influence where companies decide to set up operations, impacting their stock performance and job availability in those regions.",
         "key_terms": []
       }
     ],
     "banking-economy": [
+      {
+        "title": "HDFC Bank's total workforce witnesses reduction of 3,343 employees in FY26",
+        "summary": "HDFC Bank reduced its workforce by 3,343 employees during the last fiscal year. The bank's total balance sheet expanded by twelve percent to over forty-three trillion rupees. Employee attrition stood at twenty-three percent, while senior management roles saw an increase.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-banks-total-workforce-witnesses-reduction-of-3343-employees-in-fy26/articleshow/132369373.cms",
+        "published": "Mon, 13 Jul 2026 20:03:16 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "12acdbe459",
+        "quick_take": "HDFC Bank cut 3,343 jobs last year, which shows they're streamlining as they grow their total assets by 12%.",
+        "simplified_article": "HDFC Bank laid off 3,343 employees in the last financial year. This reduction in workforce was likely part of a strategy to improve efficiency, even as the bank's overall balance sheet grew significantly. The bank's total assets increased by over 43 trillion rupees, indicating strong financial health. As a result, more senior management positions were created, possibly to oversee this growth. This job reduction may impact many employees who now face uncertainty in their careers in the banking sector.",
+        "investor_impact": "This job cut might signal a shift in how banks operate, potentially leading to less consumer-facing staff in the future. If you're in the job market, especially in banking, it may mean increased competition for fewer roles. Additionally, as the bank focuses on growth, they may become more efficient in offering services, which could impact fees for customers seeking bank loans or accounts.",
+        "key_terms": []
+      },
+      {
+        "title": "FCNR inflows may reduce banks' reliance on CD market in Q2 FY27: Report",
+        "summary": "Foreign currency deposits may reduce bank reliance on certificate of deposit issuances. Strong credit growth will continue to support certificate of deposit issuances in the near term. However, FCNR (B) deposit inflows will determine certificate of deposit volumes in the second quarter. Commercial paper issuances are expected to remain strong for NBFCs and corporates. Elevated refinancing needs will sustain primary market activity for commercial papers.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-inflows-may-reduce-banks-reliance-on-cd-market-in-q2-fy27-report/articleshow/132368148.cms",
+        "published": "Mon, 13 Jul 2026 18:54:34 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "700018578e",
+        "quick_take": "FCNR (B) deposits are likely to reduce banks' need for certificates of deposit, impacting their funding strategies in Q2 FY27.",
+        "simplified_article": "Banks might not need to issue as many certificates of deposit, which are short-term loans, because they expect more foreign currency deposits to come in. This change is driven by strong credit growth, meaning businesses are borrowing more money. Certificates of deposit help banks gather funds quickly, and less reliance on them could change how banks finance their operations. In the short term, non-banking financial companies (NBFCs) and corporations are likely to keep issuing commercial papers, which are like IOUs, to meet their funding needs. This will keep the borrowing market active for both banks and businesses.",
+        "investor_impact": "If you're invested in bank stocks, watch for changes in their funding costs as they lean less on certificates of deposit. Non-banking financial companies (NBFCs) and large corporations may continue to have strong funding options, so their stocks could be stable. However, banks might offer slightly different interest rates on savings accounts and fixed deposits based on how they're funding their loans.",
+        "key_terms": [
+          {
+            "term": "FCNR (B) deposits",
+            "meaning": "Foreign Currency Non-Resident (B) deposits allow non-resident Indians to hold accounts in foreign currencies, which can influence how banks manage their funding."
+          },
+          {
+            "term": "certificates of deposit",
+            "meaning": "Certificates of deposit are short-term financial products that banks use to gather money from investors, which they use to lend out or invest."
+          },
+          {
+            "term": "commercial papers",
+            "meaning": "Commercial papers are unsecured short-term debt instruments issued by companies to cover immediate expenses."
+          }
+        ]
+      },
+      {
+        "title": "FM Nirmala Sitharaman calls for enhanced NRI outreach to sustain foreign currency mobilisation momentum",
+        "summary": "Finance Minister Nirmala Sitharaman urged banks to enhance outreach to Non Resident Indians. Banks are offering attractive returns on foreign currency deposits and are seeing significant interest. Public sector banks are employing customized digital strategies to engage the NRI diaspora effectively. International Banking Units at GIFT City are being utilized for fund mobilization from multiple jurisdictions.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fm-nirmala-sitharaman-calls-for-enhanced-nri-outreach-to-sustain-foreign-currency-mobilisation-momentum/articleshow/132367903.cms",
+        "published": "Mon, 13 Jul 2026 18:42:41 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "3a63a80aad",
+        "quick_take": "Finance Minister Nirmala Sitharaman wants banks to boost outreach to Non Resident Indians (NRIs) to keep increasing foreign currency deposits, which are attracting significant interest due to high returns.",
+        "simplified_article": "Finance Minister Nirmala Sitharaman has called on banks to do more for Non Resident Indians (NRIs) to encourage them to deposit money in foreign currencies. This push comes as banks are currently offering attractive returns on these deposits, leading to increased interest from NRIs. Public sector banks are using tailored digital strategies to better connect with the NRI community. Additionally, specific banking facilities at GIFT City are being used to gather funds from various countries. As a result, NRIs will likely find more options and incentives to invest their money through these initiatives.",
+        "investor_impact": "If you're an NRI, this is a good time to consider foreign currency deposits due to the appealing returns being offered by banks. The focus on outreach could lead to more tailored financial products that meet your needs, making it easier to manage your investments across borders. Banks may also increase competition, which can be advantageous for you as an investor.",
+        "key_terms": []
+      },
       {
         "title": "Edelweiss arm wins NHAI's TOT 19 roads bundle for ₹2,259 crore",
         "summary": "EAAA Alternatives has won the rights to operate two NHAI toll road projects in Tamil Nadu for 20 years under the Toll, Operate and Transfer (TOT) programme. The 170-km Thanjavur-Trichy and Madurai-Tuticorin stretches were acquired for ₹2,259 crore.",
@@ -418,9 +498,9 @@
         "published": "Mon, 13 Jul 2026 17:12:46 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "79c1c5f3ad",
-        "quick_take": "EAAA Alternatives secured a ₹2,259 crore deal to manage two toll road projects in Tamil Nadu for the next 20 years, showing growing investment in infrastructure.",
-        "simplified_article": "EAAA Alternatives has won the rights to operate two toll roads in Tamil Nadu for 20 years. They paid ₹2,259 crore for this opportunity. Toll roads charge drivers a fee to use them, generating steady income for the operator. This deal means EAAA will be responsible for maintaining and managing the roads, which could lead to better travel conditions for drivers. The success of this project may also attract more investors to infrastructure development in India.",
-        "investor_impact": "This deal may indicate increased investment opportunities in India's infrastructure sector, potentially leading to benefits for construction and engineering companies. If these toll roads improve transport efficiency, it might positively impact logistics and goods movement, which is crucial for businesses reliant on supply chains.",
+        "quick_take": "EAAA Alternatives just secured a ₹2,259 crore deal to run two major toll roads in Tamil Nadu for 20 years, highlighting growing investment in infrastructure.",
+        "simplified_article": "EAAA Alternatives has won the rights to operate two toll road projects in Tamil Nadu for the next 20 years. This acquisition was made under the Toll, Operate and Transfer (TOT) program, which allows companies to run toll roads and eventually return them to the government. The two road stretches involved are 170 km long, covering the Thanjavur-Trichy and Madurai-Tuticorin routes. Next, EAAA Alternatives will manage the toll operations, which could improve road maintenance and services for drivers in that region.",
+        "investor_impact": "Investors in infrastructure and construction sectors might see positive effects from this deal, as it demonstrates confidence in toll road projects. Additionally, local businesses and logistics companies in Tamil Nadu could benefit from improved road conditions, possibly reducing transportation costs.",
         "key_terms": []
       },
       {
@@ -430,15 +510,10 @@
         "published": "Mon, 13 Jul 2026 14:17:58 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "8012534cd7",
-        "quick_take": "Tata Capital bought an 88.6% stake in Yogloans to tap into India's gold loan market, reflecting growing confidence in using gold as collateral.",
-        "simplified_article": "Tata Capital has acquired an 88.6% stake in Yogloans, which is based in Kerala and specializes in gold loans. This move comes as lenders shift towards secured lending options, like gold loans, due to tighter regulations on unsecured loans. The gold loan market is booming because of rising gold prices and changing attitudes towards using family gold as collateral. With this deal, Tata Capital now has a loan book worth ₹708 crore, 162 branches, and 32,000 customers, allowing them to grow in this competitive market.",
-        "investor_impact": "Investors holding gold assets might benefit from rising prices as more people consider using gold for loans. This shift could influence how banks approach personal loans, potentially leading to more options for consumers needing secured loans. Additionally, companies involved in gold-related services may see growth in demand.",
-        "key_terms": [
-          {
-            "term": "gold loan",
-            "meaning": "A type of loan where you offer your gold jewelry as collateral to borrow money, which is gaining popularity as gold prices rise."
-          }
-        ]
+        "quick_take": "Tata Capital bought 88.6% of Yogloans to tap into India's growing gold loan market, which is shifting focus from unsecured loans.",
+        "simplified_article": "Tata Capital has purchased an 88.6% stake in Yogloans, a company in Kerala that provides gold loans. This move is part of a trend where lenders prefer secured loans, like those backed by gold, as gold prices rise. Recently, stricter rules around unsecured lending have also influenced this shift. With 162 branches and a loan book of ₹708 crore, Tata Capital can now serve more customers needing loans against their gold. Consumers may find it easier to get loans using their gold as collateral instead of relying solely on credit scores.",
+        "investor_impact": "This could benefit customers looking for loans, as companies like Tata Capital are prioritizing gold loans over unsecured ones. If you hold gold or are considering borrowing against it, this trend is promising as it suggests more competitive options in the gold loan sector. Additionally, rising gold prices may mean loans against gold could become more valuable.",
+        "key_terms": []
       },
       {
         "title": "Singham vs scammers? Bandhan Bank brings Rohit Shetty for Cyber Cop mission",
@@ -447,9 +522,9 @@
         "published": "Mon, 13 Jul 2026 13:36:15 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "c7b8a3b8b7",
-        "quick_take": "Bandhan Bank launched a Cyber Cop campaign with filmmaker Rohit Shetty to fight rising cyber fraud in India, which is a major issue for consumers.",
-        "simplified_article": "Bandhan Bank has started a campaign called Cyber Cop to raise awareness about cyber fraud across India. This initiative was created because online scams are increasing, putting people's finances at risk. The campaign features the message 'Pause. Verify. Report.' to encourage safer online habits. Filmmaker Rohit Shetty is involved to draw attention to this important issue. As people use more online services, they need to be cautious to protect themselves from scams.",
-        "investor_impact": "This campaign could positively impact the banking sector by increasing customer trust in digital banking services. If people feel safer using Bandhan Bank's online services, it might boost the bank's customer base and financial performance. Additionally, it highlights a growing demand for secure digital practices, which could benefit companies developing cybersecurity solutions.",
+        "quick_take": "Bandhan Bank is teaming up with filmmaker Rohit Shetty for a Cyber Cop campaign to fight growing online scams in India, highlighting a serious issue as cybercrime losses rise.",
+        "simplified_article": "Bandhan Bank has launched a nationwide campaign called Cyber Cop to raise awareness about cyber fraud, partnering with popular filmmaker Rohit Shetty. This initiative is in response to the increasing threat of online scams and AI-enabled fraud that are causing significant financial losses in India. Cybercrime is a major concern as more people perform transactions online. The campaign encourages everyone to 'Pause. Verify. Report.' when they encounter suspicious online activities, aiming to protect users and promote safer digital habits.",
+        "investor_impact": "This campaign may lead to increased confidence in digital banking, potentially benefiting banks like Bandhan Bank. If consumers feel safer, they might engage more with online banking services, possibly boosting the sector's growth. Additionally, companies involved in cybersecurity solutions could see heightened interest as awareness around online threats grows.",
         "key_terms": []
       },
       {
@@ -459,9 +534,9 @@
         "published": "Mon, 13 Jul 2026 12:22:58 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "def947f0c2",
-        "quick_take": "HDFC Bank's Deputy MD Kaizad Bharucha earned ₹17.14 crore in FY26, more than CEO Jagdishan's ₹15.13 crore, highlighting significant pay increases for top executives.",
-        "simplified_article": "In the fiscal year twenty twenty-six, HDFC Bank's executives received big salary increases. Deputy Managing Director Kaizad Bharucha earned ₹17.14 crore, which is more than CEO Sashidhar Jagdishan's ₹15.13 crore. This rise in pay is mainly due to performance-linked bonuses, which are rewards based on how well the bank did. Other executives also got raises, particularly Executive Director V. Srinivasa Rangan, who saw the largest percentage increase in fixed pay. This trend shows that top leaders in HDFC Bank are benefiting from the bank's good performance.",
-        "investor_impact": "Higher executive pay can indicate a strong performance and growth potential for HDFC Bank, which might increase investor confidence. If you own bank stocks or are considering investing in the banking sector, this news could be a positive sign of the bank's financial health. However, keep in mind that rising executive pay can also lead to scrutiny from shareholders if they feel like the increases are too high compared to overall profits.",
+        "quick_take": "HDFC Bank's Deputy MD Bharucha earned ₹17.14 crore, outpacing CEO Jagdishan's ₹15.13 crore, showing a significant rise in executive pay due to performance-linked bonuses.",
+        "simplified_article": "In the fiscal year 2026, HDFC Bank's top executives received large salary increases. Deputy Managing Director Kaizad Bharucha's pay reached ₹17.14 crore, more than CEO Sashidhar Jagdishan's ₹15.13 crore. This rise in pay was mainly due to bonuses that depended on their performance. Such significant compensation packages reflect the bank's strong financial performance, which positively impacts its leadership. Going forward, this could influence how other banks set their executive pay and may draw attention from shareholders concerned about high salaries.",
+        "investor_impact": "High executive salaries may raise questions about operating costs, which can affect profitability. For shareholders, this insight might indicate how effectively HDFC Bank is performing compared to its competitors, potentially influencing stock value. If investors perceive these pay raises as justifiable due to strong bank performance, it could reassure them about HDFC Bank's financial health.",
         "key_terms": []
       },
       {
@@ -471,49 +546,123 @@
         "published": "Mon, 13 Jul 2026 11:15:35 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "1197090375",
-        "quick_take": "Tata Capital is buying 88.6% of Yogloans for up to Rs 318 crore, quickly entering the gold loan market with a substantial existing platform.",
-        "simplified_article": "Tata Capital has decided to acquire 88.6% of Yogloans, which allows them to start offering gold loans immediately. This deal cost up to Rs 318 crore, as Tata Capital looks to enhance its lending options by adding a high-interest secured product (a loan backed by collateral). Yogloans, as of March 2026, managed Rs 708 crore in assets. Now, Tata Capital gains access to Yogloans' branch network and experienced management, which will help them grow in the secured lending business.",
-        "investor_impact": "This acquisition may attract more customers towards gold loans, benefiting those interested in borrowing against gold. If gold loan offerings become popular, it could influence how consumers consider loans and investments in gold-related financial products.",
-        "key_terms": []
-      },
-      {
-        "title": "Tata Capital forays into gold loans with Yogloans acquisition",
-        "summary": "Tata Capital is entering India's gold loan market by acquiring a majority stake in Yogloans. This strategic move expands their retail lending portfolio with a secured lending product. The acquisition involves a share purchase and a significant capital infusion into the NBFC. India's gold loan market is expanding, driven by rising gold prices and credit demand. Yogloans operates across four southern states and will continue under its current leadership.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/tata-capital-forays-into-gold-loans-with-yogloans-acquisition/articleshow/132356629.cms",
-        "published": "Mon, 13 Jul 2026 10:06:14 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "f98c6a80da",
-        "quick_take": "Tata Capital is entering the gold loan market by acquiring a majority stake in Yogloans, a move that reflects growing demand for secured lending in India.",
-        "simplified_article": "Tata Capital has bought most of Yogloans to start offering gold loans in India. They are making this move as gold prices rise and more people want loans backed by gold. The gold loan market is growing quickly. Yogloans will still be run by its current management and continues its operations in four southern states, providing an opportunity for Tata Capital to expand its lending options.",
-        "investor_impact": "If you are considering taking out a gold loan, this could increase competition and potentially lower interest rates as companies like Tata Capital enter the market. More players in the gold loan area can also provide better services and options for customers looking to leverage their gold for loans. For gold owners, this trend may increase the value of gold loans as a financial tool.",
-        "key_terms": []
-      },
-      {
-        "title": "The ATM story: Banks move to cash recyclers from just dispensers",
-        "summary": "More than 15,000 ATM units are expected to come up for request for proposals (RFPs) for cash recyclers, with nearly 77% of these belonging to PSBs, according to industry executives. Punjab National Bank, Union Bank of India and Bank of India are among the lenders expected to issue recycler RFPs.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-atm-story-banks-move-to-cash-recyclers-from-just-dispensers/articleshow/132351749.cms",
-        "published": "Mon, 13 Jul 2026 00:45:27 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "104725e242",
-        "quick_take": "Over 15,000 cash recycling ATMs are coming soon as banks like Punjab National Bank shift from regular dispensers to better cash management systems.",
-        "simplified_article": "Banks in India are planning to introduce over 15,000 new cash recycling ATMs. This change is happening as banks look for better ways to manage cash, especially since around 77% of these new ATMs will be from public sector banks (PSBs). Cash recyclers can accept and dispense cash, making transactions more efficient. As a result, customers will likely have easier access to cash, and the banks can reduce the costs of handling cash. Upcoming changes from banks like Punjab National Bank and Union Bank of India are expected to improve the cash withdrawal experience for many.",
-        "investor_impact": "This shift could benefit companies involved in ATM and banking technology, creating opportunities for growth in this sector. If you are a customer using bank services, expect more efficient cash handling at ATMs, which should streamline your cash withdrawals. The move may also lead to reduced operational costs for banks, possibly impacting their profitability in a positive way.",
-        "key_terms": []
-      },
-      {
-        "title": "RBI seeks banks’ views on introducing education savings plan with better returns",
-        "summary": "The Reserve Bank of India is exploring a new savings product for education. Banks are discussing this proposal and will submit their recommendations soon. Rising education costs necessitate such dedicated financial planning tools. This initiative aims to help families build a corpus for school expenses. The proposed product may require new regulatory dispensations from the RBI.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-seeks-banks-views-on-introducing-eduation-savings-plan-with-better-returns/articleshow/132351176.cms",
-        "published": "Mon, 13 Jul 2026 00:09:44 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "57c5d4eaa1",
-        "quick_take": "RBI is looking to launch an education savings plan to help families save for rising school costs.",
-        "simplified_article": "The Reserve Bank of India (RBI) is considering a new savings product specifically for education expenses. This comes because the costs of education are increasing, making it important for families to plan financially. The new savings plan is designed to help families build up money for school fees. Banks are currently discussing this proposal and will send their suggestions to the RBI soon. The launch of this product may require special approvals from the RBI, further emphasizing its importance for future planning.",
-        "investor_impact": "If this education savings plan gets implemented, it could lead to more attractive savings options for families planning for school expenses, especially affecting banks and financial institutions involved in savings products. It may also drive competition among banks to offer better returns on these education-focused savings plans.",
-        "key_terms": []
+        "quick_take": "Tata Capital is buying 88.6% of Yogloans for Rs 318 crore to quickly enter the gold loan business, expanding its lending options.",
+        "simplified_article": "Tata Capital is acquiring most of Yogloans, which specializes in gold loans, for Rs 318 crore. This move allows Tata Capital to offer secured lending products (loans backed by collateral, like gold) immediately. Yogloans had Rs 708 crore in assets as of March 31, 2026. With this acquisition, Tata Capital gains an experienced team and a branch network to support its new offerings, making it easier for customers to access loans against their gold.",
+        "investor_impact": "This acquisition signals that Tata Capital is entering the gold loan sector, which may appeal to borrowers looking for loans using their gold as security. If you're interested in gold loans or are a competitor in that space, you'll want to watch how this impacts pricing and availability in the market.",
+        "key_terms": [
+          {
+            "term": "secured lending products",
+            "meaning": "Loans that are guaranteed by collateral (like gold), making them less risky for lenders."
+          },
+          {
+            "term": "assets under management",
+            "meaning": "The total value of assets that a company manages on behalf of its clients, indicating size and investment capability."
+          }
+        ]
       }
     ],
     "sectors": [
+      {
+        "title": "Hundreds of economists say 'we must act now' on AI's economic impact and job displacement risks",
+        "summary": "Top economists and scientists have issued an open letter urging immediate action. They warn artificial intelligence could transform economies and displace many workers. This transformation may be larger than the Industrial Revolution, occurring much faster. Leaders must establish incentives and guardrails to guide AI development. Collective, democratic choices are needed to ensure AI benefits all citizens.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hundreds-of-economists-say-we-must-act-now-on-ais-economic-impact-and-job-displacement-risks/articleshow/132370921.cms",
+        "published": "Mon, 13 Jul 2026 21:40:44 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "7f5b420ef0",
+        "quick_take": "Hundreds of economists warn that AI could disrupt economies and jobs faster than the Industrial Revolution, calling for swift action to manage its impacts.",
+        "simplified_article": "A large group of economists and scientists has signed an open letter urging immediate action to address the potential economic risks of artificial intelligence (AI). They believe that AI could change economies and lead to job losses more rapidly than past industrial changes. This is significant because it could impact many workers and sectors as AI technology evolves. Next steps involve governments creating rules and incentives to ensure AI development benefits everyone, rather than just a few. All citizens, especially workers in affected industries, could face significant shifts in job opportunities.",
+        "investor_impact": "Companies involved in technology development may see increased investment as governments push for responsible AI growth. Sectors reliant on traditional jobs, such as manufacturing or customer support, could face disruptions, affecting stock prices and employment rates. This situation may also impact employees' job security, especially in roles that could be automated by AI.",
+        "key_terms": []
+      },
+      {
+        "title": "MeitY launches NIDAR 2.0 to develop drones powered by Indian-made chips",
+        "summary": "The Ministry of Electronics and Information Technology (MeitY), in collaboration with the Drone Federation India (DFI), on Monday launched the second edition of the National Innovation Challenge for Drone Application and Research (NIDAR 2.0), challenging students to build autonomous drones and indigenous flight controllers powered by India's homegrown VEGA processor.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/meity-launches-nidar-2-0-to-develop-drones-powered-by-indian-made-chips/articleshow/132369497.cms",
+        "published": "Mon, 13 Jul 2026 20:41:04 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "1427ae7fca",
+        "quick_take": "India's Ministry of Electronics launched NIDAR 2.0 to spark innovation in drone technology using homegrown chips, pushing forward the country's tech independence.",
+        "simplified_article": "The Ministry of Electronics and Information Technology (MeitY) launched NIDAR 2.0, a competition aimed at students to develop autonomous drones using Indian-made technology. This initiative is part of a larger effort to support and grow India's technological capabilities, especially in the drone sector. Drones have become increasingly important in various industries, from delivery to agriculture. Moving forward, students with innovative ideas can create new drones using India's VEGA processor, which may create opportunities for collaboration and new products in the tech market.",
+        "investor_impact": "This push for indigenous drone technology could boost investment in tech companies specializing in electronics and aerospace. If successful, homegrown drone solutions can attract interest from various sectors, including logistics and agriculture, leading to growth in these areas. Watching companies involved in drone manufacturing and technology may yield insights into future market developments.",
+        "key_terms": []
+      },
+      {
+        "title": "HCLTech's workforce declines by 3,292 in Q1 FY27",
+        "summary": "HCLTech's workforce shrank by a net 3,292 employees during the April-June quarter of FY2026-27, marking its sharpest quarterly decline in at least the past five quarters, even as the IT services company reported higher profit and maintained its full-year growth guidance, according to its Q1 FY27 investor release and financial results.",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/hcltechs-workforce-declines-by-3292-in-q1-fy27/articleshow/132369205.cms",
+        "published": "Mon, 13 Jul 2026 19:48:23 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "fca7bf39a9",
+        "quick_take": "HCLTech's workforce dropped by 3,292 employees in Q1 FY27, highlighting a significant cut even as profits rose, which signals challenges in the IT sector.",
+        "simplified_article": "HCLTech, a major IT services company, saw its workforce decrease by 3,292 employees from April to June 2026. This decline is the largest the company has faced in the past five quarters, indicating possible restructuring or efficiency measures. Despite this workforce reduction, HCLTech reported higher profits and expects to maintain its growth for the entire year. Investors and employees may be concerned about the company's staffing strategy and future job security. The situation reflects broader trends in the IT industry, where companies are adjusting to changing market demands.",
+        "investor_impact": "This significant cut in HCLTech's workforce might affect investor confidence in the IT sector, particularly in companies that are heavily reliant on maintaining a large employee base. It could also indicate potential challenges for tech firms in managing costs and profits, which may influence stock prices. If such trends continue, it could lead to cautious spending from firms, impacting related tech service sectors.",
+        "key_terms": []
+      },
+      {
+        "title": "HCLTech Q1 profit rises; Sops to fuel Indian chips",
+        "summary": "HCLTech began FY27 with a strong first-quarter performance. This and more in today's ETtech Top 5.",
+        "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/hcltech-q1-profit-rises-sops-to-fuel-indian-chips/articleshow/132367917.cms",
+        "published": "Mon, 13 Jul 2026 19:10:15 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "b0e1f2e756",
+        "quick_take": "HCLTech reported strong Q1 profits as it gears up for new opportunities in the Indian chip manufacturing sector.",
+        "simplified_article": "HCLTech announced impressive profits in the first quarter of the financial year 2027. This uptick is likely due to increasing demand for technology services and support for the developing chip industry in India. The Indian government is providing incentives to boost local chip production, which is essential for tech growth. Moving forward, HCLTech's strong start could benefit various tech sectors as demand for homegrown components rises.",
+        "investor_impact": "Investors in the tech sector, especially those with interests in IT services and semiconductor industries, might see better growth prospects. As India pushes for local chip production, companies involved in this space could experience increased business opportunities, leading to potentially higher stock values.",
+        "key_terms": []
+      },
+      {
+        "title": "HCLTech to invest Rs 3,500 crore in data centre business",
+        "summary": "​This came alongside the announcement of the IT company's June quarter result. HCLTech posted over 20% year-on-year rise in its consolidated net profit at Rs 4624 crore, and retained its revenue growth guidance at 1-4% for FY27.",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-to-invest-rs-3500-crore-in-data-centre-business/articleshow/132367912.cms",
+        "published": "Mon, 13 Jul 2026 18:41:46 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "0cc64e0905",
+        "quick_take": "HCLTech is investing Rs 3,500 crore in its data centre business while reporting a 20% jump in its profits, showing its commitment to growth in tech infrastructure.",
+        "simplified_article": "HCLTech announced it will put Rs 3,500 crore into expanding its data centre business. This investment comes as the company reported a strong profit increase of over 20%, reaching Rs 4624 crore compared to last year. HCLTech is focused on growing its revenue by 1-4% in the upcoming fiscal years. The investment will boost the tech infrastructure market, affecting other companies and jobs in the tech sector. This move shows that HCLTech is betting on the future demand for data storage and processing services.",
+        "investor_impact": "This investment could lead to growth in tech-related stocks, as companies that provide data services may see higher demand and profits. If you're invested in tech stocks or companies that rely on data management, this could signal a positive trend for your investments. Businesses in data storage sectors will likely benefit from increased spending on infrastructure.",
+        "key_terms": [
+          {
+            "term": "data centre",
+            "meaning": "A facility that houses computer systems and associated components, important for managing and storing large amounts of data."
+          }
+        ]
+      },
+      {
+        "title": "Y Combinator's Tom Blomfield joins Anthropic's compute team",
+        "summary": "Blomfield was at YC as a partner, mentoring founders across multiple batches after building two unicorns. He was awarded an OBE (Officer of the British Empire) in 2019 for his contribution to competition in banking.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/y-combinators-tom-blomfield-joins-anthropics-compute-team/articleshow/132367619.cms",
+        "published": "Mon, 13 Jul 2026 18:34:19 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "022e7ad529",
+        "quick_take": "Tom Blomfield left Y Combinator to join Anthropic's compute team, which is important because he brings significant experience from his background in tech startups.",
+        "simplified_article": "Tom Blomfield, who used to work as a mentor at Y Combinator (a startup incubator that helps new companies grow), has joined the compute team at Anthropic, a company focused on AI safety. His move likely comes from his desire to work directly in the tech field after building successful companies. In 2019, he was recognized with an OBE for improving competition in the banking sector. Next, his expertise could help Anthropic enhance its AI technology, affecting how companies develop safer AI systems in the future.",
+        "investor_impact": "This shift may positively influence the AI sector, especially companies focused on ethical AI development, which could attract more investments. If Anthropic's projects succeed, it could lead to growth in the AI technology market, impacting tech stocks related to AI advancements.",
+        "key_terms": []
+      },
+      {
+        "title": "HCL Technologies Q1 Results: Profit rises 20% YoY to Rs 4,624 crore; co declares Rs 12 dividend",
+        "summary": "HCL Technologies Q1 results: IT services company HCL Tech reported a 20% year-on-year (YoY) growth in its consolidated net profit at Rs 4,624 crore in the first quarter of FY27. The same stood at Rs 3,843 crore in the last year quarter.",
+        "link": "https://economictimes.indiatimes.com/tech/information-tech/hcl-technologies-q1-results-profit-rises-20-yoy-to-rs-4624-crore-co-declares-rs-12-dividend/articleshow/132366775.cms",
+        "published": "Mon, 13 Jul 2026 17:45:47 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "a21f970322",
+        "quick_take": "HCL Technologies saw its profit jump by 20% to Rs 4,624 crore in Q1 FY27, highlighting strong growth in the IT sector.",
+        "simplified_article": "HCL Technologies reported a net profit of Rs 4,624 crore for the first quarter of FY27, up from Rs 3,843 crore a year ago. This growth of 20% year-on-year is due to increased demand for its IT services. The company’s success indicates a robust recovery in the tech industry as businesses continue to invest in digital solutions. Moving forward, shareholders will receive a dividend of Rs 12 per share, showing the company's strong financial health.",
+        "investor_impact": "This positive earnings report could boost HCL Technologies' stock price, benefiting shareholders. Tech companies, especially those in IT services, could attract more investments as they demonstrate strong profitability and growth. Investors with stakes in HCL or similar firms might see improved returns in the short term.",
+        "key_terms": []
+      },
+      {
+        "title": "Intel announces $5.7 billion capital investment at Irish manufacturing hub",
+        "summary": "Intel is investing five billion euros at its Irish campus. This expansion aims to boost manufacturing output for AI and high-performance computing needs. The investment will upgrade facilities and install leading-edge manufacturing equipment. This move ensures Ireland remains at the forefront of advanced manufacturing ecosystems. The chipmaker's latest capital expenditure program began earlier this year.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/intel-announces-5-7-billion-capital-investment-at-irish-manufacturing-hub/articleshow/132366359.cms",
+        "published": "Mon, 13 Jul 2026 17:39:53 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "c26f1c5b5e",
+        "quick_take": "Intel is investing €5.7 billion in Ireland to enhance its chip manufacturing for AI and advanced computing, keeping the country competitive.",
+        "simplified_article": "Intel is putting €5.7 billion into its manufacturing facility in Ireland. This move is to upgrade their technology and increase production for artificial intelligence (AI) and high-performance computing, which are critical for future tech advancements. Earlier this year, Intel started a program to spend on improving its facilities. This investment won't just benefit Intel; it will also support the local economy and jobs, as Ireland is becoming a key player in advanced manufacturing.",
+        "investor_impact": "This investment could benefit technology and manufacturing sectors, particularly companies involved in AI and high-performance computing. If you're tied to these industries, the growth potential here is significant, possibly leading to more employment opportunities. Local suppliers and service providers may also see increased demand as Intel ramps up its operations.",
+        "key_terms": []
+      },
       {
         "title": "Satya Nadella's 'Reverse Information Paradox' post draws reactions from AI leaders",
         "summary": "Microsoft CEO Satya Nadella highlighted risks businesses face with AI adoption. He warned companies could lose valuable organizational knowledge through AI interactions. Tech leaders responded to Nadella's \"Reverse Information Paradox\" concerns. Some executives agreed, while others noted existing protections. Discussions are ongoing regarding AI's impact on intellectual property and data control.",
@@ -521,10 +670,15 @@
         "published": "Mon, 13 Jul 2026 17:21:13 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "8035a9d110",
-        "quick_take": "Microsoft CEO Satya Nadella raised concerns about companies losing important knowledge when using AI, which could impact how firms manage their information.",
-        "simplified_article": "Satya Nadella, the CEO of Microsoft, talked about potential dangers of using AI in businesses, particularly how it might cause them to lose crucial knowledge that workers hold. His comments, known as the 'Reverse Information Paradox,' stirred reactions from other tech leaders, some of whom agreed with his worries while others pointed to existing safety measures. This discussion comes at a time when many companies are increasingly adopting AI technologies. Moving forward, companies will need to balance the benefits of AI with the risk of losing important information, affecting their operations and strategies.",
-        "investor_impact": "This could lead to added scrutiny for tech companies relying heavily on AI, especially those focused on data management and intellectual property. Companies that effectively manage knowledge retention alongside AI adoption may gain a competitive edge, while those that don't might face challenges. This conversation may influence investments in tech firms that prioritize data control and security measures.",
-        "key_terms": []
+        "quick_take": "Microsoft CEO Satya Nadella raised concerns about businesses potentially losing critical knowledge as they adopt AI, sparking debate among tech leaders.",
+        "simplified_article": "Satya Nadella, the CEO of Microsoft, shared worries about a dilemma he called the 'Reverse Information Paradox', where companies might lose important knowledge when using AI. This issue has come to light as more businesses turn to AI for help with their operations. Some leaders in the tech industry agree with him, while others believe there are safety measures already in place. The conversation is focusing on how AI could affect ownership of important ideas and data management. Companies using AI need to think carefully about how they maintain their knowledge and control over their information.",
+        "investor_impact": "This situation could lead companies in the tech sector to reconsider their AI strategies, impacting firms heavily reliant on intellectual property, like software and data management companies. Investors in these areas should stay alert to shifts in operations that may affect profits and market stability.",
+        "key_terms": [
+          {
+            "term": "Reverse Information Paradox",
+            "meaning": "This refers to the risk of losing valuable knowledge when companies interact with AI, which could significantly impact their operations and strategy."
+          }
+        ]
       },
       {
         "title": "Samsung, SK hynix, Micron ramp up capacity as demand for AI infrastructure outpaces supply",
@@ -533,218 +687,103 @@
         "published": "Mon, 13 Jul 2026 17:15:36 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "cc8a6a558d",
-        "quick_take": "Samsung, SK Hynix, and Micron are spending billions to boost memory chip production as demand for AI infrastructure skyrockets.",
-        "simplified_article": "Samsung, SK Hynix, and Micron are increasing their production of memory chips to meet the growing demand driven by advancements in artificial intelligence (AI). This surge in AI technology is creating a need for more high-bandwidth and DRAM chips, which are essential for quick data processing. Memory chips are crucial components in technology, and experts predict that supplies will remain tight for several years. As these companies expand their capacity, the ability to supply these chips will heavily impact their future business success and the tech industry's ability to grow.",
-        "investor_impact": "If you follow tech stocks, this news is significant because firms like Samsung and Micron could see their sales increase as they provide more chips for AI-related products. Additionally, companies that rely on these memory chips for their technology may face higher costs if supply remains limited, potentially affecting their profits and stock prices.",
+        "quick_take": "Samsung, SK Hynix, and Micron are investing billions to boost memory chip production to meet skyrocketing demand for AI tech, which is expected to keep supply tight for years.",
+        "simplified_article": "Samsung, SK Hynix, and Micron are expanding their factories to produce more memory chips that are crucial for artificial intelligence (AI) applications. This surge in production comes as companies race to supply the growing need for high-bandwidth and DRAM chips, which are essential for the heavy data processing that AI requires. The memory chip industry is experiencing a boom driven by increased investments in technology but faces challenges due to limited supply. In the coming years, the ability to produce enough chips will be vital for these companies' success and could reshape the tech landscape.",
+        "investor_impact": "If you are involved in tech, this ramp-up in chip production could lead to better supply for companies relying on AI infrastructure, potentially benefiting their stock prices. Memory chip manufacturers’ profits might rise as demand continues to outpace supply. Additionally, companies focusing on AI solutions could see their operational costs improve with more accessible memory chips.",
         "key_terms": [
           {
-            "term": "high-bandwidth chips",
-            "meaning": "These are specialized memory chips that allow for the fast processing of large amounts of data, crucial for AI applications."
+            "term": "DRAM",
+            "meaning": "DRAM stands for Dynamic Random Access Memory, a type of computer memory crucial for fast data processing in devices."
           },
           {
-            "term": "DRAM chips",
-            "meaning": "Dynamic Random-Access Memory chips are a type of memory used in computers and devices that store temporary data, essential for performance."
+            "term": "high-bandwidth",
+            "meaning": "High-bandwidth refers to the capability of a system to transfer large amounts of data quickly, which is vital for AI applications."
           }
         ]
-      },
-      {
-        "title": "Getting access to Mythos high on priority but other AI models also being utilised: IT Secy",
-        "summary": "Mythos - an advanced AI model developed by Anthropic - has been able to \"lay bare\" vulnerabilities that existed in the original code of widely-used software programmes but were often left unresolved because they were considered low priority, too costly to fix, or had simply gone undetected, IT secretary S Krishnan noted.",
-        "link": "https://economictimes.indiatimes.com/tech/technology/getting-access-to-mythos-high-on-priority-but-other-ai-models-also-being-utilised-it-secy/articleshow/132365095.cms",
-        "published": "Mon, 13 Jul 2026 16:36:04 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "186ab4d101",
-        "quick_take": "The IT secretary emphasized the need to prioritize access to Mythos, an AI model that helps identify software vulnerabilities, which could improve software safety significantly.",
-        "simplified_article": "The IT secretary, S Krishnan, highlighted the importance of accessing Mythos, an advanced AI developed by Anthropic, to uncover hidden weaknesses in commonly used software. These vulnerabilities were often overlooked due to being seen as low priority or too costly to fix. Traditionally, software security issues can go unresolved for long periods, which risks users' safety and data. Moving forward, the increased emphasis on using Mythos will likely lead to improved software security for businesses and individuals reliant on technology.",
-        "investor_impact": "Enhanced software security could benefit companies in the tech sector, particularly software developers and cybersecurity firms, as they may see increased demand for their services. This focus on AI-driven solutions could also boost the market for advanced cybersecurity tools, making investments in these areas potentially more attractive.",
-        "key_terms": [
-          {
-            "term": "Mythos",
-            "meaning": "Mythos is an AI model designed to expose vulnerabilities in software, which is crucial for improving security."
-          }
-        ]
-      },
-      {
-        "title": "AI delivers bigger financial gains only when companies redesign workflows: McKinsey",
-        "summary": "Companies gain little by adding AI to existing processes. True benefits emerge after redesigning work around AI. Most organisations use AI within current operating models, yielding only incremental gains. Reinventing execution, not augmenting it, offers the real breakthrough opportunity. Organisations redesigning work around hybrid human-AI teams achieve substantially better outcomes.",
-        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-delivers-bigger-financial-gains-only-when-companies-redesign-workflows-mckinsey/articleshow/132364919.cms",
-        "published": "Mon, 13 Jul 2026 16:32:17 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "c524242f66",
-        "quick_take": "McKinsey found that companies only see real financial benefits from AI after redesigning their workflows, rather than just adding AI to current processes.",
-        "simplified_article": "McKinsey's report reveals that companies don't gain much financially when they simply add AI to existing work methods. The real advantages come when they completely rearrange their workflows to leverage AI effectively. Many businesses are still using AI within their traditional systems, leading to minimal improvements. By creating hybrid teams that combine human workers and AI, companies can achieve significantly better results. This means businesses that embrace these changes could outperform their competitors in the long run.",
-        "investor_impact": "This focus on redesigning workflows with AI could favor tech firms that provide AI consulting and development services, making them more attractive investments. Additionally, companies in various sectors that don't adapt may see slower growth and potentially lower stock prices, especially in industries reliant on traditional processes.",
-        "key_terms": []
-      },
-      {
-        "title": "White House to rally utilities, data centers over AI power costs",
-        "summary": "The White House plans a voluntary pledge for utility companies and data centers. This initiative aims to manage AI's growing electricity demand without raising consumer costs. Several major tech firms previously signed a similar pledge to fund infrastructure. The new event will broaden commitments and include governors from key states. Administration officials seek to assure voters that AI growth and lower energy costs can coexist.",
-        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-to-rally-utilities-data-centers-over-ai-power-costs/articleshow/132363412.cms",
-        "published": "Mon, 13 Jul 2026 15:41:46 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "4e3d72a24c",
-        "quick_take": "The White House is launching a new pledge for utility companies and data centers to manage AI's rising electricity use without increasing costs for consumers, highlighting that AI growth can happen alongside affordable energy.",
-        "simplified_article": "The White House is organizing a voluntary pledge for utility firms and data centers to help control the electricity demands of AI technology. This move aims to ensure that as AI develops, consumers won’t face higher energy bills. Major tech companies had previously made a similar commitment to invest in infrastructure. Going forward, this initiative will involve governors from key states, aiming to reassure voters that it's possible to grow AI while keeping energy costs low.",
-        "investor_impact": "This initiative could boost investments in the utility sector as companies may look to improve energy efficiency to meet new demands. Additionally, firms operating in the AI and data center space might see reduced energy costs, potentially improving their profit margins. Overall, consumers may benefit from stable energy prices, which could enhance spending capabilities in other areas.",
-        "key_terms": []
-      },
-      {
-        "title": "Meta expands Louisiana data center to 5 gigawatts compute capacity",
-        "summary": "Meta plans a significant expansion of its Louisiana data center to five gigawatts. This major investment will support the company's growing artificial intelligence ambitions. Local businesses have already secured over $1.6 billion in contracts from Meta's project. The company is investing over $1 billion in local infrastructure improvements. Meta is committing $600 billion to US infrastructure and jobs over three years.",
-        "link": "https://economictimes.indiatimes.com/tech/technology/meta-expands-louisiana-data-center-to-5-gigawatts-compute-capacity/articleshow/132363303.cms",
-        "published": "Mon, 13 Jul 2026 15:38:04 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "99ad9bbb76",
-        "quick_take": "Meta is pumping $1 billion into expanding its Louisiana data center to enhance AI capabilities, which could significantly boost local jobs.",
-        "simplified_article": "Meta is expanding its data center in Louisiana to reach a capacity of five gigawatts, reflecting its growing focus on artificial intelligence. This $1 billion investment will also improve local infrastructure, benefiting the community. Already, local businesses have secured over $1.6 billion in contracts thanks to this project. With Meta committing to $600 billion in U.S. infrastructure and jobs over the next three years, we can expect more economic activity and job creation in the area.",
-        "investor_impact": "This expansion means more local jobs and contracts, which is good news for construction and tech service companies in Louisiana. Companies connected to Meta’s ecosystem might see increased demand for services, boosting their revenue. Local businesses that land contracts with Meta could experience significant growth as a result of this investment.",
-        "key_terms": []
-      },
-      {
-        "title": "EU, UK hit Russia with joint sanctions over cyber attacks",
-        "summary": "Brussels said it was imposing sanctions on nine people and four entities, while London said it was adding 24 names to its blacklist. Among those subjected to asset freezes and visa bans were officers of Russia's GRU military intelligence agency, and alleged \"cybercriminals\" working together with the Russian state.",
-        "link": "https://economictimes.indiatimes.com/tech/technology/eu-uk-hit-russia-with-joint-sanctions-over-cyber-attacks/articleshow/132363335.cms",
-        "published": "Mon, 13 Jul 2026 15:36:57 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "1dc2b760d1",
-        "quick_take": "The EU and UK jointly sanctioned 33 individuals and entities linked to Russian cyber attacks, highlighting international efforts to hold Russia accountable.",
-        "simplified_article": "The EU imposed sanctions on nine individuals and four groups, while the UK added 24 names to its blacklist. These actions are in response to Russia's involvement in cyber attacks that threaten European security. The targeted individuals include members of Russia's military intelligence (GRU) and alleged cybercriminals collaborating with the state. Moving forward, these sanctions will freeze assets and ban travel for these individuals, impacting their ability to conduct business and travel internationally.",
-        "investor_impact": "This could create ripple effects in sectors that rely on cybersecurity solutions, as companies may face increased demand for protection against state-sponsored attacks. Additionally, businesses engaged with those sanctioned may see disruptions or heightened risks, particularly in technology and defense sectors.",
-        "key_terms": []
-      },
-      {
-        "title": "Shein scheduled for Hong Kong IPO hearing on Thursday",
-        "summary": "Fast-fashion retailer Shein is nearing its market debut. The company received approval from Chinese regulators for its Hong Kong IPO. Once Shein obtains clearance from the stock exchange, it can then proceed to conducting investor roadshows and launching bookbuilding for ‌the IPO.",
-        "link": "https://economictimes.indiatimes.com/tech/technology/shein-scheduled-for-hong-kong-ipo-hearing-on-thursday/articleshow/132363020.cms",
-        "published": "Mon, 13 Jul 2026 15:20:26 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "8077b1cbba",
-        "quick_take": "Shein is set to hold its Hong Kong IPO hearing, marking a big step towards its stock market debut after getting approval from Chinese regulators.",
-        "simplified_article": "Shein, the fast-fashion retailer, is preparing for its initial public offering (IPO) in Hong Kong. This comes after the company received the green light from Chinese regulators. An IPO is when a private company sells shares to the public for the first time to raise money. Next steps include getting approval from the stock exchange and starting to promote the IPO to investors, which could impact those interested in fashion stocks or the retail industry.",
-        "investor_impact": "If you have investments in fashion or retail, Shein's market debut could increase interest in this sector, possibly affecting stock prices of similar companies. Retail-focused investors might see opportunities or shifts in their portfolio values as Shein enters the market, changing competition dynamics.",
-        "key_terms": [
-          {
-            "term": "IPO",
-            "meaning": "Initial Public Offering, which is when a company sells its shares to the public for the first time to raise funds."
-          }
-        ]
-      },
-      {
-        "title": "EU to limit children's access to social media gradually",
-        "summary": "The European Union is considering phased and gradual access to social media for children. Experts recommend supervised use of platforms for those aged three to twelve. Adolescents aged thirteen to eighteen will have evolving autonomous use with safety features. A legal proposal is expected later this year to harmonise approaches across member states.",
-        "link": "https://economictimes.indiatimes.com/tech/technology/eu-to-limit-childrens-access-to-social-media-gradually/articleshow/132362888.cms",
-        "published": "Mon, 13 Jul 2026 15:14:18 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "5f8a41b3e4",
-        "quick_take": "The EU is planning to gradually limit children's social media access to protect their safety, which could reshape the social media landscape for younger users.",
-        "simplified_article": "The European Union is working on a plan to control how children access social media. Experts suggest that children aged three to twelve should use these platforms with supervision, while teens aged thirteen to eighteen can gradually have more freedom with safety features in place. This approach is meant to ensure children are protected as they navigate online spaces. A legal proposal to standardize these measures is expected later this year, impacting families and social media companies across EU member states.",
-        "investor_impact": "This initiative could lead to changes in how social media companies operate, potentially affecting their user base and advertising models if adapted for stricter regulations. Companies specializing in child-safe technology and supervision tools may see increased demand, benefiting their growth. Additionally, any legal changes could create regulatory shifts that influence overall market strategies related to social media services.",
-        "key_terms": []
-      },
-      {
-        "title": "India must build resilient software and hardware systems to withstand cyber threats: MeitY Secretary",
-        "summary": "India must build strong and reliable software and hardware systems that can keep working even during cyberattacks. This resilience is important to support daily life and make it easier to do business as the country becomes more digital, said S. Krishnan, Secretary of the Ministry of Electronics and Information Technology (MeitY), on Monday.",
-        "link": "https://economictimes.indiatimes.com/tech/technology/india-must-build-resilient-software-and-hardware-systems-to-withstand-cyber-threats-meity-secretary/articleshow/132361646.cms",
-        "published": "Mon, 13 Jul 2026 14:21:30 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "c462f1e561",
-        "quick_take": "India's Ministry of Electronics and Information Technology stresses the need for robust software and hardware systems to fend off cyber threats as the country digitalizes.",
-        "simplified_article": "The Secretary of the Ministry of Electronics and Information Technology, S. Krishnan, highlighted that India needs to develop strong software and hardware to stay functional during cyberattacks. This need arises as India becomes more digital, making it crucial for businesses and daily life. Cyber threats can disrupt operations and pose risks to safety and privacy. The government plans to push for improved systems, which will affect businesses and users relying on technology for everyday tasks.",
-        "investor_impact": "Tech companies involved in cybersecurity and software development may see increased demand as the government focuses on building resilient systems. This could benefit firms specializing in IT services, leading to possible growth in their stocks. Additionally, businesses that rely heavily on technology may need to invest more in secure systems, impacting their budgets and profitability.",
-        "key_terms": []
       }
     ],
     "crypto": [
       {
-        "title": "Michael Saylor’s Strategy added $467 million in cash, made no changes to bitcoin holdings",
-        "summary": "The company raised the fresh cash via sales of common stock; its USD Reserve now stands at $3 billion.",
-        "link": "https://www.coindesk.com/markets/2026/07/13/michael-saylor-s-strategy-added-usd467-million-in-cash-made-no-changes-to-bitcoin-holdings",
-        "published": "Mon, 13 Jul 2026 12:15:17 +0000",
+        "title": "Bitcoin panic-selling may be ending as sellers' profit margins disappear",
+        "summary": "Analysts point to bitcoin’s resilience amid fresh U.S.-Iran escalation and renewed spot ETF inflows as the clearest signs yet that the marginal seller has stepped away.",
+        "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-panic-selling-may-be-ending-as-sellers-profit-margins-disappear",
+        "published": "Mon, 13 Jul 2026 15:49:41 +0000",
         "source": "coindesk.com",
-        "id": "03bcfea7f5",
-        "quick_take": "Michael Saylor's company raised $467 million in cash, boosting its total reserves to $3 billion, which shows strong investor confidence.",
-        "simplified_article": "Michael Saylor's company generated $467 million by selling shares of its stock. This new cash brings its total cash reserves to $3 billion. Saylor's strategy has focused on maintaining a strong cash position while not changing its investments in Bitcoin. The increase in cash could help the company invest in new opportunities or support its existing operations. This is relevant for shareholders and potential investors who are looking at the company's financial health.",
-        "investor_impact": "This cash boost means the company could explore new projects or enhance its stability, which may make it a more attractive option for investors interested in tech or cryptocurrency sectors. If the company invests wisely, it could lead to better returns for shareholders in the future, affecting anyone who owns its stock or is considering investing.",
+        "id": "2d0f2066a0",
+        "quick_take": "Bitcoin seems to be stabilizing as sellers are losing profits, hinting at a turn in the market trend.",
+        "simplified_article": "Bitcoin has started to show signs of stability as recent market panic selling appears to be fading. This change is occurring alongside ongoing tensions between the U.S. and Iran and an increase in new investments into Bitcoin funds, called spot ETFs. Historically, Bitcoin has been very volatile, often reacting to global events and investor sentiment. If this trend continues, it may encourage more buyers to enter the market, which could further stabilize Bitcoin's price. Investors in cryptocurrencies should watch for these developments closely, as they affect market sentiment.",
+        "investor_impact": "For those holding Bitcoin or related investments, this could mean less volatility and a more stable investment environment. If more buyers come in, it might increase the value of their assets. Additionally, companies involved in cryptocurrency exchanges or Bitcoin ETFs could see a boost in interest and activity.",
         "key_terms": []
       },
       {
-        "title": "SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance",
-        "summary": "The SBI Solana Global joint venture now includes the Solana Foundation, the Swiss organization that oversees the layer-1 network.",
-        "link": "https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance",
-        "published": "Mon, 13 Jul 2026 11:40:51 +0000",
+        "title": "Strategy pauses its Bitcoin buying spree to hoard a massive $3 billion cash cushion",
+        "summary": "Strategy now has more than 20 months of coverage for preferred-stock dividends and debt interest.",
+        "link": "https://www.coindesk.com/markets/2026/07/13/strategy-pauses-its-bitcoin-buying-spree-to-hoard-a-massive-usd3-billion-cash-cushion",
+        "published": "Mon, 13 Jul 2026 15:27:36 +0000",
         "source": "coindesk.com",
-        "id": "75951e85da",
-        "quick_take": "SBI Holdings is shifting its blockchain efforts to Solana, which matters because it aims to enhance tokenization and stablecoin operations.",
-        "simplified_article": "SBI Holdings, a major financial services company, is changing its blockchain focus to use Solana, a popular crypto platform. This shift is important because it involves the Solana Foundation, which manages this technology, aiming to improve services like tokenization (turning assets into digital tokens) and stablecoins (cryptocurrencies pegged to stable assets like the dollar). As this joint venture develops, it could lead to new financial products that make transactions easier and cheaper. Companies and investors in the cryptocurrency space will be directly affected as these innovations could change how they trade and invest.",
-        "investor_impact": "If you're involved in cryptocurrencies or blockchain technology, the move to Solana could mean better and faster options for trading digital assets. This could attract more investment into Solana, potentially increasing its value and affecting other cryptocurrencies linked to it.",
+        "id": "4c988c83d2",
+        "quick_take": "Strategy has paused buying Bitcoin to build a $3 billion cash reserve, which signals a shift in their investment approach.",
+        "simplified_article": "Strategy has decided to stop purchasing Bitcoin and instead focus on accumulating a massive cash cushion of $3 billion. This decision reflects their intention to ensure they can cover expenses related to preferred-stock dividends and debt interest for over 20 months. With the cryptocurrency market being unpredictable, having this cash reserve may provide them with stability. Going forward, this could mean they are prioritizing safety over aggressive investment, which may affect their ability to invest in future opportunities.",
+        "investor_impact": "For those invested in cryptocurrency, this move might indicate increased caution in the market, which could lead to volatility in Bitcoin prices. Additionally, companies holding Bitcoin may face pressure to reassess their strategies if others like Strategy are taking a more conservative approach. This could affect tech investors or those with liquidity-focused assets, as companies might prioritize cash reserves over high-risk investments.",
+        "key_terms": []
+      },
+      {
+        "title": "Robinhood built a blockchain for tokenized stocks. Memecoins took over",
+        "summary": "Robinhood Chain has pulled in $135 million of value and 800,000 addresses since July 1. Almost none of it is doing what the chain was built for.",
+        "link": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
+        "published": "Mon, 13 Jul 2026 15:17:05 +0000",
+        "source": "coindesk.com",
+        "id": "26a3f764a7",
+        "quick_take": "Robinhood's new blockchain has attracted $135 million but mostly for meme-based coins instead of the tokenized stocks it was designed for.",
+        "simplified_article": "Robinhood launched its own blockchain called Robinhood Chain, which has gained $135 million in value and 800,000 addresses since July 1. However, most users are not using it for its original purpose of trading tokenized stocks, but rather for popular meme-themed cryptocurrencies instead. Tokenized stocks are digital versions of stock shares intended to make ownership easier. In the future, this shift towards meme-based currencies might divert investment away from traditional stocks, affecting the overall market and how companies raise money.",
+        "investor_impact": "Investors in traditional stocks might see less interest and trading activity as more money flows into meme coins, which could influence stock prices negatively. If this trend continues, it may signal a shift in focus from established companies towards more speculative assets, impacting long-term investment strategies.",
+        "key_terms": []
+      },
+      {
+        "title": "Bolivia weighs adding Tether's USDT to its national payments system",
+        "summary": "Crypto usage has spiked in the country, with transaction volumes hitting $430 million in the year after the central bank removed restrictions in mid-2024.",
+        "link": "https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system",
+        "published": "Mon, 13 Jul 2026 14:47:52 +0000",
+        "source": "coindesk.com",
+        "id": "f714fbca6b",
+        "quick_take": "Bolivia is considering adding Tether's USDT to its national payment system as crypto transactions surged to $430 million after the central bank lifted restrictions in 2024.",
+        "simplified_article": "Bolivia is thinking about including Tether's USDT, a type of cryptocurrency, in its payment system. This idea comes after the country's cryptocurrencies usage skyrocketed to $430 million in the year following the removal of certain rules by the central bank in mid-2024. Traditionally, Bolivia had strict regulations around digital currencies. If the government officially adopts USDT, it could make financial transactions easier for many people in Bolivia, potentially benefiting businesses and consumers alike.",
+        "investor_impact": "If Bolivia adopts USDT, it could encourage more businesses to accept cryptocurrency, boosting sectors like tech and retail. This move might make it easier for individuals to transact, which could enhance overall economic activity in the country. Companies that are involved in digital payments or cryptocurrencies could see increased interest and usage due to this development.",
         "key_terms": [
           {
-            "term": "tokenization",
-            "meaning": "Tokenization is the process of converting something into a digital format that can be easily traded or managed on a blockchain."
-          },
-          {
-            "term": "stablecoin",
-            "meaning": "A stablecoin is a type of cryptocurrency designed to keep its value stable by being tied to traditional currencies or assets."
+            "term": "USDT",
+            "meaning": "USDT is a stablecoin, which is a type of cryptocurrency designed to maintain a stable value, often pegged to the US dollar, making it less volatile than other cryptocurrencies."
           }
         ]
       },
       {
-        "title": "BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce",
-        "summary": "The 54 firm-strong group, which is backed by the City of London Corporation, will spend the next year working on live tokenisation use cases across UK financial markets.",
-        "link": "https://www.coindesk.com/business/2026/07/13/uk-government-unveils-tokenization-taskforce-with-blackrock-goldman-jpmorgan-morgan-stanley",
-        "published": "Mon, 13 Jul 2026 11:40:21 +0000",
+        "title": "UK Treasury report on tokenization cites Ripple as convergence model",
+        "summary": "A Treasury-backed report targets putting repo, gilts and funds onchain within two years, and warms to permissionless networks that firms like Ripple have been building on.",
+        "link": "https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds",
+        "published": "Mon, 13 Jul 2026 14:06:53 +0000",
         "source": "coindesk.com",
-        "id": "7cb9586215",
-        "quick_take": "BlackRock, Goldman Sachs, JPMorgan, and Morgan Stanley are joining a UK taskforce to explore new digital asset solutions, which could reshape financial markets over the next year.",
-        "simplified_article": "A group of 54 firms, including major names like BlackRock and Goldman Sachs, is forming a taskforce in the UK to work on using 'tokenization' in financial markets. Tokenization means turning physical assets, like stocks or property, into digital versions that can be easily traded. This taskforce is supported by the City of London Corporation, aiming to modernize how financial dealings work. Over the next year, they'll explore real-world examples of using tokenization, which could help make trading more efficient and accessible. Investors, businesses, and financial institutions could all see changes in how they handle assets.",
-        "investor_impact": "This initiative could lead to more efficient and cost-effective asset trading, affecting investors in stocks and real estate as they may benefit from easier buying and selling processes. Banks and financial companies that adopt these digital solutions may also see improvements in their operational capabilities.",
-        "key_terms": [
-          {
-            "term": "tokenization",
-            "meaning": "It's the process of converting physical assets into digital tokens, making them easier to trade and manage."
-          }
-        ]
-      },
-      {
-        "title": "Profit-taking, MidEast hostilities drag crypto lower after bullish week",
-        "summary": "Crypto's weekend gains gave way to a Monday selloff as Middle East tensions resurfaced, South Korea's Kospi lost 9.2% and $253 million in leveraged positions were wiped out.",
-        "link": "https://www.coindesk.com/markets/2026/07/13/profit-taking-mideast-hostilities-drag-crypto-lower-after-bullish-week",
-        "published": "Mon, 13 Jul 2026 10:30:39 +0000",
-        "source": "coindesk.com",
-        "id": "c2d16fd282",
-        "quick_take": "Crypto prices fell this week as tensions in the Middle East rose, causing a $253 million loss in leveraged positions.",
-        "simplified_article": "Crypto markets saw a decline after a strong weekend, with prices dropping on Monday. This drop was influenced by renewed hostilities in the Middle East, creating uncertainty. In South Korea, the Kospi index also struggled, falling by 9.2%. As tensions continue, more investors may quickly sell off their crypto assets, affecting those involved in leveraged trading.",
-        "investor_impact": "If you're invested in cryptocurrencies, you might see more volatility and potential losses this week due to the geopolitical situation. If you have leveraged positions (which means borrowing money to invest), be especially cautious as these can lead to significant losses during market downturns.",
-        "key_terms": [
-          {
-            "term": "leveraged positions",
-            "meaning": "Investments made with borrowed funds, which can amplify gains but also increase losses, especially in a falling market."
-          }
-        ]
-      },
-      {
-        "title": "Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections",
-        "summary": "Structural change can create lasting opportunities, but explosive rallies in semiconductors, metals and bitcoin show how quickly strong narratives can become speculative excess.",
-        "link": "https://www.coindesk.com/markets/2026/07/13/paradigm-shifts-vs-bubbles-ai-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections",
-        "published": "Mon, 13 Jul 2026 09:32:41 +0000",
-        "source": "coindesk.com",
-        "id": "e7b13308aa",
-        "quick_take": "Big jumps in AI chips and bitcoin show that even strong trends can lead to big mistakes, and investors need to be cautious.",
-        "simplified_article": "Recently, there have been dramatic price increases in AI chips, metals, and bitcoin. This happened because there is a lot of buzz around the potential of these technologies, drawing in many investors. Historically, such excitement can lead to rapid price rises that don't reflect the actual value. Moving forward, this could lead to significant price drops, which might affect investors who jumped in during the hype without understanding the risks.",
-        "investor_impact": "If you invested in AI chip stocks or bitcoin recently, be prepared for possible rapid price declines, as the market corrects itself after the hype. This volatility means those who entered at high prices may face losses in the short term. Buyers need to rethink their strategies and understand the underlying value rather than just following trends.",
+        "id": "035413c31e",
+        "quick_take": "The UK Treasury is looking to bring bond and fund trading onto digital platforms in the next two years, using models from companies like Ripple.",
+        "simplified_article": "The UK Treasury has released a report aiming to shift financial instruments like repos (short-term loans for trading) and bonds onto blockchain technology within two years. This move is part of a broader interest in digital solutions, specifically those from companies like Ripple, which focus on open networks that allow transactions without middlemen. Blockchain could make trading easier and more transparent. If successful, this will impact financial institutions and investors by modernizing how they manage assets, leading to potentially lower costs and faster transactions.",
+        "investor_impact": "This shift could lead to more efficient trading of bonds and other funds, which might attract investors looking for faster and cheaper options. If you're involved in any sectors that deal with debt securities or funds, keep an eye on how this technology evolves, as it may change the way these assets are valued and traded.",
         "key_terms": []
       },
       {
-        "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
-        "summary": "Your look at what's coming in the week starting July 13.",
-        "link": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
-        "published": "Mon, 13 Jul 2026 08:55:50 +0000",
+        "title": "Tom Lee's BitMine ether holdings rise to 5.77 million tokens, or 4.8% of total supply",
+        "summary": "The company expanded its ETH treasury while Chairman Tom Lee pointed to Robinhood Chain's rapid growth on Ethereum.",
+        "link": "https://www.coindesk.com/markets/2026/07/13/tom-lee-s-bitmine-raises-ether-holdings-to-usd5-77-million-or-4-8-of-supply",
+        "published": "Mon, 13 Jul 2026 14:04:01 +0000",
         "source": "coindesk.com",
-        "id": "c4c6565fd6",
-        "quick_take": "This week, the U.S. is facing inflation updates while earnings reports are due, which could shake up markets as companies reveal how they're responding to rising prices.",
-        "simplified_article": "Starting July 13, investors will be eyeing U.S. inflation data and second-quarter earnings reports from companies. This is important because inflation, which means rising prices, affects how much money consumers have and how much companies earn. Companies are reporting their earnings to show how well they're doing financially in today's challenging economic climate. Depending on the results, certain sectors might gain or lose investor confidence. This week's reports will impact everyone from everyday consumers to large investors.",
-        "investor_impact": "If inflation stays high, it could lead to higher interest rates, which may affect loans and mortgages. Tech stocks and companies heavily influenced by consumer spending could either rise or fall depending on their earnings results. Those with investments in sectors like consumer goods might want to pay close attention to how inflation impacts their financial health.",
-        "key_terms": []
+        "id": "56598dfa35",
+        "quick_take": "Tom Lee's BitMine now holds 5.77 million ether tokens, which is 4.8% of the total supply, showing confidence in Ethereum's future.",
+        "simplified_article": "BitMine has increased its ether (ETH) holdings to 5.77 million tokens. This move comes as Chairman Tom Lee highlighted the fast growth of Robinhood Chain on the Ethereum network. Ethereum is a popular blockchain used for various applications, including cryptocurrencies and decentralized finance. The increase in holdings suggests BitMine is betting on Ethereum's continued success, which could affect its future operations and potential investments.",
+        "investor_impact": "This expansion of ether holdings could lead to increased interest in Ethereum-related investments, especially for companies involved in blockchain technology. Investors in cryptocurrency markets may see heightened activity and potentially rising prices as confidence builds around Ethereum's growth driven by applications like Robinhood Chain.",
+        "key_terms": [
+          {
+            "term": "ether (ETH)",
+            "meaning": "Ether is the cryptocurrency used on the Ethereum blockchain, and its value can indicate the popularity and health of the network."
+          }
+        ]
       }
     ]
   },
@@ -754,5 +793,5 @@
     "usdinr": null,
     "btcusd": null
   },
-  "day_summary": "India and the US are on the verge of finalizing a crucial trade deal framework that could help Indian businesses secure better tariffs, a development warmly welcomed after Commerce Minister Piyush Goyal firmly stated that negotiations are still progressing. Meanwhile, the Lucknow-Kanpur Expressway project worth Rs 4,200 crore promises to revolutionize local transport by slashing travel time to just 40 minutes, while boosting job opportunities in the region. However, rising retail inflation, now at 4.38%, driven by higher food and fuel prices, adds a note of caution as the rupee falls to its lowest point in over a month, raising concerns about potential hikes in interest rates."
+  "day_summary": "RBI's Deputy Governor Swaminathan stressed the importance of fair resolution of complaints by financial ombudsmen, a move that could significantly boost customer trust in the sector. Meanwhile, India is poised for a boost in consumer savings as new trade rules will lower import taxes on Omani goods like dates and marble. In the business landscape, small business loans have surged by 13.4% to Rs 49.2 lakh crore, reflecting growing confidence among lenders and borrowers alike, amidst a vibrant backdrop of increased engineering exports that jumped 21% to $11.48 billion in June."
 }

@@ -1,9 +1,81 @@
 {
   "date": "2026-07-19",
   "date_label": "Sunday, 19 July 2026",
-  "generated_at": "2026-07-19T11:06:35.670894+05:30",
+  "generated_at": "2026-07-19T20:22:27.351991+05:30",
   "articles": {
     "india-macro": [
+      {
+        "title": "ASEAN, Africa lead India's export growth in first two months of FY27",
+        "summary": "ASEAN and Africa were the biggest drivers of India's export growth in the first two months of FY27, with exports to ASEAN surging 66.9% to $10.5 billion and shipments to Africa rising 53.1% to $9.6 billion, according to commerce ministry data. Together, the two regions contributed over $7.6 billion in additional exports during April-May.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/asean-africa-lead-indias-export-growth-in-first-two-months-of-fy27/articleshow/132495358.cms",
+        "published": "Sun, 19 Jul 2026 18:57:07 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "f26117502b",
+        "quick_take": "India's exports soared with shipments to ASEAN up 66.9% to $10.5 billion and Africa rising 53.1% to $9.6 billion in the first two months of FY27, signaling strong demand in these regions.",
+        "simplified_article": "India's exports have significantly increased in the first two months of the financial year 2027, boosted by strong demand from ASEAN and Africa. Exports to ASEAN jumped nearly 67%, while shipments to Africa grew over 53%. This surge is due to improved trade relations and increasing demand for Indian goods. As a result, India saw an extra $7.6 billion in exports during April and May, which helps the economy by increasing foreign income. Businesses that sell products to these regions will benefit from this growth.",
+        "investor_impact": "This rise in exports could positively impact companies in industries like textiles, pharmaceuticals, and machinery that supply goods to ASEAN and Africa. Investors in these sectors might see better revenue reports as demand increases. Additionally, the strong performance in exports may strengthen the Indian rupee, affecting businesses that rely on imports for raw materials.",
+        "key_terms": []
+      },
+      {
+        "title": "Vice President CP Radhakrishnan, Zanzibar President Hussein Ali Mwinyi hold \"wide-ranging, productive discussions\" in bilateral meeting",
+        "summary": "Vice President CP Radhakrishnan met Zanzibar President Hussein Ali Mwinyi in New Delhi. Discussions focused on strengthening trade, investment, and development partnerships between the nations. Zanzibar's President praised the new IIT Madras campus as a landmark educational initiative. External Affairs Minister S Jaishankar also met President Mwinyi to deepen bilateral ties. The visit highlights growing momentum in the India-Tanzania strategic partnership.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/vice-president-cp-radhakrishnan-zanzibar-president-hussein-ali-mwinyi-hold-wide-ranging-productive-discussions-in-bilateral-meeting/articleshow/132493257.cms",
+        "published": "Sun, 19 Jul 2026 16:24:10 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "bc79044821",
+        "quick_take": "Vice President CP Radhakrishnan met Zanzibar's President Hussein Ali Mwinyi to boost trade and investment ties, which is key for India's strategic partnerships in Africa.",
+        "simplified_article": "Vice President CP Radhakrishnan and Zanzibar President Hussein Ali Mwinyi had a meeting in New Delhi to discuss ways to improve trade and investment between India and Zanzibar. The aim of their discussions was to strengthen the economic and development partnerships between the two regions. During the meeting, Mwinyi also praised the new IIT Madras campus, highlighting India's commitment to education in Africa. This visit signifies an important step in enhancing relations between India and Tanzania, indicating a desire for closer cooperation. As a result, businesses in sectors like education and trade could see new opportunities for collaboration and growth.",
+        "investor_impact": "This meeting could lead to more investments in education technology and infrastructure projects in Tanzania, which might benefit Indian companies looking to expand their operations. Additionally, firms involved in trade logistics may find new opportunities as trade agreements are developed. Overall, businesses focusing on international expansion could be positively impacted by these discussions.",
+        "key_terms": []
+      },
+      {
+        "title": "Dr Reddy's Foundation soil testing lab set to hit 1-lakh sample mark ahead of 2026 rabi season",
+        "summary": "Dr Reddy's Foundation is expanding its soil testing operations significantly. The Hyderabad lab aims to process one lakh samples before the next Rabi season. This initiative addresses concerns about depleting soil health and government scheme implementation gaps. The foundation also partners with a startup for biological soil amendments. Collaboration with ICAR-IISS will build a digital soil health repository and advanced advisories.",
+        "link": "https://economictimes.indiatimes.com/news/economy/agriculture/dr-reddys-foundation-soil-testing-lab-set-to-hit-1-lakh-sample-mark-ahead-of-2026-rabi-season/articleshow/132492007.cms",
+        "published": "Sun, 19 Jul 2026 14:32:44 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "68608db5e2",
+        "quick_take": "Dr Reddy's Foundation plans to process 1 lakh soil samples before the 2026 Rabi season to tackle soil health issues.",
+        "simplified_article": "Dr Reddy's Foundation is boosting its soil testing lab in Hyderabad, targeting to test one lakh soil samples by the upcoming Rabi season. This effort is in response to worries about declining soil health and challenges in implementing government farming programs. The foundation is working with a startup to enhance soil quality and is also partnering with ICAR-IISS to create a digital repository of soil health data. This means farmers will receive better advice on soil care, which can improve their crops and sustainability.",
+        "investor_impact": "Farmers will likely benefit from improved soil testing services, which can enhance their crop yields and overall agricultural productivity. Sectors like agriculture and agro-tech may see growth as these services become more available, potentially attracting investment in modern farming solutions.",
+        "key_terms": []
+      },
+      {
+        "title": "Afghanistan seeks deeper trade ties with India, pitches for easier business access",
+        "summary": "Afghanistan's trade body seeks enhanced economic ties with India. They requested easier business procedures and faster visa issuance. This comes as Afghanistan diversifies trade routes away from Pakistan. India is strengthening connectivity through Iran's Chabahar port. Both nations aim for sustainable cooperation and strengthened relations.",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/afghanistan-seeks-deeper-trade-ties-with-india-pitches-for-easier-business-access/articleshow/132491916.cms",
+        "published": "Sun, 19 Jul 2026 14:11:53 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "7f61f4489b",
+        "quick_take": "Afghanistan is working to boost trade ties with India by asking for easier business processes, which is important as they move away from relying on Pakistan.",
+        "simplified_article": "Afghanistan's trade body has approached India to improve economic relations and simplify business operations, including faster visa processes. This push happens as Afghanistan seeks to diversify its trade, reducing dependence on Pakistan. Historically, India has been enhancing trade connections through Iran's Chabahar port. Going forward, this could lead to increased trade opportunities for both countries, affecting businesses and exporters in sectors like agriculture and textiles.",
+        "investor_impact": "This development might create opportunities for Indian businesses looking to expand in Afghanistan, especially in sectors like agriculture and textiles. Companies involved in logistics and transportation could see increased demand as trade routes are strengthened. Overall, it indicates potential growth for businesses that engage in or supply goods to the Afghan market.",
+        "key_terms": []
+      },
+      {
+        "title": "NITI Aayog to review industrial corridor framework, seeks reforms to speed project execution",
+        "summary": "India's government is reviewing industrial corridor frameworks to enhance project delivery. NITI Aayog will consult stakeholders on necessary policy and regulatory changes. The review aims to identify bottlenecks and recommend reforms for industrial competitiveness. This initiative supports the nation's goal of becoming a developed country by 2047.",
+        "link": "https://economictimes.indiatimes.com/news/economy/policy/niti-aayog-to-review-industrial-corridor-framework-seeks-reforms-to-speedproject-execution/articleshow/132491907.cms",
+        "published": "Sun, 19 Jul 2026 14:08:02 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "0501fb8ec8",
+        "quick_take": "India's NITI Aayog is reviewing industrial corridor plans to speed up projects, which is key for boosting the economy by 2047.",
+        "simplified_article": "India's NITI Aayog is set to evaluate industrial corridor frameworks to make project delivery faster. This review is happening because there are delays in executing industrial projects, and they want to fix this. The government aims to enhance industrial competitiveness as part of its vision to become a developed nation by 2047. Stakeholders will be involved in discussions to suggest needed policy changes. If successful, this could make it easier for companies to set up and operate in India, benefiting job creation and economic growth.",
+        "investor_impact": "This could lead to quicker approvals and smoother processes for businesses in manufacturing and construction, which might attract more investment in these sectors. If you’re involved in or invest in industries that rely on infrastructure projects, such as logistics or manufacturing, this is a positive development. Improved execution could also potentially increase the value of companies operating in these areas.",
+        "key_terms": []
+      },
+      {
+        "title": "Deloitte projects 6.5-6.8% GDP expansion in FY27, growth to strengthen in second half",
+        "summary": "Deloitte India on Sunday projected India's economy to grow between 6.5% and 6.8% in the current financial year, with momentum expected to pick up in the second half of FY27. The firm said growth would be supported by stronger festive demand, monetary easing and a gradual stabilisation in global economic conditions.",
+        "link": "https://economictimes.indiatimes.com/news/economy/indicators/deloitte-projects-6-5-6-8-gdp-expansion-in-fy27-growth-to-strengthen-in-second-half/articleshow/132491362.cms",
+        "published": "Sun, 19 Jul 2026 13:28:04 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "c0113b0b53",
+        "quick_take": "Deloitte forecasts India's economy will grow by 6.5-6.8% this year, which is significant for job creation and spending power.",
+        "simplified_article": "Deloitte India has predicted that India's economy will expand by 6.5% to 6.8% in the current financial year. This anticipated growth is expected to strengthen in the second half of the year due to increased demand during the festive season, easier monetary policies, and improvements in global economic conditions. India's economy has shown resilience and the potential for growth despite challenges. Going forward, this growth will likely benefit sectors like retail and manufacturing, as consumers may spend more during celebrations.",
+        "investor_impact": "Sectors such as retail and consumer goods may see an increase in sales, which could lead to higher stock prices for companies in those areas. Additionally, lower interest rates from monetary easing might make borrowing cheaper, benefiting individuals looking for loans. This growth outlook is crucial for sectors that thrive on consumer spending, especially during festive times.",
+        "key_terms": []
+      },
       {
         "title": "Delhi world's cheapest for dates, buying properties among major cities; salary among lowest",
         "summary": "New Delhi offers the world's cheapest date and broadband internet services. Property prices in Delhi remain relatively low compared to global markets. However, the city's salaries are among the lowest recorded globally. Everyday expenses have significantly decreased in dollar terms over the past decade. Delhi's quality of life rankings did not place it among the top cities.",
@@ -11,9 +83,9 @@
         "published": "Sat, 18 Jul 2026 17:21:17 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "1920096911",
-        "quick_take": "New Delhi is the world's cheapest city for dates and broadband, but its salaries are among the lowest, pointing to a disconnect between living costs and earnings.",
-        "simplified_article": "New Delhi has been recognized for having the lowest prices for dates (a type of fruit) and affordable internet services compared to the rest of the world. Despite these low costs, residents face a challenge with some of the lowest salaries globally. Over the past ten years, everyday expenses have decreased when looked at in US dollars. Unfortunately, New Delhi still does not rank highly in terms of quality of life. As the city works to improve its livability, many residents may continue to struggle financially.",
-        "investor_impact": "This situation could adversely affect the real estate market, as low salaries may limit people’s ability to buy properties despite low prices. Additionally, sectors like internet service providers might face challenges in growing their customer base when incomes are low. Investors in consumer goods might also find it tough, as demand could be squeezed due to lower purchasing power.",
+        "quick_take": "Delhi is now the world's cheapest city for dates and broadband, but it has some of the lowest salaries globally, which affects living standards.",
+        "simplified_article": "New Delhi is the cheapest city in the world for buying dates (the fruit) and broadband internet services. This is partly due to lower overall living costs compared to other major cities. However, while property prices are low, salaries in Delhi are also weak, ranking among the lowest globally. This imbalance means that even though day-to-day expenses have decreased, many residents still struggle to make ends meet. Meanwhile, Delhi’s quality of life rankings show it doesn’t compete well with other cities.",
+        "investor_impact": "This situation could lead to challenges for real estate investors, as low salaries may limit the ability of residents to buy homes, keeping property prices stable but stagnant. Broadband and utility service providers might see little growth as the cheap rates make it hard to increase revenues. Overall, sectors impacted by consumer spending might need to adjust their strategies to attract local buyers.",
         "key_terms": []
       },
       {
@@ -23,224 +95,144 @@
         "published": "Sat, 18 Jul 2026 17:03:59 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "2676d43b89",
-        "quick_take": "Maharashtra's agriculture minister announced that crop input complaints will be resolved in just 7 days, improving quality control for farmers.",
-        "simplified_article": "Maharashtra's agriculture minister, Bharane, has set up new committees to quickly handle complaints about seeds, fertilizers, and pesticides. This change aims to address ongoing issues with the quality of these agricultural products. Farmers will benefit from faster resolutions to any problems they face. In the next week, these committees will investigate complaints, conduct field tests, and require companies to attend inspections and show proof of sale. If companies are found at fault, they could face serious penalties for selling poor-quality products.",
-        "investor_impact": "This move could impact farmers directly, as quicker resolutions may lead to improved crop yields and profitability. Companies producing agricultural inputs, such as seeds and pesticides, need to ensure quality or they risk facing fines or losing business, which can affect their bottom line and stock value.",
-        "key_terms": []
-      },
-      {
-        "title": "Gujarat tops NITI Aayog's Investment Friendliness Index 2026",
-        "summary": "Gujarat leads India's major states in NITI Aayog's Investment Friendliness Index 2026. The state achieved the highest score, reflecting its investor-friendly business environment. Gujarat's policy stability and efficient single-window system attract significant investor confidence. World-class industrial infrastructure and strong logistics further enhance its competitive advantage. The state's robust economic fundamentals and fiscal discipline support sustained investment growth.",
-        "link": "https://economictimes.indiatimes.com/news/economy/indicators/gujarat-tops-niti-aayogs-investment-friendliness-index-2026/articleshow/132477319.cms",
-        "published": "Sat, 18 Jul 2026 14:59:09 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "942d7d70d1",
-        "quick_take": "Gujarat ranked first in the Investment Friendliness Index 2026, showing its strong appeal to investors due to a stable business environment.",
-        "simplified_article": "Gujarat is the top state in India's Investment Friendliness Index for 2026. This is because the state has created a welcoming environment for businesses, with stable policies and efficient processes for investors. Gujarat also boasts great infrastructure and logistics that support industries. As a result, more companies are likely to invest here, which can lead to job creation and economic growth for the state.",
-        "investor_impact": "This ranking could draw more investments into Gujarat's infrastructure and manufacturing sectors, boosting opportunities for local businesses and workers. Investors in these sectors might see growth as more companies set up operations in the state, potentially leading to increased returns on investment.",
-        "key_terms": []
-      },
-      {
-        "title": "Govt explores linking land records with ULI for faster farm credit",
-        "summary": "The Department of Land Resources is exploring digital land record integration with ULI. This initiative aims to provide faster and secure institutional credit access. Discussions with RBI Innovation Hub focused on leveraging digital public infrastructure for lending. The collaboration seeks to streamline credit delivery for farmers and rural citizens. This integration will enhance transparency and efficiency in the lending ecosystem.",
-        "link": "https://economictimes.indiatimes.com/news/economy/finance/govt-explores-linking-land-records-with-uli-for-faster-farm-credit/articleshow/132476927.cms",
-        "published": "Sat, 18 Jul 2026 14:31:13 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "263a0ee12d",
-        "quick_take": "The Indian government is looking to combine land records with the Unique Land Identifier (ULI) to help farmers get loans faster and more securely.",
-        "simplified_article": "The Department of Land Resources in India is working on linking digital land records with the Unique Land Identifier (ULI), which is a system to easily identify farmland. This move is intended to improve access to credit for farmers and rural communities, making it quicker and safer for them to secure loans from banks. Farmers often face difficulties in obtaining loans due to complicated land records, which this initiative aims to simplify. Going forward, this change could lead to smoother loan processes, benefiting farmers who need financial support for their agricultural activities.",
-        "investor_impact": "This could be a positive development for sectors like agriculture and rural finance, as easier access to credit may encourage more investment in farming. If farmers can secure loans more quickly, it could boost agricultural productivity, potentially impacting food supply chains. Companies involved in agricultural equipment or services may see increased demand as a result.",
-        "key_terms": [
-          {
-            "term": "Unique Land Identifier (ULI)",
-            "meaning": "A unique code assigned to each piece of land to help identify it easily, which improves loan processing for farmers."
-          }
-        ]
-      },
-      {
-        "title": "India tightens Sri Lanka tax treaty with anti-abuse rule",
-        "summary": "India has amended its tax treaty with Sri Lanka to introduce a Principal Purpose Test (PPT), allowing authorities to deny treaty benefits where tax advantage is a key objective of an arrangement. Effective for income from FY28, the change targets treaty shopping and aligns the DTAA with global standards.",
-        "link": "https://economictimes.indiatimes.com/news/economy/policy/india-tightens-sri-lanka-tax-treaty-with-anti-abuse-rule/articleshow/132475985.cms",
-        "published": "Sat, 18 Jul 2026 13:02:40 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "30f4ec27da",
-        "quick_take": "India changed its tax treaty with Sri Lanka, adding a rule to prevent tax dodging, which matters because it helps ensure fair tax practices starting from FY28.",
-        "simplified_article": "India has updated its tax agreement with Sri Lanka by adding a new rule called the Principal Purpose Test (PPT). This rule enables authorities to deny benefits from the treaty if the main reason for an arrangement is to gain a tax advantage. The change, effective from the financial year 2028, aims to prevent what's known as treaty shopping, where people exploit tax treaties for unintended benefits. This update aligns India's tax practices with international standards. Going forward, businesses and individuals who previously relied on such advantages may face stricter scrutiny.",
-        "investor_impact": "This change could impact companies that have operations in Sri Lanka and rely on the tax treaty for financial benefits, particularly in sectors like manufacturing and trade. Firms looking to minimize their tax burden by setting up in Sri Lanka might find it less advantageous, which could influence their investment strategies.",
-        "key_terms": [
-          {
-            "term": "Principal Purpose Test (PPT)",
-            "meaning": "A rule that checks if the main reason for a financial arrangement is to get tax benefits; if it is, those benefits can be denied."
-          }
-        ]
-      },
-      {
-        "title": "States' fiscal deficit likely to moderate to 3.4% of GSDP in FY27 as tax collections improve: ICICI Bank",
-        "summary": "States' fiscal deficit is expected to moderate to 3.4 per cent of Gross State Domestic Product (GSDP) in FY27, supported by stronger tax collections and an improvement in revenue receipts, according to an ICICI Bank report.",
-        "link": "https://economictimes.indiatimes.com/news/economy/indicators/states-fiscal-deficit-likely-to-moderate-to-3-4-of-gsdp-in-fy27-as-tax-collections-improve-icici-bank/articleshow/132475711.cms",
-        "published": "Sat, 18 Jul 2026 12:56:07 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "9cf5b0fbe9",
-        "quick_take": "States' fiscal deficit is projected to drop to 3.4% of Gross State Domestic Product (GSDP) by FY27, thanks to rising tax collections.",
-        "simplified_article": "A report from ICICI Bank suggests that by the fiscal year 2027, the fiscal deficit for Indian states will likely decrease to 3.4% of their overall economy (GSDP). This improvement is driven by better tax collections and increased revenue. Fiscal deficit represents how much more a government spends compared to what it earns. If states curb their deficits, they may have more funds available for public services and projects that can benefit residents and businesses alike.",
-        "investor_impact": "This expected reduction in fiscal deficits may lead states to invest more in infrastructure and public services, which can create opportunities for construction companies and service sectors. If tax collections continue to improve, it might also influence state bond markets positively, impacting investors holding such bonds.",
-        "key_terms": [
-          {
-            "term": "fiscal deficit",
-            "meaning": "The gap between what the government spends and what it earns, indicating financial health; a lower deficit can mean more government spending capability."
-          },
-          {
-            "term": "GSDP",
-            "meaning": "Gross State Domestic Product, a monetary measure of all goods and services produced in a state, reflecting its economic performance."
-          }
-        ]
-      },
-      {
-        "title": "Onion growers welcome agri market near Vadhvan port, urge govt to develop Nashik as export hub",
-        "summary": "Maharashtra's onion growers welcome a new agricultural market near Vadhvan port. They propose developing Nashik as a national onion export hub for global trade. This initiative aims to boost farmer incomes and India's position in the onion market. The growers seek direct farmer benefits and improved export infrastructure. A stable export policy and processing incentives are also requested.",
-        "link": "https://economictimes.indiatimes.com/news/economy/agriculture/onion-growers-welcome-agri-market-near-vadhvan-port-urge-govt-to-develop-nashik-as-export-hub/articleshow/132474285.cms",
-        "published": "Sat, 18 Jul 2026 10:46:25 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "c91a86e4b9",
-        "quick_take": "Maharashtra onion growers are excited about a new agri market near Vadhvan port, aiming to make Nashik a major national export hub to increase profits and compete globally.",
-        "simplified_article": "Onion growers in Maharashtra have welcomed the establishment of a new agricultural market near Vadhvan port. They want the government to invest in developing Nashik as a key export hub for onions, which would help increase their income. This push comes as India seeks to strengthen its position in the global onion market, known for its high demand. The growers are asking for better support, including direct benefits for farmers and improved facilities for exporting their crops.",
-        "investor_impact": "If Nashik becomes a national export hub, it could increase earnings for onion farmers, positively impacting the agricultural sector. Enhanced export infrastructure may attract investments in related industries, such as logistics and food processing, benefiting those involved in these sectors.",
-        "key_terms": []
-      },
-      {
-        "title": "It's a revamp! RBI steps ahead on plan for plastic rupee notes",
-        "summary": "India's currency printing authority is now on the lookout for international suppliers of polymer banknote material, signaling a significant change from nearly a century of using paper notes. Bidders must adhere to strict security protocols and provide evidence of past collaborations with central banks. The Reserve Bank of India is considering polymer notes due to their durability, coinciding with a recent drop in currency printing costs.",
-        "link": "https://economictimes.indiatimes.com/news/economy/policy/its-a-revamp-rbi-steps-ahead-on-plan-for-plastic-rupee-notes/articleshow/132468879.cms",
-        "published": "Sat, 18 Jul 2026 06:00:00 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "3447508d1d",
-        "quick_take": "RBI is now looking for international suppliers to make plastic rupee notes, marking a shift from paper that could save money and last longer.",
-        "simplified_article": "The Reserve Bank of India (RBI) is changing the way it prints money by exploring the use of polymer notes instead of traditional paper ones. This change is driven by the recent decrease in the cost of printing currency and the longer lifespan of polymer notes. For nearly 100 years, India has only used paper currency. Moving forward, the RBI will vet suppliers based on security standards and their history with central banks, which will ensure safety in our money.",
-        "investor_impact": "If you hold cash or banknotes, this shift to polymer notes could mean less need for frequent replacements due to wear and tear, potentially saving costs for banks in the long run. Additionally, sectors involved in currency production may see new opportunities as suppliers are chosen for these new notes.",
+        "quick_take": "Complaints on quality of seeds, fertilisers and pesticides to be probed, resolved in 7 days: Bharane",
+        "simplified_article": "Maharashtra's agriculture minister announced revamped taluka committees for faster complaint resolution. These committees will now investigate seed, fertiliser, and pesticide quality issues within seven days. Field inspections and sample testing will ensure impartial inquiries into farmer complaints. Representatives of companies and retailers must attend inspections and provide purchase receipts. Strict action will follow against manufacturers and dealers supplying substandard agricultural inputs.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       }
     ],
     "indian-markets": [
       {
-        "title": "Cube Highways Trust InvIT, Indo MIM among 4 public issues opening this week",
-        "summary": "Next week will witness the launch of four public offerings, including the Cube Highways Trust InvIT and three initial public offerings (IPOs). Notably, Indo MIM's IPO comprises both a fresh issue and an offer for sale, while Lohia Corp's venture consists solely of equity shares available in the offer for sale format. Additionally, Xtranet Technologies is set to introduce a Rs 170-crore fresh issue aimed at financing various initiatives.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cube-highways-trust-invit-indo-mim-among-4-public-issues-opening-this-week/articleshow/132490157.cms",
-        "published": "Sun, 19 Jul 2026 10:40:18 +0530",
+        "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
+        "summary": "The Sensex surged over 960 points and the Nifty climbed more than 1% on Friday, driven by strong Q1 earnings optimism and buying in IT and banking stocks. Analysts said domestic institutional investors are rotating into attractively valued large-cap stocks, while selective profit booking in mid- and small-caps continues. Consumer durables also remain in focus on improving demand expectations.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/132492765.cms",
+        "published": "Sun, 19 Jul 2026 15:38:43 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "c096f705cc",
-        "quick_take": "Four public offerings, including the Cube Highways Trust InvIT and a Rs 170-crore initiative from Xtranet Technologies, are set to launch this week, signaling new investment opportunities.",
-        "simplified_article": "This week, four new public offerings will be available to investors, which include the Cube Highways Trust InvIT and three initial public offerings (IPOs). These offerings provide companies a way to raise money from the public by selling shares. The offerings are being launched to fund various business activities and expansion plans. Investors interested in these opportunities will have the chance to buy shares and potentially participate in the growth of these companies.",
-        "investor_impact": "Investors looking for new opportunities can consider participating in the public offerings to potentially benefit from the growth of companies like Indo MIM and Xtranet Technologies. If these offerings are successful, they could lead to increased interest in the infrastructure and technology sectors, which may yield returns for investors in those areas.",
+        "id": "33d1c98943",
+        "quick_take": "Ahead of Market: 10 things that will decide D-Street action on Monday",
+        "simplified_article": "The Sensex surged over 960 points and the Nifty climbed more than 1% on Friday, driven by strong Q1 earnings optimism and buying in IT and banking stocks. Analysts said domestic institutional investors are rotating into attractively valued large-cap stocks, while selective profit booking in mid- and small-caps continues. Consumer durables also remain in focus on improving demand expectations.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       },
       {
-        "title": "Q1 earnings this week: Infosys, Eternal, Bajaj Auto among 256 companies set to announce June quarter results",
-        "summary": "The Q1 FY27 earnings season gathers momentum this week, with 256 companies scheduled to announce their April-June quarter results. Key names include Infosys, Eternal, Bajaj Auto, UltraTech Cement, Nestlé India, Adani Power, Paytm and TVS Motor. Investors will closely track corporate earnings and management commentary for cues on business performance, demand trends and the broader market outlook.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-this-week-infosys-eternal-bajaj-auto-among-256-companies-set-to-announce-june-quarter-results/articleshow/132489828.cms",
-        "published": "Sun, 19 Jul 2026 09:54:29 +0530",
+        "title": "Nifty breakout isn’t convincing yet; a move above 24,600 could unlock record high: Anand James",
+        "summary": "Nifty’s Friday rebound has broken its recent range, but a sustained uptrend is yet to be confirmed. Geojit’s Anand James sees 24,400 as near-term resistance and flags India Cements and Bharat Forge as top trading picks.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-breakout-isnt-convincing-yet-a-move-above-24600-could-unlock-record-high-anand-james/articleshow/132492717.cms",
+        "published": "Sun, 19 Jul 2026 15:35:26 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "2d03dbc732",
-        "quick_take": "This week, 256 companies including Infosys and Bajaj Auto will report their Q1 earnings, which is crucial for understanding market trends and business health.",
-        "simplified_article": "This week marks the earnings report season for Q1 FY27, with 256 companies set to share their financial performance for the April-June period. Key companies to watch include Infosys and Bajaj Auto, which are important players in the tech and automotive sectors, respectively. Companies announce earnings to inform investors about how well they are doing and what to expect going forward. Investors will pay close attention to these results to gauge economic demand and market stability, especially in key industries like technology and automotive.",
-        "investor_impact": "These earnings reports can influence stock prices, particularly for technology firms like Infosys and automotive companies like Bajaj Auto. If companies report strong earnings, it could lead to increased investor confidence in these sectors, potentially driving up stock prices. Conversely, disappointing results might cause stock prices to drop, which affects anyone holding shares in these companies.",
+        "id": "6ce56ca37d",
+        "quick_take": "Nifty is showing signs of recovery after breaking above the 24,400 mark, which is key for reaching all-time highs.",
+        "simplified_article": "The Nifty index, which tracks India’s top stocks, showed a rebound on Friday, breaking out of its recent trading range. This uptick is important because it might signal future growth, but experts caution that it needs to hold above 24,600 for a real uptrend. Stocks like India Cements and Bharat Forge are highlighted as strong trading opportunities right now. Investors should keep an eye on these levels as staying above them could mean more positive momentum in the market.",
+        "investor_impact": "If the Nifty stays above 24,600, it could lead to more investment in the stock market, particularly in sectors like construction and manufacturing, as seen with India Cements and Bharat Forge. This might encourage more buying activity, which could increase stock prices in these sectors.",
         "key_terms": []
       },
       {
-        "title": "These 9 penny stocks rallied up to 360% in 6 months; 4 turned multibaggers",
-        "summary": "These stocks were identified using specific filters: a market capitalisation below Rs 1,000 crore, a share price under Rs 20, and a minimum average trading volume of 5 lakh shares.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-9-penny-stocks-rallied-up-to-360-in-6-months-4-turned-multibaggers/slideshow/132489826.cms",
-        "published": "Sun, 19 Jul 2026 09:43:57 +0530",
+        "title": "Nifty weekly outlook: 24,500 holds the key to next leg of gains; focus on stock-specific bets",
+        "summary": "The Nifty ended the week with modest gains as the index defended the crucial 23,800–24,000 support zone, keeping the broader technical structure positive. Analysts expect the next move to hinge on the 24,500 resistance level, where the 100-week moving average could pose a hurdle. A breakout above this zone may revive stronger upside momentum, while support remains intact.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-weekly-outlook-24500-holds-the-key-to-next-leg-of-gains-focus-on-stock-specific-bets/articleshow/132492041.cms",
+        "published": "Sun, 19 Jul 2026 14:34:10 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "db979badb5",
-        "quick_take": "Nine penny stocks surged up to 360% in six months, showing their potential for significant returns.",
-        "simplified_article": "A group of nine penny stocks saw remarkable gains of up to 360% over half a year. These stocks were chosen because they had small market values (below Rs 1,000 crore) and low share prices (under Rs 20), with decent trading activity (at least 5 lakh shares traded). Penny stocks are shares of small companies which can be riskier but also have high growth potential. Investors will be watching these stocks closely to see if the trend continues or if this rapid growth was just a spike.",
-        "investor_impact": "If you're considering investing in penny stocks, this news indicates that there are opportunities for high returns, especially in smaller companies. However, these stocks also come with high risk, so it's crucial to be cautious. Sectors related to these stocks may attract more attention and investment, potentially affecting their prices further.",
-        "key_terms": []
-      },
-      {
-        "title": "F&O Talk: Nifty IT gaining strong momentum, says Sudeep Shah; outlines HDFC Bank, ICICI Bank strategy after Q1",
-        "summary": "The Nifty IT index has rebounded nearly 13.5% from its July 1 low and gained around 5% this week, signalling improving momentum. Technical indicators, including the RSI, MACD and Relative Rotation Graph (RRG), point to strengthening bullish sentiment. The 29,600–29,650 zone is the key resistance, while 28,500–28,550 is expected to act as immediate support.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-it-gaining-strong-momentum-says-sudeep-shah-outlines-hdfc-bank-icici-bank-strategy-after-q1/articleshow/132489745.cms",
-        "published": "Sun, 19 Jul 2026 09:42:46 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "b4b2299229",
-        "quick_take": "The Nifty IT index is up nearly 13.5% since July 1, showing strong momentum after positive market indicators.",
-        "simplified_article": "The Nifty IT index, which tracks major IT companies in India, has bounced back significantly since July, gaining about 5% just this week. This upward movement is driven by improved market signals suggesting growing investor confidence. In general, when indices like this rise, it indicates that those companies are likely doing well. Moving forward, if the index breaks through the 29,600–29,650 range (which is a level where it often struggles), it could continue to rise, benefiting investors in tech stocks.",
-        "investor_impact": "This surge in the Nifty IT index could mean good returns for those invested in IT companies, like TCS and Infosys. If you hold tech stocks, this current momentum might lead to increased stock prices, reflecting a positive outlook in the sector.",
+        "id": "ffe7cacf5c",
+        "quick_take": "Nifty closed the week up slightly, with 24,500 being the next key level to watch for further gains.",
+        "simplified_article": "The Nifty index finished the week with some gains, managing to stay above the important support level of 23,800 to 24,000. Analysts believe the next significant movement depends on whether it can break through the 24,500 resistance level, which could signal stronger gains ahead. The 100-week moving average is a line that tracks the average performance of the index over two years, and it's a level that could hold back further growth. If the Nifty rises above this point, it could lead to more upward momentum, impacting many investors in the market. Those who focus on specific stocks may find opportunities as market conditions change.",
+        "investor_impact": "Investors in sectors like finance and consumer goods may see fluctuations based on how the Nifty performs around the 24,500 mark. If the index breaks through this level, it could positively affect stock prices, making investments in those stocks potentially more valuable. However, if it struggles to rise above 24,500, it may limit gains for those holding stocks tied to this index.",
         "key_terms": [
           {
-            "term": "Nifty IT index",
-            "meaning": "A stock market index that shows how major IT companies in India are performing, which helps investors gauge the health of the tech sector."
+            "term": "resistance level",
+            "meaning": "A price point where many investors might sell assets, making it hard for prices to go higher."
           },
           {
-            "term": "resistance",
-            "meaning": "A price level where a stock often struggles to rise above; breaking this level can indicate strong upward momentum."
-          },
-          {
-            "term": "support",
-            "meaning": "A price level where a stock tends to stop falling; it indicates a potential floor where buying interest may increase."
+            "term": "support zone",
+            "meaning": "A range of prices where investors tend to buy stocks, preventing them from falling further."
           }
         ]
       },
       {
-        "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
-        "summary": "Dalal Street ended the week on a strong note, with the Sensex and Nifty gaining over 1% on Friday. Investors will track six key market triggers this week, including the peak of the Q1 earnings season, the escalating Iran-US conflict, surging crude oil prices, the global tech selloff, rupee movement and FII flows. Analysts remain cautiously optimistic on market sentiment.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms",
-        "published": "Sun, 19 Jul 2026 09:37:40 +0530",
+        "title": "Buy & hold? Think again: James ‘RevShark’ DePorre says invest like a shark, not a spectator",
+        "summary": "Veteran strategist James 'RevShark' DePorre challenges the passive \"buy and hold\" mantra, arguing investors should stay alert and react to market conditions rather than predict them. Capital preservation and disciplined risk management form the backbone of his five-point investing philosophy.",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/buy-hold-think-again-james-revshark-deporre-says-invest-like-a-shark-not-a-spectator/articleshow/132492024.cms",
+        "published": "Sun, 19 Jul 2026 14:25:40 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "6bbc050f9e",
-        "quick_take": "The Sensex and Nifty rose over 1% on Friday, and this week will be shaped by crucial earnings reports and global market trends.",
-        "simplified_article": "Last Friday, the Sensex and Nifty, which are stock market indices in India, saw gains of more than 1%. This upward movement was influenced by various factors like earnings reports for the first quarter of the year and concerns over a global tech selloff. Markets are also worried about rising oil prices and tensions between Iran and the US. Investors will be looking closely at these developments this week, which could impact market sentiment and stock prices.",
-        "investor_impact": "If you invest in technology stocks, be cautious this week as a global tech selloff could lead to declines in those shares. Rising oil prices might affect the profits of companies that depend heavily on fuel, like airlines. Additionally, any changes in currency value could impact foreign investments, which might concern investors holding stocks in multinational companies.",
+        "id": "58fa429f6d",
+        "quick_take": "Investor James 'RevShark' DePorre urges people to actively manage their investments instead of just buying and holding, stressing that staying alert can help protect their money.",
+        "simplified_article": "James 'RevShark' DePorre has challenged the traditional strategy of simply buying and holding investments without further action. He argues that instead of trying to guess market trends, investors should watch the market closely and adjust their investments based on current conditions. This advice is important as many people believe in a hands-off approach which can expose them to risks. Going forward, those who follow his advice may avoid significant losses and better protect their savings during unpredictable market changes.",
+        "investor_impact": "If you invest in stocks, being more proactive could help you avoid losing money during downturns. Particularly, those in sectors like tech or energy may need to adapt quickly to avoid risks as market conditions shift. This approach could be especially relevant for younger or newer investors looking to grow their savings without relying solely on passive strategies.",
         "key_terms": []
       },
       {
-        "title": "South Korea to expand use of won-denominated bonds for foreign investors",
-        "summary": "South Korea has announced plans to enhance global acceptance of its currency by allowing foreign financial institutions to borrow won. Additionally, these institutions will be permitted to utilize won-denominated bonds as collateral. Furthermore, the dollar-won market trading hours have been expanded to twenty-four hours, seeking to integrate South Korea’s currency into the wider international markets.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/south-korea-to-expand-use-of-won-denominated-bonds-for-foreign-investors/articleshow/132489635.cms",
-        "published": "Sun, 19 Jul 2026 09:21:15 +0530",
+        "title": "Bonus, dividends and stock splits: Bharti Airtel, Hero MotoCorp among 88 stocks turning ex-date this week. Do you own any?",
+        "summary": "Investors must hold shares in their demat accounts on the respective record dates to be eligible. Here is the complete day-wise list of key corporate actions to track.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-and-stock-splits-bharti-airtel-hero-motocorp-among-88-stocks-turning-ex-date-this-week-do-you-own-any/articleshow/132491671.cms",
+        "published": "Sun, 19 Jul 2026 13:55:14 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "0530d335f9",
-        "quick_take": "South Korea is letting foreign investors use its currency, the won, more freely, which could help integrate it into global markets.",
-        "simplified_article": "South Korea announced it will let foreign financial institutions borrow won, its currency. This move aims to boost the global use of the won and make it more accessible to international markets. Currently, many countries have their own currencies, but South Korea wants to expand the influence of the won. By allowing won-denominated bonds to be used as collateral and extending trading hours for the dollar-won market to 24 hours, South Korea hopes to attract more foreign investment and improve economic ties.",
-        "investor_impact": "If you invest in companies that deal with international finance, they may benefit from the increased use of the won as more global participants engage with it. This could lead to a stronger won, which might affect import prices and costs for businesses relying on foreign goods. Essentially, anyone involved in trade with South Korea could see changes in costs and pricing.",
-        "key_terms": [
-          {
-            "term": "won-denominated bonds",
-            "meaning": "These are bonds issued in South Korea's currency, helping foreign investors participate in the country's market."
-          },
-          {
-            "term": "collateral",
-            "meaning": "This is an asset used as security for a loan; if the borrower doesn't repay, the lender can claim it."
-          }
-        ]
-      },
-      {
-        "title": "Lohia Corp IPO opens on July 23: Here’s all you need to know",
-        "summary": "Lohia Corp will launch its IPO on July 23, with the issue comprising a pure offer for sale of over 2.59 crore shares. The technical textile machinery maker reported a 64% YoY jump in FY26 net profit and a 25% increase in revenue, ahead of its market debut.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lohia-corp-ipo-opens-on-july-23-heres-all-you-need-to-know/articleshow/132479515.cms",
-        "published": "Sat, 18 Jul 2026 17:12:33 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "3dd3453cea",
-        "quick_take": "Lohia Corp is launching its IPO on July 23, offering over 2.59 crore shares after a strong profit jump of 64% last year.",
-        "simplified_article": "Lohia Corp will open its initial public offering (IPO) on July 23, allowing the public to buy shares in the company. This follows a significant growth in their profit and revenue, with a 64% rise in profit compared to last year and a 25% increase in revenue. The company specializes in making machinery for technical textiles, which are used in various industries. Investors can expect this IPO to draw interest due to the company’s recent financial performance and growth potential.",
-        "investor_impact": "If you're considering investing in Lohia Corp, this IPO could be a way to own a piece of a company that's recently seen strong growth, especially if you're interested in sectors like manufacturing or textiles. Keep an eye on how the market responds to the IPO, as this could influence share prices in the textile machinery industry.",
+        "id": "a1e858dbe9",
+        "quick_take": "This week, 88 stocks including Bharti Airtel and Hero MotoCorp are going ex-date, meaning shareholders need to own shares by certain dates to receive bonuses or dividends.",
+        "simplified_article": "A total of 88 stocks, such as Bharti Airtel and Hero MotoCorp, are set to go ex-date this week. This means that if you want to receive benefits like bonuses or dividends from these companies, you need to own their shares before specific record dates. Corporate actions like these are common as companies reward their shareholders. Investors who hold shares on those dates will be eligible for the announced benefits, while others will miss out.",
+        "investor_impact": "If you own shares in companies like Bharti Airtel or Hero MotoCorp, make sure to check the record dates to ensure you receive any dividends or bonuses. Missing these dates could mean losing out on potential earnings. This is particularly relevant for shareholders looking for immediate returns from their investments.",
         "key_terms": []
       },
       {
-        "title": "JK Cement Q1 profit drops 15.3% YoY to Rs 274.62 crore",
-        "summary": "JK Cement Ltd reported a 15.3 percent decline in net profit for the June quarter. The company posted Rs 274.62 crore profit, down from Rs 324.25 crore last year. Revenue from operations increased by 20.25 percent to Rs 4,031.72 crore. Total expenses rose by 25.5 percent during the same period. JKCL's total income, including other income, grew 19.41 percent.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jk-cement-q1-profit-drops-15-3-yoy-to-rs-274-62-crore/articleshow/132479424.cms",
-        "published": "Sat, 18 Jul 2026 17:06:31 +0530",
+        "title": "M-cap of five of top 10 most valued firms jumps Rs 1.54 lakh cr; TCS biggest winner",
+        "summary": "Last week marked a significant uplift in the market valuation of five of the top 10 firms, appreciating by Rs 1.54 lakh crore. Tata Consultancy Services claimed the spotlight, boosting its valuation by Rs 72,072.3 crore. ICICI Bank and Reliance Industries also experienced notable increases. However, the tide turned for HDFC Bank and Bharti Airtel, which faced declines. Overall, Indian equity markets concluded the week on a robust note.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-five-of-top-10-most-valued-firms-jumps-rs-1-54-lakh-cr-tcs-biggest-winner/articleshow/132490890.cms",
+        "published": "Sun, 19 Jul 2026 12:16:18 +0530",
         "source": "economictimes.indiatimes.com",
-        "id": "69eeee75da",
-        "quick_take": "JK Cement's profit fell 15.3% to Rs 274.62 crore, which shows challenges despite rising revenue.",
-        "simplified_article": "JK Cement Ltd's profit decreased by 15.3% in the June quarter compared to last year. This decline is mainly due to a rise in expenses that grew by 25.5% even while their revenue increased by 20.25%. The company is experiencing higher costs, which is impacting their bottom line. Looking ahead, this situation may affect their ability to invest in new projects and could lead to changes in their pricing strategy for cement.",
-        "investor_impact": "The profit drop could lead to higher prices for cement, affecting construction costs for builders and ultimately homebuyers. If building materials become pricier, home project budgets might increase, impacting the real estate sector. Investors in building materials and construction companies may want to pay attention to these trends.",
+        "id": "67c2ebae32",
+        "quick_take": "Five of India's top 10 firms saw their market value rise by Rs 1.54 lakh crore last week, with TCS leading the gains at Rs 72,072.3 crore.",
+        "simplified_article": "Last week, five out of the top 10 most valued companies in India increased their total market value by Rs 1.54 lakh crore. This rise was largely due to strong performances from companies like Tata Consultancy Services (TCS), which added Rs 72,072.3 crore to its valuation. Other firms like ICICI Bank and Reliance Industries also contributed to this growth, while HDFC Bank and Bharti Airtel saw their values drop. Overall, these changes reflect a positive trend in the Indian stock market, indicating that investors are optimistic about certain sectors.",
+        "investor_impact": "This increase in market value suggests that companies like TCS and ICICI Bank are in a strong position, which could lead to better stock performance in the future. If you own shares in these firms, their recent rise in value may boost your investment portfolio's worth. However, the decline in companies like HDFC Bank could affect investors who have interests in those specific stocks.",
+        "key_terms": []
+      },
+      {
+        "title": "Axis Bank standalone profit soars 23% in Q1",
+        "summary": "Axis Bank on Saturday reported a 23% year-on-year increase in standalone quarterly net profit, aided by lower provisions, even as its pre-provision operating profit grew just 1.3%.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-standalone-profit-soars-23-in-q1/articleshow/132490494.cms",
+        "published": "Sun, 19 Jul 2026 11:20:54 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "715a6f048d",
+        "quick_take": "Axis Bank's profit jumped 23% in Q1, showing the bank's ability to manage costs effectively.",
+        "simplified_article": "Axis Bank announced that its profit for the first quarter increased by 23% compared to the same time last year. This rise was due to lower provisions, which are funds set aside for potential loan losses. In contrast, its operating profit, which is the profit before these provisions, only grew by 1.3%. This performance indicates that the bank is doing well in managing expenses despite slow growth in operating profit. Going forward, successful cost management could benefit the bank's future profits and attract more investors.",
+        "investor_impact": "This strong profit growth may attract more investments into Axis Bank, potentially leading to a rise in its stock prices. If you're a shareholder or considering investing in banking stocks, this performance might influence your decision on whether to hold or buy more shares in Axis Bank as its financial strength is proven.",
+        "key_terms": []
+      },
+      {
+        "title": "Kotak Bank Q1 net rises 26% on loan growth",
+        "summary": "Kotak Mahindra Bank experienced a remarkable net profit surge of twenty-six percent in the June quarter. This impressive growth can be attributed to a significant decline in provisions that bolstered the bank's financial results. Additionally, net interest income rose by nine percent, while operating profit saw a ten percent increase.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-bank-q1-net-rises-26-on-loan-growth/articleshow/132490450.cms",
+        "published": "Sun, 19 Jul 2026 11:13:30 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "f32c7035f0",
+        "quick_take": "Kotak Mahindra Bank's net profit jumped 26% in Q1 thanks to lower expenses and increased interest income.",
+        "simplified_article": "Kotak Mahindra Bank reported a 26% increase in net profit for the June quarter. This growth was largely due to a significant drop in the money they set aside to cover potential loan losses, as well as a 9% rise in the income they earned from loans. Kotak Mahindra Bank is one of India's major private sector banks. Going forward, this strong performance could enhance investor confidence and attract more customers looking for loans, benefiting the bank's future growth.",
+        "investor_impact": "If you're considering taking a loan, Kotak Mahindra Bank's profitable quarter may lead them to offer competitive interest rates. This could impact your personal loans or mortgages positively, as banks might be more willing to lend. Investors in financial stocks could see this as a positive sign for the sector's overall health.",
         "key_terms": []
       }
     ],
     "global-macro": [
+      {
+        "title": "Chinese firm seeks compensation over British Steel nationalisation",
+        "summary": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
+        "link": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 10:59:07 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "b58820df9f",
+        "quick_take": "Jingye is suing the UK government for compensation after it took over British Steel, which matters because it could complicate future nationalisations in the UK.",
+        "simplified_article": "Jingye, a Chinese firm, is planning to take legal action against the UK government after it nationalised British Steel. This means the government now owns the company instead of it being privately owned. Nationalisation can happen when a government takes control of a private company typically for financial or strategic reasons. Jingye's legal action could lead to a lengthy court process, affecting workers and the future of British Steel in the UK.",
+        "investor_impact": "This situation may lead to increased uncertainty in the steel sector, potentially impacting companies involved in steel production or supply in the UK. If Jingye’s lawsuit leads to significant financial claims, it could also affect investors’ confidence in public ownership of industries like steel manufacturing.",
+        "key_terms": []
+      },
+      {
+        "title": "New EU border system tripling time at passport control, airport boss says",
+        "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+        "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 01:47:59 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "1a6f23ca5f",
+        "quick_take": "Ryanair warns travelers to expect longer waits at passport control in Europe this summer due to a new EU border system that triples processing time.",
+        "simplified_article": "Ryanair announced that passengers traveling to Europe this summer should prepare for much longer waits at passport control. This is because a new EU border system has been implemented, which will increase the time it takes to process each person's passport by three times. The change comes as European airports anticipate a busy travel season. As a result, travelers may face significant delays, affecting their overall travel experience.",
+        "investor_impact": "This extended wait time could impact airlines and travel sectors, particularly budget airlines like Ryanair, as longer processing may deter some travelers from flying. This might also lead to lower passenger satisfaction scores, which can influence airline earnings. Additionally, related businesses like airport services may need to adjust their operations to manage the increased queues.",
+        "key_terms": []
+      },
       {
         "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
         "summary": "It's a small but growing problem in the property market - here's how to protect yourself.",
@@ -248,38 +240,33 @@
         "published": "Sat, 18 Jul 2026 01:14:53 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "a3cd18842b",
-        "quick_take": "A home buyer reduced their offer by £15,000 just before finalizing the deal, which raises concerns in the property market.",
-        "simplified_article": "Gazundering is when buyers lower their purchase offers right before closing a deal, and it's becoming more common. This can happen due to changing market conditions or buyers wanting to negotiate a better price. In the property market, this can create anxiety for sellers who may have already planned their next steps based on the initial offer. To avoid being affected by this, sellers can set clear terms and be cautious in their negotiations.",
-        "investor_impact": "This situation can make sellers more cautious about the current property market, possibly causing them to hold off on listing their homes. If more sellers step back, it could limit the supply of homes, which might keep prices stable or even push them higher in the long run. Buyers should be prepared for potential fluctuations in property prices as this trend develops.",
-        "key_terms": [
-          {
-            "term": "gazundering",
-            "meaning": "This is when a buyer lowers their offer at the last minute, which can create stress for sellers."
-          }
-        ]
-      },
-      {
-        "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-        "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
-        "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 17 Jul 2026 05:00:08 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "d0c20cf3a3",
-        "quick_take": "Burnham's focus on 'Manchesterism' helped him reach the UK Prime Minister role, but it’s unclear if this approach will benefit the whole country.",
-        "simplified_article": "Andy Burnham has been successful in applying 'Manchesterism', a strategy focused on local growth and innovation, to lead Manchester, but now there's a question of whether this method will work for the UK as a whole. The concept gained attention after Burnham became Prime Minister, showcasing his belief in community-centered policies. This strategy emphasizes empowering local areas to drive national progress. Moving forward, the effectiveness of this approach will be crucial in shaping policies that could impact various regions across the UK, especially in improving local economies and communities.",
-        "investor_impact": "If Burnham's strategies take off, regions that adopt similar local growth initiatives might see investments in infrastructure and business development, potentially boosting job markets. This could positively impact sectors like construction and technology in those areas as more funds are funneled into developing local resources and talent.",
+        "quick_take": "A property buyer dropped their offer by £15,000 just before finalizing the deal, raising concerns in the housing market.",
+        "simplified_article": "A situation called 'gazundering' has emerged, where buyers reduce their offer right before closing a property sale. This often happens when the market is uncertain or there are changes in personal circumstances. The growing frequency of this practice is unsettling for sellers who might lose money. To protect themselves, sellers are advised to communicate clearly and possibly include terms in their contracts that deter such last-minute changes. This affects anyone in the property market, especially sellers who risk losing their expected profits.",
+        "investor_impact": "For homeowners and real estate investors, gazundering could lead to unexpected financial losses if buyers renegotiate at the last moment, potentially lowering property values. If this trend continues, it may make selling a property riskier, possibly impacting the overall stability of the housing market.",
         "key_terms": []
       },
       {
-        "title": "Five headaches Andy Burnham will have to deal with as PM",
-        "summary": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
-        "link": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 17 Jul 2026 05:59:36 GMT",
+        "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
+        "summary": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 14:27:15 GMT",
         "source": "feeds.bbci.co.uk",
-        "id": "4670eafa6a",
-        "quick_take": "Andy Burnham will face significant challenges like defence spending and housing as the next UK Prime Minister, which will affect many people's everyday lives.",
-        "simplified_article": "Andy Burnham has been named the next Prime Minister of the UK. His leadership comes at a crucial time when issues such as defence spending and the housing crisis need urgent attention. The UK is currently dealing with rising costs and limited housing options for many citizens. Moving forward, Burnham's decisions on these issues will directly impact government budgets and the lives of those seeking affordable homes.",
-        "investor_impact": "If Burnham decides to increase defence spending, it could mean more government contracts for defence companies, benefiting their stock prices. Additionally, actions to improve housing may affect real estate markets, influencing home prices and mortgages for anyone looking to buy a home.",
+        "id": "61745c0b67",
+        "quick_take": "Incoming PM Burnham is set to boost support for North Sea oil and gas, which could mean more investment in energy resources in the UK.",
+        "simplified_article": "The new Prime Minister, Burnham, is going to announce support for North Sea oil and gas right from the start of his time in office. This is happening because the UK is looking to strengthen its energy sector and is likely trying to create jobs and boost the economy. The North Sea is an important area for oil and gas production in the UK. Moving forward, this support could lead to new projects and job opportunities for workers in energy and related sectors, impacting local economies and investors in the energy market.",
+        "investor_impact": "This announcement could positively affect companies involved in oil and gas production, likely leading to increased share prices in that sector. Additionally, any new projects may create jobs, benefiting local communities and boosting related businesses such as construction and supply services. If you're invested in energy stocks or funds, you might see better performance as new developments roll out.",
+        "key_terms": []
+      },
+      {
+        "title": "The hidden cost of the night shift and how to sleep it off",
+        "summary": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
+        "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 00:01:55 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "d8ced3daef",
+        "quick_take": "Over three million UK night shift workers are facing serious health issues due to their schedules, highlighting a major workplace concern.",
+        "simplified_article": "More than three million people in the UK work night shifts, which disrupts their regular sleep patterns and can lead to health problems. The reason many people take night shifts is that certain industries require 24-hour coverage, including healthcare, hospitality, and manufacturing. Night workers often struggle with getting enough quality sleep, which is crucial for overall health and well-being. To address these challenges, employers and health organizations are exploring ways to support night shift workers, such as promoting better sleep hygiene practices and providing resources to manage their schedules. If these issues remain unaddressed, it could lead to more serious health risks for this large group of employees.",
+        "investor_impact": "Industries that heavily rely on night shift workers, such as healthcare and manufacturing, may face increased costs related to employee health issues and productivity losses. This could impact their profitability and, in turn, affect their stock prices. Companies that provide sleep aids or health programs might see increased demand as organizations seek to support their night shift workers.",
         "key_terms": []
       },
       {
@@ -289,33 +276,9 @@
         "published": "Fri, 17 Jul 2026 16:44:15 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "0213cc8389",
-        "quick_take": "Brewdog founder James Watt is facing complaints from the UK data watchdog after reaching out to former shareholders about buying back the company, which raises concerns about the legality of his actions.",
-        "simplified_article": "James Watt, the founder of Brewdog, has reportedly contacted former shareholders regarding a buyback of the company. This has led to complaints received by the UK data regulator, suggesting that his outreach may have violated data protection laws. Brewdog, a popular craft brewery, has become well-known for its strong brand and controversial business practices. Going forward, Watt may face scrutiny and potential legal issues that could affect Brewdog's reputation and operations due to these complaints.",
-        "investor_impact": "If you're considering investing in Brewdog or related beer companies, this situation might create uncertainty around Brewdog's future strategies, which could impact stock performance or business partnerships. Additionally, if Brewdog faces legal repercussions, it could slow down any plans for expansion or investment that might have tempted potential investors.",
-        "key_terms": []
-      },
-      {
-        "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-        "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
-        "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 17 Jul 2026 16:53:04 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "be872102a2",
-        "quick_take": "China's Moonshot AI just announced its Kimi K3 model, claiming it can compete with American AI giants OpenAI and Anthropic, signaling fierce competition in the AI market.",
-        "simplified_article": "Moonshot AI, a Chinese company, revealed its new artificial intelligence model, Kimi K3, which they believe can rival leading AI companies like OpenAI and Anthropic. This announcement highlights China's growing ambitions in the high-tech field. Silicon Valley firms have dominated AI development, making this a significant challenge. If Kimi K3 delivers on its promise, it could change the landscape of AI technology, possibly affecting how large tech companies operate and innovate.",
-        "investor_impact": "This development could impact tech stocks globally, especially those involved in AI and machine learning, as competition may lead to innovative advancements and shifts in market dynamics. Companies heavily invested in AI technologies, like software firms, may see their stock prices influenced by how Kimi K3 performs against established rivals.",
-        "key_terms": []
-      },
-      {
-        "title": "China hits out at British Steel nationalisation",
-        "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-        "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 17 Jul 2026 16:44:22 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "ef9625bd23",
-        "quick_take": "The UK is considering nationalizing British Steel to protect crucial industry jobs and capabilities amid economic challenges.",
-        "simplified_article": "The UK government is looking to take British Steel, a major company in the steel industry, into public ownership. This move is aimed at ensuring the company continues operations and supports important jobs in the country. Nationalization means the government would own and operate British Steel, which could help keep it afloat during tough economic times. If this happens, it could affect workers and the supply chain in the steel market, impacting construction and manufacturing sectors that rely on steel. People in these sectors may experience changes in job security and product availability.",
-        "investor_impact": "If British Steel is nationalized, companies in the construction and manufacturing sectors could see changes in cost and availability of materials, potentially leading to increased project costs. Investors in these sectors should pay attention to how this could affect their operations and overall demand for steel products.",
+        "quick_take": "Brewdog founder James Watt is facing complaints for contacting former shareholders about buying back the company, raising concerns about data privacy.",
+        "simplified_article": "James Watt, the founder of Brewdog, has come under scrutiny after reportedly reaching out to former shareholders to discuss buying back the company. This has led to complaints being filed with the UK data watchdog, as it raises questions about how he used people's contact information. Brewdog is known for its craft beers and has a significant presence in the UK market. Going forward, Brewdog's handling of this situation could affect its reputation and relationships with current and past investors due to concerns about data privacy rights.",
+        "investor_impact": "This issue could lead to increased regulatory scrutiny for Brewdog, which might deter potential investors if the company faces penalties. If concerns about data privacy become a trend, other companies in the beverage sector might also face similar backlash, impacting their investor confidence.",
         "key_terms": []
       },
       {
@@ -325,47 +288,107 @@
         "published": "Fri, 17 Jul 2026 11:36:11 GMT",
         "source": "feeds.bbci.co.uk",
         "id": "28609859a5",
-        "quick_take": "The 2026 World Cup is set to create massive financial gains, but some companies and sectors may end up losing out significantly.",
-        "simplified_article": "The upcoming 2026 World Cup is expected to generate a lot of money for various businesses off the field. This is happening because the event will attract many global viewers and investors, driving up interest in advertising and merchandise. Major sporting events like the World Cup often boost local economies and related industries. However, not everyone benefits; some companies might struggle with the heightened competition and costs associated with the event. As the tournament approaches, businesses involved in hospitality, tourism, and media will likely feel the biggest impacts, both positive and negative.",
-        "investor_impact": "Investors in hospitality and tourism sectors might see profits rise due to increased travel and spending around the World Cup. However, companies not directly linked to these industries may face challenges in standing out, which could affect their earnings. Overall, be aware of how local businesses in your area might adapt to the changes brought about by this major event.",
+        "quick_take": "The 2026 World Cup is expected to generate huge profits for sponsors and vendors, highlighting major winners and losers in the financial landscape.",
+        "simplified_article": "The upcoming 2026 World Cup is a goldmine for businesses involved, as they are set to earn big from sponsorships and merchandise sales. Companies are capitalizing on the event by investing in advertising and attracting fans to their products, which boosts their revenues. Sporting events like the World Cup have historically brought in billions in profitability for associated companies. As businesses gear up for this major tournament, it remains to be seen how smaller local vendors fare amidst these financial giants, potentially leading to some losing out on sales.",
+        "investor_impact": "If you're invested in companies that are likely to sponsor or sell products during the World Cup, such as sportswear or beverage brands, you could see good returns. Conversely, smaller local businesses might struggle as bigger brands overshadow them, potentially affecting the local retail market. Watch how companies adjust their marketing strategies, as this could influence their stock performance during the tournament.",
         "key_terms": []
       },
       {
-        "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
-        "summary": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
-        "link": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 16 Jul 2026 23:14:11 GMT",
+        "title": "Anger as water supply misery continues for second day",
+        "summary": "Residents in Kent describe South East Water as \"incompetently useless\" as supply issues continue.",
+        "link": "https://www.bbc.co.uk/news/articles/ce3q128kn4qo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 19 Jul 2026 13:06:45 GMT",
         "source": "feeds.bbci.co.uk",
-        "id": "80c531a09e",
-        "quick_take": "Sarah has been managing her and her husband's shared account for 25 years, which highlights the common issue of financial responsibility in relationships.",
-        "simplified_article": "Sarah and her husband have been using a joint bank account to manage their finances for 25 years. Even though they share the account, Sarah says the responsibility of managing it mostly falls on her. This often happens in couples where one partner takes on more financial tasks. Moving forward, it's important for couples to discuss and divide financial responsibilities to ensure fairness and transparency. This situation affects those in similar relationships who may unknowingly let one partner take on the full burden of financial management.",
-        "investor_impact": "This story highlights the importance of open financial communication in households, which could lead to better financial planning and potentially affect budgeting practices. Couples might reconsider how they manage joint finances to avoid one partner feeling overwhelmed, which could help improve overall financial health. It's relevant for anyone in a partnership trying to navigate shared financial responsibilities.",
+        "id": "97b842bf68",
+        "quick_take": "Residents in Kent are furious as South East Water faces ongoing supply issues for the second day, showing poor management in a basic service.",
+        "simplified_article": "Residents in Kent are experiencing continuous problems with their water supply for the second day, leading to widespread frustration. This situation is due to what many are calling the incompetence of South East Water, the company responsible for water delivery in the area. Basic utilities like water supply are crucial for daily life, and disruptions can significantly affect families and businesses. In the coming days, residents and local businesses will likely still face challenges until the issues are resolved, impacting their daily routines and operations.",
+        "investor_impact": "If South East Water's problems continue, it could hurt their reputation and customer satisfaction, potentially leading to lower revenues. Companies reliant on consistent water supply in Kent might face operational challenges and increased costs. This situation highlights the risks associated with utility management failures, relevant for investors interested in utility stocks or businesses in that region.",
         "key_terms": []
       }
     ],
     "us-global": [
       {
-        "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement",
-        "summary": "When asked about Iran no longer abiding by the interim peace agreement, U.S. President Donald Trump reportedly said, \"I couldn't care less.\"",
-        "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-        "published": "Sat, 18 Jul 2026 23:04:22 GMT",
+        "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+        "summary": "Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.",
+        "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+        "published": "Sun, 19 Jul 2026 11:36:45 GMT",
         "source": "cnbc.com",
-        "id": "415a3d35fb",
-        "quick_take": "Two U.S. service members were killed in Jordan, and Iran's aggressive response could increase tensions in the region.",
-        "simplified_article": "Two American military members died in Jordan, and one is currently missing. This situation escalated after Iran announced it would no longer follow an interim peace agreement. Historically, Iran has been involved in regional conflicts, and this break in peace could lead to further instability. Next, this could affect U.S. military operations and foreign relations, putting more troops and resources at risk and complicating efforts for peace in the Middle East.",
-        "investor_impact": "Increased military tension could lead to higher oil prices, which affects consumers with rising gas prices. Companies in the defense sector might see increased contracts and profits as the government may allocate more funds for military operations. Investors in international markets should be cautious as geopolitical instability often leads to market volatility.",
+        "id": "4a502114f5",
+        "quick_take": "The U.S. struck Iranian military facilities after two American troops were killed in an Iranian attack, highlighting rising tensions in the region.",
+        "simplified_article": "The U.S. military targeted Iranian coastal surveillance and air defense systems. This retaliatory action came after two American soldiers lost their lives due to an Iranian strike in Jordan. Historically, U.S.-Iran relations have been tense, often leading to military confrontations. Moving forward, this escalation could impact U.S. military presence and strategy in the Middle East, affecting service members and international relations.",
+        "investor_impact": "Increased military tensions could lead to higher oil prices, affecting industries reliant on stable fuel costs. Companies in the defense sector may see stock movements as government spending on military operations could rise. Additionally, regions dependent on stable Middle Eastern relations may experience economic uncertainty, influencing local investments.",
         "key_terms": []
       },
       {
-        "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
-        "summary": "Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.",
-        "link": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
-        "published": "Sat, 18 Jul 2026 12:00:02 GMT",
+        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+        "summary": "The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.",
+        "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+        "published": "Sun, 19 Jul 2026 12:00:01 GMT",
         "source": "cnbc.com",
-        "id": "4fe975d986",
-        "quick_take": "Nearly 50% of registered voters watched the 2026 World Cup, showing that income and education matter more than political affiliation for viewer engagement.",
-        "simplified_article": "A survey found that almost half of all registered voters tuned in to the 2026 World Cup. This viewership seems to be influenced more by people's income and education levels than by their political party beliefs. The event attracted a diverse group of viewers, which demonstrates its broad appeal. Going forward, this could indicate that major sporting events might continue to draw in large audiences regardless of political ties, affecting advertisers and sponsors who target this diverse crowd.",
-        "investor_impact": "This trend suggests that advertisers and brands could benefit from targeting sports fan engagement, particularly if they are looking to reach a wide demographic. Companies in sports marketing and advertising could see increased opportunities as more viewers engage with big events like the World Cup. Additionally, businesses in merchandise sales might experience a boost as a result of this bipartisan interest.",
+        "id": "7891964b6e",
+        "quick_take": "The CEO of American Airlines is trying to bridge a $3 billion profit shortfall by enhancing services and purchasing new planes.",
+        "simplified_article": "American Airlines' CEO recently shared plans to fix a profit gap exceeding $3 billion. This gap exists because the airline is working to boost its reliability and services to attract more customers. The company is also exploring options for new wide-body planes from manufacturers like Boeing and Airbus to update its fleet. Going forward, these efforts could lead to better customer experiences in the air and at lounges, which may help the airline recover its profitability and compete with other carriers.",
+        "investor_impact": "If American Airlines successfully improves its services and adds more premium offerings, it could attract more high-paying customers, benefiting the airline's revenue. This could positively impact stock prices, making it more appealing for investors interested in airline stocks. Additionally, improvements in reliability could lead to fewer cancellations and delays, potentially increasing overall demand in the airline industry.",
+        "key_terms": []
+      },
+      {
+        "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
+        "summary": "The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say.",
+        "link": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
+        "published": "Sat, 18 Jul 2026 23:01:01 GMT",
+        "source": "cnbc.com",
+        "id": "fbd560d51e",
+        "quick_take": "Analysts are worried that as car makers increase the use of over-the-air technology, the risk of cyberattacks on vehicles also rises.",
+        "simplified_article": "The automotive industry is using more over-the-air technology, which allows them to update software in cars remotely. This trend raises concerns because it makes cars more vulnerable to hacking. Cars today increasingly have internet connections, akin to smartphones, making them an easy target for cybercriminals. If these vehicles are hacked, it could endanger driver safety and privacy by exposing personal data. This issue primarily affects car manufacturers and owners who rely on this technology for feature updates and maintenance.",
+        "investor_impact": "If car manufacturers face costly cyberattacks, it could hurt their profits and stock prices. Companies that specialize in cybersecurity solutions may see increased demand, making them potential beneficiaries in this landscape. Additionally, consumers might favor vehicles with robust cybersecurity features, influencing purchasing decisions across the automotive sector.",
+        "key_terms": []
+      },
+      {
+        "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
+        "summary": "The cost of housing is the top priority for voters ages 18 to 34, besting food and healthcare cost concerns, the CNBC All-America Economic Survey found.",
+        "link": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
+        "published": "Sun, 19 Jul 2026 12:00:01 GMT",
+        "source": "cnbc.com",
+        "id": "7d2462806b",
+        "quick_take": "A recent CNBC survey reveals that the cost of housing is the biggest concern for voters aged 18 to 34, highlighting the financial pressures young people face today.",
+        "simplified_article": "A new survey from CNBC found that young voters, specifically those aged 18 to 34, prioritize housing costs above food and healthcare. This shift in concerns is likely due to rising housing prices that make it harder for young people to afford homes. Housing is a major expense for most people, often taking up a large part of their income. As this issue gains more attention, it could influence political candidates and policies aimed at making housing more affordable. Young voters, having fewer financial resources, will particularly feel the impact of these housing costs.",
+        "investor_impact": "If housing costs continue to be a top priority, it may lead to increased demand for affordable housing projects, potentially boosting investments in real estate development. Additionally, if the government considers policies to reduce housing costs, it could affect mortgage rates and rental markets, impacting both landlords and tenants.",
+        "key_terms": []
+      },
+      {
+        "title": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal",
+        "summary": "Eli Lilly's acquisition of psychedelic drug maker AtaiBeckley extends Big Pharma's embrace of a stigmatized class of medications for treating mental health.",
+        "link": "https://www.cnbc.com/2026/07/19/psychedelic-drugs-mental-health.html",
+        "published": "Sun, 19 Jul 2026 14:45:37 GMT",
+        "source": "cnbc.com",
+        "id": "a417a0cd88",
+        "quick_take": "Eli Lilly just bought AtaiBeckley, signaling major drug companies are now seriously backing psychedelic drugs for mental health treatment.",
+        "simplified_article": "Eli Lilly, a large pharmaceutical company, has acquired AtaiBeckley, which makes psychedelic drugs aimed at treating mental health issues. This move reflects a growing acceptance of these previously stigmatized medications as viable treatment options. Historically, psychedelic drugs have faced a lot of stigma, but recent research shows they can be effective for conditions like depression and anxiety. Going forward, more companies might invest in or develop similar treatments, potentially changing how mental health is approached and offering new therapies to those who need them.",
+        "investor_impact": "This acquisition could lead to a surge in research and development funding for psychedelic therapies, benefiting pharmaceutical companies investing in mental health treatments. As more big players enter this space, healthcare stocks related to mental wellness could see increased attention, making this sector one to watch if you’re interested in pharmaceutical investments.",
+        "key_terms": []
+      },
+      {
+        "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+        "summary": "The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the tournament.",
+        "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
+        "published": "Sun, 19 Jul 2026 12:42:30 GMT",
+        "source": "cnbc.com",
+        "id": "61e4eda48f",
+        "quick_take": "Kalshi gained 3 million new users as it jumped on the excitement of the World Cup, showing that major events can boost interest in prediction markets.",
+        "simplified_article": "Kalshi, a platform where people can make predictions on events, has attracted 3 million new users recently. This surge happened because they launched ads featuring soccer players and partnered to promote their brand during the World Cup, a globally popular soccer tournament. Prediction markets let people bet on outcomes, like which team will win a match. Moving forward, Kalshi will likely continue to engage these new users with more marketing during the tournament, affecting both casual and dedicated sports fans who enjoy making predictions.",
+        "investor_impact": "The increase in users could indicate more money flowing into the prediction market sector, which might attract investors interested in tech and online betting platforms. If Kalshi continues to grow, it could lead to more competition in this space, potentially benefiting other companies focusing on sports and event predictions.",
+        "key_terms": []
+      },
+      {
+        "title": "Top Wall Street analysts suggest these 3 dividend stocks for steady income",
+        "summary": "Here are three dividend-paying stocks that are highlighted by Wall Street's top pros, as tracked by TipRanks.",
+        "link": "https://www.cnbc.com/2026/07/19/top-analysts-suggest-these-3-dividend-stocks-for-steady-income.html",
+        "published": "Sun, 19 Jul 2026 12:46:25 GMT",
+        "source": "cnbc.com",
+        "id": "944b79869b",
+        "quick_take": "Top Wall Street analysts are recommending three dividend stocks for steady income, indicating a focus on reliable earnings in uncertain markets.",
+        "simplified_article": "Wall Street's top analysts have identified three stocks that pay dividends, which are payments made to shareholders from a company's profits. The recommendation is significant because dividend stocks can provide steady income, especially when the market is volatile. Dividend stocks have long been sought after by investors as a way to earn money without selling their shares. Going forward, investors seeking reliable income might consider these stocks, which can be beneficial for retirees or anyone looking for stability in their investment portfolio.",
+        "investor_impact": "This suggests that if you're looking for ways to generate consistent income from your investments, focusing on these recommended dividend stocks could be appealing. This is particularly relevant for people in retired or less aggressive investment strategies who may prefer slower, steady growth over riskier options. Those invested in sectors like utilities or consumer goods, where these dividend stocks might belong, could see stable returns as well.",
         "key_terms": []
       },
       {
@@ -375,78 +398,25 @@
         "published": "Sat, 18 Jul 2026 22:04:02 GMT",
         "source": "cnbc.com",
         "id": "bef3e5c68f",
-        "quick_take": "Taylor Farms is recalling iceberg lettuce in 27 states due to potential contamination, raising health concerns for consumers.",
-        "simplified_article": "Taylor Farms has decided to recall iceberg lettuce because it might be contaminated with a parasite called cyclosporiasis. This is a serious issue because cyclosporiasis can cause gastrointestinal illness in people. This recall affects lettuce sold across 27 states, meaning many consumers and stores might have to deal with it. People who recently bought lettuce from Taylor Farms should be cautious and check their products. Stores will likely need to remove these affected products from their shelves to ensure public safety.",
-        "investor_impact": "This recall could lead to temporary disruptions for grocery chains and produce distributors that deal with Taylor Farms' products, possibly affecting their short-term sales. Consumers may choose to avoid buying lettuce or other greens for a while, impacting overall vegetable sales for suppliers.",
-        "key_terms": []
-      },
-      {
-        "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-        "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
-        "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-        "published": "Sat, 18 Jul 2026 18:16:42 GMT",
-        "source": "cnbc.com",
-        "id": "0b97aaa6d1",
-        "quick_take": "Investment firms are turning to AI as the U.S. Federal Reserve cuts back on public communication, which could change how they make investment decisions.",
-        "simplified_article": "Investment firms are preparing for a time when the U.S. central bank, known as the Fed, will share less information with the public. This change is due to a new approach to communication from the Fed, making it harder for investors to understand its plans. The Fed usually provides guidance to help investors navigate the market. As a result, firms are using AI technology to analyze trends and gain insights. This shift may lead to changes in how investment firms operate and could affect their clients' portfolios.",
-        "investor_impact": "With firms using AI for insights, this could lead to more tech investments, as those tools might identify growth opportunities faster. Investors in sectors like finance that rely heavily on data analysis may see their strategies evolve. If AI becomes more widely adopted, traditional investing methods might change, potentially affecting returns on investments.",
-        "key_terms": []
-      },
-      {
-        "title": "Why Dana White thinks much more of UFC's future will be Power Slap and boxing",
-        "summary": "UFC president and CEO Dana White predicted that Power Slap may become as big as his flagship fighting sport at the Game Plan conference in New York.",
-        "link": "https://www.cnbc.com/2026/07/18/ufc-dana-white-power-slap-boxing.html",
-        "published": "Sat, 18 Jul 2026 14:41:49 GMT",
-        "source": "cnbc.com",
-        "id": "2a959a6ef5",
-        "quick_take": "UFC's Dana White believes that Power Slap could rival the UFC in popularity, showing his confidence in its potential growth.",
-        "simplified_article": "Dana White, the president of the UFC, suggested at a conference that Power Slap, a new sports league, could become just as popular as the UFC itself. He thinks this could happen because of the growing interest in unique sports entertainment. The UFC, which stands for Ultimate Fighting Championship, is currently very successful in mixed martial arts. If Power Slap gains more viewers and support, it could change the landscape of combat sports and potentially attract investment and attention.",
-        "investor_impact": "If Power Slap gains popularity, it could affect the sports entertainment industry, drawing in more viewers and sponsors. Investors in sports franchises or broadcasting networks may see opportunities in this emerging sport as it competes for audience attention alongside established leagues like the UFC.",
-        "key_terms": []
-      },
-      {
-        "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
-        "summary": "The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.",
-        "link": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
-        "published": "Fri, 17 Jul 2026 20:28:40 GMT",
-        "source": "cnbc.com",
-        "id": "30017c3c1f",
-        "quick_take": "Fed Chairman Warsh's recent testimony before Congress is critical as it tests his credibility on controlling inflation.",
-        "simplified_article": "Fed Chairman Warsh spoke for two days before Congress about the importance of keeping prices stable. This hearing was important because it showed how serious he is about tackling inflation, which affects everyone. The Federal Reserve (often called the Fed) is responsible for managing the economy and keeping inflation in check to ensure money doesn't lose its value. Going forward, Warsh must prove he can maintain low inflation, which will impact everyday costs like groceries and fuel for all Americans.",
-        "investor_impact": "If Warsh fails to manage inflation effectively, prices for essentials like food and gas could rise, which means consumers will spend more without getting more in return. Also, sectors like real estate might feel pressure if higher inflation leads to increased interest rates for mortgages, potentially making homeownership less affordable.",
-        "key_terms": [
-          {
-            "term": "inflation",
-            "meaning": "Inflation is the rate at which prices for goods and services rise, which decreases purchasing power and can affect savings."
-          }
-        ]
-      },
-      {
-        "title": "Two unexpected revelations in Warren Buffett's CNBC interview",
-        "summary": "Warren Buffett tells CNBC that Bill Gates' ties to Jeffrey Epstein didn't drive his termination of donations.",
-        "link": "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
-        "published": "Sat, 18 Jul 2026 14:53:36 GMT",
-        "source": "cnbc.com",
-        "id": "2ab3879eaf",
-        "quick_take": "Warren Buffett revealed that Bill Gates' donations weren't influenced by Gates' ties to Jeffrey Epstein, shedding light on the situation.",
-        "simplified_article": "During a CNBC interview, Warren Buffett spoke about Bill Gates and clarified that Gates' connections to Jeffrey Epstein were not the reason he stopped donating. This is important because it challenges some recent assumptions about the motives behind Gates' decisions. Warren Buffett is a well-known investor and the CEO of Berkshire Hathaway, making his insights significant. Moving forward, Gates' reputation may still face scrutiny, but Buffett's comments could ease concerns among some donors and the public about the reasons for the donation changes.",
-        "investor_impact": "This matter mainly impacts those involved in philanthropy or donor causes, as Buffett's comments might restore confidence in Gates among potential donors. If people feel reassured that there are solid reasons for donation changes, it could influence future fundraising efforts and initiatives dependent on big donations.",
-        "key_terms": []
-      },
-      {
-        "title": "Fanatics CEO Michael Rubin on two sports businesses his multibillion-dollar conglomerate won't enter",
-        "summary": "Fanatics has become one of the most influential companies in sports, building out a massive merchandise, collectibles and sports gambling platform.",
-        "link": "https://www.cnbc.com/2026/07/18/fanatics-fanfest-michael-rubin.html",
-        "published": "Sat, 18 Jul 2026 16:20:28 GMT",
-        "source": "cnbc.com",
-        "id": "86730d1b18",
-        "quick_take": "Fanatics CEO Michael Rubin revealed the company won't enter two specific sports businesses, emphasizing their focus on merchandise and collectibles instead.",
-        "simplified_article": "Michael Rubin, the CEO of Fanatics, shared that the multibillion-dollar company will not expand into two particular areas of sports business. This decision stems from their strategy to concentrate on areas where they have already established a strong presence, like merchandise and collectibles. Fanatics has rapidly evolved into a major player in sports merchandising and sports gambling. Looking ahead, this means Fanatics will continue to strengthen its brand in existing markets, impacting sports fans who purchase memorabilia and engage in sports betting.",
-        "investor_impact": "For fans of sports merchandise and collectibles, this focus could mean better products and experiences from Fanatics, which might increase their market share. If you're involved in the sports merchandise industry or hold related investments, keep an eye on how Fanatics' decisions impact competitors and market dynamics.",
+        "quick_take": "Taylor Farms is recalling iceberg lettuce in 27 states due to a possible contamination with cyclosporiasis.",
+        "simplified_article": "Taylor Farms announced a recall of iceberg lettuce sold in 27 states. This recall comes because some of the lettuce may contain cyclosporiasis, which is a parasite that can cause foodborne illness. Food recalls are common when there's a risk to public health. People who may have purchased this lettuce should check their fridges and discard any affected products to avoid getting sick.",
+        "investor_impact": "This recall could impact sales for Taylor Farms, potentially leading to a short-term drop in their stock value if they are publicly traded. Grocery stores and restaurants that carry this lettuce might also see a decline in sales if customers become wary of lettuce in general.",
         "key_terms": []
       }
     ],
     "banking-economy": [
+      {
+        "title": "India’s private lenders bet on corporate loan revival for growth",
+        "summary": "Indian banks report robust loan growth driven by corporate demand. Companies are shifting from expensive bond markets to cheaper bank borrowings. This trend is expected to continue for the next two quarters. Banks possess healthy balance sheets and strong capital buffers. Loan demand is seen across various sectors like electronics and automobiles.",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-private-lenders-bet-on-corporate-loan-revival-for-growth/articleshow/132490915.cms",
+        "published": "Sun, 19 Jul 2026 12:19:46 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "a22e88c34e",
+        "quick_take": "Indian banks are seeing strong loan growth as companies prefer low-cost bank loans over expensive bonds, signaling a positive shift in the corporate lending space.",
+        "simplified_article": "Indian banks are experiencing significant growth in loans, driven by increased demand from companies. Many businesses are moving away from borrowing through costly bond markets to more affordable bank loans. This trend is expected to continue for the next six months. Key sectors like electronics and automobiles are leading this demand. With banks in good financial health, they are ready to support this growth.",
+        "investor_impact": "If you're in the electronics or automobile sectors, this trend could mean more financing opportunities for growth and expansion. Additionally, banks with healthier loan portfolios might see increased profitability, which could eventually impact their stock prices positively.",
+        "key_terms": []
+      },
       {
         "title": "Trade, NBFC credit to remain fastest-growing lending segments: Report",
         "summary": "Trade and NBFC credit are expected to remain among the fastest-growing segments of India's banking system, supported by rising formalisation of economic activity, deeper financial penetration and the expanding reach of organised lenders, according to a report by Ashika Institutional Equities. The report said continued adoption of GST, digital payments and cash-flow-based underwriting will support credit expansion, while banks are likely to increasingly favour well-capitalised NBFCs with diversified funding profiles and healthy asset quality.",
@@ -454,19 +424,10 @@
         "published": "Sun, 19 Jul 2026 10:22:27 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "775e8110b1",
-        "quick_take": "Trade and credit from Non-Banking Financial Companies (NBFCs) are set to grow rapidly in India due to more organized economic activities and digital payments.",
-        "simplified_article": "A new report predicts that trade and NBFC credit will be among the fastest-growing parts of India's banking system. This growth is driven by more businesses operating formally, the use of digital payments, and banks preferring strong NBFCs. As more people and businesses adopt the Goods and Services Tax (GST), it makes borrowing easier. Going forward, this means businesses, particularly those in trade and financing sectors, will have better access to loans, which could fuel economic growth.",
-        "investor_impact": "This growth in lending could benefit businesses needing credit for expansion, particularly in trade and finance. If you're invested in companies related to trade or those operating as NBFCs, their growth could lead to positive returns. Additionally, better access to loans may help small businesses thrive in an increasingly formal economy.",
-        "key_terms": [
-          {
-            "term": "NBFC",
-            "meaning": "Non-Banking Financial Companies (NBFCs) are financial institutions that provide bank-like services but do not hold a banking license, making them crucial for lending in sectors that banks may overlook."
-          },
-          {
-            "term": "GST",
-            "meaning": "Goods and Services Tax (GST) is a single tax on the supply of goods and services, which aims to simplify the tax system and boost economic formalization."
-          }
-        ]
+        "quick_take": "India's trade and non-banking financial company (NBFC) credit are set to grow rapidly as the economy formalizes and digital payments rise.",
+        "simplified_article": "A new report predicts that India's lending through trade and NBFCs will be among the fastest-growing parts of the banking system. This growth is driven by more businesses moving to official channels, better access to financial services, and the rise of organized lenders. Key factors like the Goods and Services Tax (GST), digital payments, and a focus on cash-flow-based loans are expected to support this expansion. As banks favor strong NBFCs with good financial health, these changes will likely mean easier access to credit for businesses and consumers alike.",
+        "investor_impact": "If you’re involved in businesses reliant on loans or credit, this growth could lead to more financing options and potentially lower costs. The rise of organized lenders benefits sectors like retail and small business services, which may see increased activity. Additionally, consumers looking to secure loans should find more favorable terms due to the expanding market.",
+        "key_terms": []
       },
       {
         "title": "PNB mobilises $419 million in FCNR(B) deposits, on track to meet $2.5 billion target: Executive Director",
@@ -475,13 +436,13 @@
         "published": "Sat, 18 Jul 2026 20:35:09 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "3a23d6e7ec",
-        "quick_take": "Punjab National Bank (PNB) has raised $419 million in foreign currency deposits, putting it on track to reach its $2.5 billion goal by September 30.",
-        "simplified_article": "Punjab National Bank (PNB) has successfully gathered about $419 million in deposits from non-resident customers. This is significant because the bank aims to collect a total of $2.5 billion by the end of September. Global interest rates are currently high, which makes competition tougher for attracting these funds. Looking ahead, if PNB meets its target, it could strengthen its financial position, benefiting both the bank and its depositors by possibly offering better rates or services.",
-        "investor_impact": "This could mean more attractive interest rates for those looking to invest in foreign currency deposits, especially for non-resident Indians. If PNB achieves its funding target, it may lead to increased financial stability, which could positively influence other banking products. However, higher global interest rates could also impact loan rates in the future.",
+        "quick_take": "Punjab National Bank raised $419 million in special foreign deposits and is on track to hit its $2.5 billion goal by September 30, which is significant for attracting overseas investments.",
+        "simplified_article": "Punjab National Bank (PNB) has successfully gathered about $419 million in Foreign Currency Non-Resident Bank (FCNR(B)) deposits. This increase in deposits is crucial as it helps PNB work toward a larger target of $2.5 billion by the end of September. FCNR(B) deposits allow non-resident Indians to keep their money in foreign currencies, making them attractive due to potential higher returns. Moving forward, if PNB meets its target, it could provide more stability and financial strength to the bank, affecting how they lend and invest, which in turn affects customers and investors.",
+        "investor_impact": "This progress in raising foreign deposits could lead to better interest rates for international investors, making it more appealing to invest in PNB. Additionally, if PNB meets its deposit target, it may encourage confidence in the banking sector, potentially benefiting borrowers looking for loans.",
         "key_terms": [
           {
-            "term": "FCNR(B) deposits",
-            "meaning": "These are Foreign Currency Non-Resident Bank deposits that allow non-resident Indians to hold money in foreign currency, providing an option for safer investments."
+            "term": "FCNR(B)",
+            "meaning": "Foreign Currency Non-Resident Bank deposits allow non-resident Indians to keep their money in foreign currencies, often offering better interest rates."
           }
         ]
       },
@@ -492,9 +453,9 @@
         "published": "Sat, 18 Jul 2026 16:33:31 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "66e14fda4c",
-        "quick_take": "Axis Bank hired Rajeev Mantri as its finance chief, filling a key leadership role after Puneet Sharma's resignation.",
-        "simplified_article": "Axis Bank has appointed Rajeev Mantri as its new finance chief. He is stepping in after the previous finance chief, Puneet Sharma, resigned. Mantri has nearly 30 years of experience in finance, which makes him a strong candidate for this important position. The Reserve Bank of India has also confirmed that he meets all the needed qualifications. With this new leadership, Axis Bank is likely aiming for stable financial management as it continues to grow and serve its customers.",
-        "investor_impact": "With a seasoned finance chief, investors could expect more stable leadership at Axis Bank. This stability may positively impact the bank’s financial performance, potentially affecting bank stocks positively in the sector. Customers might also see improved services as the bank refines its financial strategies.",
+        "quick_take": "Axis Bank has hired Rajeev Mantri as its new finance chief, filling a leadership gap after Puneet Sharma's resignation.",
+        "simplified_article": "Axis Bank, a major Indian bank, has appointed Rajeev Mantri as its finance chief following the resignation of Puneet Sharma. Mantri, who has nearly 30 years of experience in finance, previously served as the CFO at Bandhan Bank. This change is important because it brings experienced leadership to Axis Bank during a time of transition. Mantri meets the Reserve Bank of India's requirements for this role. Going forward, his expertise could help improve the bank's financial management and strategies.",
+        "investor_impact": "Having a solid finance chief like Mantri could enhance Axis Bank's stability and growth, which may positively influence its stock performance. Investors in the banking sector should keep an eye on how this leadership change impacts Axis Bank's financial strategies and overall confidence in the market.",
         "key_terms": []
       },
       {
@@ -504,19 +465,10 @@
         "published": "Sat, 18 Jul 2026 13:13:52 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "3e9e64655f",
-        "quick_take": "Experts warn that introducing UPI's merchant discount rate (MDR) could jack up costs for small businesses and hurt spending.",
-        "simplified_article": "Experts are concerned that if a merchant discount rate (MDR) is added to UPI transactions, it could raise costs for businesses. This change may lead to increased operating expenses, especially hitting small merchants and kirana stores hard. UPI has been successful as a public digital payment system, but its future might be jeopardized if costs go up. As a result, small businesses could struggle more, which may impact overall consumer spending in the economy.",
-        "investor_impact": "If small businesses, like local kirana stores, face higher fees due to UPI's MDR, it could lead to lower sales and profitability, impacting sectors reliant on small retailers. Consumers might spend less, and industries like food and everyday goods could see slowed growth. This scenario could affect investments in companies that heavily rely on these small merchants for sales.",
-        "key_terms": [
-          {
-            "term": "UPI",
-            "meaning": "Unified Payments Interface, a fast payment system in India that allows instant money transfers between bank accounts."
-          },
-          {
-            "term": "MDR",
-            "meaning": "Merchant Discount Rate, a fee charged to businesses for processing digital payments, which can increase their costs."
-          }
-        ]
+        "quick_take": "Experts warn that introducing UPI merchant discount rate fees could raise costs for small businesses and hurt consumer spending.",
+        "simplified_article": "Experts are discussing the potential introduction of a fee called the UPI merchant discount rate, which could increase costs for businesses. This could make it harder for small merchants and local stores to operate profitably. UPI, which stands for Unified Payments Interface, is important for making digital payments easy and widely accessible. If small businesses struggle due to higher costs, it could lead to higher prices for consumers and less spending, which affects the economy overall.",
+        "investor_impact": "If the UPI fees are implemented, small retailers and kirana stores could face higher operating costs, which might lead to increased prices for consumers. This could hurt sectors that rely heavily on consumption, like retail and food services, impacting their profitability. Businesses that adapt well may see opportunities, but those that can't adjust may suffer financially.",
+        "key_terms": []
       },
       {
         "title": "IDBI Bank ups FCNR ante with 16% on offer",
@@ -525,17 +477,17 @@
         "published": "Sat, 18 Jul 2026 01:08:49 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "9de66c8938",
-        "quick_take": "IDBI Bank is offering an attractive 16.2% annual return on its new deposit scheme, making it a tempting option for large investors.",
-        "simplified_article": "IDBI Bank has launched a special deposit scheme that allows customers to earn up to 16.2% annual returns. This high return is possible because the bank enables customers to borrow up to 12 times their deposit amount. The scheme specifically targets larger deposits over $5 million for terms of three to five years. Customers interested in these high returns can benefit significantly, especially if they have substantial funds to invest. This move might attract many investors looking for better returns in today's market.",
-        "investor_impact": "Investors looking to maximize returns on large deposits may find this scheme appealing, particularly those with over $5 million to invest. Businesses or individuals considering dollar investments could benefit the most from these high rates, potentially leading to higher interest income. However, taking loans against these deposits can also be quite advantageous for those needing liquidity while maintaining investment.",
+        "quick_take": "IDBI Bank is offering up to 16.2% returns on a new deposit scheme, which is significant for those looking to maximize their savings.",
+        "simplified_article": "IDBI Bank has introduced a new deposit option that allows customers to earn returns as high as 16.2%, depending on how much they invest and for how long. This initiative aims to attract more clients and boost the bank's funds. The scheme also allows customers to borrow up to 12 times their deposit amount, making it easier for them to access cash. Customers with large deposits over $5 million can earn up to 6.60% interest for three to five years. This move could benefit people looking for high-interest savings options and those needing loans backed by deposits.",
+        "investor_impact": "This is great news for anyone considering saving or investing large sums, as they could earn more from their deposits. It may encourage high net worth individuals to explore IDBI Bank's services for better returns on their savings, impacting competitive rates in the banking sector.",
         "key_terms": [
           {
-            "term": "FCNR",
-            "meaning": "Foreign Currency Non-Resident accounts allow NRIs (Non-Resident Indians) to hold and manage deposits in foreign currency, which can be advantageous for those living abroad."
+            "term": "FCNR(B) Special Opportunity Deposit",
+            "meaning": "This is a type of fixed deposit in foreign currency that allows customers to earn interest while also offering loan options against their deposit."
           },
           {
             "term": "Structured Loan Facility",
-            "meaning": "This refers to a type of loan that often has specific terms and conditions attached, which in this case lets depositors borrow a large multiple of their deposited amount."
+            "meaning": "This allows customers to borrow a set amount based on their deposit, making it easier to access funds as needed."
           }
         ]
       },
@@ -546,19 +498,10 @@
         "published": "Sat, 18 Jul 2026 00:22:21 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "4f61febac9",
-        "quick_take": "Banks are asking the RBI for help with collateral-free loans up to Rs 20 lakh for small businesses because many borrowers don't want to pay extra guarantee fees.",
-        "simplified_article": "Banks are having trouble giving out loans without collateral (assets promised as security) for small businesses, specifically loans that can go up to Rs 20 lakh. This issue arises because not all businesses qualify for the government's guarantee scheme, which protects lenders in case borrowers can't pay back the loans. Many small business owners also hesitate to pay extra fees on these guarantees. Going forward, lenders plan to talk to the government and the Reserve Bank of India (RBI) to find solutions. This situation makes it harder for micro and small enterprises to get needed funding.",
-        "investor_impact": "If banks can't provide these collateral-free loans easily, small businesses may struggle to grow, which could slow down economic activity. This is particularly relevant for sectors like retail and services, which heavily rely on such loans for operations and expansion. Investors in companies that serve these small businesses might see impacts on growth and revenue.",
-        "key_terms": [
-          {
-            "term": "collateral-free loans",
-            "meaning": "Loans that don't require assets to back them up, making them easier for small businesses to access."
-          },
-          {
-            "term": "government guarantee scheme",
-            "meaning": "A program that protects lenders by guaranteeing repayment if borrowers default, encouraging banks to lend to small businesses."
-          }
-        ]
+        "quick_take": "Banks are asking the RBI for guidance on how to issue collateral-free loans up to Rs 20 lakh to small businesses because many borrowers aren't willing to pay extra fees, affecting access to credit.",
+        "simplified_article": "Banks are struggling to offer loans without collateral (assets pledged as security) up to Rs 20 lakh for small businesses. This is because some borrower accounts don’t qualify for the government’s guarantee scheme, which protects lenders in case of default. Many small business owners are also reluctant to pay additional fees for these guarantees. As a result, micro and small enterprises are finding it harder to get the financial support they need. The banks are planning to reach out to the government and RBI for solutions to these issues.",
+        "investor_impact": "This situation may lead to a slowdown in growth for small businesses, which could affect sectors like retail and services that rely heavily on these loans. If access to credit remains difficult, it might stall expansion plans for many companies, impacting their potential revenue and stability.",
+        "key_terms": []
       },
       {
         "title": "RBI imposes penalties on Muthoot Finance, 5 others for compliance violations",
@@ -567,25 +510,117 @@
         "published": "Fri, 17 Jul 2026 22:21:59 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "00587cc893",
-        "quick_take": "RBI fined Muthoot Finance Rs 5.80 lakh and five other companies for failing to follow important financial rules, which highlights ongoing supervision in the finance sector.",
-        "simplified_article": "The Reserve Bank of India (RBI) has charged six financial companies, including Muthoot Finance, with penalties for not complying with regulations. Muthoot Finance was fined Rs 5.80 lakh due to problems in managing financial risks. Other companies faced penalties for issues like director conflicts and exceeding credit limits. These penalties show that the RBI is keen on enforcing rules to ensure transparency and safety in the financial industry. The affected companies may need to improve their practices to avoid similar penalties in the future.",
-        "investor_impact": "These fines may make companies more cautious in their lending and risk management strategies, affecting their operations and potentially their profitability. If you hold investments in these companies or similar financial firms, it might influence their future performance and stability.",
-        "key_terms": []
-      },
-      {
-        "title": "An eye for dollars: SBI brings in $1.9 billion in foreign-currency resources via special scheme, way ahead of peers",
-        "summary": "State Bank of India mobilized nearly two billion dollars under a central bank incentive. This amount significantly surpasses other state-owned and private sector banks' efforts. Other lenders like Bank of Baroda and Canara Bank raised smaller sums. Banks are now focusing on attracting overseas currency inflows from the Indian diaspora. This strategy aims to provide greater flexibility for high-net-worth clients.",
-        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/an-eye-for-dollars-sbi-brings-in-1-9-billion-in-foreign-currency-resources-via-special-scheme-way-ahead-of-peers/articleshow/132447596.cms",
-        "published": "Fri, 17 Jul 2026 00:52:52 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "5a85c473b4",
-        "quick_take": "State Bank of India raised $1.9 billion in foreign currency to attract funds from overseas, outpacing its competitors like Bank of Baroda and Canara Bank.",
-        "simplified_article": "The State Bank of India (SBI) has successfully raised nearly $1.9 billion using a special scheme encouraged by the central bank. This push is part of a broader effort by banks to attract cash from the Indian communities living abroad. Other banks like Bank of Baroda and Canara Bank managed to gather smaller amounts, showing SBI's significant advantage. Moving forward, this influx of foreign funds will give SBI more options to serve high-net-worth clients, who have more complex financial needs.",
-        "investor_impact": "For those with investments in SBI or who are high-net-worth clients, this could mean better financial services and options as the bank has more resources. Additionally, banks may start offering competitive rates on products to attract more overseas investors. This is important for anyone looking to take advantage of better deals or services from banks as they expand their international reach.",
-        "key_terms": []
+        "quick_take": "RBI fined Muthoot Finance Rs 5.80 lakh for failing to manage risks properly, which highlights the importance of strict compliance in financial companies.",
+        "simplified_article": "The Reserve Bank of India (RBI) has penalized six financial companies for various compliance violations. Muthoot Finance received a fine for not managing risk adequately, while Avail Financial Services was fined due to conflicts of interest among its directors. Other companies like PAN Emami Cosmed exceeded their credit exposure limits, and Satya MicroCapital misclassified non-performing assets (NPA, which are loans that are not being paid back). This shows that the RBI is serious about enforcing rules to ensure financial stability. These penalties may affect the operations and reputation of these companies, leading to stricter compliance in the future.",
+        "investor_impact": "For those invested in these financial companies, this could mean potential slowdowns in business operations as they work to improve compliance. Customers might experience changes in services or fees as firms address these penalties. Overall, this situation emphasizes the need for companies to focus more on risk management, which can impact their long-term trustworthiness with investors.",
+        "key_terms": [
+          {
+            "term": "non-performing assets (NPA)",
+            "meaning": "Loans that borrowers are not repaying, indicating potential financial trouble for lenders."
+          }
+        ]
       }
     ],
     "sectors": [
+      {
+        "title": "Government launches White Rabbit tech network to secure Indian Standard Time",
+        "summary": "The system disseminates Indian Standard Time, traceable to the national time-keeping authority UTC (NPLI), using Precision Time Protocol-based White Rabbit technology, which the ministry said in a statement, offers highly accurate synchronisation for sectors, including banking, telecommunications, power grids, transportation, and digital governance.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/government-launches-white-rabbit-tech-network-to-secure-indian-standard-time/articleshow/132493728.cms",
+        "published": "Sun, 19 Jul 2026 16:56:51 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "3a19ac8a6d",
+        "quick_take": "The Indian government has launched the White Rabbit tech network to enhance accuracy in Indian Standard Time, impacting sectors like banking and telecommunications.",
+        "simplified_article": "The Indian government introduced a new technology called White Rabbit to ensure Indian Standard Time is accurate and reliable. This was done to help various important industries like banking, telecommunications, and transportation better synchronize their operations. Accurate timekeeping is crucial for things like online transactions and managing power grids. As this system rolls out, many businesses in these sectors will benefit from improved efficiency, leading to better services for everyone in India.",
+        "investor_impact": "This initiative could improve the efficiency of banks and telecom companies, potentially benefiting their stock prices. Moreover, improvements in timing may enhance operations in sectors like transportation and power, which could lead to more reliable services for consumers. If you're involved with investments related to these sectors, keep an eye on how companies adapt to this technology.",
+        "key_terms": []
+      },
+      {
+        "title": "5paisa Capital partners with OpenAI to bring AI-powered investing in India",
+        "summary": "5paisa Capital has partnered with OpenAI to integrate AI-powered investing and trading features across its platform. The collaboration will offer personalised insights, portfolio analysis and decision support, with plans to make 5paisa's services accessible within ChatGPT through conversational AI.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/5paisa-capital-partners-with-openai-to-bring-ai-powered-investing-in-india/articleshow/132492536.cms",
+        "published": "Sun, 19 Jul 2026 15:24:06 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "bb86f62a67",
+        "quick_take": "5paisa Capital teamed up with OpenAI to launch AI-driven investing in India, which could revolutionize how everyday people manage their investments.",
+        "simplified_article": "5paisa Capital has partnered with OpenAI to bring artificial intelligence (AI) to its investing and trading platform. This collaboration aims to provide users with personalized insights, help them analyze their investment portfolios, and support their decision-making processes. 5paisa is looking to make its services available through ChatGPT, a popular conversational AI tool. As a result, more investors will have access to advanced investment tools that were previously reserved for professionals, impacting everyone who wants to invest or trade in India.",
+        "investor_impact": "This innovation could make investing easier and more accessible for individual investors, particularly in tech and financial sectors. With personalized AI insights, new and existing investors might feel more confident managing their money, potentially leading to increased participation in the stock market and boosting demand for various investment products.",
+        "key_terms": [
+          {
+            "term": "artificial intelligence (AI)",
+            "meaning": "Technology that simulates human intelligence to analyze data and make decisions, crucial for enhancing investment strategies."
+          }
+        ]
+      },
+      {
+        "title": "Users of Meta's Facebook, Instagram report suffering some outages",
+        "summary": "Social media platforms Instagram and Facebook experienced widespread outages on Sunday. Users in the United States reported significant issues accessing both the app and website. Downdetector data showed thousands of reports filed by affected users. Access to these popular platforms was also intermittent in Singapore. Meta has not yet provided an immediate comment on the disruptions.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/users-of-metas-facebook-instagram-report-suffering-some-outages/articleshow/132492032.cms",
+        "published": "Sun, 19 Jul 2026 14:26:38 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "8492024d78",
+        "quick_take": "Thousands of users in the U.S. reported outages on Facebook and Instagram, highlighting the reliability issues of these major social media platforms.",
+        "simplified_article": "On Sunday, many users in the United States faced problems accessing Facebook and Instagram. These issues affected both the app and website, with many reports logged on Downdetector, a website that tracks outages. The reason for the disruptions has not been explained yet, and users in Singapore also experienced intermittent access. These outages can be frustrating for people who rely on these platforms for communication and business, leading to potential losses in advertising revenue for Meta, the parent company.",
+        "investor_impact": "These outages could hurt advertising revenues for Meta, which may concern investors holding tech stocks, particularly those focused on social media. Businesses that rely on these platforms for marketing could also see disruptions in customer engagement. If issues persist, it might lead to negative sentiment around tech shares related to connectivity reliability.",
+        "key_terms": []
+      },
+      {
+        "title": "Pocket-size AI: Powerful phones star at China show",
+        "summary": "Tech firms are developing AI agent smartphones that could revolutionize mobile use. These advanced phones aim to perform tasks using voice commands and AI. Major app companies are restricting access, which hinders the AI agent's functionality. Companies like Nubia, Honor, and StepFun are showcasing these new devices. Experts predict a fundamental change in digital economies and business models.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pocket-size-ai-powerful-phones-star-at-china-show/articleshow/132490679.cms",
+        "published": "Sun, 19 Jul 2026 12:48:48 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "09c6b30dee",
+        "quick_take": "Tech firms like Nubia and Honor are launching innovative AI smartphones that could change how we use mobile devices.",
+        "simplified_article": "At a tech show in China, companies like Nubia and Honor showcased new AI agent smartphones designed to perform tasks using voice commands. These advancements are being made possible as tech firms aim to integrate more AI into mobile technology. However, major app companies are limiting access to AI features, which affects how well these new phones can perform. Experts believe that this technology could significantly alter digital economies and business models in the future, impacting consumers and businesses alike.",
+        "investor_impact": "This innovation could lead to a rise in demand for tech stocks, particularly those of smartphone manufacturers like Nubia and Honor. Since advanced AI features can attract more users, companies investing in these technologies may see increased sales, directly benefiting their shares. Additionally, businesses that adapt to these AI-driven models could find new revenue streams.",
+        "key_terms": []
+      },
+      {
+        "title": "Equity norms under Semicon 2.0 to drive investment for advance chips design by Indian cos: IT Secy",
+        "summary": "India's Semicon 2.0 program will offer equity incentives for chip design firms. This initiative aims to attract significant investment for advanced chip development. The government will co-invest with venture capitalists to fund high-end chip designs. India's focus is on deepening its chip design ecosystem and developing intellectual property.",
+        "link": "https://economictimes.indiatimes.com/tech/technology/equity-norms-under-semicon-2-0-to-drive-investment-for-advance-chips-design-by-indian-cos-it-secy/articleshow/132491279.cms",
+        "published": "Sun, 19 Jul 2026 10:22:40 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "a568c4d43e",
+        "quick_take": "India's Semicon 2.0 program will boost investment in advanced chip design from Indian companies by offering equity incentives.",
+        "simplified_article": "The Indian government announced its new Semicon 2.0 program to attract investment in advanced chip designs. This initiative is aimed at encouraging companies to create high-tech chips by providing equity incentives, meaning the government will share ownership stakes with investors. Historically, India has wanted to strengthen its chip design industry, which is crucial for modern electronics. As a result, this program is likely to lead to increased funding and innovation in the tech sector, impacting firms involved in chip design and production.",
+        "investor_impact": "This could mean growth for technology and semiconductor stocks, especially those related to chip design and production as they may benefit from increased funding. Companies that participate in the Semicon 2.0 program could attract significant investment, enhancing their competitive edge in a rapidly evolving tech landscape.",
+        "key_terms": [
+          {
+            "term": "Semicon 2.0",
+            "meaning": "A government initiative in India aimed at boosting the semiconductor industry by providing incentives for chip design and development."
+          },
+          {
+            "term": "equity incentives",
+            "meaning": "Benefits provided to investors or companies where they gain ownership stakes, encouraging them to invest in certain projects."
+          }
+        ]
+      },
+      {
+        "title": "NTA probe finds NEET OMR sheets 'completely AI-generated', tampered; legal action likely",
+        "summary": "The National Testing Agency found one disputed NEET OMR sheet was AI-generated. Another OMR sheet submitted for scrutiny was discovered to have been tampered with. This follows allegations from students regarding discrepancies in their recorded responses and final scores. The NTA will pursue legal action against those submitting fake or manipulated OMR sheets. Around twenty lakh candidates appeared for the NEET examination this year.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nta-probe-finds-neet-omrs-completely-ai-generated-tampered-legal-action-likely/articleshow/132492821.cms",
+        "published": "Sun, 19 Jul 2026 00:41:01 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "1142a85d0b",
+        "quick_take": "The National Testing Agency found that some NEET exam answer sheets were either completely created by AI or tampered with, impacting 20 lakh candidates.",
+        "simplified_article": "The National Testing Agency (NTA) discovered that one NEET exam answer sheet was generated by artificial intelligence (AI), while another was altered in some way. This investigation follows complaints from students about differences between their answers and their final scores. NEET (National Eligibility cum Entrance Test) is a crucial exam in India for aspiring medical students. The NTA plans to take legal action against those who submitted these fake or modified answer sheets, which could affect the students involved and the integrity of future exams.",
+        "investor_impact": "This situation could lead to stricter regulations and monitoring in the education sector, impacting companies that provide educational services or examination technologies. Additionally, it may influence student enrollment numbers in medical colleges if trust in exam integrity declines.",
+        "key_terms": [
+          {
+            "term": "NEET",
+            "meaning": "A national exam in India for medical college admissions, important for aspiring doctors."
+          },
+          {
+            "term": "OMR sheets",
+            "meaning": "Optical Mark Recognition sheets used for recording answers in multiple-choice tests."
+          },
+          {
+            "term": "AI-generated",
+            "meaning": "Content created by artificial intelligence, which raises concerns over authenticity in this context."
+          }
+        ]
+      },
       {
         "title": "Shanghai Xingshu launches first constellation of its space-based computing project",
         "summary": "Shanghai Xingshu Tiansuan launched its first space-computing constellation on Saturday. This project aims to deploy a total of one thousand satellites in orbit. Space-based computing processes data in orbit, reducing the need for Earth transmission. This launch moves China closer to commercial operation of its space-based computing network. Elon Musk's SpaceX is also advancing its own space-based computing initiatives.",
@@ -593,13 +628,13 @@
         "published": "Sat, 18 Jul 2026 17:48:57 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "3f5232f8d4",
-        "quick_take": "Shanghai Xingshu launched its first satellite for a project that aims to deploy 1,000 satellites to improve data processing in space, which is a big step for China's tech advancement.",
-        "simplified_article": "Shanghai Xingshu Tiansuan has successfully launched the first satellite in its space-computing project. The goal of this project is to eventually have 1,000 satellites that process data in orbit, which means less reliance on sending information back to Earth. This is important because it can significantly speed up data handling for various technologies. With this launch, China is getting closer to having a fully operational space-based computing network, similar to projects being developed by companies like Elon Musk's SpaceX. If successful, this project could lead to faster and more efficient tech services globally.",
-        "investor_impact": "This development might benefit the tech sector, especially companies involved in data processing and satellite technology. If the project is successful, it could lead to lower costs and faster services in industries reliant on satellite communications, potentially impacting everything from telecommunications to cloud computing.",
+        "quick_take": "Shanghai Xingshu launched its first set of satellites to create a space-computing network, which could change how data is processed and transmitted globally.",
+        "simplified_article": "Shanghai Xingshu Tiansuan successfully launched its first batch of satellites as part of a larger plan to deploy a total of 1,000 satellites. This project aims to process data in space, which means less reliance on sending data back to Earth, making it faster and more efficient. Space-based computing could revolutionize industries that require quick data processing, like financial services and telecommunications. Next, as China develops its space-computing network, it could enhance its tech capabilities and potentially compete with other major players like Elon Musk's SpaceX.",
+        "investor_impact": "Investors in technology and satellite companies might see opportunities as space-based computing becomes more viable. Companies focused on data processing and communication might benefit from reduced costs and improved services. Additionally, this move could spark competition in the tech industry, impacting stock prices in related sectors.",
         "key_terms": [
           {
-            "term": "space-based computing",
-            "meaning": "This means processing data using computers that are located in space, reducing delays caused by transmitting data to and from Earth."
+            "term": "space-computing constellation",
+            "meaning": "A group of satellites working together in space to process data, which helps improve efficiency and speed in data handling."
           }
         ]
       },
@@ -610,9 +645,9 @@
         "published": "Sat, 18 Jul 2026 17:16:47 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "763bc89468",
-        "quick_take": "Protests against AI data centers are erupting nationwide in 125 locations, signaling growing public concern over their environmental impact.",
-        "simplified_article": "This Saturday, a group called HumansFirst is organizing protests across 125 places in the U.S. against the expansion of AI data centers. These demonstrations are driven by worries about the environmental damage these facilities could cause and the impact they may have on local communities. A recent poll shows that many people don’t support building local data centers. With public opposition rising, it remains to be seen how this will influence decisions about future infrastructure projects and communities involved.",
-        "investor_impact": "The protests might delay or impact investments in real estate and tech sectors related to data center development. Companies planning to build these centers could face higher costs or increased regulations, affecting their stock prices. If public dissent continues, it might lead to more stringent environmental policies that could slow down tech industry growth.",
+        "quick_take": "Nationwide protests against AI data centers are set for Saturday, reflecting growing public concern over their environmental impact and community control.",
+        "simplified_article": "This Saturday, protests will take place across 125 locations in the U.S. against the expansion of AI data centers. The demonstrations are organized by HumansFirst, a group worried about how these centers may harm the environment and reduce local control over communities. Recently, polls show that many people are not supportive of building new data centers near them. As these protests escalate, they could influence decisions by local governments and companies about future tech developments.",
+        "investor_impact": "These protests might lead to delays in the construction of new data centers, particularly affecting tech companies involved in AI and cloud services. This could slow the growth of infrastructure that supports new technology, which might impact stock prices in the tech sector. Additionally, local real estate values could be influenced as communities push back against new developments.",
         "key_terms": []
       },
       {
@@ -622,9 +657,9 @@
         "published": "Sat, 18 Jul 2026 14:27:24 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "d30bf6f8f6",
-        "quick_take": "Skyroot Aerospace successfully launched its orbital mission Aagaman, illustrating India's progress in becoming self-reliant in space technology.",
-        "simplified_article": "Skyroot Aerospace completed its first orbital launch with a mission called Aagaman. This achievement follows years of development and comes after their previous successful sub-orbital flight in 2022. Prime Minister Narendra Modi praised the team, highlighting its importance for India’s capabilities in space. The success of this mission may open doors for more private companies in the aerospace sector. This could also create new opportunities in satellite deployment and related technologies, impacting various industries such as telecommunications and research.",
-        "investor_impact": "With Skyroot's achievement, investors in the aerospace and technology sectors may see opportunities as private space ventures grow. Companies in satellite technology and telecommunication services might benefit from increased demand for satellite launches. This could lead to more funding and partnerships in the aerospace sector in India.",
+        "quick_take": "Skyroot Aerospace successfully launched its Aagaman mission, becoming one of the few companies capable of sending satellites into orbit, showing India's growing strength in space technology.",
+        "simplified_article": "Skyroot Aerospace completed its Aagaman mission, marking its first successful orbital launch. This achievement follows the startup's earlier sub-orbital launch of Vikram-S in 2022. The mission represents years of hard work and development for the company. Prime Minister Narendra Modi praised the team's efforts, highlighting India's commitment to becoming self-reliant in space technology. As a result, this success could boost interest and investment in the Indian aerospace sector, attracting more companies and partnerships in the future.",
+        "investor_impact": "Investors in the aerospace sector may see increased opportunities for growth as more companies look to collaborate or invest in space technology. This successful launch could result in higher valuations for startups in this field, possibly influencing venture capital investments towards aerospace-related projects in India. Additionally, companies involved in satellite technology and manufacturing might experience a rise in demand for their services.",
         "key_terms": []
       },
       {
@@ -634,85 +669,92 @@
         "published": "Sat, 18 Jul 2026 14:18:31 +0530",
         "source": "economictimes.indiatimes.com",
         "id": "532a85f951",
-        "quick_take": "China's Kimi K3 AI program topped the US coding tool rankings, escalating the competition between China and the US in the AI industry.",
-        "simplified_article": "A new AI program called Kimi K3, created by a Chinese startup named Moonshot AI, has recently taken the number one spot on an important ranking of AI coding tools called Arena. This is significant because it’s the first time a Chinese AI model has reached this position, highlighting China's advancements in technology. The release happened just after tensions between the two countries over AI dominance have been rising. Going forward, this could lead to increased investments in AI from both nations and might influence tech companies and investors watching the competition closely.",
-        "investor_impact": "This development may lead to heightened competition in the tech sector, particularly for companies involved in AI technologies. Investors in US tech firms might feel pressure as they compete against rapid advancements from China. The rising prominence of Chinese AI could also shift focus and investments towards AI-related sectors globally.",
-        "key_terms": []
-      },
-      {
-        "title": "China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO",
-        "summary": "The plan comes just weeks after the ​Hangzhou-based company, which drew global attention with its low-cost AI models in 2025, raised about $7.4 billion in June at a post-money valuation of about 450 billion yuan, the people said. Filings by two Chinese investors later suggested DeepSeek was valued at 350.88 billion yuan, or around $52 billion.",
-        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-deepseek-to-raise-fresh-capital-at-74-billion-valuation-ahead-of-onshore-ipo/articleshow/132476828.cms",
-        "published": "Sat, 18 Jul 2026 14:16:33 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "176f566b79",
-        "quick_take": "China's DeepSeek is looking to raise new funds at a $74 billion valuation as it prepares for an IPO, highlighting the company's strong growth in the AI space.",
-        "simplified_article": "DeepSeek, a company based in Hangzhou, China, is planning to raise more capital at a valuation of $74 billion in anticipation of launching its initial public offering (IPO). This move comes shortly after they raised $7.4 billion just a few months ago, showcasing their rapid growth and the high demand for their affordable AI technology. In a change of estimates, recent filings suggest DeepSeek's valuation might actually be around $52 billion. Going forward, this fundraising could help DeepSeek expand its operations and investor interest, potentially impacting other AI-related companies in the market.",
-        "investor_impact": "If you invest in tech or AI companies, this news could signify strong performance in that sector, potentially leading to higher valuations for similar businesses. Investors may find increased interest in tech stocks linked to AI developments, making this a relevant time for those holdings. Additionally, the overall tech investment landscape could see more funds directed towards promising companies like DeepSeek.",
-        "key_terms": []
-      },
-      {
-        "title": "PM Modi congratulates Skyroot after private rocket reaches orbit: ‘You have planted new seeds in the sky’",
-        "summary": "In a phone conversation following the launch, Modi told founder Pawan Chandana and the Skyroot team that they had “planted new seeds in the sky” and given strength to young Indians to dream bigger in technology and space.",
-        "link": "https://economictimes.indiatimes.com/tech/startups/pm-modi-congratulates-skyroot-after-private-rocket-reaches-orbit-you-have-planted-new-seeds-in-the-sky/articleshow/132476157.cms",
-        "published": "Sat, 18 Jul 2026 13:26:56 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "c69d4020af",
-        "quick_take": "Skyroot, led by founder Pawan Chandana, just launched India's first private rocket into orbit, inspiring innovation and dreams in young Indians.",
-        "simplified_article": "Skyroot successfully launched its private rocket into orbit, marking a significant achievement in India's space technology. Prime Minister Modi praised the team's efforts during a phone call, highlighting its potential to inspire future generations in tech and space. This launch is a key step in India's growing space industry, which aims to compete globally. Going forward, this achievement could encourage more investments and interest in India's private space ventures, benefiting young engineers and tech enthusiasts.",
-        "investor_impact": "This successful launch could attract investment in the aerospace sector, particularly companies involved in technology and innovation. If more private companies enter the space market, it may lead to new job opportunities and growth in related fields like engineering and manufacturing.",
-        "key_terms": []
-      },
-      {
-        "title": "Spacetech unicorn Skyroot launches Vikram-1, marks India's first private orbital rocket mission",
-        "summary": "The mission, named Aagaman, lifted off from the First Launch Pad at the Satish Dhawan Space Centre (SDSC-SHAR) in Sriharikota at 12:05 noon. The mission completed all four stages as planned. The success marks India's first privately developed orbital launch vehicle mission and a major leap towards building commercial, on-demand satellite launch services from the country.",
-        "link": "https://economictimes.indiatimes.com/tech/startups/spacetech-unicorn-skyroot-launches-vikram-1-marks-indias-first-private-orbital-rocket-mission/articleshow/132475445.cms",
-        "published": "Sat, 18 Jul 2026 12:28:04 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "95390af71f",
-        "quick_take": "Skyroot successfully launched Vikram-1, making it India's first privately developed rocket to reach orbit, which boosts the country's commercial space industry.",
-        "simplified_article": "Skyroot Aerospace successfully launched its Vikram-1 rocket in a mission called Aagaman from Sriharikota. This mission is significant because it represents the first time a private Indian company has developed a rocket to reach orbit. This accomplishment is expected to enhance India's ability to offer on-demand satellite launch services for commercial purposes. As the demand for satellite launches grows, Skyroot's success positions it well to serve both domestic and international clients. The achievement strengthens India's presence in the global space market.",
-        "investor_impact": "The success of Skyroot could lead to increased investments in the Indian aerospace sector, potentially benefiting companies involved in satellite manufacturing and launch services. If more private players enter the space industry, there may be a bigger market for technology and services related to satellite launches, which could create new financial opportunities for investors.",
-        "key_terms": []
-      },
-      {
-        "title": "Anthropic includes Fable 5 for top-tier subscriptions after weeks of extensions",
-        "summary": "Under the new terms, Max and Team Premium subscribers will get Fable 5 built into their plans indefinitely, capped at 50% of their regular usage limits. Pro and Team Standard subscribers will not get the model included in their base plans, but will keep access through usage credits. The company is adding to that with a one-time $100 credit for affected users.",
-        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-includes-fable-5-for-top-tier-subscriptions-after-weeks-of-extensions/articleshow/132474218.cms",
-        "published": "Sat, 18 Jul 2026 10:53:18 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "3a1ff79ea1",
-        "quick_take": "Anthropic is now offering Fable 5 to Max and Team Premium subscribers indefinitely, which could boost subscriber satisfaction despite usage caps.",
-        "simplified_article": "Anthropic has decided to include Fable 5 in the plans for its Max and Team Premium subscribers without a time limit, but their access is limited to 50% of their usual usage. This change comes after weeks of delays in rolling out new features for their subscription plans. For Pro and Team Standard subscribers, they won’t automatically receive Fable 5 but can access it through credits. Additionally, affected users will get a one-time credit of $100. This means some subscribers may appreciate the added value while others might feel shortchanged without automatic access.",
-        "investor_impact": "This move will likely enhance customer loyalty and retention for Anthropic, which may strengthen its position in the competitive tech market. Users who subscribe for premium features may feel more satisfied, potentially leading to increased renewals and referrals. However, those on lower-tier plans may be less enthusiastic, which could affect overall growth if not addressed.",
-        "key_terms": []
-      },
-      {
-        "title": "Skyroot Aerospace to undertake maiden orbital launch of Vikram-1: PM Modi",
-        "summary": "\"A historic new frontier for India's space journey! At 11.30 am today, Skyroot Aerospace will undertake the maiden orbital launch of Vikram-1, India's first privately developed launch vehicle,\" Modi said on X.",
-        "link": "https://economictimes.indiatimes.com/tech/startups/skyroot-aerospace-to-undertake-maiden-orbital-launch-of-vikram-1-pm/articleshow/132473965.cms",
-        "published": "Sat, 18 Jul 2026 10:10:44 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "657bbd28c7",
-        "quick_take": "Skyroot Aerospace is launching Vikram-1 today at 11.30 am, marking a significant step for India's private space industry.",
-        "simplified_article": "Skyroot Aerospace is set to launch Vikram-1, India's first privately developed rocket, at 11.30 am today. This launch signifies India's growing ambitions in space exploration, particularly by private companies. It reflects a shift towards allowing private players in a field that was traditionally dominated by the government. Upon success, this launch could pave the way for more private space ventures and partnerships, creating opportunities in the technology and aerospace sectors.",
-        "investor_impact": "If Vikram-1 is successful, it could boost investments in the Indian aerospace sector, attracting more funding for startups in technology and engineering related to space. Companies involved in satellite manufacturing and related services may see increased demand, which could positively impact their stock performance.",
-        "key_terms": []
-      },
-      {
-        "title": "Elon Musk's SpaceX in talks to supply the Pentagon with computing power: Report",
-        "summary": "According to the report, SpaceX employees have discussed plans to compete more directly with neocloud firms ​such as CoreWeave by selling computing capacity ⁠to AI ‌customers at lower prices.",
-        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musks-spacex-in-talks-to-supply-the-pentagon-with-computing-power-report/articleshow/132473061.cms",
-        "published": "Sat, 18 Jul 2026 08:50:57 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "698dff98b3",
-        "quick_take": "SpaceX is negotiating to provide computing power to the Pentagon to compete with companies like CoreWeave, which could lower prices for AI services.",
-        "simplified_article": "SpaceX, founded by Elon Musk, is in talks to sell computing power to the U.S. military. This move is aimed at competing with other cloud companies like CoreWeave. By offering lower prices, SpaceX hopes to attract more AI customers. If successful, this could impact how AI services are priced across various industries and make them more accessible.",
-        "investor_impact": "If SpaceX establishes itself as a key player in cloud computing for AI, tech companies relying on these services may see reduced costs, potentially increasing their profit margins. This could benefit sectors focused on AI development or cloud computing. However, existing cloud providers might face pressure to lower their prices to stay competitive.",
+        "quick_take": "China's Kimi K3 AI program topped the US ranking for coding tools, highlighting growing competition between the US and China in the AI space.",
+        "simplified_article": "A Chinese startup, Moonshot AI, launched its new artificial intelligence program called Kimi K3. This program quickly became popular and ranked number one on a significant list of AI coding tools called Arena, which has never happened with a Chinese model before. The growing success of Kimi K3 signals that China is becoming a strong competitor in the artificial intelligence market. This competition could impact how technology develops in both countries and influence businesses in the tech sector. Companies in the US may need to innovate faster to keep up with similar advancements coming from China.",
+        "investor_impact": "This success of Kimi K3 might lead US tech companies to increase investments in their AI projects to stay competitive, potentially driving up stock prices in the tech sector. Companies that focus on AI development may see increased interest from investors looking for growth opportunities. Additionally, if Chinese tech advancements continue, they could influence US tech companies' strategies and valuations.",
         "key_terms": []
       }
     ],
     "crypto": [
+      {
+        "title": "AI is destroying the internet. Math is our only hope.",
+        "summary": "The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs.",
+        "link": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+        "published": "Sun, 19 Jul 2026 14:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "95e6ac8a67",
+        "quick_take": "AI systems are rapidly evolving, and experts like Brian Trunzo say using advanced math tools is crucial to safeguard the internet's integrity.",
+        "simplified_article": "Brian Trunzo from Succinct Labs claims that the rise of autonomous AI agents is threatening the security of the internet. He argues that we need to use something called zero-knowledge proofs (a type of technology that lets parties prove they know something without revealing the information) to protect online interactions. This is important as AI becomes more independent and influential in our digital lives. If these technologies are effectively used, it could lead to safer online environments, benefiting everyday users and businesses alike.",
+        "investor_impact": "The push for advanced security tools like zero-knowledge proofs could create new opportunities in the cybersecurity sector, potentially boosting companies focused on these technologies. Businesses that deal with sensitive data, such as those in finance and healthcare, may see increased demand for enhanced security solutions. If successful, this technological shift might lead to greater trust in online transactions, impacting how companies approach digital security investments.",
+        "key_terms": [
+          {
+            "term": "zero-knowledge proofs",
+            "meaning": "A method that allows one party to prove to another that they know a piece of information without revealing the actual information, which is crucial for protecting user privacy as AI technology grows."
+          }
+        ]
+      },
+      {
+        "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+        "summary": "The GENIUS Act has hit its first anniversary without U.S. regulators yet meeting deadlines to write regulations, though rules will be in full effect by July 2028.",
+        "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+        "published": "Sun, 19 Jul 2026 13:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "cc5d0b825c",
+        "quick_take": "Tether's USDT faces a 2-year countdown to comply with U.S. regulations, which could threaten its use on American crypto platforms.",
+        "simplified_article": "Tether's USDT, a type of digital currency, is under pressure because the U.S. government is set to implement new rules by July 2028. This is happening just as the GENIUS Act, aimed at regulating the crypto industry, marks its first anniversary without new regulations being finalized yet. For many users, the ability to trade USDT hinges on these upcoming rules. If Tether can't meet the regulations, it might lose its place in the U.S. market, impacting many investors and companies that rely on it for transactions.",
+        "investor_impact": "If Tether can't adjust to these new guidelines, it could limit your ability to trade USDT on U.S. platforms, affecting those who use it for trading or transactions. Companies and individuals relying on USDT for transfers may need to find alternatives, potentially leading to increased costs or transaction delays. This situation will be crucial for anyone involved in cryptocurrencies, as it might alter the landscape of how digital currencies are used in the U.S.",
+        "key_terms": []
+      },
+      {
+        "title": "Kraken says simpler options can unlock crypto's next derivatives market",
+        "summary": "The Wyoming-based firm launched USD-settled bitcoin and ether options, saying product design, not demand, has held back adoption.",
+        "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
+        "published": "Sun, 19 Jul 2026 13:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "1cf39ac80b",
+        "quick_take": "Kraken launched simpler USD-settled bitcoin and ether options, arguing that product design is the key barrier to crypto's derivatives market growth.",
+        "simplified_article": "Kraken, a company based in Wyoming, has introduced new options for Bitcoin and Ethereum that are settled in US dollars. They believe that complicated product designs, not a lack of interest, have been slowing down the market's growth. Options are contracts that give people the right to buy or sell an asset at a specific price, and better designs could attract more traders. Going forward, this change may encourage more people to invest in cryptocurrencies, especially those who were hesitant before due to complexity.",
+        "investor_impact": "If these new options gain popularity, they could provide more trading opportunities for investors interested in cryptocurrencies like Bitcoin and Ethereum. This might help retail investors feel more comfortable entering the market, potentially leading to increased demand and higher prices for these assets. As trading becomes simpler, it could also attract institutional investors looking for better ways to hedge their positions.",
+        "key_terms": [
+          {
+            "term": "options",
+            "meaning": "Contracts that give the buyer the right to buy or sell an asset at a set price, crucial for managing investment risks."
+          }
+        ]
+      },
+      {
+        "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+        "summary": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop.",
+        "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+        "published": "Sun, 19 Jul 2026 10:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "b489287481",
+        "quick_take": "Project Eleven created a proof that can protect Bitcoin wallets from future quantum computer threats, but it won't help with Satoshi's 1.1 million coins.",
+        "simplified_article": "Project Eleven announced it has a new tool that helps secure Bitcoin wallets against potential attacks from quantum computers, which can break traditional security methods. This was developed because quantum computers are expected to be able to forge signatures that prove ownership of Bitcoin. Bitcoin, created by the mysterious Satoshi Nakamoto, has about 1.1 million coins held in a wallet that this new tool can't protect. Moving forward, this tool may safeguard future Bitcoin transactions, but it won't touch the large stash owned by Satoshi, leaving that vulnerable to quantum threats.",
+        "investor_impact": "If you own Bitcoin, this tool might provide more confidence that your investments are safe from future technology threats. However, the fact that it doesn't help Satoshi's coins means that 1.1 million Bitcoin still risk being lost or stolen if quantum technology advances significantly. This situation could impact the overall market sentiment around Bitcoin's security and long-term value.",
+        "key_terms": []
+      },
+      {
+        "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+        "summary": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
+        "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+        "published": "Sun, 19 Jul 2026 05:37:34 +0000",
+        "source": "coindesk.com",
+        "id": "20a4f6e7b4",
+        "quick_take": "Zcash introduced a new node called Zakura that aims to process 50,000 private transactions per second, moving it closer to competing with major payment networks like Visa.",
+        "simplified_article": "Zcash launched the Zakura client to improve its transaction speed from one private transaction per second to 50,000. This upgrade is part of a larger plan to make Zcash competitive with big payment systems. Zcash is known for its focus on privacy in cryptocurrency transactions. Going forward, this enhancement could attract more users and businesses that prioritize secure and private payments, potentially changing how people use cryptocurrency for everyday transactions.",
+        "investor_impact": "If Zcash successfully increases its transaction speed, it could draw in more users and merchants, translating to higher demand for Zcash. This may benefit investors holding Zcash or companies looking to adopt or integrate more privacy-focused cryptocurrencies into their payment solutions.",
+        "key_terms": [
+          {
+            "term": "Zcash",
+            "meaning": "A cryptocurrency designed for secure and private transactions, making it difficult to trace payments."
+          },
+          {
+            "term": "transaction per second",
+            "meaning": "A measure of how many transactions a system can handle in one second, crucial for assessing payment network efficiency."
+          }
+        ]
+      },
       {
         "title": "France orders country's internet service providers to block Polymarket",
         "summary": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
@@ -720,74 +762,9 @@
         "published": "Sat, 18 Jul 2026 21:52:18 +0000",
         "source": "coindesk.com",
         "id": "f4170115a4",
-        "quick_take": "France's internet regulators ordered ISPs to block Polymarket due to concerns about user addiction and circumventing financial rules.",
-        "simplified_article": "France has instructed its internet service providers to block access to Polymarket, a popular online prediction market platform. This decision stems from worries that many French users are getting addicted to the platform and that there are not enough tools available to help them stop using it if they want to. Historically, Polymarket has faced scrutiny for allowing French users to get around financial regulations meant to protect them. Going forward, this means that people in France will have a harder time accessing Polymarket, potentially reducing the number of users engaging with the platform.",
-        "investor_impact": "This ban could impact platforms and services related to online betting and prediction markets, as they may see a decline in traffic and usage in France. Investors or companies involved in these sectors might face challenges in user engagement, particularly in regions with strict regulations like France.",
-        "key_terms": []
-      },
-      {
-        "title": "Crypto executives say digital native generations may never need a bank account",
-        "summary": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
-        "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
-        "published": "Sat, 18 Jul 2026 18:30:00 +0000",
-        "source": "coindesk.com",
-        "id": "bc21d79591",
-        "quick_take": "Crypto executives from Steakhouse Financial and Binance believe younger people might never need traditional bank accounts as crypto use rises.",
-        "simplified_article": "Adrian Cachinero, a co-founder of Steakhouse Financial, discussed how younger generations growing up in a digital world might not rely on banks at all. Binance also pointed out that these younger users are already driving the adoption of cryptocurrencies in places where banks may be less accessible. This shift is happening because many young people prefer digital solutions over traditional banking. If this trend continues, more young people could move their money into cryptocurrencies instead of savings accounts or checking accounts at banks.",
-        "investor_impact": "This trend could mean less reliance on traditional banks and more growth for cryptocurrency companies. If younger people continue to adopt crypto, businesses in the fintech (financial technology) sector may see a surge in demand for their services. Investors in these fintech companies could potentially benefit as this shift gains momentum.",
-        "key_terms": []
-      },
-      {
-        "title": "DOG Mode explains Bitcoin's next governance fight",
-        "summary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
-        "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
-        "published": "Sat, 18 Jul 2026 17:00:00 +0000",
-        "source": "coindesk.com",
-        "id": "d4025edd47",
-        "quick_take": "Leonidas' DOG Mode is challenging Bitcoin's typical rules, sparking important discussions about how the Bitcoin network should be governed.",
-        "simplified_article": "Leonidas released a new client called DOG Mode that questions how Bitcoin handles transactions. This challenge highlights concerns about whether or not certain people can censor or block transactions on the network. Bitcoin is designed to be a decentralized currency, meaning it's not supposed to be controlled by any single authority. The outcome of this debate could affect how Bitcoin operates and who has power over its network, impacting all Bitcoin users and miners.",
-        "investor_impact": "If the debate leads to changes in how Bitcoin is governed, it could influence transaction fees and the overall adoption of Bitcoin. This is particularly relevant for investors and users who rely on fast and censorship-resistant transactions. Those heavily involved in Bitcoin could see increased volatility as opinions about its governance shift.",
-        "key_terms": []
-      },
-      {
-        "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-        "summary": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions.",
-        "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-        "published": "Sat, 18 Jul 2026 16:09:59 +0000",
-        "source": "coindesk.com",
-        "id": "2f41393774",
-        "quick_take": "Trump is concerned that Brazil's use of payment systems like Pix and stablecoins, which make up about 90% of its crypto transactions, could threaten the dominance of the U.S. dollar in trade.",
-        "simplified_article": "Brazil is promoting payment systems that don't rely on the U.S. dollar, such as Pix and stablecoins, which are cryptocurrencies pegged to the dollar. This shift has caught the attention of Washington, which sees it as a possible risk to the dollar’s role in international trade. Currently, most crypto transactions in Brazil are linked to the dollar, with about 90% involving dollar-backed stablecoins. If Brazil continues to strengthen these non-dollar payment options, it could lead to changes in how trade is conducted, affecting businesses and consumers relying on dollar transactions.",
-        "investor_impact": "If Brazil pushes more businesses to use local payment systems instead of the dollar, it could influence companies involved in international trade and banking. Investors in Brazilian markets or companies using the dollar for transactions should be aware that a shift to stablecoins and Pix could change cost dynamics and transaction processes. This may especially impact sectors focused on foreign trade and exchange rates.",
-        "key_terms": [
-          {
-            "term": "stablecoins",
-            "meaning": "Stablecoins are cryptocurrencies designed to maintain a stable value by being linked to traditional currencies like the dollar, making them popular for transactions."
-          }
-        ]
-      },
-      {
-        "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
-        "summary": "About $542 million weekly sat outside active trading ranges, meaning this capital earned zero fees and provided no market depth.",
-        "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
-        "published": "Sat, 18 Jul 2026 15:50:31 +0000",
-        "source": "coindesk.com",
-        "id": "e6b7e18bbb",
-        "quick_take": "$1.6 billion in crypto is stuck and not being used, which means it's not earning any fees and isn't helping the market.",
-        "simplified_article": "A huge $1.6 billion in cryptocurrency is currently inactive and earning no money. About $542 million of that amount is sitting idle each week, which means it's not being traded actively. This lack of trading can make the market less stable or important because there’s less money available for buying and selling. If the situation continues, it could lead to fewer opportunities for traders and affect the overall market environment.",
-        "investor_impact": "This idle capital could impact your investments in cryptocurrencies, as it may lead to reduced trading volume and market activity, making it harder to sell or trade your assets. It could also decrease potential earnings from transaction fees that help keep the market healthy.",
-        "key_terms": []
-      },
-      {
-        "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
-        "summary": "Large traders are betting on a BTC price rise to $72,000 by the end of the month, latest options market flow suggests.",
-        "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
-        "published": "Sat, 18 Jul 2026 14:15:15 +0000",
-        "source": "coindesk.com",
-        "id": "a4742ede70",
-        "quick_take": "Traders are betting that Bitcoin will hit $72,000 by the end of the month, coinciding with a crucial Federal Reserve meeting.",
-        "simplified_article": "Big investors are making moves in the options market, indicating they believe Bitcoin's price will rise to $72,000 before the month ends. This surge in confidence is likely driven by the upcoming meeting of the Federal Reserve, which could influence investors' views on the economy and digital currencies. Historically, Bitcoin's price has been influenced by major economic events like Fed meetings. If these bets pay off, it could lead to more people investing in Bitcoin, impacting both individual investors and the broader cryptocurrency market.",
-        "investor_impact": "If Bitcoin reaches $72,000, it could attract new investors and increase interest in cryptocurrencies, making existing holders of Bitcoin and related assets more optimistic. Increased Bitcoin prices might also influence tech stocks and companies that accept Bitcoin, potentially benefiting sectors involved in digital currencies.",
+        "quick_take": "France has ordered internet service providers to block Polymarket due to concerns about user addiction and previous financial restrictions being bypassed.",
+        "simplified_article": "The French government has instructed internet service providers to prevent access to Polymarket, a betting platform. This decision was made because regulators were worried about addictive behavior among users and the absence of tools that allow users to limit their own involvement. In the past, there have been many French users finding ways to circumvent financial rules to use the platform. As a result, those who want to use Polymarket in France will need to find alternative ways, while the company might lose a significant user base in the country.",
+        "investor_impact": "This development could impact businesses linked to online betting and gambling in France, as more restrictions might reduce the overall user base. Additionally, companies offering similar platforms may need to reconsider their strategies to comply with regulations, affecting their growth opportunities in the French market.",
         "key_terms": []
       }
     ]
@@ -798,5 +775,5 @@
     "usdinr": null,
     "btcusd": null
   },
-  "day_summary": "Gujarat's top spot in the Investment Friendliness Index 2026 highlights its strong allure for investors, reflecting a stable business environment that could drive economic growth. Meanwhile, Maharashtra's agriculture minister is making strides by promising to resolve crop input complaints within just seven days, boosting farmers' confidence. On a different note, the Nifty IT index has surged nearly 13.5% since July 1, indicating strong momentum in the tech sector as major companies prepare to unveil their Q1 earnings this week."
+  "day_summary": "India's exports are on a remarkable upswing, with shipments to ASEAN jumping 66.9% to $10.5 billion and Africa rising 53.1% to $9.6 billion in just the first two months of FY27, reflecting robust demand. On the banking front, both Axis Bank and Kotak Mahindra Bank reported impressive profit increases of 23% and 26%, respectively, showcasing their strong financial health. Meanwhile, Nifty is showing positive momentum as it breaks above 24,400, hinting at potential record highs in the near future."
 }

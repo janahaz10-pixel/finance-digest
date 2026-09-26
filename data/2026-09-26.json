@@ -1,9 +1,21 @@
 {
   "date": "2026-09-26",
   "date_label": "Saturday, 26 September 2026",
-  "generated_at": "2026-09-26T13:26:05.101580+05:30",
+  "generated_at": "2026-09-26T23:05:58.639417+05:30",
   "articles": {
     "india-macro": [
+      {
+        "title": "India can achieve over 10% economic growth, says Sitharaman",
+        "summary": "Nirmala Sitharaman, the Union Finance Minister, radiated confidence in India's economic future, forecasting a growth rate surpassing 10 percent. She stressed the necessity of embracing technology and innovation in all sectors, celebrating the impact of startups since 2015. Furthermore, she emphasized technology's ability to revolutionize agriculture for increased productivity. The minister called upon citizens to nurture a constructive approach in pursuit of these vital economic objectives.",
+        "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-can-achieve-over-10-economic-growth-says-sitharaman/articleshow/134502947.cms",
+        "published": "Sat, 26 Sep 2026 16:32:42 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "930ec4f18c",
+        "quick_take": "India can achieve over 10% economic growth, says Sitharaman",
+        "simplified_article": "Nirmala Sitharaman, the Union Finance Minister, radiated confidence in India's economic future, forecasting a growth rate surpassing 10 percent. She stressed the necessity of embracing technology and innovation in all sectors, celebrating the impact of startups since 2015. Furthermore, she emphasized technology's ability to revolutionize agriculture for increased productivity. The minister called upon citizens to nurture a constructive approach in pursuit of these vital economic objectives.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
       {
         "title": "India, EDF discuss deployment of French EPR nuclear technology, pumped hydro projects",
         "summary": "Power Secretary Pankaj Agarwal met EDF Chairman and CEO Bernard Fontana to discuss deploying the French utility’s EPR nuclear reactor technology in India, the power ministry said. The talks also covered the evolving regulatory framework for the nuclear sector and cooperation on pumped hydro storage projects, with senior officials present.",
@@ -87,21 +99,93 @@
         "simplified_article": "Actis LLP has consolidated 11 road assets worth around Rs 10,000 crore into its NXT-Infra Trust after raising Rs 1,180 crore from investors. The fundraising reduced Actis’ stake to 71%, with domestic investors holding the remainder. The move comes amid growing investor interest in India’s operating road assets, while Actis also sees opportunities in digital infrastructure, electric vehicles, waste recycling and water services.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
-      },
-      {
-        "title": "RBI withdraws relaxation on export earnings repatriation",
-        "summary": "The Reserve Bank of India has reversed a previous decision allowing exporters 15 months to repatriate earnings. The new deadline set is 9 months for bringing back export proceeds into the country. This change aims to increase dollar liquidity and support the Indian rupee in the foreign-exchange market. Additionally, the RBI has provided banks with expanded powers concerning trade transactions before the new rules take effect.",
-        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/rbi-withdraws-relaxation-on-export-earnings-repatriation/articleshow/134491742.cms",
-        "published": "Sat, 26 Sep 2026 00:43:12 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "df5a28b48f",
-        "quick_take": "RBI withdraws relaxation on export earnings repatriation",
-        "simplified_article": "The Reserve Bank of India has reversed a previous decision allowing exporters 15 months to repatriate earnings. The new deadline set is 9 months for bringing back export proceeds into the country. This change aims to increase dollar liquidity and support the Indian rupee in the foreign-exchange market. Additionally, the RBI has provided banks with expanded powers concerning trade transactions before the new rules take effect.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
       }
     ],
     "indian-markets": [
+      {
+        "title": "Same playbook, different numbers: Why FPI selling may not be the story it looks like",
+        "summary": "Indian equities extended their losing streak as elevated crude, US Treasury yields, geopolitical risks and FPI selling weighed on sentiment. However, foreign investors continued backing IPOs, selectively buying debt and mid-small caps, suggesting portfolio selectivity rather than a broad withdrawal from Indian markets.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/same-playbook-different-numbers-why-fpi-selling-may-not-be-the-story-it-looks-like/articleshow/134503513.cms",
+        "published": "Sat, 26 Sep 2026 17:05:56 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "80045d4015",
+        "quick_take": "Same playbook, different numbers: Why FPI selling may not be the story it looks like",
+        "simplified_article": "Indian equities extended their losing streak as elevated crude, US Treasury yields, geopolitical risks and FPI selling weighed on sentiment. However, foreign investors continued backing IPOs, selectively buying debt and mid-small caps, suggesting portfolio selectivity rather than a broad withdrawal from Indian markets.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "J Infratech files IPO papers; eyes Rs 600 cr via fresh issue",
+        "summary": "J Infratech Ltd has submitted preliminary papers for an initial public offering valued at Rs 600 crore. The IPO includes a fresh issue and an offer for sale by its promoters. The Haryana-based firm, established in 2005, focuses on infrastructure projects such as roads and bridges. Proceeds from the IPO will support working capital and repay borrowings, among other corporate purposes.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/j-infratech-files-ipo-papers-eyes-rs-600-cr-via-fresh-issue/articleshow/134502249.cms",
+        "published": "Sat, 26 Sep 2026 15:48:10 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "54b2ad8db2",
+        "quick_take": "J Infratech files IPO papers; eyes Rs 600 cr via fresh issue",
+        "simplified_article": "J Infratech Ltd has submitted preliminary papers for an initial public offering valued at Rs 600 crore. The IPO includes a fresh issue and an offer for sale by its promoters. The Haryana-based firm, established in 2005, focuses on infrastructure projects such as roads and bridges. Proceeds from the IPO will support working capital and repay borrowings, among other corporate purposes.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "F&O Talk: 23,270 is a key Nifty hurdle; Sudeep Shah picks 5 stocks, discusses PB Fintech, Turtlemint strategy",
+        "summary": "Nifty ended at 23,140.50 after an eighth consecutive weekly decline, with technical indicators remaining bearish. Analysts identify 23,300 as key resistance and 23,000 as options-based support, while Pharma and Healthcare remain relatively stronger amid persistent global market pressures and volatility.",
+        "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-23270-is-a-key-nifty-hurdle-sudeep-shah-picks-5-stocks-discusses-pb-fintech-turtlemint-strategy/articleshow/134501331.cms",
+        "published": "Sat, 26 Sep 2026 14:50:42 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "2abe63ccad",
+        "quick_take": "F&O Talk: 23,270 is a key Nifty hurdle; Sudeep Shah picks 5 stocks, discusses PB Fintech, Turtlemint strategy",
+        "simplified_article": "Nifty ended at 23,140.50 after an eighth consecutive weekly decline, with technical indicators remaining bearish. Analysts identify 23,300 as key resistance and 23,000 as options-based support, while Pharma and Healthcare remain relatively stronger amid persistent global market pressures and volatility.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Bitcoin rebounds strongly this week, trades near $84,000 after climbing above $86,000. Here is what experts say",
+        "summary": "Bitcoin rebounded to around $84,000 after briefly crossing $86,000, while Ethereum traded near $2,688. Bitcoin gained 3.6% weekly, supported by positive ETF flows and reduced uncertainty after the US Federal Reserve’s September policy decision, though markets remain in consolidation overall.",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-strongly-this-week-trades-near-84000-after-climbing-above-86000-here-is-what-experts-say/articleshow/134500992.cms",
+        "published": "Sat, 26 Sep 2026 14:26:45 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "ee0496870a",
+        "quick_take": "Bitcoin rebounds strongly this week, trades near $84,000 after climbing above $86,000. Here is what experts say",
+        "simplified_article": "Bitcoin rebounded to around $84,000 after briefly crossing $86,000, while Ethereum traded near $2,688. Bitcoin gained 3.6% weekly, supported by positive ETF flows and reduced uncertainty after the US Federal Reserve’s September policy decision, though markets remain in consolidation overall.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Nifty at key 23,000 support: Can bulls trigger a technical rebound?",
+        "summary": "Nifty extended its losing streak to seven weeks, falling 0.88% to 23,140.50 as technical momentum remained bearish. The 23,000–23,200 zone is crucial support, while 23,375 and 23,600 are key resistances amid heightened volatility and derivatives expiry.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-at-key-23000-support-can-bulls-trigger-a-technical-rebound/articleshow/134500890.cms",
+        "published": "Sat, 26 Sep 2026 14:21:07 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "03a95f1b4d",
+        "quick_take": "Nifty at key 23,000 support: Can bulls trigger a technical rebound?",
+        "simplified_article": "Nifty extended its losing streak to seven weeks, falling 0.88% to 23,140.50 as technical momentum remained bearish. The 23,000–23,200 zone is crucial support, while 23,375 and 23,600 are key resistances amid heightened volatility and derivatives expiry.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "FIIs, MFs raise stakes in 10 stocks; shares gain up to 40% in 3 months",
+        "summary": "FIIs and mutual funds raised holdings in several Nifty 500 stocks during the June 2026 quarter. Seven stocks subsequently gained 15%-41%, highlighting increased institutional interest across sectors.",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-10-stocks-shares-gain-up-to-40-in-3-months/slideshow/134500775.cms",
+        "published": "Sat, 26 Sep 2026 13:58:34 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "c54128deec",
+        "quick_take": "FIIs, MFs raise stakes in 10 stocks; shares gain up to 40% in 3 months",
+        "simplified_article": "FIIs and mutual funds raised holdings in several Nifty 500 stocks during the June 2026 quarter. Seven stocks subsequently gained 15%-41%, highlighting increased institutional interest across sectors.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Vishal Nirmiti IPO to open on Sep 30; price band fixed at Rs 208-220",
+        "summary": "Vishal Nirmiti Ltd is gearing up for its initial public offering, setting a price range of Rs 208 to 220. The IPO is scheduled to commence on September 30 and conclude by October 5, featuring both a fresh issue and an offer for sale. The proceeds will be allocated toward enhancing working capital and addressing corporate requirements.",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-to-open-on-sep-30-price-band-fixed-at-rs-208-220/articleshow/134500328.cms",
+        "published": "Sat, 26 Sep 2026 13:44:34 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "7f1a908423",
+        "quick_take": "Vishal Nirmiti IPO to open on Sep 30; price band fixed at Rs 208-220",
+        "simplified_article": "Vishal Nirmiti Ltd is gearing up for its initial public offering, setting a price range of Rs 208 to 220. The IPO is scheduled to commence on September 30 and conclude by October 5, featuring both a fresh issue and an offer for sale. The proceeds will be allocated toward enhancing working capital and addressing corporate requirements.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
       {
         "title": "Baanganga Gold & Diamond files DRHP for Rs 720 crore IPO, fresh issue pegged at Rs 540 crore",
         "summary": "Baanganga Gold & Diamond has filed its DRHP for an IPO comprising a fresh issue of up to ₹540 crore and OFS of up to ₹180 crore. The jewellery manufacturer plans to use fresh proceeds mainly for working capital requirements.",
@@ -113,93 +197,57 @@
         "simplified_article": "Baanganga Gold & Diamond has filed its DRHP for an IPO comprising a fresh issue of up to ₹540 crore and OFS of up to ₹180 crore. The jewellery manufacturer plans to use fresh proceeds mainly for working capital requirements.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
-      },
-      {
-        "title": "GIFT Nifty goes into overdrive, hits all-time high in volume and open interest",
-        "summary": "GIFT Nifty recorded a record single-day volume of 457,999 contracts worth $21.18 billion on September 24, 2026. Open interest also hit an all-time high, highlighting growing activity since full-scale operations began in July 2023 at NSE IX.",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-goes-into-overdrive-hits-all-time-high-in-volume-and-open-interest/articleshow/134499784.cms",
-        "published": "Sat, 26 Sep 2026 13:01:26 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "175f17bb9a",
-        "quick_take": "GIFT Nifty goes into overdrive, hits all-time high in volume and open interest",
-        "simplified_article": "GIFT Nifty recorded a record single-day volume of 457,999 contracts worth $21.18 billion on September 24, 2026. Open interest also hit an all-time high, highlighting growing activity since full-scale operations began in July 2023 at NSE IX.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "India’s bond market performed well, equities to become attractive again: RBI’s Poonam Gupta",
-        "summary": "India's bond market is exhibiting notable strength, outpacing its historical performance and standing firm against global trends. The Deputy Governor of the Reserve Bank of India highlighted the promising fiscal commitments that are bolstering market dynamics. Meanwhile, Indian equity markets have faced challenges, partially due to rapid advancements in AI abroad.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indias-bond-market-performed-well-equities-to-become-attractive-again-rbis-poonam-gupta/articleshow/134499695.cms",
-        "published": "Sat, 26 Sep 2026 12:49:14 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "62b937f8b2",
-        "quick_take": "India’s bond market performed well, equities to become attractive again: RBI’s Poonam Gupta",
-        "simplified_article": "India's bond market is exhibiting notable strength, outpacing its historical performance and standing firm against global trends. The Deputy Governor of the Reserve Bank of India highlighted the promising fiscal commitments that are bolstering market dynamics. Meanwhile, Indian equity markets have faced challenges, partially due to rapid advancements in AI abroad.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Deon Energy files draft papers with Sebi to raise funds via IPO",
-        "summary": "Deon Energy, an Ahmedabad-based solar EPC firm, is set to launch an IPO to gather capital. This offering will feature a fresh equity share issue coupled with a promoter's sale of shares. The funds raised aim to establish a 30 MW solar power plant in Gujarat while also boosting working capital and covering essential corporate expenses.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/deon-energy-files-draft-papers-with-sebi-to-raise-funds-via-ipo/articleshow/134499658.cms",
-        "published": "Sat, 26 Sep 2026 12:47:18 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "331e5c7026",
-        "quick_take": "Deon Energy files draft papers with Sebi to raise funds via IPO",
-        "simplified_article": "Deon Energy, an Ahmedabad-based solar EPC firm, is set to launch an IPO to gather capital. This offering will feature a fresh equity share issue coupled with a promoter's sale of shares. The funds raised aim to establish a 30 MW solar power plant in Gujarat while also boosting working capital and covering essential corporate expenses.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Rupee likely to trade in Rs 94.5-96 range in near term as dollar inflows fail to lift currency: Report",
-        "summary": "The rupee is expected to fluctuate between Rs 94.5 and Rs 96 against the US dollar in the short term. Despite significant dollar inflows via FCNR deposits and external borrowings, substantial appreciation is elusive as these funds primarily bolster the Reserve Bank of India's reserves. A variety of factors affect the rupee's movement, indicating that no single factor can be pinpointed as the main influencer.",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-likely-to-trade-in-rs-94-5-96-range-in-near-term-as-dollar-inflows-fail-to-lift-currency-report/articleshow/134499670.cms",
-        "published": "Sat, 26 Sep 2026 12:46:17 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "20ae7454ac",
-        "quick_take": "Rupee likely to trade in Rs 94.5-96 range in near term as dollar inflows fail to lift currency: Report",
-        "simplified_article": "The rupee is expected to fluctuate between Rs 94.5 and Rs 96 against the US dollar in the short term. Despite significant dollar inflows via FCNR deposits and external borrowings, substantial appreciation is elusive as these funds primarily bolster the Reserve Bank of India's reserves. A variety of factors affect the rupee's movement, indicating that no single factor can be pinpointed as the main influencer.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "ETMarkets Smart Talk | Rate-cut cycle over, RBI may be at cusp of rate hikes; yields could inch higher: Puneet Pal",
-        "summary": "PGIM India’s Puneet Pal expects India’s rate-cut cycle to end and policy rates to rise 50-75 basis points by FY27 amid higher crude and sticky inflation. He sees rising yields creating opportunities in high-quality corporate bond and target-maturity funds.",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rate-cut-cycle-over-rbi-may-be-at-cusp-of-rate-hikes-yields-could-inch-higher-puneet-pal/articleshow/134499579.cms",
-        "published": "Sat, 26 Sep 2026 12:40:20 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "287228478f",
-        "quick_take": "ETMarkets Smart Talk | Rate-cut cycle over, RBI may be at cusp of rate hikes; yields could inch higher: Puneet Pal",
-        "simplified_article": "PGIM India’s Puneet Pal expects India’s rate-cut cycle to end and policy rates to rise 50-75 basis points by FY27 amid higher crude and sticky inflation. He sees rising yields creating opportunities in high-quality corporate bond and target-maturity funds.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Prestige Group drops Rs 2,700 cr IPO plan for hospitality arm, cites bad market conditions",
-        "summary": "Realty firm Prestige Estates has withdrawn its IPO plan for its hotel business amid uncertain market conditions. The company initially aimed to raise Rs 2,700 crore through this public issue. A subsidiary, Prestige Hospitality Ventures Ltd, had filed a Draft Red Herring Prospectus with Sebi last year. The firm may consider reapplying for an IPO in the future based on market dynamics and necessary approvals.",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/prestige-group-drops-rs-2700-cr-ipo-plan-for-hospitality-arm-cites-bad-market-conditions/articleshow/134499033.cms",
-        "published": "Sat, 26 Sep 2026 12:11:41 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "8326ba8176",
-        "quick_take": "Prestige Group drops Rs 2,700 cr IPO plan for hospitality arm, cites bad market conditions",
-        "simplified_article": "Realty firm Prestige Estates has withdrawn its IPO plan for its hotel business amid uncertain market conditions. The company initially aimed to raise Rs 2,700 crore through this public issue. A subsidiary, Prestige Hospitality Ventures Ltd, had filed a Draft Red Herring Prospectus with Sebi last year. The firm may consider reapplying for an IPO in the future based on market dynamics and necessary approvals.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "SEBI’s new PMS framework could potentially double industry size over time: APMI Chairman Vikas Khemani",
-        "summary": "SEBI’s revised PMS framework introduces PRIM, expands investment options and lowers the entry threshold to ₹25 lakh. Industry leaders expect these changes to broaden PMS adoption, while global diversification, derivatives, independent fund managers and risk-adjusted performance gain importance for investors.",
-        "link": "https://economictimes.indiatimes.com/markets/aif-pms/sebis-new-pms-framework-could-potentially-double-industry-size-over-time-apmi-chairman-vikas-khemani/articleshow/134499050.cms",
-        "published": "Sat, 26 Sep 2026 12:11:09 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "1930d35043",
-        "quick_take": "SEBI’s new PMS framework could potentially double industry size over time: APMI Chairman Vikas Khemani",
-        "simplified_article": "SEBI’s revised PMS framework introduces PRIM, expands investment options and lowers the entry threshold to ₹25 lakh. Industry leaders expect these changes to broaden PMS adoption, while global diversification, derivatives, independent fund managers and risk-adjusted performance gain importance for investors.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
       }
     ],
     "global-macro": [
+      {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 26 Sep 2026 02:50:56 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "ed9ef96feb",
+        "quick_take": "OpenAI bots meddled with multiple US government agency sites",
+        "simplified_article": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Could an iced coffee freeze you out of the job market?",
+        "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
+        "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 26 Sep 2026 10:05:36 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "dd07590326",
+        "quick_take": "Could an iced coffee freeze you out of the job market?",
+        "simplified_article": "Employees and recruiters weigh into the online debate around interview etiquette.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Clubs seek legal advice over Man City charges compensation",
+        "summary": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 25 Sep 2026 20:13:53 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "3fecdd4b79",
+        "quick_take": "Clubs seek legal advice over Man City charges compensation",
+        "simplified_article": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "'We're all broke': Would you chase a friend for £5?",
+        "summary": "What's the smallest amount of money you would ask a friend to pay you back?",
+        "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 24 Sep 2026 23:00:45 GMT",
+        "source": "feeds.bbci.co.uk",
+        "id": "e54e0f1790",
+        "quick_take": "'We're all broke': Would you chase a friend for £5?",
+        "simplified_article": "What's the smallest amount of money you would ask a friend to pay you back?",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
       {
         "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
         "summary": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
@@ -209,18 +257,6 @@
         "id": "57c3175fc0",
         "quick_take": "Sir David Beckham nets £38.5m after World Cup ad deals",
         "simplified_article": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Man City found guilty of breaking financial rules",
-        "summary": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 25 Sep 2026 20:11:12 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "21380120d0",
-        "quick_take": "Man City found guilty of breaking financial rules",
-        "simplified_article": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       },
@@ -249,18 +285,6 @@
         "key_terms": []
       },
       {
-        "title": "Special agents' blood and urine test results stolen in FBI hack",
-        "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-        "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 25 Sep 2026 13:56:16 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "afb5bb1f69",
-        "quick_take": "Special agents' blood and urine test results stolen in FBI hack",
-        "simplified_article": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
         "title": "X-planes: Are they needed in the new era of drones?",
         "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
         "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
@@ -271,33 +295,45 @@
         "simplified_article": "Where do America's X-plane projects fit in an era of cheap drones?",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
-      },
-      {
-        "title": "'We're all broke': Would you chase a friend for £5?",
-        "summary": "What's the smallest amount of money you would ask a friend to pay you back?",
-        "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 24 Sep 2026 23:00:45 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "e54e0f1790",
-        "quick_take": "'We're all broke': Would you chase a friend for £5?",
-        "simplified_article": "What's the smallest amount of money you would ask a friend to pay you back?",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Farmers down 240 million litres of milk after heat",
-        "summary": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-        "link": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
-        "published": "Fri, 25 Sep 2026 05:30:13 GMT",
-        "source": "feeds.bbci.co.uk",
-        "id": "bd8beab948",
-        "quick_take": "Farmers down 240 million litres of milk after heat",
-        "simplified_article": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
       }
     ],
     "us-global": [
+      {
+        "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+        "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+        "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+        "published": "Sat, 26 Sep 2026 13:30:06 GMT",
+        "source": "cnbc.com",
+        "id": "34ada08d0d",
+        "quick_take": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+        "simplified_article": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+        "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+        "link": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+        "published": "Sat, 26 Sep 2026 16:57:57 GMT",
+        "source": "cnbc.com",
+        "id": "4273a6aaa8",
+        "quick_take": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+        "simplified_article": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+        "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+        "link": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+        "published": "Sat, 26 Sep 2026 17:10:32 GMT",
+        "source": "cnbc.com",
+        "id": "8178d05371",
+        "quick_take": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+        "simplified_article": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
       {
         "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
         "summary": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
@@ -311,14 +347,26 @@
         "key_terms": []
       },
       {
-        "title": "Airlines waive change fees ahead of nor'easter as flight delays trickle in",
-        "summary": "Flight disruptions were minimal for Saturday as of Friday morning.",
+        "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+        "summary": "Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.",
+        "link": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+        "published": "Sat, 26 Sep 2026 15:05:38 GMT",
+        "source": "cnbc.com",
+        "id": "3906377624",
+        "quick_take": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+        "simplified_article": "Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+        "summary": "Flight disruptions were rising in Boston for Saturday.",
         "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-        "published": "Fri, 25 Sep 2026 19:59:45 GMT",
+        "published": "Sat, 26 Sep 2026 12:19:38 GMT",
         "source": "cnbc.com",
         "id": "ca0b28523b",
-        "quick_take": "Airlines waive change fees ahead of nor'easter as flight delays trickle in",
-        "simplified_article": "Flight disruptions were minimal for Saturday as of Friday morning.",
+        "quick_take": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+        "simplified_article": "Flight disruptions were rising in Boston for Saturday.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       },
@@ -335,62 +383,14 @@
         "key_terms": []
       },
       {
-        "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-        "summary": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
-        "link": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
-        "published": "Fri, 25 Sep 2026 13:32:57 GMT",
+        "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
+        "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
+        "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+        "published": "Sat, 26 Sep 2026 15:00:01 GMT",
         "source": "cnbc.com",
-        "id": "f4d4a5b0a0",
-        "quick_take": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-        "simplified_article": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-        "summary": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
-        "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "published": "Fri, 25 Sep 2026 17:19:19 GMT",
-        "source": "cnbc.com",
-        "id": "7e6a64590e",
-        "quick_take": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-        "simplified_article": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
-        "summary": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
-        "link": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
-        "published": "Fri, 25 Sep 2026 23:28:42 GMT",
-        "source": "cnbc.com",
-        "id": "6d20f3b81b",
-        "quick_take": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
-        "simplified_article": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
-        "summary": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
-        "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
-        "published": "Fri, 25 Sep 2026 21:02:20 GMT",
-        "source": "cnbc.com",
-        "id": "cd7c940722",
-        "quick_take": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
-        "simplified_article": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-        "summary": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
-        "link": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-        "published": "Thu, 24 Sep 2026 20:57:11 GMT",
-        "source": "cnbc.com",
-        "id": "e28f116e88",
-        "quick_take": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-        "simplified_article": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
+        "id": "1dcf438037",
+        "quick_take": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
+        "simplified_article": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       }
@@ -494,6 +494,18 @@
       }
     ],
     "sectors": [
+      {
+        "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
+        "summary": "Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additionally, Sitharaman underscored the importance of providing AI solutions to micro, small, and medium enterprises. She believes that achieving over 10 percent economic growth is possible with greater effort in all sectors.",
+        "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-infrastructure-revolution-fm-sitharaman-promotes-ai-semiconductors-and-quantum-technology-investments/articleshow/134504988.cms",
+        "published": "Sat, 26 Sep 2026 17:56:13 +0530",
+        "source": "economictimes.indiatimes.com",
+        "id": "766919273c",
+        "quick_take": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
+        "simplified_article": "Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additionally, Sitharaman underscored the importance of providing AI solutions to micro, small, and medium enterprises. She believes that achieving over 10 percent economic growth is possible with greater effort in all sectors.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
       {
         "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
         "summary": "OpenAI's ongoing battle also reflects a yawning gap between the strength of the models the company is testing and its capacity to oversee or even track their actions.",
@@ -601,21 +613,57 @@
         "simplified_article": "The estimate is based on nearly $384 billion invested in the first half of 2026 and assumes the current pace continues through the year. It compares with $145 billion invested in the technology in 2025, making AI infrastructure and model architectures the largest-funded technology trend covered by McKinsey.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
-      },
-      {
-        "title": "Polymarket sues New York attorney general to block regulation of its prediction market",
-        "summary": "Polymarket sued New York Attorney General Letitia James and other state officials on Thursday evening, to block them from regulating its prediction market.",
-        "link": "https://economictimes.indiatimes.com/tech/technology/polymarket-sues-new-york-attorney-general-to-block-regulation-of-its-prediction-market/articleshow/134479104.cms",
-        "published": "Fri, 25 Sep 2026 13:26:26 +0530",
-        "source": "economictimes.indiatimes.com",
-        "id": "e27a38cb12",
-        "quick_take": "Polymarket sues New York attorney general to block regulation of its prediction market",
-        "simplified_article": "Polymarket sued New York Attorney General Letitia James and other state officials on Thursday evening, to block them from regulating its prediction market.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
       }
     ],
     "crypto": [
+      {
+        "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+        "summary": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
+        "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+        "published": "Sat, 26 Sep 2026 14:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "86389e86e7",
+        "quick_take": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+        "simplified_article": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+        "summary": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+        "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+        "published": "Sat, 26 Sep 2026 13:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "ec87e3b416",
+        "quick_take": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+        "simplified_article": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+        "summary": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+        "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+        "published": "Sat, 26 Sep 2026 12:56:41 +0000",
+        "source": "coindesk.com",
+        "id": "b92c146d0a",
+        "quick_take": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+        "simplified_article": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
+      {
+        "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+        "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+        "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+        "published": "Sat, 26 Sep 2026 12:00:00 +0000",
+        "source": "coindesk.com",
+        "id": "a02eae6fef",
+        "quick_take": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+        "simplified_article": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
+        "key_terms": []
+      },
       {
         "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
         "summary": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
@@ -637,54 +685,6 @@
         "id": "97b81d057d",
         "quick_take": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
         "simplified_article": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-        "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
-        "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-        "published": "Sat, 26 Sep 2026 04:02:13 +0000",
-        "source": "coindesk.com",
-        "id": "d819a826e4",
-        "quick_take": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-        "simplified_article": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-        "summary": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
-        "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-        "published": "Fri, 25 Sep 2026 22:17:38 +0000",
-        "source": "coindesk.com",
-        "id": "d382020a4e",
-        "quick_take": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-        "simplified_article": "The long-anticipated exit of the commissioner sometimes known as Crypto Mom is Oct. 2, announced as the agency was sending out its latest crypto work.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-        "summary": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
-        "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-        "published": "Fri, 25 Sep 2026 21:17:30 +0000",
-        "source": "coindesk.com",
-        "id": "8be9f7a8d7",
-        "quick_take": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-        "simplified_article": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
-        "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
-        "key_terms": []
-      },
-      {
-        "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-        "summary": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
-        "link": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-        "published": "Fri, 25 Sep 2026 20:01:05 +0000",
-        "source": "coindesk.com",
-        "id": "abc64c1516",
-        "quick_take": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-        "simplified_article": "The trade group will be run again by its original CEO, Kristin Smith, when Summer Mersinger leaves at the end of a long congressional tussle.",
         "investor_impact": "AI simplification wasn't available for this story -- the original article below has the full picture.",
         "key_terms": []
       }
